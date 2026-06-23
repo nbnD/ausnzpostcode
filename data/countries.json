@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Australia",
+    "slug": "australia",
+    "code": "AU",
+    "summary": "State and territory postcode directory for Australia.",
+    "featuredRegions": ["New South Wales", "Victoria", "Queensland", "Western Australia", "South Australia", "Tasmania", "Australian Capital Territory", "Northern Territory"]
+  },
+  {
+    "name": "New Zealand",
+    "slug": "new-zealand",
+    "code": "NZ",
+    "summary": "Regional postcode directory for Aotearoa New Zealand.",
+    "featuredRegions": ["Auckland", "Wellington", "Canterbury", "Waikato", "Bay of Plenty", "Otago", "Northland", "Southland"]
+  }
+]

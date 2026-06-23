@@ -40,6 +40,9 @@ Every SEO page must include:
 - Minimal ads
 - Fast loading
 
+## UI Reference Rule
+The uploaded HTML files define the approved visual direction. Do not replace them with a generic SaaS or plain default Tailwind layout.
+
 ## Verification
 Before finishing any task:
 - Run build
