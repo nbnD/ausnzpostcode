@@ -2,10 +2,10 @@
 
 import { useMemo, useState } from "react";
 import Link from "next/link";
-import { australiaStates, postcodes } from "@/data/postcodes";
+import { australiaStates, getDisplayLocality, getLocalitySummary, postcodes } from "@/data/postcodes";
 
 type CountryFilter = "au" | "nz" | "all";
-type TypeFilter = "all" | "General" | "PO Box";
+type TypeFilter = string;
 
 const perPage = 8;
 
@@ -24,7 +24,14 @@ export function SearchResults() {
       .filter((item) =>
         !q
           ? true
-          : [item.code, item.locality, item.state, item.stateFull, item.lga ?? ""].some((value) =>
+          : [
+              item.code,
+              item.locality,
+              item.state,
+              item.stateFull,
+              item.lga ?? "",
+              ...(item.localities ?? [])
+            ].some((value) =>
               value.toLowerCase().includes(q)
             )
       )
@@ -37,6 +44,13 @@ export function SearchResults() {
 
   const pages = Math.max(1, Math.ceil(filtered.length / perPage));
   const pageItems = filtered.slice((page - 1) * perPage, page * perPage);
+  const typeOptions = Array.from(
+    new Set(
+      postcodes
+        .filter((item) => country === "all" || item.country === country)
+        .map((item) => item.type)
+    )
+  ).sort();
   const stateCounts = australiaStates.map((state) => ({
     ...state,
     total: filtered.filter((item) => item.state === state.abbr).length
@@ -118,7 +132,7 @@ export function SearchResults() {
             <h2 className="mb-3 font-heading text-xs font-bold uppercase tracking-[0.08em] text-navy">
               Type
             </h2>
-            {(["all", "General", "PO Box"] as TypeFilter[]).map((value) => (
+            {(["all", ...typeOptions] as TypeFilter[]).slice(0, 7).map((value) => (
               <button
                 key={value}
                 type="button"
@@ -169,7 +183,8 @@ export function SearchResults() {
                   {item.code}
                 </span>
                 <span className="min-w-0 flex-1">
-                  <span className="block text-sm font-bold">{item.locality}</span>
+                  <span className="block text-sm font-bold">{getDisplayLocality(item)}</span>
+                  <span className="mt-0.5 block text-xs text-muted">{getLocalitySummary(item)}</span>
                   <span className="mt-1 flex flex-wrap gap-1.5">
                     <span className="rounded bg-[#EEF2FF] px-2 py-0.5 text-xs font-semibold text-navy2">{item.state}</span>
                     {item.lga ? <span className="rounded bg-[#FFF7ED] px-2 py-0.5 text-xs font-semibold text-[#92400E]">{item.lga}</span> : null}

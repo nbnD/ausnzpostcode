@@ -50,12 +50,13 @@ export default function DataSourcesPage() {
       <section className="bg-shell py-16">
         <div className="mx-auto grid max-w-7xl gap-5 px-4 sm:px-6 md:grid-cols-3 lg:px-8">
           <Card title="Local repository data" eyebrow="Storage">
-            Postcode source files should be stored in the repository under the data
-            directory and used during static generation.
+            Source files are stored under the data directory and used during static
+            generation. The app does not fetch raw GitHub files at runtime.
           </Card>
-          <Card title="Official references" eyebrow="Verification">
-            Each postcode page should cite the relevant official or open source used to
-            generate its content.
+          <Card title="AU and NZ datasets" eyebrow="Sources">
+            Australian and New Zealand postcode JSON files are sourced from the open
+            matthewproctor/australianpostcodes repository and checked in locally for
+            static use.
           </Card>
           <Card title="Open maps only" eyebrow="Maps">
             Map features should use OpenStreetMap-compatible tiles and Leaflet, without

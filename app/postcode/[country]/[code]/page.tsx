@@ -4,7 +4,13 @@ import { notFound } from "next/navigation";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { FaqList } from "@/components/FaqList";
 import { PostcodeMap } from "@/components/PostcodeMap";
-import { australiaStates, postcodes, type PostcodeRecord } from "@/data/postcodes";
+import {
+  australiaStates,
+  getDisplayLocality,
+  getLocalitySummary,
+  postcodes,
+  type PostcodeRecord
+} from "@/data/postcodes";
 import { createMetadata } from "@/lib/metadata";
 import { breadcrumbSchema, faqSchema, placeSchema } from "@/lib/schema";
 
@@ -36,9 +42,11 @@ export async function generateMetadata({
     });
   }
 
+  const locality = getDisplayLocality(postcode);
+
   return createMetadata({
-    title: `Postcode ${postcode.code} - ${postcode.locality} ${postcode.state}`,
-    description: `Postcode ${postcode.code} covers ${postcode.locality} in ${postcode.stateFull}. Find details, map and nearby postcodes.`,
+    title: `Postcode ${postcode.code} - ${locality} ${postcode.state}`,
+    description: `Postcode ${postcode.code} covers ${getLocalitySummary(postcode)} in ${postcode.stateFull}. Find details, map and nearby postcodes.`,
     path: `/postcode/${country}/${code}`
   });
 }
@@ -54,6 +62,8 @@ export default async function PostcodePage({ params }: { params: Promise<PagePar
   const isNz = postcode.country === "nz";
   const countryName = isNz ? "New Zealand" : "Australia";
   const countryPath = isNz ? "/new-zealand" : "/australia";
+  const locality = getDisplayLocality(postcode);
+  const localitySummary = getLocalitySummary(postcode);
   const faqs = buildFaqs(postcode);
   const schema = [
     breadcrumbSchema([
@@ -64,9 +74,9 @@ export default async function PostcodePage({ params }: { params: Promise<PagePar
     ]),
     faqSchema(faqs),
     placeSchema(
-      `Postcode ${postcode.code} ${postcode.locality}`,
+      `Postcode ${postcode.code} ${locality}`,
       `/postcode/${postcode.country}/${postcode.code}`,
-      `${postcode.locality} postcode detail page.`
+      `${locality} postcode detail page.`
     )
   ];
 
@@ -94,7 +104,8 @@ export default async function PostcodePage({ params }: { params: Promise<PagePar
             <h1 className={`font-heading text-6xl font-extrabold leading-none tracking-normal ${isNz ? "text-[#4ADE80]" : "text-white"}`}>
               {postcode.code}
             </h1>
-            <p className="mt-2 font-heading text-xl font-semibold text-[#C9D9EC]">{postcode.locality}</p>
+            <p className="mt-2 font-heading text-xl font-semibold text-[#C9D9EC]">{locality}</p>
+            <p className="mt-1 max-w-2xl text-sm text-ice">{localitySummary}</p>
             <p className="mt-1 text-sm text-sky">
               {postcode.stateFull} {isNz ? "· New Zealand" : `(${postcode.state}) · ${postcode.remoteness}`}
             </p>
@@ -118,7 +129,7 @@ export default async function PostcodePage({ params }: { params: Promise<PagePar
             <dl className="divide-y divide-border text-sm">
               {[
                 ["Postcode", postcode.code],
-                ["Suburb / Locality", postcode.locality],
+                ["Suburb / Locality", localitySummary],
                 ["State / Region", postcode.stateFull],
                 ["Country", countryName],
                 ["Type", postcode.type],
@@ -139,7 +150,7 @@ export default async function PostcodePage({ params }: { params: Promise<PagePar
               OpenStreetMap
             </h2>
             <div className="p-4">
-              <PostcodeMap lat={postcode.lat} lng={postcode.lng} label={`${postcode.code} ${postcode.locality}`} />
+              <PostcodeMap lat={postcode.lat} lng={postcode.lng} label={`${postcode.code} ${locality}`} />
             </div>
           </div>
           <div className="mb-4 overflow-hidden rounded-[14px] border border-border bg-white">
@@ -147,7 +158,7 @@ export default async function PostcodePage({ params }: { params: Promise<PagePar
               Nearby Postcodes
             </h2>
             <div className="flex flex-wrap gap-2 p-5">
-              {(postcode.nearby ?? postcodes.filter((item) => item.country === postcode.country && item.code !== postcode.code).slice(0, 6).map((item) => ({ code: item.code, name: item.locality }))).map((item) => (
+              {getNearbyPostcodes(postcode).map((item) => (
                 <Link key={item.code} href={`/search?q=${item.code}`} className="flex flex-col items-center rounded-lg border border-border bg-ash px-4 py-2 font-heading text-sm font-bold text-navy transition hover:border-coral hover:text-coral">
                   {item.code}
                   <small className="mt-0.5 font-sans text-xs font-normal text-muted">{item.name}</small>
@@ -206,7 +217,7 @@ function buildFaqs(postcode: PostcodeRecord) {
     return [
       {
         question: `What suburb is postcode ${postcode.code}?`,
-        answer: `Postcode ${postcode.code} covers ${postcode.locality} in the ${postcode.stateFull}.`
+        answer: `Postcode ${postcode.code} covers ${getLocalitySummary(postcode)} in the ${postcode.stateFull}.`
       },
       {
         question: `What region is postcode ${postcode.code} in?`,
@@ -214,7 +225,7 @@ function buildFaqs(postcode: PostcodeRecord) {
       },
       {
         question: `How do I use postcode ${postcode.code}?`,
-        answer: `Use ${postcode.code} as the postal code when addressing mail or forms for ${postcode.locality}.`
+        answer: `Use ${postcode.code} as the postal code when addressing mail or forms for ${getDisplayLocality(postcode)}.`
       }
     ];
   }
@@ -222,7 +233,7 @@ function buildFaqs(postcode: PostcodeRecord) {
   return [
     {
       question: `What suburb is postcode ${postcode.code}?`,
-      answer: `Postcode ${postcode.code} covers ${postcode.locality} in ${postcode.stateFull} (${postcode.state}).`
+      answer: `Postcode ${postcode.code} covers ${getLocalitySummary(postcode)} in ${postcode.stateFull} (${postcode.state}).`
     },
     {
       question: `What LGA is postcode ${postcode.code} in?`,
@@ -233,4 +244,19 @@ function buildFaqs(postcode: PostcodeRecord) {
       answer: `Postcode ${postcode.code} belongs to ${postcode.stateFull}, Australia.`
     }
   ];
+}
+
+function getNearbyPostcodes(postcode: PostcodeRecord) {
+  if (postcode.nearby) return postcode.nearby;
+
+  const codeNumber = Number(postcode.code);
+
+  return postcodes
+    .filter((item) => item.country === postcode.country && item.state === postcode.state && item.code !== postcode.code)
+    .sort((a, b) => Math.abs(Number(a.code) - codeNumber) - Math.abs(Number(b.code) - codeNumber))
+    .slice(0, 8)
+    .map((item) => ({
+      code: item.code,
+      name: getDisplayLocality(item)
+    }));
 }

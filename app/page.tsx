@@ -1,11 +1,13 @@
 import type { Metadata } from "next";
-import Link from "next/link";
-import { FaqList } from "@/components/FaqList";
+import { CTASection } from "@/components/CTASection";
+import { FAQAccordion } from "@/components/FAQAccordion";
+import { PopularPostcodeGrid } from "@/components/PopularPostcodeGrid";
 import { SearchHero } from "@/components/SearchHero";
-import { SectionHeader } from "@/components/SectionHeader";
-import { australiaStates, nzRegions, postcodes } from "@/data/postcodes";
+import { SectionHeading } from "@/components/SectionHeading";
+import { StateGrid } from "@/components/StateGrid";
+import { formatCount, homepageData } from "@/data/postcodes";
 import { createMetadata } from "@/lib/metadata";
-import { breadcrumbSchema, faqSchema, placeSchema } from "@/lib/schema";
+import { faqSchema } from "@/lib/schema";
 
 export const metadata: Metadata = createMetadata({
   title: "Australia and New Zealand Postcode Directory",
@@ -33,15 +35,7 @@ const faqItems = [
 ];
 
 export default function Home() {
-  const schema = [
-    breadcrumbSchema([{ name: "Home", href: "/" }]),
-    faqSchema(faqItems),
-    placeSchema(
-      "Australia and New Zealand",
-      "/",
-      "Postcode directory coverage for Australia and New Zealand."
-    )
-  ];
+  const schema = faqSchema(faqItems);
 
   return (
     <>
@@ -53,9 +47,9 @@ export default function Home() {
       <section className="border-b border-border bg-white">
         <div className="mx-auto flex max-w-6xl flex-wrap justify-center px-4 py-4 sm:px-6">
           {[
-            ["13,500+", "postcodes"],
-            ["2", "countries"],
-            ["100%", "static"],
+            [formatCount(homepageData.stats.auPostcodes), "AU postcodes"],
+            [formatCount(homepageData.stats.nzPostcodes), "NZ postcodes"],
+            [formatCount(homepageData.stats.auLocalities + homepageData.stats.nzLocalities), "localities"],
             ["0", "paid APIs"]
           ].map(([num, label], index) => (
             <div key={label} className={`flex items-center gap-2 px-7 py-2 ${index > 0 ? "border-l border-border" : ""}`}>
@@ -66,44 +60,17 @@ export default function Home() {
         </div>
       </section>
       <main className="mx-auto max-w-6xl px-4 py-12 sm:px-6">
-        <section>
-          <SectionHeader title="Browse Australia by state" href="/search?country=au" linkLabel="See all" />
-          <div className="mb-12 grid grid-cols-2 gap-3 sm:grid-cols-4 lg:grid-cols-8">
-            {australiaStates.map((state) => (
-              <Link key={state.abbr} href={`/search?q=${state.abbr}`} className="rounded-[10px] border border-border bg-white p-4 text-center transition hover:-translate-y-0.5 hover:border-coral hover:shadow-coral">
-                <span className="block font-heading text-2xl font-extrabold text-navy">{state.abbr}</span>
-                <span className="mt-1 block text-xs font-medium leading-snug text-muted">{state.name}</span>
-                <span className="mt-1 block text-xs font-bold text-coral">{state.count}</span>
-              </Link>
-            ))}
-          </div>
+        <section className="mb-12">
+          <SectionHeading title="Browse Australia by state" href="/search?country=au" linkLabel="See all" />
+          <StateGrid title="Australian states and territories" items={homepageData.auStates} accent="au" />
         </section>
-        <section>
-          <SectionHeader title="Browse New Zealand by region" href="/search?country=nz" linkLabel="See all" />
-          <div className="mb-12 grid grid-cols-2 gap-3 sm:grid-cols-4">
-            {nzRegions.map((region) => (
-              <Link key={region.name} href={`/search?q=${region.name}`} className="rounded-[10px] border border-border bg-white p-4 text-center transition hover:-translate-y-0.5 hover:border-green hover:shadow-premium">
-                <span className="block font-heading text-sm font-bold text-navy">{region.name}</span>
-                <span className="mt-1 block text-xs text-muted">{region.island}</span>
-                <span className="mt-1 block text-xs font-bold text-green">{region.count}</span>
-              </Link>
-            ))}
-          </div>
+        <section className="mb-12">
+          <SectionHeading title="Browse New Zealand by region" href="/search?country=nz" linkLabel="See all" />
+          <StateGrid title="New Zealand regions" items={homepageData.nzRegions} accent="nz" />
         </section>
-        <section>
-          <SectionHeader title="Popular postcode lookups" href="/search" linkLabel="Search postcodes" />
-          <div className="mb-12 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-            {postcodes.slice(0, 8).map((item) => (
-              <Link key={`${item.country}-${item.code}-${item.locality}`} href={`/postcode/${item.country}/${item.code}`} className="flex items-center gap-3 rounded-[10px] border border-border bg-white p-4 text-text transition hover:border-[#B0C4DE] hover:shadow-premium">
-                <span className="min-w-12 font-heading text-xl font-extrabold text-navy">{item.code}</span>
-                <span className="flex-1">
-                  <span className="block text-sm font-semibold">{item.locality}</span>
-                  <span className="block text-xs text-muted">{item.stateFull}</span>
-                </span>
-                <span className="text-xs font-bold text-muted">{item.country.toUpperCase()}</span>
-              </Link>
-            ))}
-          </div>
+        <section className="mb-12">
+          <SectionHeading title="Popular postcode lookups" href="/search" linkLabel="Search postcodes" />
+          <PopularPostcodeGrid items={homepageData.popular} />
         </section>
         <section className="mb-12 rounded-[14px] border border-border bg-white p-6 sm:p-10">
           <h2 className="text-center font-heading text-xl font-bold text-navy">How it works</h2>
@@ -124,17 +91,11 @@ export default function Home() {
           </div>
         </section>
         <section className="mb-4">
-          <SectionHeader title="Frequently asked questions" />
-          <FaqList items={faqItems} />
+          <SectionHeading title="Frequently asked questions" />
+          <FAQAccordion items={faqItems} />
         </section>
       </main>
-      <section className="bg-white py-10">
-        <div className="mx-auto max-w-6xl px-4 text-sm leading-6 text-muted sm:px-6">
-          <Link href="/data-sources" className="font-bold text-coral hover:underline">
-            View data source policy
-          </Link>
-        </div>
-      </section>
+      <CTASection />
     </>
   );
 }
