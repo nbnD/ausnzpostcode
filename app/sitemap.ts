@@ -1,13 +1,18 @@
 import type { MetadataRoute } from "next";
-import { postcodes } from "@/data/postcodes";
 import { siteConfig } from "@/lib/site";
 
 export const dynamic = "force-static";
 
 const routes = [
   "",
-  "/australia",
-  "/new-zealand",
+  "/au",
+  "/nz",
+  "/au/postcodes",
+  "/au/suburbs",
+  "/au/a-z",
+  "/nz/postcodes",
+  "/nz/localities",
+  "/nz/a-z",
   "/search",
   "/about",
   "/contact",
@@ -18,9 +23,7 @@ const routes = [
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const postcodeRoutes = postcodes.map((item) => `/postcode/${item.country}/${item.code}`);
-
-  return [...routes, ...postcodeRoutes].map((route) => ({
+  return routes.map((route) => ({
     url: `${siteConfig.url}${route}`,
     lastModified: new Date(),
     changeFrequency: route === "" ? "weekly" : "monthly",

@@ -27,6 +27,24 @@ export type RegionSummary = {
   count: number;
 };
 
+export type LocalityRecord = {
+  country: CountryCode;
+  name: string;
+  slug: string;
+  postcode: string;
+  state: string;
+  stateFull: string;
+  type: string;
+  lat: number;
+  lng: number;
+};
+
+export type BrowseLetter = {
+  letter: string;
+  count: number;
+  href: string;
+};
+
 export type HomepageIndex = {
   stats: {
     auPostcodes: number;
@@ -69,4 +87,111 @@ export function getLocalitySummary(postcode: PostcodeRecord) {
   const remaining = localities.length - 4;
 
   return remaining > 0 ? `${shown} +${remaining} more` : shown;
+}
+
+export function countryName(country: CountryCode) {
+  return country === "au" ? "Australia" : "New Zealand";
+}
+
+export function countryRoot(country: CountryCode) {
+  return country === "au" ? "/au" : "/nz";
+}
+
+export function postcodePath(postcode: PostcodeRecord) {
+  return `${countryRoot(postcode.country)}/postcode/${postcode.code}`;
+}
+
+export function statePath(country: CountryCode, state: string) {
+  return country === "au" ? `/au/state/${slugify(state)}` : `/nz/region/${slugify(state)}`;
+}
+
+export function localityPath(locality: LocalityRecord) {
+  return locality.country === "au" ? `/au/suburb/${locality.slug}` : `/nz/locality/${locality.slug}`;
+}
+
+export function slugify(value: string) {
+  return value
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+export function findPostcode(country: CountryCode, code: string) {
+  return postcodes.find((item) => item.country === country && item.code === code);
+}
+
+export function getCountryPostcodes(country: CountryCode) {
+  return postcodes.filter((item) => item.country === country);
+}
+
+export function getRegions(country: CountryCode) {
+  return country === "au" ? australiaStates : nzRegions;
+}
+
+export function findRegion(country: CountryCode, slug: string) {
+  return getRegions(country).find((region) => slugify(region.abbr ?? region.name) === slug || slugify(region.name) === slug);
+}
+
+export function getPostcodesByRegion(country: CountryCode, region: string) {
+  return getCountryPostcodes(country).filter((item) => item.state === region || item.stateFull === region);
+}
+
+export const localities: LocalityRecord[] = postcodes.flatMap((postcode) => {
+  const names = postcode.localities ?? [postcode.locality];
+  return names.map((name) => ({
+    country: postcode.country,
+    name,
+    slug: `${slugify(name)}-${postcode.code}`,
+    postcode: postcode.code,
+    state: postcode.state,
+    stateFull: postcode.stateFull,
+    type: postcode.type,
+    lat: postcode.lat,
+    lng: postcode.lng
+  }));
+});
+
+export function getCountryLocalities(country: CountryCode) {
+  return localities.filter((item) => item.country === country);
+}
+
+export function findLocality(country: CountryCode, slug: string) {
+  return localities.find((item) => item.country === country && item.slug === slug);
+}
+
+export function getNearbyPostcodes(postcode: PostcodeRecord, limit = 8) {
+  const codeNumber = Number(postcode.code);
+
+  return getCountryPostcodes(postcode.country)
+    .filter((item) => item.state === postcode.state && item.code !== postcode.code)
+    .sort((a, b) => Math.abs(Number(a.code) - codeNumber) - Math.abs(Number(b.code) - codeNumber))
+    .slice(0, limit);
+}
+
+export function getNearbyLocalities(locality: LocalityRecord, limit = 8) {
+  return getCountryLocalities(locality.country)
+    .filter((item) => item.state === locality.state && item.slug !== locality.slug)
+    .sort((a, b) => Math.abs(Number(a.postcode) - Number(locality.postcode)) - Math.abs(Number(b.postcode) - Number(locality.postcode)))
+    .slice(0, limit);
+}
+
+export function getBrowseLetters(country: CountryCode, basePath: string): BrowseLetter[] {
+  const counts = getCountryLocalities(country).reduce<Record<string, number>>((acc, item) => {
+    const letter = item.name.charAt(0).toUpperCase();
+    if (/^[A-Z]$/.test(letter)) acc[letter] = (acc[letter] ?? 0) + 1;
+    return acc;
+  }, {});
+
+  return "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map((letter) => ({
+    letter,
+    count: counts[letter] ?? 0,
+    href: `${basePath}#${letter}`
+  }));
+}
+
+export function getSampleLocalities(country: CountryCode, limit = 24) {
+  return getCountryLocalities(country)
+    .filter((item, index, all) => all.findIndex((candidate) => candidate.name === item.name) === index)
+    .slice(0, limit);
 }

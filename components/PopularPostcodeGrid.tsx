@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getDisplayLocality, type PostcodeRecord } from "@/data/postcodes";
+import { getDisplayLocality, postcodePath, type PostcodeRecord } from "@/data/postcodes";
 
 type PopularPostcodeGridProps = {
   items: PostcodeRecord[];
@@ -11,7 +11,7 @@ export function PopularPostcodeGrid({ items }: PopularPostcodeGridProps) {
       {items.map((item) => (
         <Link
           key={`${item.country}-${item.code}-${item.locality}`}
-          href={`/postcode/${item.country}/${item.code}`}
+          href={postcodePath(item)}
           className="flex items-center gap-3 rounded-[10px] border border-border bg-white p-4 text-text transition hover:border-[#B0C4DE] hover:shadow-premium"
         >
           <span className={`min-w-12 font-heading text-xl font-extrabold ${item.country === "nz" ? "text-green" : "text-navy"}`}>

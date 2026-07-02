@@ -27,6 +27,11 @@ export const metadata: Metadata = {
   alternates: {
     canonical: siteConfig.url
   },
+  icons: {
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
+    apple: "/favicon.svg"
+  },
   openGraph: {
     title: siteConfig.name,
     description: siteConfig.description,

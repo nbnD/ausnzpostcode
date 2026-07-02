@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import { CountrySwitcher } from "@/components/CountrySwitcher";
-import { formatCount, getDisplayLocality, homepageData, postcodes } from "@/data/postcodes";
+import { formatCount, getDisplayLocality, homepageData, postcodes, postcodePath } from "@/data/postcodes";
 
 type Country = "au" | "nz";
 
@@ -79,7 +79,7 @@ export function SearchHero() {
             {query ? (
               <div className="absolute left-0 right-0 top-[calc(100%+6px)] z-20 overflow-hidden rounded-[10px] border border-border bg-white text-left shadow-premium">
                 {results.map((item) => (
-                  <Link key={`${item.country}-${item.code}-${item.locality}`} href={`/postcode/${item.country}/${item.code}`} className="flex items-center gap-3 border-b border-border px-4 py-3 last:border-b-0 hover:bg-ash">
+                  <Link key={`${item.country}-${item.code}-${item.locality}`} href={postcodePath(item)} className="flex items-center gap-3 border-b border-border px-4 py-3 last:border-b-0 hover:bg-ash">
                     <span className={`min-w-14 rounded-md px-2 py-1 text-center font-heading text-sm font-extrabold ${item.country === "nz" ? "bg-green/10 text-green" : "bg-[#EEF2FF] text-navy"}`}>
                       {item.code}
                     </span>

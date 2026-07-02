@@ -9,6 +9,12 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/"
     },
-    sitemap: `${siteConfig.url}/sitemap.xml`
+    sitemap: [
+      `${siteConfig.url}/sitemap.xml`,
+      `${siteConfig.url}/sitemap-postcodes.xml`,
+      `${siteConfig.url}/sitemap-suburbs.xml`,
+      `${siteConfig.url}/sitemap-states.xml`,
+      `${siteConfig.url}/sitemap-nz.xml`
+    ]
   };
 }

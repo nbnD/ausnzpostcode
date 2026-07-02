@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from "react";
 import Link from "next/link";
-import { australiaStates, getDisplayLocality, getLocalitySummary, postcodes } from "@/data/postcodes";
+import { getDisplayLocality, getLocalitySummary, getRegions, postcodes, postcodePath } from "@/data/postcodes";
 
 type CountryFilter = "au" | "nz" | "all";
 type TypeFilter = string;
@@ -43,7 +43,8 @@ export function SearchResults() {
   }, [country, query, sort, type]);
 
   const pages = Math.max(1, Math.ceil(filtered.length / perPage));
-  const pageItems = filtered.slice((page - 1) * perPage, page * perPage);
+  const currentPage = Math.min(page, pages);
+  const pageItems = filtered.slice((currentPage - 1) * perPage, currentPage * perPage);
   const typeOptions = Array.from(
     new Set(
       postcodes
@@ -51,9 +52,9 @@ export function SearchResults() {
         .map((item) => item.type)
     )
   ).sort();
-  const stateCounts = australiaStates.map((state) => ({
+  const stateCounts = (country === "nz" ? getRegions("nz") : getRegions("au")).map((state) => ({
     ...state,
-    total: filtered.filter((item) => item.state === state.abbr).length
+    total: filtered.filter((item) => item.state === state.abbr || item.stateFull === state.name).length
   }));
 
   function setCountryFilter(value: CountryFilter) {
@@ -65,8 +66,12 @@ export function SearchResults() {
     <>
       <section className="border-b border-navy2 bg-navy px-4 py-5 sm:px-6">
         <div className="mx-auto max-w-6xl">
+          <h1 className="mb-4 font-heading text-3xl font-extrabold tracking-normal text-white">
+            Search Australia and New Zealand postcodes
+          </h1>
           <div className="flex gap-2">
             <input
+              type="search"
               value={query}
               onChange={(event) => {
                 setQuery(event.target.value);
@@ -109,7 +114,7 @@ export function SearchResults() {
         <aside className="hidden md:block">
           <div className="mb-4 rounded-xl border border-border bg-white p-5">
             <h2 className="mb-3 font-heading text-xs font-bold uppercase tracking-[0.08em] text-navy">
-              State / Region
+              {country === "nz" ? "Region" : "State / Territory"}
             </h2>
             <div className="space-y-1">
               {stateCounts.map((state) => (
@@ -117,12 +122,12 @@ export function SearchResults() {
                   key={state.abbr}
                   type="button"
                   onClick={() => {
-                    setQuery(state.abbr);
+                    setQuery(state.abbr ?? state.name);
                     setPage(1);
                   }}
                   className="flex w-full items-center justify-between border-b border-border py-2 text-left text-sm text-text last:border-b-0 hover:text-coral"
                 >
-                  <span>{state.abbr}</span>
+                  <span>{state.abbr ?? state.name}</span>
                   <span className="rounded-full bg-ash px-2 py-0.5 text-xs text-muted">{state.total}</span>
                 </button>
               ))}
@@ -169,10 +174,10 @@ export function SearchResults() {
             </select>
           </div>
           <div className="space-y-2.5">
-            {pageItems.map((item) => (
+            {pageItems.length ? pageItems.map((item) => (
               <Link
                 key={`${item.country}-${item.code}-${item.locality}`}
-                href={`/postcode/${item.country}/${item.code}`}
+                href={postcodePath(item)}
                 className={`flex items-center gap-4 rounded-xl border border-border bg-white p-5 text-text transition hover:translate-x-1 ${
                   item.country === "nz"
                     ? "hover:border-green hover:shadow-[0_4px_16px_rgba(45,106,79,0.10)]"
@@ -194,16 +199,29 @@ export function SearchResults() {
                 </span>
                 <span className="text-xl text-muted">›</span>
               </Link>
-            ))}
+            )) : (
+              <div className="rounded-xl border border-border bg-white p-8 text-center">
+                <h2 className="font-heading text-xl font-extrabold text-navy">No matching postcodes found</h2>
+                <p className="mt-2 text-sm text-muted">Try a postcode, suburb, locality, state, or region such as 2000, Sydney, 1010, or Auckland.</p>
+              </div>
+            )}
           </div>
-          <div className="mt-6 flex justify-center gap-1.5">
-            {Array.from({ length: pages }, (_, index) => index + 1).map((value) => (
+          <div className="mt-6 flex flex-wrap justify-center gap-1.5">
+            <button
+              type="button"
+              onClick={() => setPage(Math.max(1, currentPage - 1))}
+              disabled={currentPage === 1}
+              className="rounded-lg border border-border bg-white px-3 py-2 font-heading text-xs font-bold text-text disabled:cursor-not-allowed disabled:opacity-50"
+            >
+              Previous
+            </button>
+            {Array.from({ length: Math.min(pages, 9) }, (_, index) => index + 1).map((value) => (
               <button
                 key={value}
                 type="button"
                 onClick={() => setPage(value)}
                 className={`grid h-9 w-9 place-items-center rounded-lg border font-heading text-xs font-bold ${
-                  page === value
+                  currentPage === value
                     ? "border-coral bg-coral text-white"
                     : "border-border bg-white text-text hover:border-coral hover:text-coral"
                 }`}
@@ -211,6 +229,14 @@ export function SearchResults() {
                 {value}
               </button>
             ))}
+            <button
+              type="button"
+              onClick={() => setPage(Math.min(pages, currentPage + 1))}
+              disabled={currentPage === pages}
+              className="rounded-lg border border-border bg-white px-3 py-2 font-heading text-xs font-bold text-text disabled:cursor-not-allowed disabled:opacity-50"
+            >
+              Next
+            </button>
           </div>
         </section>
       </main>
