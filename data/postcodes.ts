@@ -1,79 +1,197 @@
+import homepageIndex from "@/data/homepage_index.json";
+import postcodeIndex from "@/data/postcode_index.json";
+
+export type CountryCode = "au" | "nz";
+
 export type PostcodeRecord = {
   code: string;
   locality: string;
+  localities?: string[];
+  localityCount?: number;
   state: string;
   stateFull: string;
-  country: "au" | "nz";
+  country: CountryCode;
   lga?: string;
   electorate?: string;
-  type: "General" | "PO Box";
+  type: string;
   remoteness?: string;
   lat: number;
   lng: number;
   nearby?: Array<{ code: string; name: string }>;
 };
 
-export const postcodes: PostcodeRecord[] = [
-  {
-    code: "2000",
-    locality: "Sydney",
-    state: "NSW",
-    stateFull: "New South Wales",
-    country: "au",
-    lga: "City of Sydney",
-    electorate: "Sydney",
-    type: "General",
-    remoteness: "Major Cities",
-    lat: -33.8688,
-    lng: 151.2093,
-    nearby: [
-      { code: "2001", name: "Sydney GPO" },
-      { code: "2007", name: "Ultimo" },
-      { code: "2008", name: "Darlington" },
-      { code: "2009", name: "Pyrmont" },
-      { code: "2010", name: "Surry Hills" },
-      { code: "2060", name: "North Sydney" }
-    ]
-  },
-  { code: "2007", locality: "Ultimo", state: "NSW", stateFull: "New South Wales", country: "au", lga: "City of Sydney", type: "General", remoteness: "Major Cities", lat: -33.883, lng: 151.2 },
-  { code: "3000", locality: "Melbourne", state: "VIC", stateFull: "Victoria", country: "au", lga: "City of Melbourne", electorate: "Melbourne", type: "General", remoteness: "Major Cities", lat: -37.8136, lng: 144.9631 },
-  { code: "3006", locality: "Southbank", state: "VIC", stateFull: "Victoria", country: "au", lga: "City of Melbourne", type: "General", remoteness: "Major Cities", lat: -37.8216, lng: 144.9646 },
-  { code: "4000", locality: "Brisbane", state: "QLD", stateFull: "Queensland", country: "au", lga: "Brisbane City", electorate: "Brisbane Central", type: "General", remoteness: "Major Cities", lat: -27.4698, lng: 153.0251 },
-  { code: "4101", locality: "South Brisbane", state: "QLD", stateFull: "Queensland", country: "au", lga: "Brisbane City", type: "General", remoteness: "Major Cities", lat: -27.4787, lng: 153.0215 },
-  { code: "5000", locality: "Adelaide", state: "SA", stateFull: "South Australia", country: "au", lga: "Adelaide City Council", electorate: "Adelaide", type: "General", remoteness: "Major Cities", lat: -34.9285, lng: 138.6007 },
-  { code: "6000", locality: "Perth", state: "WA", stateFull: "Western Australia", country: "au", lga: "City of Perth", electorate: "Perth", type: "General", remoteness: "Major Cities", lat: -31.9505, lng: 115.8605 },
-  { code: "7000", locality: "Hobart", state: "TAS", stateFull: "Tasmania", country: "au", lga: "City of Hobart", electorate: "Clark", type: "General", remoteness: "Major Cities", lat: -42.8821, lng: 147.3272 },
-  { code: "0800", locality: "Darwin", state: "NT", stateFull: "Northern Territory", country: "au", lga: "City of Darwin", electorate: "Darwin", type: "General", remoteness: "Major Cities", lat: -12.4634, lng: 130.8456 },
-  { code: "2600", locality: "Canberra", state: "ACT", stateFull: "Australian Capital Territory", country: "au", lga: "City of Canberra", electorate: "Canberra", type: "General", remoteness: "Major Cities", lat: -35.2809, lng: 149.13 },
-  { code: "0872", locality: "Alice Springs", state: "NT", stateFull: "Northern Territory", country: "au", lga: "Alice Springs Town Council", type: "General", remoteness: "Remote", lat: -23.698, lng: 133.8807 },
-  { code: "1010", locality: "Auckland CBD", state: "Auckland", stateFull: "Auckland Region", country: "nz", type: "General", lat: -36.8485, lng: 174.7633 },
-  { code: "1021", locality: "Parnell", state: "Auckland", stateFull: "Auckland Region", country: "nz", type: "General", lat: -36.857, lng: 174.782 },
-  { code: "1050", locality: "Ponsonby", state: "Auckland", stateFull: "Auckland Region", country: "nz", type: "General", lat: -36.8575, lng: 174.746 },
-  { code: "3010", locality: "Hamilton CBD", state: "Waikato", stateFull: "Waikato Region", country: "nz", type: "General", lat: -37.787, lng: 175.2793 },
-  { code: "3110", locality: "Tauranga CBD", state: "Bay of Plenty", stateFull: "Bay of Plenty Region", country: "nz", type: "General", lat: -37.6878, lng: 176.1651 },
-  { code: "6011", locality: "Wellington CBD", state: "Wellington", stateFull: "Wellington Region", country: "nz", type: "General", lat: -41.2924, lng: 174.7787 },
-  { code: "8011", locality: "Christchurch CBD", state: "Canterbury", stateFull: "Canterbury Region", country: "nz", type: "General", lat: -43.5321, lng: 172.6362 },
-  { code: "9010", locality: "Dunedin Central", state: "Otago", stateFull: "Otago Region", country: "nz", type: "General", lat: -45.8788, lng: 170.5028 }
-];
+export type RegionSummary = {
+  abbr?: string;
+  name: string;
+  island?: string;
+  count: number;
+};
 
-export const australiaStates = [
-  { abbr: "NSW", name: "New South Wales", count: "3,825" },
-  { abbr: "VIC", name: "Victoria", count: "2,641" },
-  { abbr: "QLD", name: "Queensland", count: "2,382" },
-  { abbr: "WA", name: "Western Australia", count: "1,450" },
-  { abbr: "SA", name: "South Australia", count: "832" },
-  { abbr: "TAS", name: "Tasmania", count: "421" },
-  { abbr: "ACT", name: "Australian Capital Territory", count: "148" },
-  { abbr: "NT", name: "Northern Territory", count: "246" }
-];
+export type LocalityRecord = {
+  country: CountryCode;
+  name: string;
+  slug: string;
+  postcode: string;
+  state: string;
+  stateFull: string;
+  type: string;
+  lat: number;
+  lng: number;
+};
 
-export const nzRegions = [
-  { name: "Auckland", island: "North Island", count: "318" },
-  { name: "Wellington", island: "North Island", count: "184" },
-  { name: "Canterbury", island: "South Island", count: "261" },
-  { name: "Waikato", island: "North Island", count: "215" },
-  { name: "Bay of Plenty", island: "North Island", count: "142" },
-  { name: "Otago", island: "South Island", count: "118" },
-  { name: "Northland", island: "North Island", count: "96" },
-  { name: "Southland", island: "South Island", count: "74" }
-];
+export type BrowseLetter = {
+  letter: string;
+  count: number;
+  href: string;
+};
+
+export type HomepageIndex = {
+  stats: {
+    auPostcodes: number;
+    auLocalities: number;
+    nzPostcodes: number;
+    nzLocalities: number;
+    countries: number;
+  };
+  auStates: Array<RegionSummary & { abbr: string }>;
+  nzRegions: RegionSummary[];
+  popular: PostcodeRecord[];
+  hints: Record<CountryCode, string[]>;
+};
+
+export const postcodes = postcodeIndex as PostcodeRecord[];
+export const homepageData = homepageIndex as HomepageIndex;
+export const australiaStates = homepageData.auStates;
+export const nzRegions = homepageData.nzRegions;
+
+export function formatCount(value: number) {
+  return value.toLocaleString("en-AU");
+}
+
+export function getDisplayLocality(postcode: PostcodeRecord) {
+  if (postcode.localities?.includes("Sydney")) return "Sydney";
+  if (postcode.localities?.includes("Melbourne")) return "Melbourne";
+  if (postcode.localities?.includes("Brisbane")) return "Brisbane";
+  if (postcode.localities?.includes("Perth")) return "Perth";
+  if (postcode.localities?.includes("Adelaide")) return "Adelaide";
+  if (postcode.localities?.includes("Auckland CBD")) return "Auckland CBD";
+  if (postcode.localities?.includes("Wellington CBD")) return "Wellington CBD";
+  if (postcode.localities?.includes("Christchurch CBD")) return "Christchurch CBD";
+
+  return postcode.locality;
+}
+
+export function getLocalitySummary(postcode: PostcodeRecord) {
+  const localities = postcode.localities ?? [postcode.locality];
+  const shown = localities.slice(0, 4).join(", ");
+  const remaining = localities.length - 4;
+
+  return remaining > 0 ? `${shown} +${remaining} more` : shown;
+}
+
+export function countryName(country: CountryCode) {
+  return country === "au" ? "Australia" : "New Zealand";
+}
+
+export function countryRoot(country: CountryCode) {
+  return country === "au" ? "/au" : "/nz";
+}
+
+export function postcodePath(postcode: PostcodeRecord) {
+  return `${countryRoot(postcode.country)}/postcode/${postcode.code}`;
+}
+
+export function statePath(country: CountryCode, state: string) {
+  return country === "au" ? `/au/state/${slugify(state)}` : `/nz/region/${slugify(state)}`;
+}
+
+export function localityPath(locality: LocalityRecord) {
+  return locality.country === "au" ? `/au/suburb/${locality.slug}` : `/nz/locality/${locality.slug}`;
+}
+
+export function slugify(value: string) {
+  return value
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+export function findPostcode(country: CountryCode, code: string) {
+  return postcodes.find((item) => item.country === country && item.code === code);
+}
+
+export function getCountryPostcodes(country: CountryCode) {
+  return postcodes.filter((item) => item.country === country);
+}
+
+export function getRegions(country: CountryCode) {
+  return country === "au" ? australiaStates : nzRegions;
+}
+
+export function findRegion(country: CountryCode, slug: string) {
+  return getRegions(country).find((region) => slugify(region.abbr ?? region.name) === slug || slugify(region.name) === slug);
+}
+
+export function getPostcodesByRegion(country: CountryCode, region: string) {
+  return getCountryPostcodes(country).filter((item) => item.state === region || item.stateFull === region);
+}
+
+export const localities: LocalityRecord[] = postcodes.flatMap((postcode) => {
+  const names = postcode.localities ?? [postcode.locality];
+  return names.map((name) => ({
+    country: postcode.country,
+    name,
+    slug: `${slugify(name)}-${postcode.code}`,
+    postcode: postcode.code,
+    state: postcode.state,
+    stateFull: postcode.stateFull,
+    type: postcode.type,
+    lat: postcode.lat,
+    lng: postcode.lng
+  }));
+});
+
+export function getCountryLocalities(country: CountryCode) {
+  return localities.filter((item) => item.country === country);
+}
+
+export function findLocality(country: CountryCode, slug: string) {
+  return localities.find((item) => item.country === country && item.slug === slug);
+}
+
+export function getNearbyPostcodes(postcode: PostcodeRecord, limit = 8) {
+  const codeNumber = Number(postcode.code);
+
+  return getCountryPostcodes(postcode.country)
+    .filter((item) => item.state === postcode.state && item.code !== postcode.code)
+    .sort((a, b) => Math.abs(Number(a.code) - codeNumber) - Math.abs(Number(b.code) - codeNumber))
+    .slice(0, limit);
+}
+
+export function getNearbyLocalities(locality: LocalityRecord, limit = 8) {
+  return getCountryLocalities(locality.country)
+    .filter((item) => item.state === locality.state && item.slug !== locality.slug)
+    .sort((a, b) => Math.abs(Number(a.postcode) - Number(locality.postcode)) - Math.abs(Number(b.postcode) - Number(locality.postcode)))
+    .slice(0, limit);
+}
+
+export function getBrowseLetters(country: CountryCode, basePath: string): BrowseLetter[] {
+  const counts = getCountryLocalities(country).reduce<Record<string, number>>((acc, item) => {
+    const letter = item.name.charAt(0).toUpperCase();
+    if (/^[A-Z]$/.test(letter)) acc[letter] = (acc[letter] ?? 0) + 1;
+    return acc;
+  }, {});
+
+  return "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").map((letter) => ({
+    letter,
+    count: counts[letter] ?? 0,
+    href: `${basePath}#${letter}`
+  }));
+}
+
+export function getSampleLocalities(country: CountryCode, limit = 24) {
+  return getCountryLocalities(country)
+    .filter((item, index, all) => all.findIndex((candidate) => candidate.name === item.name) === index)
+    .slice(0, limit);
+}

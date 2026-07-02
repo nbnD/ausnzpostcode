@@ -1,8 +1,21 @@
 import type { Metadata } from "next";
+import { Inter, Sora } from "next/font/google";
 import { Layout } from "@/components/Layout";
 import { siteConfig } from "@/lib/site";
 import "leaflet/dist/leaflet.css";
 import "./globals.css";
+
+const inter = Inter({
+  subsets: ["latin"],
+  variable: "--font-inter",
+  display: "swap"
+});
+
+const sora = Sora({
+  subsets: ["latin"],
+  variable: "--font-sora",
+  display: "swap"
+});
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
@@ -13,6 +26,11 @@ export const metadata: Metadata = {
   description: siteConfig.description,
   alternates: {
     canonical: siteConfig.url
+  },
+  icons: {
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
+    apple: "/favicon.svg"
   },
   openGraph: {
     title: siteConfig.name,
@@ -31,7 +49,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" data-scroll-behavior="smooth">
-      <body>
+      <body className={`${inter.variable} ${sora.variable}`}>
         <Layout>{children}</Layout>
       </body>
     </html>

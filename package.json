@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "generate:data": "node scripts/generate-postcode-indexes.mjs",
+    "generate:sitemaps": "node scripts/generate-sitemaps.mjs"
   },
   "dependencies": {
     "@types/leaflet": "1.9.17",

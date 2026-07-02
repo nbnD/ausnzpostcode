@@ -1,0 +1,39 @@
+import type { Metadata } from "next";
+import { notFound } from "next/navigation";
+import { PostcodeDetailPage } from "@/components/PostcodeDetailPage";
+import { findPostcode, getCountryPostcodes, getDisplayLocality, getLocalitySummary } from "@/data/postcodes";
+import { createMetadata } from "@/lib/metadata";
+
+type Params = { postcode: string };
+
+export function generateStaticParams(): Params[] {
+  return getCountryPostcodes("nz").map((item) => ({ postcode: item.code }));
+}
+
+export async function generateMetadata({ params }: { params: Promise<Params> }): Promise<Metadata> {
+  const { postcode: code } = await params;
+  const postcode = findPostcode("nz", code);
+
+  if (!postcode) {
+    return createMetadata({
+      title: "New Zealand Postcode Not Found",
+      description: "The requested New Zealand postcode could not be found.",
+      path: `/nz/postcode/${code}`
+    });
+  }
+
+  return createMetadata({
+    title: `${postcode.code} Postcode - ${getDisplayLocality(postcode)} ${postcode.stateFull}`,
+    description: `Postcode ${postcode.code} covers ${getLocalitySummary(postcode)} in ${postcode.stateFull}. Browse map, nearby postcodes, and FAQs.`,
+    path: `/nz/postcode/${postcode.code}`
+  });
+}
+
+export default async function NewZealandPostcodePage({ params }: { params: Promise<Params> }) {
+  const { postcode: code } = await params;
+  const postcode = findPostcode("nz", code);
+
+  if (!postcode) notFound();
+
+  return <PostcodeDetailPage postcode={postcode} />;
+}

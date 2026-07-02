@@ -2,14 +2,10 @@
 
 import { useMemo, useState } from "react";
 import Link from "next/link";
-import { postcodes } from "@/data/postcodes";
+import { CountrySwitcher } from "@/components/CountrySwitcher";
+import { formatCount, getDisplayLocality, homepageData, postcodes, postcodePath } from "@/data/postcodes";
 
 type Country = "au" | "nz";
-
-const hintSets = {
-  au: ["2000 Sydney", "3000 Melbourne", "4000 Brisbane", "6000 Perth"],
-  nz: ["1010 Auckland", "6011 Wellington", "8011 Christchurch", "9010 Dunedin"]
-};
 
 export function SearchHero() {
   const [country, setCountry] = useState<Country>("au");
@@ -24,7 +20,7 @@ export function SearchHero() {
 
     return scoped
       .filter((item) =>
-        [item.code, item.locality, item.state].some((value) =>
+        [item.code, item.locality, item.state, ...(item.localities ?? [])].some((value) =>
           value.toLowerCase().includes(normalizedQuery)
         )
       )
@@ -32,42 +28,27 @@ export function SearchHero() {
   }, [country, normalizedQuery]);
 
   const countryWord = country === "au" ? "Australian" : "New Zealand";
-  const countrySub = country === "au" ? "Australia's 11,600+ postcodes" : "New Zealand's 1,800+ postcodes";
+  const countrySub =
+    country === "au"
+      ? `Australia's ${formatCount(homepageData.stats.auPostcodes)} postcodes and ${formatCount(homepageData.stats.auLocalities)} localities`
+      : `New Zealand's ${formatCount(homepageData.stats.nzPostcodes)} postcodes and ${formatCount(homepageData.stats.nzLocalities)} localities`;
 
   return (
     <>
-      <div className="flex justify-center border-b border-white/10 bg-navy2">
-        <button
-          type="button"
-          onClick={() => setCountry("au")}
-          className={`border-b-[3px] px-8 py-2.5 text-xs font-bold uppercase tracking-[0.06em] transition ${
-            country === "au"
-              ? "border-coral bg-coral/10 text-coral"
-              : "border-transparent text-ice hover:text-white"
-          }`}
-        >
-          Australia
-        </button>
-        <button
-          type="button"
-          onClick={() => setCountry("nz")}
-          className={`border-b-[3px] px-8 py-2.5 text-xs font-bold uppercase tracking-[0.06em] transition ${
-            country === "nz"
-              ? "border-[#4ADE80] bg-[#4ADE80]/10 text-[#4ADE80]"
-              : "border-transparent text-ice hover:text-white"
-          }`}
-        >
-          New Zealand
-        </button>
-      </div>
+      <CountrySwitcher country={country} onChange={setCountry} />
       <section className="relative overflow-hidden bg-[linear-gradient(160deg,#0B2545_0%,#0d3060_60%,#0f3d7a_100%)] px-4 py-16 text-center sm:px-6 lg:py-20">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_700px_400px_at_60%_0%,rgba(232,71,42,0.10)_0%,transparent_70%),radial-gradient(ellipse_500px_300px_at_20%_100%,rgba(45,106,79,0.13)_0%,transparent_70%)]" />
         <div className="relative mx-auto max-w-4xl">
           <p className="mb-4 text-xs font-bold uppercase tracking-[0.12em] text-sky">
             Free · Accurate · Static-first
           </p>
-          <h1 className="font-heading text-4xl font-extrabold leading-tight tracking-normal text-white sm:text-5xl">
-            Find any <span className={country === "au" ? "text-coral" : "text-[#4ADE80]"}>{countryWord}</span>
+          <h1
+            className="font-heading text-4xl font-extrabold leading-tight tracking-normal text-white sm:text-5xl"
+            aria-label={`Find any ${countryWord} postcode instantly`}
+          >
+            Find any{" "}
+            <span className={country === "au" ? "text-coral" : "text-[#4ADE80]"}>{countryWord}</span>
+            {" "}
             <br />
             postcode instantly
           </h1>
@@ -81,6 +62,7 @@ export function SearchHero() {
             </label>
             <div className="flex overflow-hidden rounded-xl bg-white shadow-search">
               <input
+                type="search"
                 id="homepage-search"
                 value={query}
                 onChange={(event) => setQuery(event.target.value)}
@@ -97,12 +79,12 @@ export function SearchHero() {
             {query ? (
               <div className="absolute left-0 right-0 top-[calc(100%+6px)] z-20 overflow-hidden rounded-[10px] border border-border bg-white text-left shadow-premium">
                 {results.map((item) => (
-                  <Link key={`${item.country}-${item.code}-${item.locality}`} href={`/postcode/${item.country}/${item.code}`} className="flex items-center gap-3 border-b border-border px-4 py-3 last:border-b-0 hover:bg-ash">
+                  <Link key={`${item.country}-${item.code}-${item.locality}`} href={postcodePath(item)} className="flex items-center gap-3 border-b border-border px-4 py-3 last:border-b-0 hover:bg-ash">
                     <span className={`min-w-14 rounded-md px-2 py-1 text-center font-heading text-sm font-extrabold ${item.country === "nz" ? "bg-green/10 text-green" : "bg-[#EEF2FF] text-navy"}`}>
                       {item.code}
                     </span>
                     <span className="flex-1">
-                      <span className="block text-sm font-semibold text-text">{item.locality}</span>
+                      <span className="block text-sm font-semibold text-text">{getDisplayLocality(item)}</span>
                       <span className="block text-xs text-muted">{item.state}</span>
                     </span>
                     <span className="text-sm text-muted">{item.country.toUpperCase()}</span>
@@ -112,7 +94,7 @@ export function SearchHero() {
             ) : null}
           </div>
           <div className="mt-4 flex flex-wrap justify-center gap-2.5">
-            {hintSets[country].map((hint) => (
+            {homepageData.hints[country].map((hint) => (
               <button
                 key={hint}
                 type="button"

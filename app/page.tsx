@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
-import Link from "next/link";
-import { FaqList } from "@/components/FaqList";
+import { PopularPostcodeGrid } from "@/components/PopularPostcodeGrid";
 import { SearchHero } from "@/components/SearchHero";
-import { SectionHeader } from "@/components/SectionHeader";
-import { australiaStates, nzRegions, postcodes } from "@/data/postcodes";
+import { SectionHeading } from "@/components/SectionHeading";
+import { StateGrid } from "@/components/StateGrid";
+import { TabbedFAQAccordion } from "@/components/TabbedFAQAccordion";
+import { formatCount, homepageData } from "@/data/postcodes";
 import { createMetadata } from "@/lib/metadata";
-import { breadcrumbSchema, faqSchema, placeSchema } from "@/lib/schema";
+import { faqSchema } from "@/lib/schema";
 
 export const metadata: Metadata = createMetadata({
   title: "Australia and New Zealand Postcode Directory",
@@ -14,34 +15,91 @@ export const metadata: Metadata = createMetadata({
   path: "/"
 });
 
-const faqItems = [
+const faqGroups = [
   {
-    question: "Does AusNZ Postcode use a paid map or postcode API?",
-    answer:
-      "No. The site is designed for local JSON data, static generation, and OpenStreetMap-compatible mapping where maps are needed."
+    id: "australia",
+    label: "Australia",
+    items: [
+      {
+        question: "How are Australian postcodes structured?",
+        answer:
+          "Australian postcodes are 4-digit numbers assigned by Australia Post. Each state and territory has a broad postcode range, such as 1000-2999 for New South Wales, 3000-3999 for Victoria, 4000-4999 for Queensland, 5000-5999 for South Australia, 6000-6999 for Western Australia, and 7000-7999 for Tasmania."
+      },
+      {
+        question: "What do the first digits of an Australian postcode mean?",
+        answer:
+          "The first digit generally points to the state or territory. Postcodes starting with 1 or 2 are usually New South Wales, 3 is Victoria, 4 is Queensland, 5 is South Australia, 6 is Western Australia, 7 is Tasmania, and 0 is used for Northern Territory and ACT ranges."
+      },
+      {
+        question: "How many postcodes does Australia have?",
+        answer:
+          "Australia has thousands of active postcodes covering suburbs, towns, rural areas, PO boxes, and special delivery services. AusNZ Postcode currently indexes Australian postcode records from local source data and groups them for search and browsing."
+      },
+      {
+        question: "Can one postcode cover multiple suburbs?",
+        answer:
+          "Yes. One Australian postcode can cover multiple suburbs, towns, or localities, especially in regional and rural areas. A suburb can also have more than one postcode where street delivery, PO box, or business delivery services are separated."
+      },
+      {
+        question: "Does Australia use ZIP codes or postcodes?",
+        answer:
+          "Australia uses postcodes, not ZIP codes. ZIP codes are used in the United States. If an international form asks Australians for a ZIP or postal code, the correct entry is usually the 4-digit Australian postcode."
+      }
+    ]
   },
   {
-    question: "Will postcode pages work on GitHub Pages?",
-    answer:
-      "Yes. The foundation uses Next.js static export so pages can be served as static files from GitHub Pages."
+    id: "new-zealand",
+    label: "New Zealand",
+    items: [
+      {
+        question: "How many digits are in a New Zealand postcode?",
+        answer:
+          "New Zealand postcodes are 4-digit numbers. They look similar to Australian postcodes, but they belong to a separate New Zealand postal system and should not be used interchangeably with Australian postcodes."
+      },
+      {
+        question: "When did New Zealand introduce postcodes?",
+        answer:
+          "New Zealand introduced its current postcode system in 2006. The system was designed to improve address sorting and delivery accuracy across regions, towns, suburbs, and rural localities."
+      },
+      {
+        question: "How are NZ postcodes different from Australian postcodes?",
+        answer:
+          "Both countries use 4-digit postcodes, but the systems are separate. Australian postcodes are organised around Australian states and territories, while New Zealand postcodes are structured around New Zealand regions and delivery routes."
+      },
+      {
+        question: "How many postcodes does New Zealand have?",
+        answer:
+          "New Zealand has thousands of postcode and locality combinations across the North Island, South Island, Stewart Island, and offshore areas. AusNZ Postcode indexes New Zealand postcode records from local source data for browsing and search."
+      }
+    ]
   },
   {
-    question: "Where does the postcode data come from?",
-    answer:
-      "The project will cite official and open data sources on each relevant page, with a dedicated data sources page for transparency."
+    id: "general",
+    label: "General",
+    items: [
+      {
+        question: "Is this postcode lookup free to use?",
+        answer:
+          "Yes. AusNZ Postcode is free to use for postcode, suburb, locality, state, and region lookups across Australia and New Zealand."
+      },
+      {
+        question: "What data sources does ausnzpostcode.com use?",
+        answer:
+          "AusNZ Postcode uses local postcode datasets stored with the project. Australian and New Zealand records are normalised into static indexes so the website can be searched and browsed without a backend or paid postcode API."
+      },
+      {
+        question: "What is the difference between Australian and New Zealand postcodes?",
+        answer:
+          "Australian and New Zealand postcodes both use 4 digits, but they refer to different countries and separate postal systems. Always check the country with the postcode because the same number can represent different places in Australia and New Zealand."
+      }
+    ]
   }
 ];
 
+const faqItems = faqGroups.flatMap((group) => group.items);
+
 export default function Home() {
-  const schema = [
-    breadcrumbSchema([{ name: "Home", href: "/" }]),
-    faqSchema(faqItems),
-    placeSchema(
-      "Australia and New Zealand",
-      "/",
-      "Postcode directory coverage for Australia and New Zealand."
-    )
-  ];
+  const schema = faqSchema(faqItems);
 
   return (
     <>
@@ -53,9 +111,9 @@ export default function Home() {
       <section className="border-b border-border bg-white">
         <div className="mx-auto flex max-w-6xl flex-wrap justify-center px-4 py-4 sm:px-6">
           {[
-            ["13,500+", "postcodes"],
-            ["2", "countries"],
-            ["100%", "static"],
+            [formatCount(homepageData.stats.auPostcodes), "AU postcodes"],
+            [formatCount(homepageData.stats.nzPostcodes), "NZ postcodes"],
+            [formatCount(homepageData.stats.auLocalities + homepageData.stats.nzLocalities), "localities"],
             ["0", "paid APIs"]
           ].map(([num, label], index) => (
             <div key={label} className={`flex items-center gap-2 px-7 py-2 ${index > 0 ? "border-l border-border" : ""}`}>
@@ -66,44 +124,17 @@ export default function Home() {
         </div>
       </section>
       <main className="mx-auto max-w-6xl px-4 py-12 sm:px-6">
-        <section>
-          <SectionHeader title="Browse Australia by state" href="/search?country=au" linkLabel="See all" />
-          <div className="mb-12 grid grid-cols-2 gap-3 sm:grid-cols-4 lg:grid-cols-8">
-            {australiaStates.map((state) => (
-              <Link key={state.abbr} href={`/search?q=${state.abbr}`} className="rounded-[10px] border border-border bg-white p-4 text-center transition hover:-translate-y-0.5 hover:border-coral hover:shadow-coral">
-                <span className="block font-heading text-2xl font-extrabold text-navy">{state.abbr}</span>
-                <span className="mt-1 block text-xs font-medium leading-snug text-muted">{state.name}</span>
-                <span className="mt-1 block text-xs font-bold text-coral">{state.count}</span>
-              </Link>
-            ))}
-          </div>
+        <section className="mb-12">
+          <SectionHeading title="Browse Australia by state" href="/au" linkLabel="See all" />
+          <StateGrid title="Australian states and territories" items={homepageData.auStates} accent="au" />
         </section>
-        <section>
-          <SectionHeader title="Browse New Zealand by region" href="/search?country=nz" linkLabel="See all" />
-          <div className="mb-12 grid grid-cols-2 gap-3 sm:grid-cols-4">
-            {nzRegions.map((region) => (
-              <Link key={region.name} href={`/search?q=${region.name}`} className="rounded-[10px] border border-border bg-white p-4 text-center transition hover:-translate-y-0.5 hover:border-green hover:shadow-premium">
-                <span className="block font-heading text-sm font-bold text-navy">{region.name}</span>
-                <span className="mt-1 block text-xs text-muted">{region.island}</span>
-                <span className="mt-1 block text-xs font-bold text-green">{region.count}</span>
-              </Link>
-            ))}
-          </div>
+        <section className="mb-12">
+          <SectionHeading title="Browse New Zealand by region" href="/nz" linkLabel="See all" />
+          <StateGrid title="New Zealand regions" items={homepageData.nzRegions} accent="nz" />
         </section>
-        <section>
-          <SectionHeader title="Popular postcode lookups" href="/search" linkLabel="Search postcodes" />
-          <div className="mb-12 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-            {postcodes.slice(0, 8).map((item) => (
-              <Link key={`${item.country}-${item.code}-${item.locality}`} href={`/postcode/${item.country}/${item.code}`} className="flex items-center gap-3 rounded-[10px] border border-border bg-white p-4 text-text transition hover:border-[#B0C4DE] hover:shadow-premium">
-                <span className="min-w-12 font-heading text-xl font-extrabold text-navy">{item.code}</span>
-                <span className="flex-1">
-                  <span className="block text-sm font-semibold">{item.locality}</span>
-                  <span className="block text-xs text-muted">{item.stateFull}</span>
-                </span>
-                <span className="text-xs font-bold text-muted">{item.country.toUpperCase()}</span>
-              </Link>
-            ))}
-          </div>
+        <section className="mb-12">
+          <SectionHeading title="Popular postcode lookups" href="/search" linkLabel="Search postcodes" />
+          <PopularPostcodeGrid items={homepageData.popular} />
         </section>
         <section className="mb-12 rounded-[14px] border border-border bg-white p-6 sm:p-10">
           <h2 className="text-center font-heading text-xl font-bold text-navy">How it works</h2>
@@ -124,17 +155,10 @@ export default function Home() {
           </div>
         </section>
         <section className="mb-4">
-          <SectionHeader title="Frequently asked questions" />
-          <FaqList items={faqItems} />
+          <SectionHeading title="Frequently asked questions" />
+          <TabbedFAQAccordion groups={faqGroups} />
         </section>
       </main>
-      <section className="bg-white py-10">
-        <div className="mx-auto max-w-6xl px-4 text-sm leading-6 text-muted sm:px-6">
-          <Link href="/data-sources" className="font-bold text-coral hover:underline">
-            View data source policy
-          </Link>
-        </div>
-      </section>
     </>
   );
 }

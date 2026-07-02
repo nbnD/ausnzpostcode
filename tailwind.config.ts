@@ -28,8 +28,8 @@ const config: Config = {
         shell: "#FFFFFF"
       },
       fontFamily: {
-        heading: ["Sora", "Inter", "ui-sans-serif", "system-ui", "sans-serif"],
-        sans: ["Inter", "ui-sans-serif", "system-ui", "sans-serif"]
+        heading: ["var(--font-sora)", "var(--font-inter)", "ui-sans-serif", "system-ui", "sans-serif"],
+        sans: ["var(--font-inter)", "ui-sans-serif", "system-ui", "sans-serif"]
       },
       boxShadow: {
         premium: "0 12px 40px rgba(11, 37, 69, 0.14)",

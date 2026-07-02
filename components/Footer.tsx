@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { footerNav, siteConfig } from "@/lib/site";
 
 export function Footer() {
@@ -7,12 +8,24 @@ export function Footer() {
       <div className="mx-auto max-w-6xl">
         <div className="grid gap-10 md:grid-cols-[2fr_1fr_1fr_1fr]">
           <div>
-            <Link href="/" className="inline-flex font-heading text-lg font-extrabold text-white">
-              AusNZ<span className="text-sky">Postcode</span>.com
+            <Link href="/" className="inline-flex" aria-label="AusNZ Postcode home">
+              <Image
+                src="/logo.svg"
+                alt="AusNZ Postcodes"
+                width={210}
+                height={70}
+                className="h-14 w-auto rounded-md bg-white px-2 py-1.5"
+              />
             </Link>
-            <p className="mt-3 max-w-xs text-sm leading-6 text-[#7B93B0]">
-            Static postcode pages for Australia and New Zealand, designed for fast browsing,
-            transparent source attribution, and clear local context.
+            <p className="mt-3 max-w-md text-sm leading-6 text-[#7B93B0]">
+              AusNZPostcode.com is a free postcode directory covering all of
+              Australia and New Zealand. Search any suburb, locality, or postcode
+              to find suburb details, LGA, electorate, remoteness classification,
+              and an interactive map with no signup required.
+            </p>
+            <p className="mt-3 max-w-md text-xs leading-5 text-[#7B93B0]">
+              Australian data is sourced from the matthewproctor open dataset.
+              New Zealand data is sourced from GeoNames.
             </p>
           </div>
           <FooterColumn title="Directory" links={footerNav.slice(0, 2)} />

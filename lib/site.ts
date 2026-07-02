@@ -8,8 +8,8 @@ export const siteConfig = {
 
 export const mainNav = [
   { href: "/search", label: "Search" },
-  { href: "/australia", label: "Australia" },
-  { href: "/new-zealand", label: "New Zealand" },
+  { href: "/au", label: "Australia" },
+  { href: "/nz", label: "New Zealand" },
   { href: "/about", label: "About" }
 ];
 
