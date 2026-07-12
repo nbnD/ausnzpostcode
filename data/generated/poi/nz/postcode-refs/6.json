@@ -1,0 +1,4375 @@
+{
+  "schemaVersion": 1,
+  "country": "nz",
+  "partition": "6",
+  "postcodes": {
+    "6011": {
+      "locality": "Aro Valley",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:node:8985300842",
+          "category": "viewpoint",
+          "distanceKm": 0.41
+        },
+        {
+          "id": "osm:way:153924615",
+          "category": "museum",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:way:1026245384",
+          "category": "playground",
+          "distanceKm": 0.55
+        },
+        {
+          "id": "osm:way:250856271",
+          "category": "museum",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:1157164172",
+          "category": "playground",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:way:1165027575",
+          "category": "park",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:way:171565205",
+          "category": "park",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:way:1030542760",
+          "category": "playground",
+          "distanceKm": 0.77
+        },
+        {
+          "id": "osm:node:2640330183",
+          "category": "viewpoint",
+          "distanceKm": 0.77
+        },
+        {
+          "id": "osm:way:178714232",
+          "category": "park",
+          "distanceKm": 0.81
+        },
+        {
+          "id": "osm:way:190557095",
+          "category": "museum",
+          "distanceKm": 0.84
+        },
+        {
+          "id": "osm:way:256784831",
+          "category": "park",
+          "distanceKm": 0.84
+        },
+        {
+          "id": "osm:way:258024530",
+          "category": "park",
+          "distanceKm": 0.84
+        },
+        {
+          "id": "osm:node:1166098689",
+          "category": "museum",
+          "distanceKm": 0.86
+        },
+        {
+          "id": "osm:node:13895119386",
+          "category": "playground",
+          "distanceKm": 0.86
+        },
+        {
+          "id": "osm:way:895396393",
+          "category": "park",
+          "distanceKm": 0.88
+        },
+        {
+          "id": "osm:way:256795379",
+          "category": "park",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:way:624607128",
+          "category": "museum",
+          "distanceKm": 0.91
+        },
+        {
+          "id": "osm:way:292242005",
+          "category": "park",
+          "distanceKm": 0.93
+        },
+        {
+          "id": "osm:way:153924707",
+          "category": "park",
+          "distanceKm": 0.94
+        },
+        {
+          "id": "osm:way:279281469",
+          "category": "park",
+          "distanceKm": 0.98
+        },
+        {
+          "id": "osm:way:263727907",
+          "category": "playground",
+          "distanceKm": 0.99
+        },
+        {
+          "id": "osm:way:269506052",
+          "category": "playground",
+          "distanceKm": 1.01
+        },
+        {
+          "id": "osm:way:292242004",
+          "category": "playground",
+          "distanceKm": 1.01
+        },
+        {
+          "id": "osm:node:8433352757",
+          "category": "viewpoint",
+          "distanceKm": 1.1
+        },
+        {
+          "id": "osm:way:261306998",
+          "category": "dog-park",
+          "distanceKm": 1.15
+        },
+        {
+          "id": "osm:way:258585205",
+          "category": "playground",
+          "distanceKm": 1.23
+        },
+        {
+          "id": "osm:way:1196402888",
+          "category": "playground",
+          "distanceKm": 1.24
+        },
+        {
+          "id": "osm:node:11468556658",
+          "category": "viewpoint",
+          "distanceKm": 1.33
+        },
+        {
+          "id": "osm:node:298051361",
+          "category": "viewpoint",
+          "distanceKm": 1.33
+        }
+      ]
+    },
+    "6012": {
+      "locality": "Aro Valley",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:1196402877",
+          "category": "playground",
+          "distanceKm": 0.08
+        },
+        {
+          "id": "osm:way:587357519",
+          "category": "playground",
+          "distanceKm": 0.09
+        },
+        {
+          "id": "osm:way:587357520",
+          "category": "playground",
+          "distanceKm": 0.11
+        },
+        {
+          "id": "osm:way:20276641",
+          "category": "park",
+          "distanceKm": 0.16
+        },
+        {
+          "id": "osm:way:221468768",
+          "category": "playground",
+          "distanceKm": 0.25
+        },
+        {
+          "id": "osm:way:265744581",
+          "category": "park",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:1196402880",
+          "category": "playground",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:587604223",
+          "category": "park",
+          "distanceKm": 0.77
+        },
+        {
+          "id": "osm:way:264548699",
+          "category": "park",
+          "distanceKm": 0.78
+        },
+        {
+          "id": "osm:way:1121951460",
+          "category": "park",
+          "distanceKm": 0.88
+        },
+        {
+          "id": "osm:way:1391543924",
+          "category": "viewpoint",
+          "distanceKm": 1.03
+        },
+        {
+          "id": "osm:way:20493929",
+          "category": "park",
+          "distanceKm": 1.12
+        },
+        {
+          "id": "osm:node:477077543",
+          "category": "picnic-site",
+          "distanceKm": 1.15
+        },
+        {
+          "id": "osm:node:477077575",
+          "category": "picnic-site",
+          "distanceKm": 1.16
+        },
+        {
+          "id": "osm:way:1205121222",
+          "category": "picnic-site",
+          "distanceKm": 1.19
+        },
+        {
+          "id": "osm:node:477077576",
+          "category": "picnic-site",
+          "distanceKm": 1.22
+        },
+        {
+          "id": "osm:way:1138234879",
+          "category": "playground",
+          "distanceKm": 1.23
+        },
+        {
+          "id": "osm:way:1138234880",
+          "category": "playground",
+          "distanceKm": 1.24
+        },
+        {
+          "id": "osm:way:1138234878",
+          "category": "playground",
+          "distanceKm": 1.25
+        },
+        {
+          "id": "osm:way:1138234883",
+          "category": "playground",
+          "distanceKm": 1.25
+        },
+        {
+          "id": "osm:way:1138234884",
+          "category": "playground",
+          "distanceKm": 1.25
+        },
+        {
+          "id": "osm:way:1464582648",
+          "category": "viewpoint",
+          "distanceKm": 1.25
+        },
+        {
+          "id": "osm:node:477077574",
+          "category": "picnic-site",
+          "distanceKm": 1.27
+        },
+        {
+          "id": "osm:way:265385115",
+          "category": "park",
+          "distanceKm": 1.28
+        },
+        {
+          "id": "osm:way:266762999",
+          "category": "park",
+          "distanceKm": 1.38
+        },
+        {
+          "id": "osm:way:40190287",
+          "category": "park",
+          "distanceKm": 1.38
+        },
+        {
+          "id": "osm:way:26742583",
+          "category": "dog-park",
+          "distanceKm": 1.4
+        },
+        {
+          "id": "osm:way:265385138",
+          "category": "park",
+          "distanceKm": 1.4
+        },
+        {
+          "id": "osm:way:463187794",
+          "category": "dog-park",
+          "distanceKm": 1.51
+        },
+        {
+          "id": "osm:node:477077573",
+          "category": "picnic-site",
+          "distanceKm": 1.59
+        }
+      ]
+    },
+    "6021": {
+      "locality": "Aro Valley",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:963219276",
+          "category": "park",
+          "distanceKm": 0.29
+        },
+        {
+          "id": "osm:way:253005783",
+          "category": "park",
+          "distanceKm": 0.36
+        },
+        {
+          "id": "osm:way:1312978981",
+          "category": "playground",
+          "distanceKm": 0.41
+        },
+        {
+          "id": "osm:way:253005785",
+          "category": "playground",
+          "distanceKm": 0.42
+        },
+        {
+          "id": "osm:way:253005784",
+          "category": "park",
+          "distanceKm": 0.44
+        },
+        {
+          "id": "osm:way:289830966",
+          "category": "playground",
+          "distanceKm": 0.44
+        },
+        {
+          "id": "osm:way:290627875",
+          "category": "playground",
+          "distanceKm": 0.44
+        },
+        {
+          "id": "osm:way:253004962",
+          "category": "park",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:way:270748339",
+          "category": "playground",
+          "distanceKm": 0.48
+        },
+        {
+          "id": "osm:way:270748341",
+          "category": "playground",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:node:298326385",
+          "category": "museum",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:970640054",
+          "category": "playground",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:253004954",
+          "category": "park",
+          "distanceKm": 0.59
+        },
+        {
+          "id": "osm:way:1212646918",
+          "category": "park",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:442026634",
+          "category": "playground",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:168665959",
+          "category": "park",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:way:252106531",
+          "category": "playground",
+          "distanceKm": 0.67
+        },
+        {
+          "id": "osm:way:1017036196",
+          "category": "park",
+          "distanceKm": 0.68
+        },
+        {
+          "id": "osm:way:1243080735",
+          "category": "playground",
+          "distanceKm": 0.68
+        },
+        {
+          "id": "osm:way:1212646920",
+          "category": "park",
+          "distanceKm": 0.7
+        },
+        {
+          "id": "osm:way:202880717",
+          "category": "park",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:1066010977",
+          "category": "museum",
+          "distanceKm": 0.77
+        },
+        {
+          "id": "osm:way:264854202",
+          "category": "museum",
+          "distanceKm": 1
+        },
+        {
+          "id": "osm:node:2628264189",
+          "category": "museum",
+          "distanceKm": 1.05
+        },
+        {
+          "id": "osm:node:170485240",
+          "category": "viewpoint",
+          "distanceKm": 1.64
+        },
+        {
+          "id": "osm:way:190557095",
+          "category": "museum",
+          "distanceKm": 1.68
+        },
+        {
+          "id": "osm:node:2640330183",
+          "category": "viewpoint",
+          "distanceKm": 1.75
+        },
+        {
+          "id": "osm:way:1235069421",
+          "category": "picnic-site",
+          "distanceKm": 1.78
+        },
+        {
+          "id": "osm:way:1235069420",
+          "category": "picnic-site",
+          "distanceKm": 1.79
+        },
+        {
+          "id": "osm:way:1235069422",
+          "category": "picnic-site",
+          "distanceKm": 1.79
+        }
+      ]
+    },
+    "6022": {
+      "locality": "Breaker Bay",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:258042877",
+          "category": "park",
+          "distanceKm": 0.14
+        },
+        {
+          "id": "osm:way:173717952",
+          "category": "park",
+          "distanceKm": 0.18
+        },
+        {
+          "id": "osm:way:440449658",
+          "category": "playground",
+          "distanceKm": 0.19
+        },
+        {
+          "id": "osm:way:431499649",
+          "category": "playground",
+          "distanceKm": 0.23
+        },
+        {
+          "id": "osm:way:222125031",
+          "category": "playground",
+          "distanceKm": 0.24
+        },
+        {
+          "id": "osm:way:222125032",
+          "category": "playground",
+          "distanceKm": 0.25
+        },
+        {
+          "id": "osm:way:269079187",
+          "category": "playground",
+          "distanceKm": 0.25
+        },
+        {
+          "id": "osm:way:431499651",
+          "category": "playground",
+          "distanceKm": 0.36
+        },
+        {
+          "id": "osm:way:265532175",
+          "category": "playground",
+          "distanceKm": 0.42
+        },
+        {
+          "id": "osm:way:265532215",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:way:931742368",
+          "category": "playground",
+          "distanceKm": 0.55
+        },
+        {
+          "id": "osm:way:554783294",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:258043271",
+          "category": "park",
+          "distanceKm": 0.67
+        },
+        {
+          "id": "osm:way:275163542",
+          "category": "park",
+          "distanceKm": 0.71
+        },
+        {
+          "id": "osm:node:8998443970",
+          "category": "viewpoint",
+          "distanceKm": 0.76
+        },
+        {
+          "id": "osm:way:273198148",
+          "category": "park",
+          "distanceKm": 0.79
+        },
+        {
+          "id": "osm:way:264694232",
+          "category": "park",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:way:275163510",
+          "category": "park",
+          "distanceKm": 0.82
+        },
+        {
+          "id": "osm:way:1082449946",
+          "category": "park",
+          "distanceKm": 0.83
+        },
+        {
+          "id": "osm:way:1082449951",
+          "category": "playground",
+          "distanceKm": 0.84
+        },
+        {
+          "id": "osm:way:1169791788",
+          "category": "playground",
+          "distanceKm": 0.94
+        },
+        {
+          "id": "osm:way:1148729401",
+          "category": "dog-park",
+          "distanceKm": 1.79
+        },
+        {
+          "id": "osm:node:6408866830",
+          "category": "viewpoint",
+          "distanceKm": 1.91
+        },
+        {
+          "id": "osm:node:7290102585",
+          "category": "viewpoint",
+          "distanceKm": 2.24
+        },
+        {
+          "id": "osm:node:6436934680",
+          "category": "viewpoint",
+          "distanceKm": 2.42
+        },
+        {
+          "id": "osm:way:1235069420",
+          "category": "picnic-site",
+          "distanceKm": 2.7
+        },
+        {
+          "id": "osm:way:1235069421",
+          "category": "picnic-site",
+          "distanceKm": 2.74
+        },
+        {
+          "id": "osm:way:1235069422",
+          "category": "picnic-site",
+          "distanceKm": 2.74
+        },
+        {
+          "id": "osm:node:296293162",
+          "category": "viewpoint",
+          "distanceKm": 2.75
+        },
+        {
+          "id": "osm:way:257564578",
+          "category": "picnic-site",
+          "distanceKm": 2.77
+        }
+      ]
+    },
+    "6023": {
+      "locality": "Berhampore",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:289963420",
+          "category": "playground",
+          "distanceKm": 0.98
+        },
+        {
+          "id": "osm:way:1218632145",
+          "category": "park",
+          "distanceKm": 1.28
+        },
+        {
+          "id": "osm:way:26585828",
+          "category": "park",
+          "distanceKm": 1.46
+        },
+        {
+          "id": "osm:way:441542284",
+          "category": "playground",
+          "distanceKm": 1.77
+        },
+        {
+          "id": "osm:way:326487876",
+          "category": "public-bbq",
+          "distanceKm": 1.78
+        },
+        {
+          "id": "osm:way:291008421",
+          "category": "playground",
+          "distanceKm": 1.79
+        },
+        {
+          "id": "osm:node:4392897586",
+          "category": "playground",
+          "distanceKm": 1.81
+        },
+        {
+          "id": "osm:node:4392897587",
+          "category": "playground",
+          "distanceKm": 1.81
+        },
+        {
+          "id": "osm:node:4392897588",
+          "category": "playground",
+          "distanceKm": 1.81
+        },
+        {
+          "id": "osm:way:441542839",
+          "category": "playground",
+          "distanceKm": 1.81
+        },
+        {
+          "id": "osm:node:4392897585",
+          "category": "playground",
+          "distanceKm": 1.82
+        },
+        {
+          "id": "osm:way:222447997",
+          "category": "park",
+          "distanceKm": 1.82
+        },
+        {
+          "id": "osm:way:26471257",
+          "category": "park",
+          "distanceKm": 1.83
+        },
+        {
+          "id": "osm:way:441542282",
+          "category": "playground",
+          "distanceKm": 1.83
+        },
+        {
+          "id": "osm:way:265126606",
+          "category": "playground",
+          "distanceKm": 1.84
+        },
+        {
+          "id": "osm:way:589543326",
+          "category": "park",
+          "distanceKm": 1.84
+        },
+        {
+          "id": "osm:way:1243966987",
+          "category": "park",
+          "distanceKm": 1.85
+        },
+        {
+          "id": "osm:way:441542287",
+          "category": "public-bbq",
+          "distanceKm": 1.85
+        },
+        {
+          "id": "osm:way:291269522",
+          "category": "park",
+          "distanceKm": 1.9
+        },
+        {
+          "id": "osm:way:26639209",
+          "category": "dog-park",
+          "distanceKm": 1.93
+        },
+        {
+          "id": "osm:way:291008420",
+          "category": "park",
+          "distanceKm": 2
+        },
+        {
+          "id": "osm:way:1064465002",
+          "category": "park",
+          "distanceKm": 2.07
+        },
+        {
+          "id": "osm:way:1065089561",
+          "category": "park",
+          "distanceKm": 2.22
+        },
+        {
+          "id": "osm:way:26639205",
+          "category": "dog-park",
+          "distanceKm": 2.4
+        },
+        {
+          "id": "osm:way:995993030",
+          "category": "dog-park",
+          "distanceKm": 2.76
+        },
+        {
+          "id": "osm:node:447755989",
+          "category": "viewpoint",
+          "distanceKm": 2.99
+        },
+        {
+          "id": "osm:way:1235074473",
+          "category": "picnic-site",
+          "distanceKm": 3.17
+        },
+        {
+          "id": "osm:node:292203292",
+          "category": "viewpoint",
+          "distanceKm": 3.25
+        },
+        {
+          "id": "osm:way:1235074474",
+          "category": "picnic-site",
+          "distanceKm": 3.29
+        },
+        {
+          "id": "osm:way:257564578",
+          "category": "picnic-site",
+          "distanceKm": 3.36
+        }
+      ]
+    },
+    "6035": {
+      "locality": "Broadmeadows",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:node:8481707036",
+          "category": "playground",
+          "distanceKm": 0.68
+        },
+        {
+          "id": "osm:way:913037180",
+          "category": "park",
+          "distanceKm": 0.68
+        },
+        {
+          "id": "osm:node:2685676737",
+          "category": "viewpoint",
+          "distanceKm": 0.7
+        },
+        {
+          "id": "osm:way:1454398343",
+          "category": "park",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:985674547",
+          "category": "playground",
+          "distanceKm": 0.77
+        },
+        {
+          "id": "osm:node:10728579606",
+          "category": "viewpoint",
+          "distanceKm": 0.79
+        },
+        {
+          "id": "osm:way:985674548",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:way:1321493902",
+          "category": "park",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:way:1419027244",
+          "category": "playground",
+          "distanceKm": 0.88
+        },
+        {
+          "id": "osm:way:913038349",
+          "category": "park",
+          "distanceKm": 0.94
+        },
+        {
+          "id": "osm:node:509903412",
+          "category": "viewpoint",
+          "distanceKm": 0.95
+        },
+        {
+          "id": "osm:way:188312066",
+          "category": "park",
+          "distanceKm": 1.12
+        },
+        {
+          "id": "osm:way:977750882",
+          "category": "playground",
+          "distanceKm": 1.16
+        },
+        {
+          "id": "osm:way:220569668",
+          "category": "park",
+          "distanceKm": 1.19
+        },
+        {
+          "id": "osm:way:133590828",
+          "category": "park",
+          "distanceKm": 1.26
+        },
+        {
+          "id": "osm:way:41647138",
+          "category": "park",
+          "distanceKm": 1.65
+        },
+        {
+          "id": "osm:way:305658624",
+          "category": "dog-park",
+          "distanceKm": 1.72
+        },
+        {
+          "id": "osm:way:305658621",
+          "category": "playground",
+          "distanceKm": 1.74
+        },
+        {
+          "id": "osm:node:8356441101",
+          "category": "viewpoint",
+          "distanceKm": 1.81
+        },
+        {
+          "id": "osm:node:1611089912",
+          "category": "picnic-site",
+          "distanceKm": 1.81
+        },
+        {
+          "id": "osm:node:3659565908",
+          "category": "viewpoint",
+          "distanceKm": 1.83
+        },
+        {
+          "id": "osm:way:323141590",
+          "category": "playground",
+          "distanceKm": 1.86
+        },
+        {
+          "id": "osm:way:270764922",
+          "category": "dog-park",
+          "distanceKm": 1.96
+        },
+        {
+          "id": "osm:node:10218649993",
+          "category": "viewpoint",
+          "distanceKm": 2.02
+        },
+        {
+          "id": "osm:way:1204347709",
+          "category": "park",
+          "distanceKm": 2.02
+        },
+        {
+          "id": "osm:way:220444700",
+          "category": "park",
+          "distanceKm": 2.06
+        },
+        {
+          "id": "osm:way:904075295",
+          "category": "playground",
+          "distanceKm": 2.07
+        },
+        {
+          "id": "osm:way:977497622",
+          "category": "playground",
+          "distanceKm": 2.08
+        },
+        {
+          "id": "osm:node:4576099205",
+          "category": "picnic-site",
+          "distanceKm": 2.11
+        },
+        {
+          "id": "osm:node:13838082641",
+          "category": "viewpoint",
+          "distanceKm": 2.21
+        }
+      ]
+    },
+    "6037": {
+      "locality": "Churton Park",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:node:8891565001",
+          "category": "viewpoint",
+          "distanceKm": 1.89
+        },
+        {
+          "id": "osm:way:961198629",
+          "category": "park",
+          "distanceKm": 1.9
+        },
+        {
+          "id": "osm:way:961216424",
+          "category": "park",
+          "distanceKm": 1.9
+        },
+        {
+          "id": "osm:way:961216426",
+          "category": "playground",
+          "distanceKm": 1.9
+        },
+        {
+          "id": "osm:way:961216408",
+          "category": "playground",
+          "distanceKm": 1.91
+        },
+        {
+          "id": "osm:way:961216425",
+          "category": "playground",
+          "distanceKm": 1.91
+        },
+        {
+          "id": "osm:way:220569669",
+          "category": "park",
+          "distanceKm": 1.93
+        },
+        {
+          "id": "osm:way:204867294",
+          "category": "park",
+          "distanceKm": 2.13
+        },
+        {
+          "id": "osm:way:812958261",
+          "category": "park",
+          "distanceKm": 2.27
+        },
+        {
+          "id": "osm:way:220331292",
+          "category": "park",
+          "distanceKm": 2.31
+        },
+        {
+          "id": "osm:way:142086803",
+          "category": "park",
+          "distanceKm": 2.39
+        },
+        {
+          "id": "osm:way:112970214",
+          "category": "park",
+          "distanceKm": 2.53
+        },
+        {
+          "id": "osm:way:133605624",
+          "category": "playground",
+          "distanceKm": 2.55
+        },
+        {
+          "id": "osm:node:6252781189",
+          "category": "park",
+          "distanceKm": 2.66
+        },
+        {
+          "id": "osm:way:130818402",
+          "category": "park",
+          "distanceKm": 2.68
+        },
+        {
+          "id": "osm:way:130818409",
+          "category": "playground",
+          "distanceKm": 2.96
+        },
+        {
+          "id": "osm:way:504521743",
+          "category": "playground",
+          "distanceKm": 3
+        },
+        {
+          "id": "osm:way:871514100",
+          "category": "playground",
+          "distanceKm": 3.25
+        },
+        {
+          "id": "osm:way:1208404187",
+          "category": "playground",
+          "distanceKm": 3.33
+        },
+        {
+          "id": "osm:way:1208404190",
+          "category": "playground",
+          "distanceKm": 3.38
+        },
+        {
+          "id": "osm:way:766403097",
+          "category": "playground",
+          "distanceKm": 3.6
+        },
+        {
+          "id": "osm:node:4576099205",
+          "category": "picnic-site",
+          "distanceKm": 3.73
+        },
+        {
+          "id": "osm:way:577462520",
+          "category": "dog-park",
+          "distanceKm": 4.07
+        },
+        {
+          "id": "osm:node:8985938063",
+          "category": "viewpoint",
+          "distanceKm": 4.17
+        },
+        {
+          "id": "osm:way:30327611",
+          "category": "dog-park",
+          "distanceKm": 4.21
+        },
+        {
+          "id": "osm:node:3659565908",
+          "category": "viewpoint",
+          "distanceKm": 4.34
+        },
+        {
+          "id": "osm:node:1611089912",
+          "category": "picnic-site",
+          "distanceKm": 4.36
+        },
+        {
+          "id": "osm:node:10017248397",
+          "category": "public-bbq",
+          "distanceKm": 4.77
+        },
+        {
+          "id": "osm:node:10017248398",
+          "category": "public-bbq",
+          "distanceKm": 4.77
+        },
+        {
+          "id": "osm:node:509903412",
+          "category": "viewpoint",
+          "distanceKm": 4.93
+        }
+      ]
+    },
+    "6140": {
+      "locality": "Mount Victoria",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:node:8985300842",
+          "category": "viewpoint",
+          "distanceKm": 0.21
+        },
+        {
+          "id": "osm:way:1165027575",
+          "category": "park",
+          "distanceKm": 0.3
+        },
+        {
+          "id": "osm:way:153924615",
+          "category": "museum",
+          "distanceKm": 0.32
+        },
+        {
+          "id": "osm:way:1030542760",
+          "category": "playground",
+          "distanceKm": 0.35
+        },
+        {
+          "id": "osm:node:1166098689",
+          "category": "museum",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:895396393",
+          "category": "park",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:256795379",
+          "category": "park",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:way:624607128",
+          "category": "museum",
+          "distanceKm": 0.46
+        },
+        {
+          "id": "osm:way:1026245384",
+          "category": "playground",
+          "distanceKm": 0.48
+        },
+        {
+          "id": "osm:way:250856271",
+          "category": "museum",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:way:279281469",
+          "category": "park",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:269506052",
+          "category": "playground",
+          "distanceKm": 0.59
+        },
+        {
+          "id": "osm:way:1157164172",
+          "category": "playground",
+          "distanceKm": 0.62
+        },
+        {
+          "id": "osm:way:25656717",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:node:8433352757",
+          "category": "viewpoint",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:way:256795384",
+          "category": "park",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:way:171565205",
+          "category": "park",
+          "distanceKm": 0.71
+        },
+        {
+          "id": "osm:way:258693488",
+          "category": "park",
+          "distanceKm": 0.81
+        },
+        {
+          "id": "osm:way:178714232",
+          "category": "park",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:13895119386",
+          "category": "playground",
+          "distanceKm": 0.88
+        },
+        {
+          "id": "osm:node:298051361",
+          "category": "viewpoint",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:way:256784831",
+          "category": "park",
+          "distanceKm": 0.91
+        },
+        {
+          "id": "osm:way:258585205",
+          "category": "playground",
+          "distanceKm": 0.92
+        },
+        {
+          "id": "osm:node:11468556658",
+          "category": "viewpoint",
+          "distanceKm": 0.95
+        },
+        {
+          "id": "osm:way:261306998",
+          "category": "dog-park",
+          "distanceKm": 0.96
+        },
+        {
+          "id": "osm:node:2640330183",
+          "category": "viewpoint",
+          "distanceKm": 1
+        },
+        {
+          "id": "osm:node:3895622387",
+          "category": "viewpoint",
+          "distanceKm": 1.01
+        },
+        {
+          "id": "osm:way:1169791151",
+          "category": "playground",
+          "distanceKm": 1.06
+        },
+        {
+          "id": "osm:way:190557095",
+          "category": "museum",
+          "distanceKm": 1.07
+        },
+        {
+          "id": "osm:node:298045496",
+          "category": "viewpoint",
+          "distanceKm": 1.08
+        }
+      ]
+    },
+    "6141": {
+      "locality": "Mount Victoria",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:1027590039",
+          "category": "park",
+          "distanceKm": 0.12
+        },
+        {
+          "id": "osm:way:752299359",
+          "category": "playground",
+          "distanceKm": 0.13
+        },
+        {
+          "id": "osm:way:1027600537",
+          "category": "park",
+          "distanceKm": 0.14
+        },
+        {
+          "id": "osm:way:1196402888",
+          "category": "playground",
+          "distanceKm": 0.21
+        },
+        {
+          "id": "osm:way:1145611232",
+          "category": "park",
+          "distanceKm": 0.28
+        },
+        {
+          "id": "osm:way:1150346899",
+          "category": "park",
+          "distanceKm": 0.29
+        },
+        {
+          "id": "osm:way:256400309",
+          "category": "park",
+          "distanceKm": 0.33
+        },
+        {
+          "id": "osm:way:556371110",
+          "category": "playground",
+          "distanceKm": 0.39
+        },
+        {
+          "id": "osm:way:256790614",
+          "category": "park",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:node:2628264189",
+          "category": "museum",
+          "distanceKm": 0.46
+        },
+        {
+          "id": "osm:way:1083055202",
+          "category": "park",
+          "distanceKm": 0.49
+        },
+        {
+          "id": "osm:way:202880717",
+          "category": "park",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:way:1066010977",
+          "category": "museum",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:375664954",
+          "category": "park",
+          "distanceKm": 0.56
+        },
+        {
+          "id": "osm:way:1448214357",
+          "category": "playground",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:258024530",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:252037101",
+          "category": "playground",
+          "distanceKm": 0.62
+        },
+        {
+          "id": "osm:node:13895119386",
+          "category": "playground",
+          "distanceKm": 0.62
+        },
+        {
+          "id": "osm:way:956044484",
+          "category": "playground",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:way:190557095",
+          "category": "museum",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:node:298326385",
+          "category": "museum",
+          "distanceKm": 0.7
+        },
+        {
+          "id": "osm:node:2640330183",
+          "category": "viewpoint",
+          "distanceKm": 0.71
+        },
+        {
+          "id": "osm:way:656861294",
+          "category": "playground",
+          "distanceKm": 0.72
+        },
+        {
+          "id": "osm:way:1152593521",
+          "category": "playground",
+          "distanceKm": 0.76
+        },
+        {
+          "id": "osm:way:264854202",
+          "category": "museum",
+          "distanceKm": 0.77
+        },
+        {
+          "id": "osm:way:261306998",
+          "category": "dog-park",
+          "distanceKm": 0.84
+        },
+        {
+          "id": "osm:way:293136962",
+          "category": "playground",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:8682259908",
+          "category": "museum",
+          "distanceKm": 0.88
+        },
+        {
+          "id": "osm:way:250856271",
+          "category": "museum",
+          "distanceKm": 1
+        },
+        {
+          "id": "osm:node:6285372204",
+          "category": "viewpoint",
+          "distanceKm": 1.16
+        }
+      ]
+    },
+    "6142": {
+      "locality": "Mount Victoria",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:1083055202",
+          "category": "park",
+          "distanceKm": 0.06
+        },
+        {
+          "id": "osm:way:256400309",
+          "category": "park",
+          "distanceKm": 0.15
+        },
+        {
+          "id": "osm:way:375664954",
+          "category": "park",
+          "distanceKm": 0.22
+        },
+        {
+          "id": "osm:node:13895119386",
+          "category": "playground",
+          "distanceKm": 0.22
+        },
+        {
+          "id": "osm:way:1196402888",
+          "category": "playground",
+          "distanceKm": 0.24
+        },
+        {
+          "id": "osm:way:375664956",
+          "category": "park",
+          "distanceKm": 0.25
+        },
+        {
+          "id": "osm:way:256784831",
+          "category": "park",
+          "distanceKm": 0.25
+        },
+        {
+          "id": "osm:way:178714232",
+          "category": "park",
+          "distanceKm": 0.27
+        },
+        {
+          "id": "osm:way:1145611232",
+          "category": "park",
+          "distanceKm": 0.29
+        },
+        {
+          "id": "osm:way:258024530",
+          "category": "park",
+          "distanceKm": 0.29
+        },
+        {
+          "id": "osm:way:1150346899",
+          "category": "park",
+          "distanceKm": 0.3
+        },
+        {
+          "id": "osm:way:256790614",
+          "category": "park",
+          "distanceKm": 0.33
+        },
+        {
+          "id": "osm:way:261306998",
+          "category": "dog-park",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:way:1157164172",
+          "category": "playground",
+          "distanceKm": 0.49
+        },
+        {
+          "id": "osm:way:190557095",
+          "category": "museum",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:2640330183",
+          "category": "viewpoint",
+          "distanceKm": 0.55
+        },
+        {
+          "id": "osm:way:752299359",
+          "category": "playground",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:250856271",
+          "category": "museum",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:1026245384",
+          "category": "playground",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:8682259908",
+          "category": "museum",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:956044484",
+          "category": "playground",
+          "distanceKm": 0.67
+        },
+        {
+          "id": "osm:way:153924615",
+          "category": "museum",
+          "distanceKm": 0.76
+        },
+        {
+          "id": "osm:way:258585205",
+          "category": "playground",
+          "distanceKm": 0.78
+        },
+        {
+          "id": "osm:way:252037101",
+          "category": "playground",
+          "distanceKm": 0.79
+        },
+        {
+          "id": "osm:node:6285372204",
+          "category": "viewpoint",
+          "distanceKm": 0.82
+        },
+        {
+          "id": "osm:node:6285372205",
+          "category": "viewpoint",
+          "distanceKm": 0.82
+        },
+        {
+          "id": "osm:node:2628264189",
+          "category": "museum",
+          "distanceKm": 0.83
+        },
+        {
+          "id": "osm:node:6285372206",
+          "category": "viewpoint",
+          "distanceKm": 0.83
+        },
+        {
+          "id": "osm:way:1448214357",
+          "category": "playground",
+          "distanceKm": 0.83
+        },
+        {
+          "id": "osm:way:556371110",
+          "category": "playground",
+          "distanceKm": 0.83
+        }
+      ]
+    },
+    "6143": {
+      "locality": "Kelburn",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:1165027575",
+          "category": "park",
+          "distanceKm": 0.11
+        },
+        {
+          "id": "osm:way:256795379",
+          "category": "park",
+          "distanceKm": 0.23
+        },
+        {
+          "id": "osm:way:153924615",
+          "category": "museum",
+          "distanceKm": 0.29
+        },
+        {
+          "id": "osm:way:624607128",
+          "category": "museum",
+          "distanceKm": 0.34
+        },
+        {
+          "id": "osm:node:8985300842",
+          "category": "viewpoint",
+          "distanceKm": 0.36
+        },
+        {
+          "id": "osm:node:1166098689",
+          "category": "museum",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:1026245384",
+          "category": "playground",
+          "distanceKm": 0.41
+        },
+        {
+          "id": "osm:way:250856271",
+          "category": "museum",
+          "distanceKm": 0.41
+        },
+        {
+          "id": "osm:way:25656717",
+          "category": "park",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:279281469",
+          "category": "park",
+          "distanceKm": 0.44
+        },
+        {
+          "id": "osm:way:895396393",
+          "category": "park",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:node:8433352757",
+          "category": "viewpoint",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:258585205",
+          "category": "playground",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:1030542760",
+          "category": "playground",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:way:1157164172",
+          "category": "playground",
+          "distanceKm": 0.55
+        },
+        {
+          "id": "osm:node:11468556658",
+          "category": "viewpoint",
+          "distanceKm": 0.56
+        },
+        {
+          "id": "osm:node:298051361",
+          "category": "viewpoint",
+          "distanceKm": 0.59
+        },
+        {
+          "id": "osm:node:3895622387",
+          "category": "viewpoint",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:way:261306998",
+          "category": "dog-park",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:171565205",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:node:298045496",
+          "category": "viewpoint",
+          "distanceKm": 0.67
+        },
+        {
+          "id": "osm:node:11840425128",
+          "category": "museum",
+          "distanceKm": 0.69
+        },
+        {
+          "id": "osm:node:6285372206",
+          "category": "viewpoint",
+          "distanceKm": 0.69
+        },
+        {
+          "id": "osm:way:252061659",
+          "category": "museum",
+          "distanceKm": 0.7
+        },
+        {
+          "id": "osm:way:269506052",
+          "category": "playground",
+          "distanceKm": 0.7
+        },
+        {
+          "id": "osm:way:178714232",
+          "category": "park",
+          "distanceKm": 0.71
+        },
+        {
+          "id": "osm:node:6285372205",
+          "category": "viewpoint",
+          "distanceKm": 0.71
+        },
+        {
+          "id": "osm:node:13895119386",
+          "category": "playground",
+          "distanceKm": 0.72
+        },
+        {
+          "id": "osm:node:6285372204",
+          "category": "viewpoint",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:375664956",
+          "category": "park",
+          "distanceKm": 0.75
+        }
+      ]
+    },
+    "6144": {
+      "locality": "Kaiwharawhara",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:256795384",
+          "category": "park",
+          "distanceKm": 0.09
+        },
+        {
+          "id": "osm:way:269506052",
+          "category": "playground",
+          "distanceKm": 0.18
+        },
+        {
+          "id": "osm:way:1030542760",
+          "category": "playground",
+          "distanceKm": 0.25
+        },
+        {
+          "id": "osm:way:258693488",
+          "category": "park",
+          "distanceKm": 0.3
+        },
+        {
+          "id": "osm:way:895396393",
+          "category": "park",
+          "distanceKm": 0.36
+        },
+        {
+          "id": "osm:node:1166098689",
+          "category": "museum",
+          "distanceKm": 0.41
+        },
+        {
+          "id": "osm:way:279281469",
+          "category": "park",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:way:165562157",
+          "category": "park",
+          "distanceKm": 0.46
+        },
+        {
+          "id": "osm:way:624607128",
+          "category": "museum",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:way:1169791151",
+          "category": "playground",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:node:8433352757",
+          "category": "viewpoint",
+          "distanceKm": 0.59
+        },
+        {
+          "id": "osm:way:256795379",
+          "category": "park",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:25656717",
+          "category": "park",
+          "distanceKm": 0.62
+        },
+        {
+          "id": "osm:way:961233762",
+          "category": "park",
+          "distanceKm": 0.62
+        },
+        {
+          "id": "osm:way:343355722",
+          "category": "museum",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:way:1165027575",
+          "category": "park",
+          "distanceKm": 0.72
+        },
+        {
+          "id": "osm:node:8985300842",
+          "category": "viewpoint",
+          "distanceKm": 0.77
+        },
+        {
+          "id": "osm:way:153924615",
+          "category": "museum",
+          "distanceKm": 0.86
+        },
+        {
+          "id": "osm:way:961241992",
+          "category": "park",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:298051361",
+          "category": "viewpoint",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:way:1026245384",
+          "category": "playground",
+          "distanceKm": 1.03
+        },
+        {
+          "id": "osm:way:250856271",
+          "category": "museum",
+          "distanceKm": 1.05
+        },
+        {
+          "id": "osm:node:7469489833",
+          "category": "viewpoint",
+          "distanceKm": 1.06
+        },
+        {
+          "id": "osm:node:11468556658",
+          "category": "viewpoint",
+          "distanceKm": 1.08
+        },
+        {
+          "id": "osm:way:1157164172",
+          "category": "playground",
+          "distanceKm": 1.18
+        },
+        {
+          "id": "osm:way:258585205",
+          "category": "playground",
+          "distanceKm": 1.22
+        },
+        {
+          "id": "osm:node:10943683694",
+          "category": "viewpoint",
+          "distanceKm": 1.25
+        },
+        {
+          "id": "osm:node:3895622387",
+          "category": "viewpoint",
+          "distanceKm": 1.25
+        },
+        {
+          "id": "osm:node:11840425128",
+          "category": "museum",
+          "distanceKm": 1.3
+        },
+        {
+          "id": "osm:way:945934109",
+          "category": "playground",
+          "distanceKm": 1.31
+        }
+      ]
+    },
+    "6145": {
+      "locality": "Kelburn",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:node:1166098689",
+          "category": "museum",
+          "distanceKm": 0.11
+        },
+        {
+          "id": "osm:way:624607128",
+          "category": "museum",
+          "distanceKm": 0.16
+        },
+        {
+          "id": "osm:way:895396393",
+          "category": "park",
+          "distanceKm": 0.16
+        },
+        {
+          "id": "osm:way:256795379",
+          "category": "park",
+          "distanceKm": 0.19
+        },
+        {
+          "id": "osm:way:1030542760",
+          "category": "playground",
+          "distanceKm": 0.22
+        },
+        {
+          "id": "osm:way:279281469",
+          "category": "park",
+          "distanceKm": 0.22
+        },
+        {
+          "id": "osm:way:1165027575",
+          "category": "park",
+          "distanceKm": 0.28
+        },
+        {
+          "id": "osm:way:25656717",
+          "category": "park",
+          "distanceKm": 0.34
+        },
+        {
+          "id": "osm:node:8433352757",
+          "category": "viewpoint",
+          "distanceKm": 0.35
+        },
+        {
+          "id": "osm:way:269506052",
+          "category": "playground",
+          "distanceKm": 0.39
+        },
+        {
+          "id": "osm:node:8985300842",
+          "category": "viewpoint",
+          "distanceKm": 0.42
+        },
+        {
+          "id": "osm:way:153924615",
+          "category": "museum",
+          "distanceKm": 0.46
+        },
+        {
+          "id": "osm:way:256795384",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:298051361",
+          "category": "viewpoint",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:1026245384",
+          "category": "playground",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:250856271",
+          "category": "museum",
+          "distanceKm": 0.64
+        },
+        {
+          "id": "osm:node:11468556658",
+          "category": "viewpoint",
+          "distanceKm": 0.71
+        },
+        {
+          "id": "osm:way:258693488",
+          "category": "park",
+          "distanceKm": 0.76
+        },
+        {
+          "id": "osm:way:1157164172",
+          "category": "playground",
+          "distanceKm": 0.78
+        },
+        {
+          "id": "osm:way:258585205",
+          "category": "playground",
+          "distanceKm": 0.78
+        },
+        {
+          "id": "osm:node:3895622387",
+          "category": "viewpoint",
+          "distanceKm": 0.83
+        },
+        {
+          "id": "osm:way:171565205",
+          "category": "park",
+          "distanceKm": 0.87
+        },
+        {
+          "id": "osm:node:11840425128",
+          "category": "museum",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:way:165562157",
+          "category": "park",
+          "distanceKm": 0.92
+        },
+        {
+          "id": "osm:way:261306998",
+          "category": "dog-park",
+          "distanceKm": 0.92
+        },
+        {
+          "id": "osm:node:298045496",
+          "category": "viewpoint",
+          "distanceKm": 0.92
+        },
+        {
+          "id": "osm:way:252061659",
+          "category": "museum",
+          "distanceKm": 0.94
+        },
+        {
+          "id": "osm:node:6285372206",
+          "category": "viewpoint",
+          "distanceKm": 0.95
+        },
+        {
+          "id": "osm:node:6285372205",
+          "category": "viewpoint",
+          "distanceKm": 0.96
+        },
+        {
+          "id": "osm:way:178714232",
+          "category": "park",
+          "distanceKm": 0.98
+        }
+      ]
+    },
+    "6146": {
+      "locality": "Mount Victoria",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:153924615",
+          "category": "museum",
+          "distanceKm": 0.16
+        },
+        {
+          "id": "osm:way:1165027575",
+          "category": "park",
+          "distanceKm": 0.17
+        },
+        {
+          "id": "osm:way:1026245384",
+          "category": "playground",
+          "distanceKm": 0.23
+        },
+        {
+          "id": "osm:way:250856271",
+          "category": "museum",
+          "distanceKm": 0.23
+        },
+        {
+          "id": "osm:node:8985300842",
+          "category": "viewpoint",
+          "distanceKm": 0.27
+        },
+        {
+          "id": "osm:way:1157164172",
+          "category": "playground",
+          "distanceKm": 0.37
+        },
+        {
+          "id": "osm:way:256795379",
+          "category": "park",
+          "distanceKm": 0.41
+        },
+        {
+          "id": "osm:way:171565205",
+          "category": "park",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:way:624607128",
+          "category": "museum",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:node:1166098689",
+          "category": "museum",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:way:178714232",
+          "category": "park",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:way:261306998",
+          "category": "dog-park",
+          "distanceKm": 0.55
+        },
+        {
+          "id": "osm:node:13895119386",
+          "category": "playground",
+          "distanceKm": 0.55
+        },
+        {
+          "id": "osm:way:258585205",
+          "category": "playground",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:895396393",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:way:256784831",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:way:25656717",
+          "category": "park",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:279281469",
+          "category": "park",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:1030542760",
+          "category": "playground",
+          "distanceKm": 0.64
+        },
+        {
+          "id": "osm:node:8433352757",
+          "category": "viewpoint",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:way:375664956",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:way:1083055202",
+          "category": "park",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:node:3895622387",
+          "category": "viewpoint",
+          "distanceKm": 0.68
+        },
+        {
+          "id": "osm:node:11468556658",
+          "category": "viewpoint",
+          "distanceKm": 0.69
+        },
+        {
+          "id": "osm:node:298045496",
+          "category": "viewpoint",
+          "distanceKm": 0.72
+        },
+        {
+          "id": "osm:node:6285372205",
+          "category": "viewpoint",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:6285372206",
+          "category": "viewpoint",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:252061659",
+          "category": "museum",
+          "distanceKm": 0.76
+        },
+        {
+          "id": "osm:node:298051361",
+          "category": "viewpoint",
+          "distanceKm": 0.76
+        },
+        {
+          "id": "osm:node:11840425128",
+          "category": "museum",
+          "distanceKm": 0.77
+        }
+      ]
+    },
+    "6147": {
+      "locality": "Karori",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:1196402877",
+          "category": "playground",
+          "distanceKm": 0.36
+        },
+        {
+          "id": "osm:way:221468768",
+          "category": "playground",
+          "distanceKm": 0.36
+        },
+        {
+          "id": "osm:way:587357519",
+          "category": "playground",
+          "distanceKm": 0.36
+        },
+        {
+          "id": "osm:way:587357520",
+          "category": "playground",
+          "distanceKm": 0.36
+        },
+        {
+          "id": "osm:way:20276641",
+          "category": "park",
+          "distanceKm": 0.46
+        },
+        {
+          "id": "osm:way:587604223",
+          "category": "park",
+          "distanceKm": 0.46
+        },
+        {
+          "id": "osm:way:265744581",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:way:1196402880",
+          "category": "playground",
+          "distanceKm": 0.67
+        },
+        {
+          "id": "osm:way:1138234879",
+          "category": "playground",
+          "distanceKm": 0.94
+        },
+        {
+          "id": "osm:way:1138234878",
+          "category": "playground",
+          "distanceKm": 0.95
+        },
+        {
+          "id": "osm:way:1138234880",
+          "category": "playground",
+          "distanceKm": 0.95
+        },
+        {
+          "id": "osm:way:1138234877",
+          "category": "playground",
+          "distanceKm": 0.96
+        },
+        {
+          "id": "osm:way:1138234883",
+          "category": "playground",
+          "distanceKm": 0.96
+        },
+        {
+          "id": "osm:way:40190287",
+          "category": "park",
+          "distanceKm": 1.08
+        },
+        {
+          "id": "osm:way:1008418774",
+          "category": "park",
+          "distanceKm": 1.13
+        },
+        {
+          "id": "osm:way:264548699",
+          "category": "park",
+          "distanceKm": 1.14
+        },
+        {
+          "id": "osm:way:1121951460",
+          "category": "park",
+          "distanceKm": 1.22
+        },
+        {
+          "id": "osm:way:1391543924",
+          "category": "viewpoint",
+          "distanceKm": 1.26
+        },
+        {
+          "id": "osm:way:20493929",
+          "category": "park",
+          "distanceKm": 1.43
+        },
+        {
+          "id": "osm:way:265385138",
+          "category": "park",
+          "distanceKm": 1.51
+        },
+        {
+          "id": "osm:node:477077543",
+          "category": "picnic-site",
+          "distanceKm": 1.52
+        },
+        {
+          "id": "osm:node:477077575",
+          "category": "picnic-site",
+          "distanceKm": 1.52
+        },
+        {
+          "id": "osm:way:1205121222",
+          "category": "picnic-site",
+          "distanceKm": 1.53
+        },
+        {
+          "id": "osm:way:265385115",
+          "category": "park",
+          "distanceKm": 1.53
+        },
+        {
+          "id": "osm:way:1464582648",
+          "category": "viewpoint",
+          "distanceKm": 1.54
+        },
+        {
+          "id": "osm:way:26742583",
+          "category": "dog-park",
+          "distanceKm": 1.56
+        },
+        {
+          "id": "osm:node:477077574",
+          "category": "picnic-site",
+          "distanceKm": 1.57
+        },
+        {
+          "id": "osm:node:477077576",
+          "category": "picnic-site",
+          "distanceKm": 1.59
+        },
+        {
+          "id": "osm:way:463187794",
+          "category": "dog-park",
+          "distanceKm": 1.67
+        },
+        {
+          "id": "osm:node:477077573",
+          "category": "picnic-site",
+          "distanceKm": 1.83
+        }
+      ]
+    },
+    "6148": {
+      "locality": "Mount Victoria",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:1165027575",
+          "category": "park",
+          "distanceKm": 0.23
+        },
+        {
+          "id": "osm:way:153924615",
+          "category": "museum",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:way:250856271",
+          "category": "museum",
+          "distanceKm": 0.28
+        },
+        {
+          "id": "osm:way:1026245384",
+          "category": "playground",
+          "distanceKm": 0.29
+        },
+        {
+          "id": "osm:node:8985300842",
+          "category": "viewpoint",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:way:1157164172",
+          "category": "playground",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:256795379",
+          "category": "park",
+          "distanceKm": 0.42
+        },
+        {
+          "id": "osm:way:261306998",
+          "category": "dog-park",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:way:171565205",
+          "category": "park",
+          "distanceKm": 0.46
+        },
+        {
+          "id": "osm:way:258585205",
+          "category": "playground",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:178714232",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:way:624607128",
+          "category": "museum",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:13895119386",
+          "category": "playground",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:1166098689",
+          "category": "museum",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:375664956",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:node:3895622387",
+          "category": "viewpoint",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:256784831",
+          "category": "park",
+          "distanceKm": 0.59
+        },
+        {
+          "id": "osm:way:25656717",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:11468556658",
+          "category": "viewpoint",
+          "distanceKm": 0.62
+        },
+        {
+          "id": "osm:way:1083055202",
+          "category": "park",
+          "distanceKm": 0.62
+        },
+        {
+          "id": "osm:way:279281469",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:375664954",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:node:298045496",
+          "category": "viewpoint",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:node:6285372205",
+          "category": "viewpoint",
+          "distanceKm": 0.64
+        },
+        {
+          "id": "osm:node:6285372206",
+          "category": "viewpoint",
+          "distanceKm": 0.64
+        },
+        {
+          "id": "osm:node:8433352757",
+          "category": "viewpoint",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:way:252061659",
+          "category": "museum",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:node:11840425128",
+          "category": "museum",
+          "distanceKm": 0.67
+        },
+        {
+          "id": "osm:node:6285372204",
+          "category": "viewpoint",
+          "distanceKm": 0.67
+        },
+        {
+          "id": "osm:way:1030542760",
+          "category": "playground",
+          "distanceKm": 0.7
+        }
+      ]
+    },
+    "6149": {
+      "locality": "Wellington",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:656861294",
+          "category": "playground",
+          "distanceKm": 0.21
+        },
+        {
+          "id": "osm:way:153924707",
+          "category": "park",
+          "distanceKm": 0.35
+        },
+        {
+          "id": "osm:way:293136962",
+          "category": "playground",
+          "distanceKm": 0.37
+        },
+        {
+          "id": "osm:way:263727907",
+          "category": "playground",
+          "distanceKm": 0.37
+        },
+        {
+          "id": "osm:way:292242005",
+          "category": "park",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:190557095",
+          "category": "museum",
+          "distanceKm": 0.44
+        },
+        {
+          "id": "osm:way:1145611232",
+          "category": "park",
+          "distanceKm": 0.48
+        },
+        {
+          "id": "osm:node:2640330183",
+          "category": "viewpoint",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:way:556371110",
+          "category": "playground",
+          "distanceKm": 0.55
+        },
+        {
+          "id": "osm:way:1066010977",
+          "category": "museum",
+          "distanceKm": 0.56
+        },
+        {
+          "id": "osm:way:1017036196",
+          "category": "park",
+          "distanceKm": 0.59
+        },
+        {
+          "id": "osm:way:25544184",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:way:168665959",
+          "category": "park",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:1196402888",
+          "category": "playground",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:752299359",
+          "category": "playground",
+          "distanceKm": 0.62
+        },
+        {
+          "id": "osm:way:1027590039",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:26020336",
+          "category": "park",
+          "distanceKm": 0.64
+        },
+        {
+          "id": "osm:way:258024530",
+          "category": "park",
+          "distanceKm": 0.64
+        },
+        {
+          "id": "osm:way:26020328",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:298326385",
+          "category": "museum",
+          "distanceKm": 0.72
+        },
+        {
+          "id": "osm:way:26020339",
+          "category": "playground",
+          "distanceKm": 0.72
+        },
+        {
+          "id": "osm:way:292242004",
+          "category": "playground",
+          "distanceKm": 0.73
+        },
+        {
+          "id": "osm:node:13895119386",
+          "category": "playground",
+          "distanceKm": 0.77
+        },
+        {
+          "id": "osm:way:270748341",
+          "category": "playground",
+          "distanceKm": 0.78
+        },
+        {
+          "id": "osm:node:170485240",
+          "category": "viewpoint",
+          "distanceKm": 0.96
+        },
+        {
+          "id": "osm:node:2628264189",
+          "category": "museum",
+          "distanceKm": 0.96
+        },
+        {
+          "id": "osm:way:250856271",
+          "category": "museum",
+          "distanceKm": 1.07
+        },
+        {
+          "id": "osm:way:261306998",
+          "category": "dog-park",
+          "distanceKm": 1.21
+        },
+        {
+          "id": "osm:way:264854202",
+          "category": "museum",
+          "distanceKm": 1.24
+        },
+        {
+          "id": "osm:way:153924615",
+          "category": "museum",
+          "distanceKm": 1.25
+        }
+      ]
+    },
+    "6150": {
+      "locality": "Kelburn",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:260816750",
+          "category": "playground",
+          "distanceKm": 0.18
+        },
+        {
+          "id": "osm:way:970586026",
+          "category": "playground",
+          "distanceKm": 0.24
+        },
+        {
+          "id": "osm:way:38168340",
+          "category": "park",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:way:252076336",
+          "category": "park",
+          "distanceKm": 0.48
+        },
+        {
+          "id": "osm:node:307351536",
+          "category": "viewpoint",
+          "distanceKm": 0.55
+        },
+        {
+          "id": "osm:node:5350298321",
+          "category": "playground",
+          "distanceKm": 0.55
+        },
+        {
+          "id": "osm:way:38168320",
+          "category": "park",
+          "distanceKm": 0.56
+        },
+        {
+          "id": "osm:way:642408318",
+          "category": "park",
+          "distanceKm": 0.56
+        },
+        {
+          "id": "osm:node:8682259908",
+          "category": "museum",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:node:6285372204",
+          "category": "viewpoint",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:node:6285372205",
+          "category": "viewpoint",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:252061659",
+          "category": "museum",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:node:6285372206",
+          "category": "viewpoint",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:node:298045496",
+          "category": "viewpoint",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:node:11840425128",
+          "category": "museum",
+          "distanceKm": 0.69
+        },
+        {
+          "id": "osm:way:258589299",
+          "category": "playground",
+          "distanceKm": 0.69
+        },
+        {
+          "id": "osm:way:956044484",
+          "category": "playground",
+          "distanceKm": 0.72
+        },
+        {
+          "id": "osm:node:3895622387",
+          "category": "viewpoint",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:956044478",
+          "category": "park",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:20493929",
+          "category": "park",
+          "distanceKm": 0.76
+        },
+        {
+          "id": "osm:node:477077575",
+          "category": "picnic-site",
+          "distanceKm": 0.77
+        },
+        {
+          "id": "osm:way:258585205",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:way:261306998",
+          "category": "dog-park",
+          "distanceKm": 0.86
+        },
+        {
+          "id": "osm:way:25584890",
+          "category": "park",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:way:265385115",
+          "category": "park",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:way:252037101",
+          "category": "playground",
+          "distanceKm": 0.91
+        },
+        {
+          "id": "osm:way:256790614",
+          "category": "park",
+          "distanceKm": 0.91
+        },
+        {
+          "id": "osm:way:587602873",
+          "category": "playground",
+          "distanceKm": 0.91
+        },
+        {
+          "id": "osm:node:11468556658",
+          "category": "viewpoint",
+          "distanceKm": 0.92
+        },
+        {
+          "id": "osm:way:1121951460",
+          "category": "park",
+          "distanceKm": 0.92
+        }
+      ]
+    },
+    "6160": {
+      "locality": "Kelburn",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:1030542760",
+          "category": "playground",
+          "distanceKm": 0.06
+        },
+        {
+          "id": "osm:way:895396393",
+          "category": "park",
+          "distanceKm": 0.2
+        },
+        {
+          "id": "osm:way:269506052",
+          "category": "playground",
+          "distanceKm": 0.2
+        },
+        {
+          "id": "osm:node:1166098689",
+          "category": "museum",
+          "distanceKm": 0.24
+        },
+        {
+          "id": "osm:way:256795384",
+          "category": "park",
+          "distanceKm": 0.27
+        },
+        {
+          "id": "osm:way:279281469",
+          "category": "park",
+          "distanceKm": 0.32
+        },
+        {
+          "id": "osm:way:624607128",
+          "category": "museum",
+          "distanceKm": 0.34
+        },
+        {
+          "id": "osm:way:256795379",
+          "category": "park",
+          "distanceKm": 0.44
+        },
+        {
+          "id": "osm:node:8433352757",
+          "category": "viewpoint",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:25656717",
+          "category": "park",
+          "distanceKm": 0.49
+        },
+        {
+          "id": "osm:way:258693488",
+          "category": "park",
+          "distanceKm": 0.49
+        },
+        {
+          "id": "osm:way:1165027575",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:8985300842",
+          "category": "viewpoint",
+          "distanceKm": 0.59
+        },
+        {
+          "id": "osm:way:165562157",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:way:153924615",
+          "category": "museum",
+          "distanceKm": 0.67
+        },
+        {
+          "id": "osm:way:1169791151",
+          "category": "playground",
+          "distanceKm": 0.71
+        },
+        {
+          "id": "osm:node:298051361",
+          "category": "viewpoint",
+          "distanceKm": 0.78
+        },
+        {
+          "id": "osm:way:961233762",
+          "category": "park",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:way:1026245384",
+          "category": "playground",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:way:343355722",
+          "category": "museum",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:way:250856271",
+          "category": "museum",
+          "distanceKm": 0.86
+        },
+        {
+          "id": "osm:node:11468556658",
+          "category": "viewpoint",
+          "distanceKm": 0.94
+        },
+        {
+          "id": "osm:way:1157164172",
+          "category": "playground",
+          "distanceKm": 1
+        },
+        {
+          "id": "osm:way:258585205",
+          "category": "playground",
+          "distanceKm": 1.04
+        },
+        {
+          "id": "osm:node:7469489833",
+          "category": "viewpoint",
+          "distanceKm": 1.06
+        },
+        {
+          "id": "osm:way:77878698",
+          "category": "park",
+          "distanceKm": 1.07
+        },
+        {
+          "id": "osm:node:3895622387",
+          "category": "viewpoint",
+          "distanceKm": 1.08
+        },
+        {
+          "id": "osm:node:11840425128",
+          "category": "museum",
+          "distanceKm": 1.14
+        },
+        {
+          "id": "osm:node:298045496",
+          "category": "viewpoint",
+          "distanceKm": 1.17
+        },
+        {
+          "id": "osm:way:261306998",
+          "category": "dog-park",
+          "distanceKm": 1.19
+        }
+      ]
+    },
+    "6241": {
+      "locality": "Rongotai",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:263736752",
+          "category": "playground",
+          "distanceKm": 0.25
+        },
+        {
+          "id": "osm:way:707960573",
+          "category": "park",
+          "distanceKm": 0.29
+        },
+        {
+          "id": "osm:way:263736754",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:way:800862596",
+          "category": "park",
+          "distanceKm": 0.32
+        },
+        {
+          "id": "osm:way:263436548",
+          "category": "park",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:265881908",
+          "category": "playground",
+          "distanceKm": 0.44
+        },
+        {
+          "id": "osm:way:26762528",
+          "category": "park",
+          "distanceKm": 0.56
+        },
+        {
+          "id": "osm:way:263722589",
+          "category": "playground",
+          "distanceKm": 0.56
+        },
+        {
+          "id": "osm:way:221809397",
+          "category": "playground",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:26762094",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:282658571",
+          "category": "playground",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:way:707960574",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:661322129",
+          "category": "park",
+          "distanceKm": 0.75
+        },
+        {
+          "id": "osm:way:661344403",
+          "category": "park",
+          "distanceKm": 0.75
+        },
+        {
+          "id": "osm:node:11470974195",
+          "category": "playground",
+          "distanceKm": 0.77
+        },
+        {
+          "id": "osm:way:271031720",
+          "category": "park",
+          "distanceKm": 0.77
+        },
+        {
+          "id": "osm:way:1235069420",
+          "category": "picnic-site",
+          "distanceKm": 0.78
+        },
+        {
+          "id": "osm:way:647109506",
+          "category": "park",
+          "distanceKm": 0.79
+        },
+        {
+          "id": "osm:node:11470903823",
+          "category": "playground",
+          "distanceKm": 0.82
+        },
+        {
+          "id": "osm:way:1235069421",
+          "category": "picnic-site",
+          "distanceKm": 0.82
+        },
+        {
+          "id": "osm:way:1235069422",
+          "category": "picnic-site",
+          "distanceKm": 0.82
+        },
+        {
+          "id": "osm:node:11462332700",
+          "category": "playground",
+          "distanceKm": 0.84
+        },
+        {
+          "id": "osm:way:1196402882",
+          "category": "playground",
+          "distanceKm": 0.84
+        },
+        {
+          "id": "osm:way:257564578",
+          "category": "picnic-site",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:way:1235074474",
+          "category": "picnic-site",
+          "distanceKm": 0.88
+        },
+        {
+          "id": "osm:node:292203292",
+          "category": "viewpoint",
+          "distanceKm": 0.97
+        },
+        {
+          "id": "osm:way:1235074473",
+          "category": "picnic-site",
+          "distanceKm": 0.99
+        },
+        {
+          "id": "osm:node:8998443970",
+          "category": "viewpoint",
+          "distanceKm": 1.16
+        },
+        {
+          "id": "osm:way:995993030",
+          "category": "dog-park",
+          "distanceKm": 1.48
+        },
+        {
+          "id": "osm:way:1148729401",
+          "category": "dog-park",
+          "distanceKm": 1.78
+        }
+      ]
+    },
+    "6242": {
+      "locality": "Berhampore",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:251433165",
+          "category": "playground",
+          "distanceKm": 0.06
+        },
+        {
+          "id": "osm:way:252106520",
+          "category": "park",
+          "distanceKm": 0.21
+        },
+        {
+          "id": "osm:way:1243080735",
+          "category": "playground",
+          "distanceKm": 0.23
+        },
+        {
+          "id": "osm:way:252087853",
+          "category": "playground",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:way:252106531",
+          "category": "playground",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:way:1214928397",
+          "category": "park",
+          "distanceKm": 0.29
+        },
+        {
+          "id": "osm:way:257707855",
+          "category": "park",
+          "distanceKm": 0.34
+        },
+        {
+          "id": "osm:way:661583478",
+          "category": "park",
+          "distanceKm": 0.35
+        },
+        {
+          "id": "osm:node:4401955263",
+          "category": "playground",
+          "distanceKm": 0.39
+        },
+        {
+          "id": "osm:node:4401955264",
+          "category": "playground",
+          "distanceKm": 0.39
+        },
+        {
+          "id": "osm:node:4401955615",
+          "category": "playground",
+          "distanceKm": 0.39
+        },
+        {
+          "id": "osm:way:442514150",
+          "category": "playground",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:node:4401955262",
+          "category": "playground",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:node:4401955376",
+          "category": "playground",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:222118931",
+          "category": "park",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:253004954",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:way:1243080744",
+          "category": "park",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:way:26471417",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:way:661322129",
+          "category": "park",
+          "distanceKm": 0.73
+        },
+        {
+          "id": "osm:way:253004962",
+          "category": "park",
+          "distanceKm": 0.75
+        },
+        {
+          "id": "osm:way:1235069421",
+          "category": "picnic-site",
+          "distanceKm": 0.92
+        },
+        {
+          "id": "osm:way:1235069422",
+          "category": "picnic-site",
+          "distanceKm": 0.93
+        },
+        {
+          "id": "osm:way:1235069420",
+          "category": "picnic-site",
+          "distanceKm": 0.94
+        },
+        {
+          "id": "osm:way:257564578",
+          "category": "picnic-site",
+          "distanceKm": 0.94
+        },
+        {
+          "id": "osm:way:1235074474",
+          "category": "picnic-site",
+          "distanceKm": 1.07
+        },
+        {
+          "id": "osm:way:1235074473",
+          "category": "picnic-site",
+          "distanceKm": 1.15
+        },
+        {
+          "id": "osm:node:298326385",
+          "category": "museum",
+          "distanceKm": 1.47
+        },
+        {
+          "id": "osm:node:292203292",
+          "category": "viewpoint",
+          "distanceKm": 1.49
+        },
+        {
+          "id": "osm:way:1066010977",
+          "category": "museum",
+          "distanceKm": 1.67
+        },
+        {
+          "id": "osm:way:995993030",
+          "category": "dog-park",
+          "distanceKm": 1.71
+        }
+      ]
+    },
+    "6243": {
+      "locality": "Miramar",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:258042877",
+          "category": "park",
+          "distanceKm": 0.2
+        },
+        {
+          "id": "osm:way:431499649",
+          "category": "playground",
+          "distanceKm": 0.2
+        },
+        {
+          "id": "osm:way:173717952",
+          "category": "park",
+          "distanceKm": 0.22
+        },
+        {
+          "id": "osm:way:269079187",
+          "category": "playground",
+          "distanceKm": 0.22
+        },
+        {
+          "id": "osm:way:440449658",
+          "category": "playground",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:way:222125031",
+          "category": "playground",
+          "distanceKm": 0.32
+        },
+        {
+          "id": "osm:way:222125032",
+          "category": "playground",
+          "distanceKm": 0.33
+        },
+        {
+          "id": "osm:way:431499651",
+          "category": "playground",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:way:265532215",
+          "category": "park",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:265532175",
+          "category": "playground",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:way:554783294",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:way:931742368",
+          "category": "playground",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:way:258043271",
+          "category": "park",
+          "distanceKm": 0.62
+        },
+        {
+          "id": "osm:node:8998443970",
+          "category": "viewpoint",
+          "distanceKm": 0.7
+        },
+        {
+          "id": "osm:way:275163542",
+          "category": "park",
+          "distanceKm": 0.75
+        },
+        {
+          "id": "osm:way:264694232",
+          "category": "park",
+          "distanceKm": 0.76
+        },
+        {
+          "id": "osm:way:1082449946",
+          "category": "park",
+          "distanceKm": 0.83
+        },
+        {
+          "id": "osm:way:1082449951",
+          "category": "playground",
+          "distanceKm": 0.84
+        },
+        {
+          "id": "osm:way:273198148",
+          "category": "park",
+          "distanceKm": 0.86
+        },
+        {
+          "id": "osm:way:1169791788",
+          "category": "playground",
+          "distanceKm": 0.88
+        },
+        {
+          "id": "osm:way:275163510",
+          "category": "park",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:way:1148729401",
+          "category": "dog-park",
+          "distanceKm": 1.79
+        },
+        {
+          "id": "osm:node:6408866830",
+          "category": "viewpoint",
+          "distanceKm": 1.93
+        },
+        {
+          "id": "osm:node:7290102585",
+          "category": "viewpoint",
+          "distanceKm": 2.26
+        },
+        {
+          "id": "osm:node:6436934680",
+          "category": "viewpoint",
+          "distanceKm": 2.43
+        },
+        {
+          "id": "osm:way:1235069420",
+          "category": "picnic-site",
+          "distanceKm": 2.63
+        },
+        {
+          "id": "osm:way:1235069422",
+          "category": "picnic-site",
+          "distanceKm": 2.67
+        },
+        {
+          "id": "osm:way:1235069421",
+          "category": "picnic-site",
+          "distanceKm": 2.68
+        },
+        {
+          "id": "osm:way:257564578",
+          "category": "picnic-site",
+          "distanceKm": 2.7
+        },
+        {
+          "id": "osm:node:292203292",
+          "category": "viewpoint",
+          "distanceKm": 2.7
+        }
+      ]
+    },
+    "6244": {
+      "locality": "Strathmore Park",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:265883839",
+          "category": "playground",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:way:1055889614",
+          "category": "park",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:1055889620",
+          "category": "playground",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:1055889619",
+          "category": "playground",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:265883844",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:280412697",
+          "category": "playground",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:way:1224919318",
+          "category": "park",
+          "distanceKm": 0.67
+        },
+        {
+          "id": "osm:way:351770613",
+          "category": "park",
+          "distanceKm": 0.68
+        },
+        {
+          "id": "osm:way:280409183",
+          "category": "playground",
+          "distanceKm": 0.79
+        },
+        {
+          "id": "osm:way:175352649",
+          "category": "park",
+          "distanceKm": 0.83
+        },
+        {
+          "id": "osm:way:287648649",
+          "category": "playground",
+          "distanceKm": 0.87
+        },
+        {
+          "id": "osm:way:1174214273",
+          "category": "park",
+          "distanceKm": 1.1
+        },
+        {
+          "id": "osm:way:1169791788",
+          "category": "playground",
+          "distanceKm": 1.11
+        },
+        {
+          "id": "osm:way:263619636",
+          "category": "park",
+          "distanceKm": 1.21
+        },
+        {
+          "id": "osm:way:647109506",
+          "category": "park",
+          "distanceKm": 1.25
+        },
+        {
+          "id": "osm:way:265881954",
+          "category": "playground",
+          "distanceKm": 1.31
+        },
+        {
+          "id": "osm:way:264694232",
+          "category": "park",
+          "distanceKm": 1.39
+        },
+        {
+          "id": "osm:way:258043271",
+          "category": "park",
+          "distanceKm": 1.4
+        },
+        {
+          "id": "osm:way:282658571",
+          "category": "playground",
+          "distanceKm": 1.73
+        },
+        {
+          "id": "osm:way:1082449951",
+          "category": "playground",
+          "distanceKm": 1.77
+        },
+        {
+          "id": "osm:node:8998443970",
+          "category": "viewpoint",
+          "distanceKm": 1.85
+        },
+        {
+          "id": "osm:node:3324041975",
+          "category": "viewpoint",
+          "distanceKm": 2.09
+        },
+        {
+          "id": "osm:node:292203292",
+          "category": "viewpoint",
+          "distanceKm": 2.17
+        },
+        {
+          "id": "osm:node:6436934680",
+          "category": "viewpoint",
+          "distanceKm": 2.29
+        },
+        {
+          "id": "osm:node:7290102585",
+          "category": "viewpoint",
+          "distanceKm": 2.43
+        },
+        {
+          "id": "osm:way:995993030",
+          "category": "dog-park",
+          "distanceKm": 2.46
+        },
+        {
+          "id": "osm:way:1235074474",
+          "category": "picnic-site",
+          "distanceKm": 2.48
+        },
+        {
+          "id": "osm:way:1235074473",
+          "category": "picnic-site",
+          "distanceKm": 2.5
+        },
+        {
+          "id": "osm:way:1235069420",
+          "category": "picnic-site",
+          "distanceKm": 2.52
+        },
+        {
+          "id": "osm:way:1235069422",
+          "category": "picnic-site",
+          "distanceKm": 2.55
+        }
+      ]
+    },
+    "6440": {
+      "locality": "Newlands",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:766403107",
+          "category": "park",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:way:766403098",
+          "category": "playground",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:way:766403099",
+          "category": "playground",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:way:766403089",
+          "category": "park",
+          "distanceKm": 0.27
+        },
+        {
+          "id": "osm:way:766403097",
+          "category": "playground",
+          "distanceKm": 0.27
+        },
+        {
+          "id": "osm:way:468619582",
+          "category": "playground",
+          "distanceKm": 0.3
+        },
+        {
+          "id": "osm:way:1208404190",
+          "category": "playground",
+          "distanceKm": 0.46
+        },
+        {
+          "id": "osm:way:1526875616",
+          "category": "playground",
+          "distanceKm": 0.48
+        },
+        {
+          "id": "osm:way:1208404187",
+          "category": "playground",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:way:62154037",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:way:220397852",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:way:977497622",
+          "category": "playground",
+          "distanceKm": 0.75
+        },
+        {
+          "id": "osm:way:220399429",
+          "category": "park",
+          "distanceKm": 0.77
+        },
+        {
+          "id": "osm:way:220444700",
+          "category": "park",
+          "distanceKm": 0.77
+        },
+        {
+          "id": "osm:way:110486672",
+          "category": "park",
+          "distanceKm": 0.79
+        },
+        {
+          "id": "osm:way:220399428",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:way:504522713",
+          "category": "playground",
+          "distanceKm": 0.81
+        },
+        {
+          "id": "osm:way:220399427",
+          "category": "park",
+          "distanceKm": 0.81
+        },
+        {
+          "id": "osm:way:1158123797",
+          "category": "park",
+          "distanceKm": 0.82
+        },
+        {
+          "id": "osm:way:112971765",
+          "category": "park",
+          "distanceKm": 0.83
+        },
+        {
+          "id": "osm:node:10017248397",
+          "category": "public-bbq",
+          "distanceKm": 1.3
+        },
+        {
+          "id": "osm:node:10017248398",
+          "category": "public-bbq",
+          "distanceKm": 1.3
+        },
+        {
+          "id": "osm:node:4576099205",
+          "category": "picnic-site",
+          "distanceKm": 1.49
+        },
+        {
+          "id": "osm:node:8985938063",
+          "category": "viewpoint",
+          "distanceKm": 1.9
+        },
+        {
+          "id": "osm:node:509903412",
+          "category": "viewpoint",
+          "distanceKm": 2.31
+        },
+        {
+          "id": "osm:node:2685676737",
+          "category": "viewpoint",
+          "distanceKm": 2.53
+        },
+        {
+          "id": "osm:node:13838082641",
+          "category": "viewpoint",
+          "distanceKm": 2.56
+        },
+        {
+          "id": "osm:node:3659565908",
+          "category": "viewpoint",
+          "distanceKm": 2.59
+        },
+        {
+          "id": "osm:node:1611089912",
+          "category": "picnic-site",
+          "distanceKm": 2.59
+        },
+        {
+          "id": "osm:node:9035344899",
+          "category": "viewpoint",
+          "distanceKm": 2.84
+        }
+      ]
+    },
+    "6441": {
+      "locality": "Ngaio",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:node:2685676737",
+          "category": "viewpoint",
+          "distanceKm": 0.56
+        },
+        {
+          "id": "osm:way:985674547",
+          "category": "playground",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:way:985674548",
+          "category": "playground",
+          "distanceKm": 0.62
+        },
+        {
+          "id": "osm:way:1321493902",
+          "category": "park",
+          "distanceKm": 0.68
+        },
+        {
+          "id": "osm:way:1419027244",
+          "category": "playground",
+          "distanceKm": 0.69
+        },
+        {
+          "id": "osm:way:1454398343",
+          "category": "park",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:509903412",
+          "category": "viewpoint",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:8481707036",
+          "category": "playground",
+          "distanceKm": 0.93
+        },
+        {
+          "id": "osm:way:913037180",
+          "category": "park",
+          "distanceKm": 0.93
+        },
+        {
+          "id": "osm:node:10728579606",
+          "category": "viewpoint",
+          "distanceKm": 0.97
+        },
+        {
+          "id": "osm:way:133590828",
+          "category": "park",
+          "distanceKm": 0.99
+        },
+        {
+          "id": "osm:way:913038349",
+          "category": "park",
+          "distanceKm": 1.19
+        },
+        {
+          "id": "osm:way:220569668",
+          "category": "park",
+          "distanceKm": 1.22
+        },
+        {
+          "id": "osm:way:188312066",
+          "category": "park",
+          "distanceKm": 1.39
+        },
+        {
+          "id": "osm:way:977750882",
+          "category": "playground",
+          "distanceKm": 1.43
+        },
+        {
+          "id": "osm:way:305658624",
+          "category": "dog-park",
+          "distanceKm": 1.45
+        },
+        {
+          "id": "osm:way:305658621",
+          "category": "playground",
+          "distanceKm": 1.46
+        },
+        {
+          "id": "osm:node:1611089912",
+          "category": "picnic-site",
+          "distanceKm": 1.63
+        },
+        {
+          "id": "osm:node:3659565908",
+          "category": "viewpoint",
+          "distanceKm": 1.64
+        },
+        {
+          "id": "osm:node:8356441101",
+          "category": "viewpoint",
+          "distanceKm": 1.67
+        },
+        {
+          "id": "osm:way:270764922",
+          "category": "dog-park",
+          "distanceKm": 1.69
+        },
+        {
+          "id": "osm:way:41647138",
+          "category": "park",
+          "distanceKm": 1.73
+        },
+        {
+          "id": "osm:node:10218649993",
+          "category": "viewpoint",
+          "distanceKm": 1.9
+        },
+        {
+          "id": "osm:way:1204347709",
+          "category": "park",
+          "distanceKm": 1.91
+        },
+        {
+          "id": "osm:way:323141590",
+          "category": "playground",
+          "distanceKm": 1.93
+        },
+        {
+          "id": "osm:way:733424015",
+          "category": "park",
+          "distanceKm": 2.03
+        },
+        {
+          "id": "osm:way:904075295",
+          "category": "playground",
+          "distanceKm": 2.03
+        },
+        {
+          "id": "osm:node:4576099205",
+          "category": "picnic-site",
+          "distanceKm": 2.06
+        },
+        {
+          "id": "osm:way:977497622",
+          "category": "playground",
+          "distanceKm": 2.18
+        },
+        {
+          "id": "osm:node:10943683694",
+          "category": "viewpoint",
+          "distanceKm": 2.21
+        }
+      ]
+    },
+    "6442": {
+      "locality": "Newlands",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:643186682",
+          "category": "playground",
+          "distanceKm": 0.06
+        },
+        {
+          "id": "osm:way:1093703975",
+          "category": "playground",
+          "distanceKm": 0.16
+        },
+        {
+          "id": "osm:node:10017248397",
+          "category": "public-bbq",
+          "distanceKm": 0.17
+        },
+        {
+          "id": "osm:node:10017248398",
+          "category": "public-bbq",
+          "distanceKm": 0.17
+        },
+        {
+          "id": "osm:way:767986084",
+          "category": "park",
+          "distanceKm": 0.19
+        },
+        {
+          "id": "osm:way:788309102",
+          "category": "park",
+          "distanceKm": 0.19
+        },
+        {
+          "id": "osm:way:1093703995",
+          "category": "playground",
+          "distanceKm": 0.22
+        },
+        {
+          "id": "osm:way:641035723",
+          "category": "playground",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:way:641034688",
+          "category": "playground",
+          "distanceKm": 0.3
+        },
+        {
+          "id": "osm:way:480535680",
+          "category": "park",
+          "distanceKm": 0.35
+        },
+        {
+          "id": "osm:way:787876601",
+          "category": "park",
+          "distanceKm": 0.41
+        },
+        {
+          "id": "osm:way:396648260",
+          "category": "park",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:402796900",
+          "category": "park",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:relation:3567844",
+          "category": "park",
+          "distanceKm": 0.73
+        },
+        {
+          "id": "osm:way:220399427",
+          "category": "park",
+          "distanceKm": 0.76
+        },
+        {
+          "id": "osm:way:220399428",
+          "category": "playground",
+          "distanceKm": 0.77
+        },
+        {
+          "id": "osm:way:220397852",
+          "category": "park",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:way:486685270",
+          "category": "park",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:way:1196402891",
+          "category": "playground",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:way:767761024",
+          "category": "playground",
+          "distanceKm": 1.03
+        },
+        {
+          "id": "osm:way:402796902",
+          "category": "playground",
+          "distanceKm": 1.05
+        },
+        {
+          "id": "osm:node:8985938063",
+          "category": "viewpoint",
+          "distanceKm": 1.17
+        },
+        {
+          "id": "osm:way:787900002",
+          "category": "playground",
+          "distanceKm": 1.38
+        },
+        {
+          "id": "osm:node:9035344899",
+          "category": "viewpoint",
+          "distanceKm": 1.6
+        },
+        {
+          "id": "osm:node:9035344898",
+          "category": "viewpoint",
+          "distanceKm": 1.72
+        },
+        {
+          "id": "osm:node:13838082641",
+          "category": "viewpoint",
+          "distanceKm": 2.35
+        },
+        {
+          "id": "osm:node:4576099205",
+          "category": "picnic-site",
+          "distanceKm": 2.78
+        },
+        {
+          "id": "osm:way:749138049",
+          "category": "dog-park",
+          "distanceKm": 3.34
+        },
+        {
+          "id": "osm:node:509903412",
+          "category": "viewpoint",
+          "distanceKm": 3.35
+        },
+        {
+          "id": "osm:node:2685676737",
+          "category": "viewpoint",
+          "distanceKm": 3.49
+        }
+      ]
+    },
+    "6443": {
+      "locality": "Ngaio",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:way:270764922",
+          "category": "dog-park",
+          "distanceKm": 0.22
+        },
+        {
+          "id": "osm:way:305658624",
+          "category": "dog-park",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:way:305658621",
+          "category": "playground",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:way:133590828",
+          "category": "park",
+          "distanceKm": 0.64
+        },
+        {
+          "id": "osm:way:294937512",
+          "category": "dog-park",
+          "distanceKm": 0.99
+        },
+        {
+          "id": "osm:node:1753424821",
+          "category": "viewpoint",
+          "distanceKm": 1
+        },
+        {
+          "id": "osm:way:125611986",
+          "category": "playground",
+          "distanceKm": 1.01
+        },
+        {
+          "id": "osm:way:1419027244",
+          "category": "playground",
+          "distanceKm": 1.06
+        },
+        {
+          "id": "osm:node:8356441101",
+          "category": "viewpoint",
+          "distanceKm": 1.11
+        },
+        {
+          "id": "osm:way:1204353014",
+          "category": "park",
+          "distanceKm": 1.17
+        },
+        {
+          "id": "osm:way:1204353057",
+          "category": "playground",
+          "distanceKm": 1.19
+        },
+        {
+          "id": "osm:way:269475045",
+          "category": "park",
+          "distanceKm": 1.36
+        },
+        {
+          "id": "osm:node:10218649993",
+          "category": "viewpoint",
+          "distanceKm": 1.37
+        },
+        {
+          "id": "osm:way:1204347709",
+          "category": "park",
+          "distanceKm": 1.38
+        },
+        {
+          "id": "osm:way:985674547",
+          "category": "playground",
+          "distanceKm": 1.63
+        },
+        {
+          "id": "osm:way:985674548",
+          "category": "playground",
+          "distanceKm": 1.63
+        },
+        {
+          "id": "osm:way:1321493902",
+          "category": "park",
+          "distanceKm": 1.64
+        },
+        {
+          "id": "osm:relation:13411514",
+          "category": "park",
+          "distanceKm": 1.65
+        },
+        {
+          "id": "osm:way:304159885",
+          "category": "picnic-site",
+          "distanceKm": 1.66
+        },
+        {
+          "id": "osm:way:963217509",
+          "category": "park",
+          "distanceKm": 1.69
+        },
+        {
+          "id": "osm:node:10943683694",
+          "category": "viewpoint",
+          "distanceKm": 1.69
+        },
+        {
+          "id": "osm:way:295035668",
+          "category": "dog-park",
+          "distanceKm": 1.71
+        },
+        {
+          "id": "osm:way:368451186",
+          "category": "park",
+          "distanceKm": 1.73
+        },
+        {
+          "id": "osm:node:2685676737",
+          "category": "viewpoint",
+          "distanceKm": 1.75
+        },
+        {
+          "id": "osm:way:1169790976",
+          "category": "playground",
+          "distanceKm": 1.77
+        },
+        {
+          "id": "osm:way:961241986",
+          "category": "park",
+          "distanceKm": 1.87
+        },
+        {
+          "id": "osm:way:904075295",
+          "category": "playground",
+          "distanceKm": 1.87
+        },
+        {
+          "id": "osm:node:509903412",
+          "category": "viewpoint",
+          "distanceKm": 1.92
+        },
+        {
+          "id": "osm:way:961241992",
+          "category": "park",
+          "distanceKm": 1.94
+        },
+        {
+          "id": "osm:node:1611089912",
+          "category": "picnic-site",
+          "distanceKm": 1.97
+        }
+      ]
+    },
+    "6972": {
+      "locality": "Karori West",
+      "stateOrRegion": "Wellington",
+      "places": [
+        {
+          "id": "osm:node:2065718761",
+          "category": "viewpoint",
+          "distanceKm": 2.25
+        },
+        {
+          "id": "osm:way:1153635076",
+          "category": "playground",
+          "distanceKm": 2.67
+        },
+        {
+          "id": "osm:way:265194794",
+          "category": "park",
+          "distanceKm": 3.02
+        },
+        {
+          "id": "osm:way:1196402879",
+          "category": "playground",
+          "distanceKm": 3.03
+        },
+        {
+          "id": "osm:way:449467564",
+          "category": "playground",
+          "distanceKm": 3.16
+        },
+        {
+          "id": "osm:way:342911851",
+          "category": "playground",
+          "distanceKm": 3.54
+        },
+        {
+          "id": "osm:way:769911291",
+          "category": "playground",
+          "distanceKm": 3.54
+        },
+        {
+          "id": "osm:way:40190287",
+          "category": "park",
+          "distanceKm": 3.59
+        },
+        {
+          "id": "osm:way:1138234874",
+          "category": "playground",
+          "distanceKm": 3.71
+        },
+        {
+          "id": "osm:way:1138234877",
+          "category": "playground",
+          "distanceKm": 3.72
+        },
+        {
+          "id": "osm:way:1138234884",
+          "category": "playground",
+          "distanceKm": 3.72
+        },
+        {
+          "id": "osm:way:1138234878",
+          "category": "playground",
+          "distanceKm": 3.73
+        },
+        {
+          "id": "osm:way:1138234880",
+          "category": "playground",
+          "distanceKm": 3.73
+        },
+        {
+          "id": "osm:way:1008418774",
+          "category": "park",
+          "distanceKm": 3.85
+        },
+        {
+          "id": "osm:way:587604223",
+          "category": "park",
+          "distanceKm": 4.57
+        },
+        {
+          "id": "osm:way:265744581",
+          "category": "park",
+          "distanceKm": 4.76
+        },
+        {
+          "id": "osm:way:26742583",
+          "category": "dog-park",
+          "distanceKm": 4.95
+        },
+        {
+          "id": "osm:way:20276641",
+          "category": "park",
+          "distanceKm": 4.96
+        },
+        {
+          "id": "osm:way:1391543924",
+          "category": "viewpoint",
+          "distanceKm": 5.11
+        },
+        {
+          "id": "osm:node:477077573",
+          "category": "picnic-site",
+          "distanceKm": 5.4
+        },
+        {
+          "id": "osm:way:1464582648",
+          "category": "viewpoint",
+          "distanceKm": 5.48
+        },
+        {
+          "id": "osm:node:477077574",
+          "category": "picnic-site",
+          "distanceKm": 5.52
+        },
+        {
+          "id": "osm:way:1205121222",
+          "category": "picnic-site",
+          "distanceKm": 5.73
+        },
+        {
+          "id": "osm:node:477077543",
+          "category": "picnic-site",
+          "distanceKm": 5.88
+        },
+        {
+          "id": "osm:node:477077576",
+          "category": "picnic-site",
+          "distanceKm": 6.01
+        },
+        {
+          "id": "osm:node:477077575",
+          "category": "picnic-site",
+          "distanceKm": 6.07
+        },
+        {
+          "id": "osm:node:447755989",
+          "category": "viewpoint",
+          "distanceKm": 6.14
+        },
+        {
+          "id": "osm:way:463187794",
+          "category": "dog-park",
+          "distanceKm": 6.2
+        },
+        {
+          "id": "osm:way:173742716",
+          "category": "picnic-site",
+          "distanceKm": 6.53
+        },
+        {
+          "id": "osm:node:3086863435",
+          "category": "viewpoint",
+          "distanceKm": 6.83
+        }
+      ]
+    }
+  }
+}

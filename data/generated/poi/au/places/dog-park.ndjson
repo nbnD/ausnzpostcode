@@ -1,0 +1,731 @@
+{"id":"osm:node:10553906527","category":"dog-park","lat":-34.230841,"lng":150.697199}
+{"id":"osm:node:10870026119","category":"dog-park","name":"Tailem Dog Park","lat":-35.251746,"lng":139.452702}
+{"id":"osm:node:11033633605","category":"dog-park","lat":-33.898346,"lng":151.08601}
+{"id":"osm:node:12088572067","category":"dog-park","name":"Curl Curl off-leash dog area","lat":-33.766428,"lng":151.296462,"tags":{"access":"yes"}}
+{"id":"osm:node:12422836516","category":"dog-park","lat":-28.33694,"lng":153.379596}
+{"id":"osm:node:12709079001","category":"dog-park","name":"Reedy Creek Dog Park","lat":-28.113999,"lng":153.388084,"tags":{"opening_hours":"24/7"}}
+{"id":"osm:node:12718263221","category":"dog-park","name":"Mercurio Street Park","lat":-16.989036,"lng":145.74649}
+{"id":"osm:node:12999069551","category":"dog-park","lat":-33.683967,"lng":150.951873}
+{"id":"osm:node:13109455386","category":"dog-park","name":"Frances O'Brien Dog Park","lat":-33.730647,"lng":151.102945}
+{"id":"osm:node:13269942068","category":"dog-park","lat":-28.865838,"lng":153.588191}
+{"id":"osm:node:13305541239","category":"dog-park","name":"Puggle Play Space","lat":-31.985286,"lng":115.914852}
+{"id":"osm:node:13323300269","category":"dog-park","lat":-33.785315,"lng":151.287145}
+{"id":"osm:node:13325060702","category":"dog-park","name":"Woodcroft Dog Park","lat":-35.11262,"lng":138.553586,"tags":{"opening_hours":"24/7"}}
+{"id":"osm:node:13325622802","category":"dog-park","name":"Railway Dog Park","lat":-32.003436,"lng":115.934089}
+{"id":"osm:node:13629341901","category":"dog-park","lat":-33.80145,"lng":150.887801,"tags":{"opening_hours":"24/7"}}
+{"id":"osm:node:278704774","category":"dog-park","name":"Neal Macrossan Park Dog Off Leash Area","lat":-27.462329,"lng":153.009837}
+{"id":"osm:node:3150017774","category":"dog-park","lat":-41.435718,"lng":147.169054}
+{"id":"osm:node:3339834640","category":"dog-park","lat":-27.107137,"lng":152.918501}
+{"id":"osm:node:4694425667","category":"dog-park","name":"Dog Off Leash Area","lat":-28.338042,"lng":153.575391,"tags":{"description":"Extends for 2.5km south of this point."}}
+{"id":"osm:node:4700083367","category":"dog-park","name":"Dog Beach Off Lead","lat":-28.509112,"lng":153.551668}
+{"id":"osm:node:4700084110","category":"dog-park","name":"Dog Beach Off Lead","lat":-28.494256,"lng":153.551651}
+{"id":"osm:node:4721895398","category":"dog-park","lat":-31.861629,"lng":115.759362}
+{"id":"osm:node:5411986929","category":"dog-park","lat":-41.462262,"lng":147.191492}
+{"id":"osm:node:5416311719","category":"dog-park","name":"Close Street Reserve Dog Off Leash Area","lat":-33.914028,"lng":151.119234,"tags":{"wheelchair":"yes","access":"yes","operator":"City of Canterbury-Bankstown"}}
+{"id":"osm:node:5474541651","category":"dog-park","lat":-42.94986,"lng":147.34987}
+{"id":"osm:node:5524662914","category":"dog-park","lat":-33.325652,"lng":115.642796}
+{"id":"osm:node:5825984538","category":"dog-park","lat":-37.844718,"lng":145.314154,"tags":{"wheelchair":"no"}}
+{"id":"osm:node:6202437632","category":"dog-park","lat":-33.816814,"lng":151.215826}
+{"id":"osm:node:6571792231","category":"dog-park","lat":-33.024495,"lng":137.536546}
+{"id":"osm:node:6943616887","category":"dog-park","name":"Harmony Fields Dog Park","lat":-32.052827,"lng":116.010826}
+{"id":"osm:node:6943616888","category":"dog-park","name":"Harmony Fields Dog Park","lat":-32.053171,"lng":116.010633}
+{"id":"osm:node:6943616897","category":"dog-park","lat":-32.068138,"lng":115.949591}
+{"id":"osm:node:7428480260","category":"dog-park","name":"Richards Reserve Dog Park","lat":-37.728828,"lng":144.955144,"tags":{"access":"yes","description":"Enclosed dog park within Richards Reserve","addr:postcode":"3058","addr:suburb":"Coburg North","addr:state":"VIC"}}
+{"id":"osm:node:7861634550","category":"dog-park","lat":-31.746597,"lng":115.763069}
+{"id":"osm:node:8421858217","category":"dog-park","lat":-31.889799,"lng":115.874761,"tags":{"wheelchair":"yes"}}
+{"id":"osm:node:8524740829","category":"dog-park","name":"Kalkallo Dog Park","lat":-37.540329,"lng":144.954116}
+{"id":"osm:node:8542836500","category":"dog-park","name":"Dog off-leash area","lat":-37.852902,"lng":145.374148}
+{"id":"osm:node:8829376853","category":"dog-park","name":"Forestville War Memorial Playing Fields (Melwood Oval)","lat":-33.762418,"lng":151.20981,"tags":{"wheelchair":"no"}}
+{"id":"osm:node:8829483762","category":"dog-park","lat":-33.923936,"lng":151.112624}
+{"id":"osm:node:8835543080","category":"dog-park","name":"Collingwood Park Dog Park","lat":-27.614489,"lng":152.868859}
+{"id":"osm:node:8858048267","category":"dog-park","name":"Holloways Beach Dog Exercise Area","lat":-16.83044,"lng":145.736073}
+{"id":"osm:node:9024786822","category":"dog-park","lat":-27.006412,"lng":153.064303,"tags":{"access":"yes"}}
+{"id":"osm:node:9069483421","category":"dog-park","lat":-31.951773,"lng":115.807223,"tags":{"wheelchair":"yes"}}
+{"id":"osm:node:9097357339","category":"dog-park","name":"Dog Agility Park","lat":-33.355255,"lng":116.160171}
+{"id":"osm:node:9169363928","category":"dog-park","lat":-37.802373,"lng":145.087821,"tags":{"wheelchair":"yes","access":"yes","operator":"City of Boroondara"}}
+{"id":"osm:node:9231708659","category":"dog-park","lat":-43.125184,"lng":147.248116}
+{"id":"osm:node:9580084267","category":"dog-park","name":"Four Paws Park","lat":-34.88938,"lng":138.673598}
+{"id":"osm:relation:11782890","category":"dog-park","lat":-37.879806,"lng":145.038256,"tags":{"wheelchair":"yes"}}
+{"id":"osm:relation:12362236","category":"dog-park","name":"Maranoa Heights Reserve","lat":-42.993359,"lng":147.304582,"tags":{"access":"yes","operator":"Kingborough Council"}}
+{"id":"osm:relation:12669950","category":"dog-park","lat":-33.837935,"lng":151.065894,"tags":{"website":"https://www.sydneyolympicpark.com.au/Living/mysop/Dogs-in-the-Park"}}
+{"id":"osm:relation:13396939","category":"dog-park","name":"Matilda Birkett Reserve","lat":-32.088929,"lng":115.806372,"tags":{"access":"yes"}}
+{"id":"osm:relation:13887383","category":"dog-park","lat":-27.546466,"lng":153.037313,"tags":{"wheelchair":"yes"}}
+{"id":"osm:relation:13887384","category":"dog-park","lat":-27.546302,"lng":153.037637,"tags":{"wheelchair":"yes"}}
+{"id":"osm:relation:15046489","category":"dog-park","name":"Small dog and puppy area","lat":-27.452293,"lng":152.974128,"tags":{"opening_hours":"24/7","wheelchair":"yes","access":"yes"}}
+{"id":"osm:relation:16142827","category":"dog-park","name":"Goodna Off Leash Dog Park","lat":-27.607137,"lng":152.91079}
+{"id":"osm:relation:18905239","category":"dog-park","lat":-27.791699,"lng":152.966455}
+{"id":"osm:relation:19115925","category":"dog-park","name":"Everton Park Dog Off-Leash Area","lat":-27.407898,"lng":152.982859,"tags":{"access":"yes","operator":"Brisbane City Council"}}
+{"id":"osm:relation:19115926","category":"dog-park","name":"Everton Park Dog Off-Leash Area","lat":-27.408053,"lng":152.982361,"tags":{"access":"yes","operator":"Brisbane City Council"}}
+{"id":"osm:relation:19141456","category":"dog-park","name":"Acacia Avenue Dog Park","lat":-32.904077,"lng":151.70997}
+{"id":"osm:relation:20147580","category":"dog-park","lat":-33.985411,"lng":151.120101}
+{"id":"osm:relation:4805264","category":"dog-park","lat":-27.482415,"lng":153.214838}
+{"id":"osm:relation:4822390","category":"dog-park","lat":-27.496167,"lng":153.221263}
+{"id":"osm:relation:5250526","category":"dog-park","lat":-27.539498,"lng":153.195298}
+{"id":"osm:relation:6197563","category":"dog-park","lat":-33.608769,"lng":150.699827}
+{"id":"osm:relation:9464040","category":"dog-park","name":"Dru Point Dog Exercise Area","lat":-43.025169,"lng":147.274974,"tags":{"wheelchair":"limited"}}
+{"id":"osm:way:1001469674","category":"dog-park","name":"Tatterson Park Fenced Dog Park","lat":-37.997224,"lng":145.158528}
+{"id":"osm:way:1007191158","category":"dog-park","name":"Gobbagombalin Off-Leash Area","lat":-35.070125,"lng":147.34186}
+{"id":"osm:way:1015729483","category":"dog-park","lat":-28.058431,"lng":153.404481,"tags":{"access":"yes","operator":"GCCC"}}
+{"id":"osm:way:1015729487","category":"dog-park","lat":-28.058511,"lng":153.404544,"tags":{"website":"https://www.goldcoast.qld.gov.au/Things-to-do/Parks-gardens-reserves/Park-Finder/Robina-Common","access":"yes"}}
+{"id":"osm:way:1015988658","category":"dog-park","lat":-27.4052,"lng":152.939154}
+{"id":"osm:way:1016431735","category":"dog-park","name":"Douglas Dog Park","lat":-19.320922,"lng":146.736298,"tags":{"access":"yes","operator":"Council"}}
+{"id":"osm:way:1016431739","category":"dog-park","name":"Douglas small dog park","lat":-19.320556,"lng":146.736254,"tags":{"access":"yes","operator":"Council"}}
+{"id":"osm:way:1016465012","category":"dog-park","name":"L.J. Lewis Reserve Dog Park","lat":-34.845118,"lng":138.624275,"tags":{"website":"https://www.cityofpae.sa.gov.au/explore/sport-and-recreation/playgrounds-parks-and-gardens/l.j.-lewis-reserve-dog-park","access":"yes","operator":"City of Port Adelaide Enfield","addr:postcode":"5085","addr:suburb":"Northfield","addr:state":"SA"}}
+{"id":"osm:way:1017043734","category":"dog-park","lat":-28.084577,"lng":153.394903,"tags":{"website":"https://www.goldcoast.qld.gov.au/Things-to-do/Parks-gardens-reserves/Park-Finder/Elfin-Park","access":"yes"}}
+{"id":"osm:way:1017462442","category":"dog-park","lat":-38.186364,"lng":145.088305,"tags":{"wheelchair":"limited","access":"yes"}}
+{"id":"osm:way:1017504108","category":"dog-park","name":"Frascott Small Fenced Agility Dog Park","lat":-28.09381,"lng":153.418532,"tags":{"website":"https://www.goldcoast.qld.gov.au/Things-to-do/Parks-gardens-reserves/Park-Finder/Frascott-Park","access":"yes","operator":"Frascott Park","addr:postcode":"4227","addr:suburb":"Varsity Lakes","addr:state":"QLD"}}
+{"id":"osm:way:1017730702","category":"dog-park","lat":-33.924533,"lng":150.862684,"tags":{"access":"yes","operator":"Liverpool City Council","addr:postcode":"2168","addr:suburb":"Hinchinbrook","addr:state":"NSW"}}
+{"id":"osm:way:1020810912","category":"dog-park","lat":-33.875262,"lng":150.912276,"tags":{"website":"https://www.fairfieldcity.nsw.gov.au/Services/Sports-Parks-Recreation/Dog-Off-Leash-Areas","access":"yes","operator":"Fairfield City Council"}}
+{"id":"osm:way:1021328427","category":"dog-park","lat":-28.153004,"lng":153.499047,"tags":{"website":"https://www.goldcoast.qld.gov.au/Things-to-do/Parks-gardens-reserves/Park-Finder/Betty-Diamond-Sports-Complex","access":"yes","operator":"GCCC"}}
+{"id":"osm:way:1021402384","category":"dog-park","lat":-32.057395,"lng":115.760408}
+{"id":"osm:way:1023843363","category":"dog-park","name":"Lara Dog Park","lat":-38.035926,"lng":144.412668}
+{"id":"osm:way:1024392931","category":"dog-park","lat":-33.917554,"lng":150.850917}
+{"id":"osm:way:1032738202","category":"dog-park","name":"Old Beach Dog Park","lat":-42.777612,"lng":147.270845,"tags":{"access":"yes"}}
+{"id":"osm:way:1035602259","category":"dog-park","lat":-33.916024,"lng":151.168298,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:1035966156","category":"dog-park","name":"North Richmond Fenced Dog Park","lat":-33.577902,"lng":150.702129}
+{"id":"osm:way:1038724542","category":"dog-park","name":"Doreen Fenced Dog Park","lat":-37.609188,"lng":145.128757}
+{"id":"osm:way:1039751397","category":"dog-park","name":"Ashley Avenue Dog Park","lat":-34.817368,"lng":138.698413}
+{"id":"osm:way:1040760813","category":"dog-park","lat":-37.976252,"lng":145.072241}
+{"id":"osm:way:1043601639","category":"dog-park","name":"Notlen Street Dog Off Leash Area","lat":-37.806933,"lng":145.229019,"tags":{"website":"https://www.melbourneplaygrounds.com.au/notlen-street-dog-off-leash-area-ringwood","access":"yes","addr:postcode":"3134","addr:suburb":"Ringwood","addr:state":"VIC"}}
+{"id":"osm:way:1044446004","category":"dog-park","lat":-32.042966,"lng":115.763752}
+{"id":"osm:way:1050914817","category":"dog-park","lat":-27.637389,"lng":153.048864}
+{"id":"osm:way:1052373976","category":"dog-park","lat":-26.900812,"lng":152.952899}
+{"id":"osm:way:1059271385","category":"dog-park","name":"The Glades Estate Dog Park","lat":-32.233208,"lng":115.978143,"tags":{"operator":"LWP Group Pty Ltd"}}
+{"id":"osm:way:1066863159","category":"dog-park","lat":-37.728888,"lng":144.955186,"tags":{"access":"yes","operator":"Moreland City Council"}}
+{"id":"osm:way:1070826235","category":"dog-park","lat":-27.60157,"lng":153.115101,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:1074491063","category":"dog-park","lat":-26.752824,"lng":153.111064}
+{"id":"osm:way:107533870","category":"dog-park","name":"Off leash area","lat":-41.429625,"lng":147.102845}
+{"id":"osm:way:1077018782","category":"dog-park","name":"Kimberley Reserve Fenced Dog Park","lat":-37.751858,"lng":145.308702,"tags":{"access":"yes","addr:postcode":"3116","addr:suburb":"Chirnside Park","addr:state":"VIC"}}
+{"id":"osm:way:1077903170","category":"dog-park","name":"Tirhatuan Dog Park","lat":-37.945014,"lng":145.2213,"tags":{"access":"yes","operator":"City of Dandenong"}}
+{"id":"osm:way:107938674","category":"dog-park","lat":-35.024927,"lng":138.528408}
+{"id":"osm:way:1082797607","category":"dog-park","lat":-36.130281,"lng":146.89432}
+{"id":"osm:way:1083473062","category":"dog-park","lat":-27.536783,"lng":153.22847,"tags":{"access":"yes"}}
+{"id":"osm:way:1083911838","category":"dog-park","name":"Eastfield Fenced Dog Park","lat":-37.811749,"lng":145.277361,"tags":{"website":"https://www.melbourneplaygrounds.com.au/eastfield-fenced-dog-park-croydon","access":"yes","addr:postcode":"3136","addr:suburb":"Croydon","addr:state":"VIC"}}
+{"id":"osm:way:1091748188","category":"dog-park","name":"Bunya Dog Park","lat":-27.381972,"lng":152.938397,"tags":{"website":"https://www.moretonbay.qld.gov.au/Services/Sport-Recreation/Parks/Bunya-Dog-Park","access":"yes","operator":"City of Moreton Bay","addr:postcode":"4055","addr:suburb":"Bunya","addr:state":"QLD"}}
+{"id":"osm:way:1091981074","category":"dog-park","name":"Lieutenant Cantello Reserve Dog Park","lat":-33.953248,"lng":150.968367,"tags":{"website":"https://www.liverpool.nsw.gov.au/venues/parks-and-playgrounds/off-leash-dog-areas","opening_hours":"24/7","wheelchair":"limited","access":"yes","operator":"Liverpool City Council","addr:postcode":"2170","addr:suburb":"Hammondville","addr:state":"NSW"}}
+{"id":"osm:way:1095343651","category":"dog-park","name":"Merredin Dog Park","lat":-31.479383,"lng":118.278128,"tags":{"access":"yes","operator":"Shire of Merredin"}}
+{"id":"osm:way:1097610169","category":"dog-park","name":"Kingsgrove Avenue Reserve Off-leash Dog Area","lat":-33.93841,"lng":151.102419,"tags":{"wheelchair":"yes","access":"yes","operator":"Bayside Council"}}
+{"id":"osm:way:1098121848","category":"dog-park","lat":-37.763166,"lng":145.350618,"tags":{"access":"yes"}}
+{"id":"osm:way:1098121849","category":"dog-park","lat":-37.769545,"lng":145.355923,"tags":{"access":"yes"}}
+{"id":"osm:way:1098121850","category":"dog-park","lat":-37.767233,"lng":145.358154,"tags":{"access":"yes"}}
+{"id":"osm:way:1098995819","category":"dog-park","lat":-33.890369,"lng":151.097408}
+{"id":"osm:way:1098995820","category":"dog-park","lat":-33.890699,"lng":151.097147}
+{"id":"osm:way:1104920817","category":"dog-park","lat":-33.704544,"lng":150.967399,"tags":{"access":"yes"}}
+{"id":"osm:way:1110905518","category":"dog-park","name":"Dog Off-Leash Park","lat":-37.665232,"lng":145.063546,"tags":{"access":"yes"}}
+{"id":"osm:way:1110905519","category":"dog-park","name":"Dog Off-Leash Park","lat":-37.664959,"lng":145.064058,"tags":{"access":"yes"}}
+{"id":"osm:way:1110950557","category":"dog-park","lat":-27.574002,"lng":153.280922,"tags":{"access":"yes"}}
+{"id":"osm:way:1112171178","category":"dog-park","name":"Eltham North Dog Park","lat":-37.701706,"lng":145.152405}
+{"id":"osm:way:1112799296","category":"dog-park","lat":-27.333587,"lng":153.041297,"tags":{"access":"yes"}}
+{"id":"osm:way:1115172038","category":"dog-park","lat":-33.848697,"lng":151.075589,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:1119069906","category":"dog-park","lat":-27.720026,"lng":153.120495}
+{"id":"osm:way:1119069907","category":"dog-park","lat":-27.720121,"lng":153.120973}
+{"id":"osm:way:1120189123","category":"dog-park","name":"Doswell Terrace Dog Park","lat":-33.957879,"lng":137.724426}
+{"id":"osm:way:1122172036","category":"dog-park","lat":-27.429125,"lng":153.005855}
+{"id":"osm:way:1124880589","category":"dog-park","name":"Ferguson Road Open Space","lat":-27.598421,"lng":151.876401,"tags":{"website":"https://www.tr.qld.gov.au/facilities-recreation/parks-gardens/parks-by-location/westbrook-ferguson-road-park","wheelchair":"yes","access":"yes","operator":"Toowoomba Regional Council","addr:postcode":"4350","addr:suburb":"Westbrook","addr:state":"QLD"}}
+{"id":"osm:way:1126466036","category":"dog-park","lat":-33.914678,"lng":151.096272,"tags":{"access":"yes","operator":"City of Canterbury Bankstown"}}
+{"id":"osm:way:1127641559","category":"dog-park","lat":-27.663893,"lng":153.208051}
+{"id":"osm:way:1138171389","category":"dog-park","name":"Canley Vale Off-Leash Dog Park","lat":-33.884922,"lng":150.943847,"tags":{"access":"yes","operator":"Fairfield City Council"}}
+{"id":"osm:way:1144239362","category":"dog-park","name":"West Torrens Dog Park","lat":-34.947849,"lng":138.564046,"tags":{"website":"https://www.westtorrens.sa.gov.au/Services/Pets_animals/Exercising_socialising_your_dog/West_Torrens_Dog_Park","access":"yes"}}
+{"id":"osm:way:1155227239","category":"dog-park","lat":-38.071932,"lng":145.426247,"tags":{"access":"yes","addr:postcode":"3809","addr:suburb":"Officer","addr:state":"VIC"}}
+{"id":"osm:way:1155766647","category":"dog-park","lat":-37.657059,"lng":145.086958}
+{"id":"osm:way:1158124760","category":"dog-park","name":"Carly Hibberd Park - Dog-off leash area","lat":-27.615318,"lng":151.941425,"tags":{"website":"https://www.tr.qld.gov.au/facilities-recreation/parks-gardens/parks-by-location/kearneys-spring-carly-hibberd-park","access":"yes","operator":"Toowoomba Regional Council"}}
+{"id":"osm:way:115829816","category":"dog-park","lat":-27.680008,"lng":153.018381}
+{"id":"osm:way:115844883","category":"dog-park","lat":-27.682856,"lng":153.023297}
+{"id":"osm:way:1158929557","category":"dog-park","lat":-38.106398,"lng":145.190482,"tags":{"access":"yes"}}
+{"id":"osm:way:1159803984","category":"dog-park","name":"Springwood Park Dog Off Leash Area","lat":-27.614141,"lng":153.130681,"tags":{"operator":"Logan City Council","addr:postcode":"4127","addr:suburb":"Springwood","addr:state":"QLD"}}
+{"id":"osm:way:1160301647","category":"dog-park","lat":-27.422691,"lng":153.107962,"tags":{"access":"private"}}
+{"id":"osm:way:1160813032","category":"dog-park","lat":-33.854166,"lng":151.07851}
+{"id":"osm:way:1161024555","category":"dog-park","lat":-33.828671,"lng":138.608967}
+{"id":"osm:way:1161223733","category":"dog-park","lat":-27.30451,"lng":153.008005}
+{"id":"osm:way:1163126019","category":"dog-park","lat":-27.303027,"lng":153.014996}
+{"id":"osm:way:1171896995","category":"dog-park","name":"Kings Park Dog Park","lat":-33.742092,"lng":150.909448,"tags":{"access":"yes","operator":"Blacktown City Council","addr:postcode":"2148","addr:suburb":"Kings Park","addr:state":"NSW"}}
+{"id":"osm:way:1173518549","category":"dog-park","name":"Large Dog Park","lat":-21.047706,"lng":149.183179}
+{"id":"osm:way:1173518550","category":"dog-park","name":"Small Dog Park","lat":-21.04755,"lng":149.183606}
+{"id":"osm:way:117460765","category":"dog-park","lat":-27.606606,"lng":153.107423}
+{"id":"osm:way:117470783","category":"dog-park","lat":-27.614648,"lng":153.112721}
+{"id":"osm:way:1175573707","category":"dog-park","lat":-34.54371,"lng":146.40595}
+{"id":"osm:way:1177456115","category":"dog-park","lat":-12.37887,"lng":130.869042}
+{"id":"osm:way:1178702035","category":"dog-park","lat":-27.631897,"lng":152.787904,"tags":{"access":"yes"}}
+{"id":"osm:way:1178702036","category":"dog-park","lat":-27.632107,"lng":152.78827,"tags":{"access":"yes"}}
+{"id":"osm:way:1179777757","category":"dog-park","lat":-33.960526,"lng":151.022284,"tags":{"access":"yes"}}
+{"id":"osm:way:118564614","category":"dog-park","lat":-27.522443,"lng":153.184808,"tags":{"access":"yes"}}
+{"id":"osm:way:118691278","category":"dog-park","lat":-27.515748,"lng":153.210671,"tags":{"opening_hours":"24/7","wheelchair":"yes"}}
+{"id":"osm:way:1187638350","category":"dog-park","name":"Euroa Dog Park","lat":-36.742126,"lng":145.569956,"tags":{"access":"yes","operator":"Strathbogie Shire","addr:postcode":"3666","addr:suburb":"Euroa","addr:state":"VIC"}}
+{"id":"osm:way:1188911154","category":"dog-park","lat":-33.870751,"lng":151.065727}
+{"id":"osm:way:1188911155","category":"dog-park","lat":-33.871,"lng":151.065588}
+{"id":"osm:way:1189820892","category":"dog-park","name":"Piney Lakes Dog Play Park","lat":-32.051955,"lng":115.841131,"tags":{"website":"https://www.melvillecity.com.au/our-city/connect-with-us/melville-talks/community-engagements/fenced-dog-play-park","access":"yes","operator":"City of Melville","addr:postcode":"6150","addr:suburb":"Winthrop","addr:state":"WA"}}
+{"id":"osm:way:1189914743","category":"dog-park","lat":-27.064281,"lng":152.96814}
+{"id":"osm:way:1190612886","category":"dog-park","lat":-32.122434,"lng":115.879152}
+{"id":"osm:way:1190755238","category":"dog-park","lat":-27.690317,"lng":153.092013}
+{"id":"osm:way:1191836343","category":"dog-park","lat":-27.439646,"lng":152.932113,"tags":{"access":"yes"}}
+{"id":"osm:way:1192032862","category":"dog-park","name":"Dog off-leash area","lat":-27.523772,"lng":153.067732,"tags":{"access":"yes","operator":"Brisbane City Council","description":"Not fenced"}}
+{"id":"osm:way:1193074645","category":"dog-park","name":"Victory Terrace Dog Park","lat":-31.948028,"lng":115.880961}
+{"id":"osm:way:1193756684","category":"dog-park","lat":-27.216484,"lng":153.085465,"tags":{"access":"yes"}}
+{"id":"osm:way:1194977470","category":"dog-park","name":"Grange Forest Park Dog Off-Leash Area","lat":-27.416464,"lng":153.021602,"tags":{"access":"yes","operator":"Brisbane City Council"}}
+{"id":"osm:way:1197554350","category":"dog-park","name":"Ascot Dog Park","lat":-27.428729,"lng":153.062654}
+{"id":"osm:way:1203377865","category":"dog-park","name":"Steyne Park","lat":-33.873175,"lng":151.24155,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:1207372204","category":"dog-park","lat":-37.862555,"lng":144.851535,"tags":{"wheelchair":"yes","access":"yes"}}
+{"id":"osm:way:1207372205","category":"dog-park","lat":-37.862263,"lng":144.852657,"tags":{"wheelchair":"yes","access":"yes"}}
+{"id":"osm:way:1207647909","category":"dog-park","name":"Victory Road Reserve Dog Park","lat":-37.949521,"lng":145.113185}
+{"id":"osm:way:1212497782","category":"dog-park","lat":-34.588774,"lng":138.749134}
+{"id":"osm:way:1213989696","category":"dog-park","lat":-33.744188,"lng":150.826402}
+{"id":"osm:way:1213989697","category":"dog-park","lat":-33.744201,"lng":150.826692}
+{"id":"osm:way:1216236392","category":"dog-park","name":"Bentley Reserve Dog Park","lat":-34.853097,"lng":138.670219,"tags":{"addr:postcode":"5088","addr:suburb":"Holden Hill","addr:state":"SA"}}
+{"id":"osm:way:121651923","category":"dog-park","lat":-27.696883,"lng":153.113417}
+{"id":"osm:way:1220194297","category":"dog-park","lat":-33.898705,"lng":151.121775,"tags":{"website":"https://www.cbcity.nsw.gov.au/environment/parks-reserves/peace-park","access":"yes","operator":"Canterbury-Bankstown Council"}}
+{"id":"osm:way:1221246114","category":"dog-park","lat":-33.847426,"lng":151.114309}
+{"id":"osm:way:1224849526","category":"dog-park","lat":-33.818427,"lng":151.090545}
+{"id":"osm:way:1228986717","category":"dog-park","lat":-27.635949,"lng":152.397216}
+{"id":"osm:way:1230181985","category":"dog-park","lat":-33.414549,"lng":150.0716,"tags":{"operator":"Lithgow City Council"}}
+{"id":"osm:way:1236232816","category":"dog-park","name":"Raby Sports Complex Dog Lease Free Area","lat":-34.01726,"lng":150.81557,"tags":{"website":"https://campbelltown.bookable.net.au/#!/search?searchWord=Raby%20Sports%20Complex&showMoreSearch=false&showMoreAttribute=false","access":"yes","operator":"Campbelltown City Council","addr:postcode":"2566","addr:suburb":"Raby","addr:state":"NSW"}}
+{"id":"osm:way:1237132607","category":"dog-park","lat":-27.660226,"lng":153.378669}
+{"id":"osm:way:1237683817","category":"dog-park","lat":-27.681768,"lng":153.142831,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:123894348","category":"dog-park","lat":-33.76428,"lng":151.131155}
+{"id":"osm:way:1239294586","category":"dog-park","name":"Inglewood Dog Park","lat":-31.919214,"lng":115.872925,"tags":{"access":"yes","operator":"City of Stirling Council"}}
+{"id":"osm:way:1239860289","category":"dog-park","name":"Dianella Dog Park (large dogs)","lat":-31.889604,"lng":115.875032,"tags":{"wheelchair":"yes","operator":"City of Stirling Council"}}
+{"id":"osm:way:1239860290","category":"dog-park","name":"Dianella Dog Park (small dogs)","lat":-31.889195,"lng":115.875498,"tags":{"wheelchair":"yes","operator":"City of Stirling Council"}}
+{"id":"osm:way:1240953097","category":"dog-park","name":"Seebeck Drive Reserve Dog Park","lat":-38.053978,"lng":145.295494}
+{"id":"osm:way:1244811655","category":"dog-park","lat":-33.739993,"lng":151.215484,"tags":{"opening_hours":"24/7","wheelchair":"yes","operator":"Northern Beaches Council"}}
+{"id":"osm:way:1247123915","category":"dog-park","lat":-27.877704,"lng":153.367441}
+{"id":"osm:way:125718780","category":"dog-park","lat":-27.4737,"lng":153.027331}
+{"id":"osm:way:1262785005","category":"dog-park","lat":-27.599712,"lng":153.107453,"tags":{"access":"yes"}}
+{"id":"osm:way:1262785008","category":"dog-park","lat":-27.59938,"lng":153.10743}
+{"id":"osm:way:126758700","category":"dog-park","lat":-27.66493,"lng":153.107702}
+{"id":"osm:way:1268065929","category":"dog-park","name":"Pityarilla Dog Park","lat":-34.936489,"lng":138.608081,"tags":{"website":"https://www.unley.sa.gov.au/Events-programs-facilities/Facilities-venues/Parks-playgrounds/Pityarilla-Dog-Park"}}
+{"id":"osm:way:1271355811","category":"dog-park","name":"Sheffield Dog Park","lat":-41.382421,"lng":146.336406}
+{"id":"osm:way:1271952815","category":"dog-park","lat":-42.783437,"lng":147.557493}
+{"id":"osm:way:1274018502","category":"dog-park","lat":-37.725103,"lng":144.820721}
+{"id":"osm:way:1275273899","category":"dog-park","lat":-31.816706,"lng":115.836116}
+{"id":"osm:way:1278190648","category":"dog-park","name":"International Gardens Reserve Fenced Dog Park","lat":-37.731518,"lng":144.78638}
+{"id":"osm:way:1279230538","category":"dog-park","lat":-27.435927,"lng":153.048105,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:1279233149","category":"dog-park","name":"Flagstone Dog Park","lat":-27.803129,"lng":152.945434}
+{"id":"osm:way:127926239","category":"dog-park","name":"CE Brown Reserve Fenced Dog Park","lat":-37.536641,"lng":143.841595}
+{"id":"osm:way:1280395597","category":"dog-park","name":"Ginninderry Temporary Dog Enclosure","lat":-35.222784,"lng":148.996356,"tags":{"access":"yes","operator":"Ginninderry Development"}}
+{"id":"osm:way:1285227739","category":"dog-park","name":"Proposed Killeen Street Reserve Off-Leash area","lat":-37.798004,"lng":144.820823}
+{"id":"osm:way:1286309295","category":"dog-park","name":"Adamstown Dog Off-Leash Area","lat":-32.929926,"lng":151.726736,"tags":{"access":"yes"}}
+{"id":"osm:way:1288322948","category":"dog-park","lat":-27.502619,"lng":152.990905,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:1288819714","category":"dog-park","lat":-33.660941,"lng":151.303766,"tags":{"access":"yes"}}
+{"id":"osm:way:1300145184","category":"dog-park","name":"Community Dog Park","lat":-38.37494,"lng":142.465893,"tags":{"website":"https://www.warrnambool.vic.gov.au/","access":"yes","operator":"Warrnambool City Council"}}
+{"id":"osm:way:1303072005","category":"dog-park","name":"Henleys Hill Dog Park","lat":-16.952543,"lng":145.735877,"tags":{"access":"yes","operator":"Cairns Regional Council"}}
+{"id":"osm:way:1303644723","category":"dog-park","name":"Swan Hill Off Leash Dog Park","lat":-35.339585,"lng":143.535304}
+{"id":"osm:way:1303811601","category":"dog-park","name":"Murray Paw Park - Small Offleash Dog Park","lat":-19.307016,"lng":146.800621,"tags":{"access":"yes"}}
+{"id":"osm:way:1304971512","category":"dog-park","lat":-38.385679,"lng":142.472416}
+{"id":"osm:way:1311143614","category":"dog-park","name":"Grant Road Leash Free Dog Park","lat":-38.218221,"lng":145.17615,"tags":{"access":"yes"}}
+{"id":"osm:way:1311241595","category":"dog-park","lat":-27.655562,"lng":153.101066,"tags":{"access":"yes"}}
+{"id":"osm:way:1311241596","category":"dog-park","lat":-27.655799,"lng":153.10102,"tags":{"access":"yes"}}
+{"id":"osm:way:1312390599","category":"dog-park","name":"Warilla Dog Park","lat":-34.550312,"lng":150.857927,"tags":{"access":"yes","operator":"Shellharbour City Council","addr:postcode":"2528","addr:suburb":"Warilla","addr:state":"NSW"}}
+{"id":"osm:way:1312390600","category":"dog-park","name":"Warilla Dog Park","lat":-34.550281,"lng":150.858259,"tags":{"access":"yes","operator":"Shellharbour City Council","addr:postcode":"2528","addr:suburb":"Warilla","addr:state":"NSW"}}
+{"id":"osm:way:1312939981","category":"dog-park","name":"Moomba Park off-leash dog park","lat":-37.697617,"lng":144.978246}
+{"id":"osm:way:1312956039","category":"dog-park","lat":-33.509201,"lng":151.33734,"tags":{"website":"https://www.centralcoast.nsw.gov.au/recreation/recreational-area/ettalong-oval"}}
+{"id":"osm:way:1314537271","category":"dog-park","name":"Pawfield Park","lat":-37.881672,"lng":145.035698,"tags":{"operator":"Glen Eira City Council"}}
+{"id":"osm:way:1315441480","category":"dog-park","lat":-26.605682,"lng":153.095435,"tags":{"access":"yes"}}
+{"id":"osm:way:1316854232","category":"dog-park","lat":-27.671082,"lng":153.091912,"tags":{"access":"yes"}}
+{"id":"osm:way:1316854233","category":"dog-park","lat":-27.67102,"lng":153.091344,"tags":{"access":"yes"}}
+{"id":"osm:way:1318936577","category":"dog-park","name":"Claverton Drive Dog Park","lat":-27.178509,"lng":153.013649,"tags":{"website":"https://www.moretonbay.qld.gov.au/Services/Sport-Recreation/Parks/Claverton-Drive-Park","wheelchair":"no","access":"yes"}}
+{"id":"osm:way:1319749979","category":"dog-park","lat":-32.343183,"lng":115.822374}
+{"id":"osm:way:1321522062","category":"dog-park","lat":-19.310662,"lng":146.691701,"tags":{"access":"yes"}}
+{"id":"osm:way:1321543136","category":"dog-park","lat":-26.949262,"lng":152.774278,"tags":{"access":"yes"}}
+{"id":"osm:way:1321765281","category":"dog-park","lat":-27.316607,"lng":152.937905,"tags":{"access":"yes"}}
+{"id":"osm:way:1322054963","category":"dog-park","name":"Rosalie Walk - Dog Off-leash Area","lat":-27.475584,"lng":151.82082,"tags":{"access":"yes","operator":"Toowoomba Regional Council"}}
+{"id":"osm:way:1326249846","category":"dog-park","lat":-31.849976,"lng":115.783808}
+{"id":"osm:way:1331763533","category":"dog-park","lat":-34.580045,"lng":150.837715,"tags":{"access":"yes","addr:postcode":"2529","addr:suburb":"Flinders","addr:state":"NSW"}}
+{"id":"osm:way:1331763534","category":"dog-park","name":"Croome Road Dog Park","lat":-34.582316,"lng":150.789195,"tags":{"access":"yes","operator":"Shellharbour City Council"}}
+{"id":"osm:way:1331763536","category":"dog-park","name":"Alex Hoffman Park Off-leash zone","lat":-34.548674,"lng":150.843763,"tags":{"access":"yes","addr:postcode":"2528","addr:suburb":"Mount Warrigal","addr:state":"NSW"}}
+{"id":"osm:way:133341440","category":"dog-park","lat":-32.168296,"lng":152.503677}
+{"id":"osm:way:133341724","category":"dog-park","lat":-27.551472,"lng":153.279961,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:1341116019","category":"dog-park","lat":-19.280831,"lng":146.823867}
+{"id":"osm:way:1343710186","category":"dog-park","name":"Stornoway Drive Reserve Fenced Dog Park","lat":-38.191382,"lng":145.155871}
+{"id":"osm:way:134868958","category":"dog-park","lat":-27.550832,"lng":153.259208,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:134984825","category":"dog-park","lat":-41.411439,"lng":147.142516}
+{"id":"osm:way:1350604772","category":"dog-park","name":"The Scamper","lat":-27.691492,"lng":152.895201}
+{"id":"osm:way:1351377449","category":"dog-park","lat":-33.633621,"lng":151.331466,"tags":{"website":"https://www.northernbeaches.nsw.gov.au/things-to-do/recreation-area/avalon-beach-reserve-dog-park","opening_hours":"24/7"}}
+{"id":"osm:way:1353279231","category":"dog-park","name":"Parkwood Fenced Dog Park","lat":-37.783252,"lng":145.242562,"tags":{"website":"https://www.maroondah.vic.gov.au/Explore/Parks-and-playgrounds/Parks-and-Facilities/Parkwood-Dog-Park","access":"yes"}}
+{"id":"osm:way:13595563","category":"dog-park","lat":-27.443673,"lng":153.026014}
+{"id":"osm:way:1366093323","category":"dog-park","lat":-27.548725,"lng":152.984388,"tags":{"access":"yes"}}
+{"id":"osm:way:1368015758","category":"dog-park","lat":-27.462484,"lng":152.655493}
+{"id":"osm:way:1375314065","category":"dog-park","name":"Park Beach Close Dog Park","lat":-32.024001,"lng":115.898396}
+{"id":"osm:way:1376364251","category":"dog-park","lat":-27.179177,"lng":152.966072}
+{"id":"osm:way:1377678868","category":"dog-park","name":"Whitton Park Gentle Dog Area","lat":-33.763052,"lng":150.617412}
+{"id":"osm:way:1377678869","category":"dog-park","name":"Whitton Park Dog Off-Leash Area","lat":-33.763054,"lng":150.616976}
+{"id":"osm:way:1377718516","category":"dog-park","lat":-27.072165,"lng":152.9288}
+{"id":"osm:way:1378590810","category":"dog-park","lat":-31.956762,"lng":115.80134}
+{"id":"osm:way:1385704094","category":"dog-park","name":"Zuccoli Dog Park","lat":-12.504835,"lng":131.006348,"tags":{"access":"yes"}}
+{"id":"osm:way:1385784332","category":"dog-park","lat":-28.065085,"lng":153.38303}
+{"id":"osm:way:1389530391","category":"dog-park","name":"Thomas H Halton Dog Park","lat":-33.004162,"lng":151.642928}
+{"id":"osm:way:1391092058","category":"dog-park","lat":-37.712643,"lng":145.040446}
+{"id":"osm:way:1393721715","category":"dog-park","name":"Whittlesea Public Gardens Fenced Dog Park","lat":-37.669497,"lng":144.983269,"tags":{"operator":"City of Whittlesea"}}
+{"id":"osm:way:1393852253","category":"dog-park","lat":-27.428894,"lng":153.004542}
+{"id":"osm:way:1395933163","category":"dog-park","lat":-27.440315,"lng":153.031628}
+{"id":"osm:way:139952757","category":"dog-park","lat":-27.599972,"lng":152.959107,"tags":{"access":"yes"}}
+{"id":"osm:way:140809233","category":"dog-park","lat":-27.473956,"lng":153.079305,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:1409953146","category":"dog-park","lat":-33.737833,"lng":150.992969}
+{"id":"osm:way:1410238769","category":"dog-park","lat":-33.721055,"lng":150.930666,"tags":{"access":"yes"}}
+{"id":"osm:way:1414762218","category":"dog-park","lat":-16.834315,"lng":145.690029,"tags":{"access":"yes"}}
+{"id":"osm:way:1414762219","category":"dog-park","lat":-16.834295,"lng":145.690781,"tags":{"access":"yes"}}
+{"id":"osm:way:1415835857","category":"dog-park","name":"South Lawson Park Dog Off-leash Area","lat":-33.725999,"lng":150.433419}
+{"id":"osm:way:142094017","category":"dog-park","name":"Clarendon Dog Park","lat":-38.232717,"lng":145.15995}
+{"id":"osm:way:1423503073","category":"dog-park","lat":-33.866386,"lng":151.135602}
+{"id":"osm:way:1424568546","category":"dog-park","name":"Doggy Play Park","lat":-37.969081,"lng":145.122778}
+{"id":"osm:way:1429130951","category":"dog-park","name":"Mawson Lakes Dog Park","lat":-34.81844,"lng":138.616457,"tags":{"website":"https://www.salisbury.sa.gov.au/activities/community-facilities-and-parks/dog-friendly-parks","access":"yes","operator":"City of Salisbury","addr:postcode":"5095","addr:suburb":"Mawson Lakes","addr:state":"SA"}}
+{"id":"osm:way:1431438496","category":"dog-park","lat":-27.202735,"lng":152.825467}
+{"id":"osm:way:1432472794","category":"dog-park","name":"Emu Heights Dog Park","lat":-33.733033,"lng":150.651536,"tags":{"description":"Unleashed dogs must respond to voice commands in the unfenced area"}}
+{"id":"osm:way:1434290509","category":"dog-park","lat":-27.435808,"lng":153.048,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:1442133697","category":"dog-park","lat":-23.373983,"lng":150.546519}
+{"id":"osm:way:1443714164","category":"dog-park","lat":-12.484925,"lng":130.966053,"tags":{"access":"yes"}}
+{"id":"osm:way:14457582","category":"dog-park","name":"Dan Mahoney Reserve","lat":-33.802774,"lng":151.015979}
+{"id":"osm:way:1446629894","category":"dog-park","lat":-33.85329,"lng":151.005127}
+{"id":"osm:way:1448530072","category":"dog-park","name":"Olives Reserve Dog Park","lat":-32.005889,"lng":115.855066}
+{"id":"osm:way:1450756618","category":"dog-park","lat":-27.563552,"lng":152.902332,"tags":{"operator":"Brisbane City Council"}}
+{"id":"osm:way:145396894","category":"dog-park","lat":-27.690503,"lng":153.091395}
+{"id":"osm:way:145398506","category":"dog-park","name":"The Scar Dogpark","lat":-35.367182,"lng":149.217557}
+{"id":"osm:way:1456463385","category":"dog-park","name":"Lewisham West Off-Leash Dog Park","lat":-33.893545,"lng":151.143805,"tags":{"website":"https://www.innerwest.nsw.gov.au/about/news/media-releases/2024-media-releases/council-opens-new-off-leash-dog-park-the-first-greenway-link-open-to-the-public"}}
+{"id":"osm:way:1457976533","category":"dog-park","lat":-27.357546,"lng":152.970188,"tags":{"access":"yes"}}
+{"id":"osm:way:1461498714","category":"dog-park","lat":-27.605547,"lng":152.797913}
+{"id":"osm:way:1461692167","category":"dog-park","lat":-26.722569,"lng":153.129033}
+{"id":"osm:way:1467490083","category":"dog-park","lat":-37.363074,"lng":144.740511}
+{"id":"osm:way:1468991081","category":"dog-park","lat":-33.928243,"lng":137.625327,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:147112657","category":"dog-park","name":"Jack Marks Reserve","lat":-31.940972,"lng":115.873967}
+{"id":"osm:way:1481431940","category":"dog-park","lat":-33.889986,"lng":151.198181}
+{"id":"osm:way:1485271055","category":"dog-park","lat":-35.40586,"lng":149.171314,"tags":{"access":"private","description":"Service Dogs ONLY"}}
+{"id":"osm:way:1485271056","category":"dog-park","name":"South Jerrabomberra Dog Park","lat":-35.404894,"lng":149.171007,"tags":{"access":"yes"}}
+{"id":"osm:way:1486732540","category":"dog-park","lat":-27.507975,"lng":153.040791,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:1504276689","category":"dog-park","name":"Gunns Road Reserve Dog Park","lat":-37.996772,"lng":145.265099,"tags":{"operator":"City of Casey"}}
+{"id":"osm:way:1504376128","category":"dog-park","name":"Howard (Park) - James Street","lat":-25.318336,"lng":152.55869,"tags":{"website":"https://www.frasercoast.qld.gov.au/Services/Parks-and-Playgrounds/Parks-and-Gardens/Parks-and-Gardens-records/Howard-Park-James-Street","access":"yes","addr:postcode":"4659","addr:suburb":"Howard","addr:state":"QLD"}}
+{"id":"osm:way:1510451311","category":"dog-park","lat":-27.696987,"lng":153.05427,"tags":{"access":"yes"}}
+{"id":"osm:way:1510787050","category":"dog-park","lat":-27.076748,"lng":152.954389}
+{"id":"osm:way:1515131923","category":"dog-park","lat":-33.831982,"lng":151.01626}
+{"id":"osm:way:1515719494","category":"dog-park","name":"Seahaven Enclosed Dog Park","lat":-32.313916,"lng":115.745191,"tags":{"operator":"City of Rockingham","wikidata":"Q104410778"}}
+{"id":"osm:way:1520519971","category":"dog-park","lat":-33.76532,"lng":150.926808}
+{"id":"osm:way:1523946022","category":"dog-park","lat":-27.130996,"lng":153.051241,"tags":{"access":"yes"}}
+{"id":"osm:way:1524832711","category":"dog-park","lat":-33.8092,"lng":151.267103}
+{"id":"osm:way:1524892971","category":"dog-park","lat":-37.759876,"lng":144.794029}
+{"id":"osm:way:1527097300","category":"dog-park","name":"Cambridge Dog Park","lat":-42.83418,"lng":147.445335}
+{"id":"osm:way:1530626933","category":"dog-park","name":"Sunbury Dog Park","lat":-37.585642,"lng":144.732978}
+{"id":"osm:way:1531570813","category":"dog-park","lat":-20.850167,"lng":144.200337}
+{"id":"osm:way:1534484093","category":"dog-park","lat":-38.378446,"lng":144.842385}
+{"id":"osm:way:1535736949","category":"dog-park","name":"Villawood Reserve Fenced Dog Park","lat":-38.303463,"lng":145.18013}
+{"id":"osm:way:167940955","category":"dog-park","name":"Berwick Dog Obedience Club","lat":-37.990694,"lng":145.306649,"tags":{"addr:postcode":"3804","addr:suburb":"Narre Warren North","addr:state":"VIC"}}
+{"id":"osm:way:172845320","category":"dog-park","name":"Firmstone Reserve","lat":-33.937083,"lng":151.228274}
+{"id":"osm:way:174294972","category":"dog-park","name":"Ngampa Yerta","lat":-34.900204,"lng":138.600182}
+{"id":"osm:way:174710387","category":"dog-park","name":"Bede Spillane Gardens","lat":-33.877118,"lng":151.12175,"tags":{"wheelchair":"no","access":"yes"}}
+{"id":"osm:way:176021282","category":"dog-park","lat":-34.813804,"lng":138.639943}
+{"id":"osm:way:177612039","category":"dog-park","name":"Dog area","lat":-38.251898,"lng":145.042453}
+{"id":"osm:way:179425352","category":"dog-park","name":"Derring Lane Reserve","lat":-37.972044,"lng":145.076215}
+{"id":"osm:way:180816309","category":"dog-park","lat":-33.740717,"lng":151.214986,"tags":{"opening_hours":"24/7","wheelchair":"yes","access":"yes","operator":"Northern Beaches Council"}}
+{"id":"osm:way:186985384","category":"dog-park","name":"Dog Off Leash Area","lat":-33.796481,"lng":151.13534,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:19782185","category":"dog-park","lat":-27.490335,"lng":153.042699,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:19792609","category":"dog-park","name":"Sunset Park Dog Park","lat":-27.451889,"lng":152.974149,"tags":{"opening_hours":"24/7","wheelchair":"yes","access":"yes","operator":"Brisbane City Council"}}
+{"id":"osm:way:203187709","category":"dog-park","name":"Rinaldo Park","lat":-32.085103,"lng":115.812024}
+{"id":"osm:way:206359102","category":"dog-park","name":"Off Leash Dog Area","lat":-33.930476,"lng":150.973621}
+{"id":"osm:way:20694709","category":"dog-park","name":"Wembley Park Dog off-leash area","lat":-27.489313,"lng":153.063462,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:207539206","category":"dog-park","lat":-33.718435,"lng":151.069265}
+{"id":"osm:way:21302751","category":"dog-park","lat":-27.519484,"lng":153.041487}
+{"id":"osm:way:215153908","category":"dog-park","name":"Mount Martha Community Forest","lat":-38.272177,"lng":145.035516,"tags":{"addr:postcode":"3934","addr:suburb":"Mount Martha","addr:state":"VIC"}}
+{"id":"osm:way:219101476","category":"dog-park","name":"Tuggerah Oval","lat":-33.314964,"lng":151.428929,"tags":{"description":"Off leash dog park, converted from a baseball diamond. Now fenced and divided into several enclosures. Used for dog training and occasional agility events."}}
+{"id":"osm:way:220567995","category":"dog-park","name":"Recreation Hall Reserve","lat":-37.809478,"lng":145.030519}
+{"id":"osm:way:231201266","category":"dog-park","lat":-37.754993,"lng":145.079452}
+{"id":"osm:way:232195263","category":"dog-park","lat":-34.843085,"lng":138.540811}
+{"id":"osm:way:232223039","category":"dog-park","lat":-34.843019,"lng":138.540965}
+{"id":"osm:way:233479086","category":"dog-park","name":"Dog off-leash exercise area","lat":-27.274472,"lng":152.964754}
+{"id":"osm:way:234065867","category":"dog-park","name":"Dog exercise area","lat":-27.294153,"lng":152.944743}
+{"id":"osm:way:23488261","category":"dog-park","lat":-27.449437,"lng":152.996787}
+{"id":"osm:way:237080167","category":"dog-park","name":"Mernda Off-lead Dog Park","lat":-37.592009,"lng":145.100963}
+{"id":"osm:way:237670707","category":"dog-park","lat":-27.309367,"lng":152.950293}
+{"id":"osm:way:240332254","category":"dog-park","name":"Centenary Park","lat":-38.138515,"lng":145.175602}
+{"id":"osm:way:240359665","category":"dog-park","lat":-27.737935,"lng":153.193784,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:242818984","category":"dog-park","name":"Southern Obedience Club","lat":-42.974246,"lng":147.289448}
+{"id":"osm:way:24340280","category":"dog-park","name":"Graceville Dog Park","lat":-27.518874,"lng":152.986142}
+{"id":"osm:way:24763204","category":"dog-park","lat":-27.48038,"lng":153.049059}
+{"id":"osm:way:247779250","category":"dog-park","lat":-34.877424,"lng":138.616613}
+{"id":"osm:way:254292647","category":"dog-park","lat":-27.348371,"lng":152.949091}
+{"id":"osm:way:254292749","category":"dog-park","lat":-27.332948,"lng":152.952188}
+{"id":"osm:way:254292774","category":"dog-park","lat":-27.33732,"lng":152.960258}
+{"id":"osm:way:259155651","category":"dog-park","name":"Narrung Street Dog Off Leash Area","lat":-35.096921,"lng":147.363921}
+{"id":"osm:way:26407711","category":"dog-park","name":"Martin Reserve (Dog Offleash Area)","lat":-37.794075,"lng":144.87653}
+{"id":"osm:way:266788747","category":"dog-park","name":"Collenso Street Reserve Dog Off-Leash Area","lat":-37.787598,"lng":144.80919}
+{"id":"osm:way:270267763","category":"dog-park","lat":-37.967057,"lng":145.090819,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:27150574","category":"dog-park","lat":-27.454351,"lng":153.025789}
+{"id":"osm:way:273054497","category":"dog-park","lat":-33.89053,"lng":151.173674,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:27418922","category":"dog-park","lat":-33.891589,"lng":151.144689}
+{"id":"osm:way:276664405","category":"dog-park","lat":-42.904075,"lng":147.434941,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:278310474","category":"dog-park","name":"Runcorn Dog Park","lat":-27.587003,"lng":153.070021,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:28165529","category":"dog-park","name":"Powerhouse Dog Park","lat":-27.467308,"lng":153.053831}
+{"id":"osm:way:28339434","category":"dog-park","lat":-27.451623,"lng":152.952494}
+{"id":"osm:way:28594868","category":"dog-park","name":"Keryn Place Dog Park","lat":-27.420738,"lng":152.945665,"tags":{"access":"yes"}}
+{"id":"osm:way:28666829","category":"dog-park","lat":-27.453901,"lng":153.054605}
+{"id":"osm:way:28738980","category":"dog-park","name":"Snowdon Drive Reserve","lat":-37.974192,"lng":145.080146}
+{"id":"osm:way:28808753","category":"dog-park","lat":-27.511899,"lng":153.015232,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:28867790","category":"dog-park","name":"Ivory Street Park","lat":-27.46006,"lng":153.035266,"tags":{"wheelchair":"limited","addr:suburb":"Fortitude Valley","addr:state":"QLD"}}
+{"id":"osm:way:28937609","category":"dog-park","lat":-27.421495,"lng":153.028237}
+{"id":"osm:way:292157537","category":"dog-park","lat":-27.227656,"lng":152.986185}
+{"id":"osm:way:29235557","category":"dog-park","lat":-27.461264,"lng":153.168642,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:293643779","category":"dog-park","lat":-36.111972,"lng":146.888667}
+{"id":"osm:way:300401893","category":"dog-park","lat":-27.549877,"lng":153.013025}
+{"id":"osm:way:300615044","category":"dog-park","name":"Little Mountain Dog Park","lat":-26.79115,"lng":153.08261}
+{"id":"osm:way:301890976","category":"dog-park","name":"Upper Reserve Off-Leash Area","lat":-32.909789,"lng":151.665276}
+{"id":"osm:way:302354606","category":"dog-park","lat":-27.565738,"lng":153.043758}
+{"id":"osm:way:303417153","category":"dog-park","lat":-27.555657,"lng":152.952521}
+{"id":"osm:way:303417161","category":"dog-park","lat":-27.559108,"lng":152.95335}
+{"id":"osm:way:303722831","category":"dog-park","lat":-27.547042,"lng":152.960599}
+{"id":"osm:way:303951606","category":"dog-park","name":"Anzac Park Dog Park","lat":-33.283357,"lng":149.121169}
+{"id":"osm:way:304182723","category":"dog-park","lat":-27.535603,"lng":152.993507,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:30472938","category":"dog-park","lat":-27.40137,"lng":153.039756,"tags":{"access":"yes"}}
+{"id":"osm:way:305959260","category":"dog-park","lat":-33.679064,"lng":150.914806}
+{"id":"osm:way:307237045","category":"dog-park","lat":-33.613562,"lng":151.138471}
+{"id":"osm:way:30839162","category":"dog-park","lat":-27.366234,"lng":152.99809,"tags":{"wheelchair":"no"}}
+{"id":"osm:way:309150290","category":"dog-park","lat":-27.621763,"lng":153.0374}
+{"id":"osm:way:309150294","category":"dog-park","lat":-27.617059,"lng":153.029668,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:309167696","category":"dog-park","lat":-27.609314,"lng":153.012058,"tags":{"access":"yes"}}
+{"id":"osm:way:312181366","category":"dog-park","lat":-27.563652,"lng":152.902676,"tags":{"operator":"Brisbane City Council"}}
+{"id":"osm:way:31259083","category":"dog-park","name":"Woodville Reserve","lat":-31.927127,"lng":115.858099,"tags":{"wheelchair":"yes","access":"yes"}}
+{"id":"osm:way:313232218","category":"dog-park","lat":-27.558142,"lng":152.90805}
+{"id":"osm:way:313913692","category":"dog-park","lat":-37.819584,"lng":144.868906,"tags":{"description":"Fenced"}}
+{"id":"osm:way:31405586","category":"dog-park","lat":-27.519156,"lng":153.022303,"tags":{"opening_hours":"24/7","wheelchair":"yes"}}
+{"id":"osm:way:31405745","category":"dog-park","lat":-27.519224,"lng":153.041441}
+{"id":"osm:way:314081504","category":"dog-park","lat":-27.50324,"lng":153.026549,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:31781556","category":"dog-park","lat":-27.548393,"lng":152.984325,"tags":{"access":"yes"}}
+{"id":"osm:way:31893862","category":"dog-park","lat":-27.557143,"lng":152.974893}
+{"id":"osm:way:325835196","category":"dog-park","lat":-27.471349,"lng":153.000959}
+{"id":"osm:way:32708814","category":"dog-park","name":"Peninsula Reserve","lat":-38.140999,"lng":145.144452,"tags":{"website":"https://www.frankston.vic.gov.au/Things_To_Do/Parks_and_Reserves/Karingal/Peninsula_Reserve"}}
+{"id":"osm:way:32897664","category":"dog-park","name":"Hargreaves Park","lat":-32.080104,"lng":115.804453}
+{"id":"osm:way:330448974","category":"dog-park","lat":-27.122109,"lng":152.970559}
+{"id":"osm:way:330462684","category":"dog-park","lat":-27.078794,"lng":152.973546}
+{"id":"osm:way:33295698","category":"dog-park","lat":-27.503642,"lng":152.930612}
+{"id":"osm:way:335665934","category":"dog-park","name":"Trafalgar Road Dog Park","lat":-16.997782,"lng":145.741301}
+{"id":"osm:way:335991345","category":"dog-park","name":"Pine Avenue Reserve","lat":-38.232152,"lng":145.034181}
+{"id":"osm:way:338276220","category":"dog-park","lat":-27.086781,"lng":152.94414}
+{"id":"osm:way:338984767","category":"dog-park","lat":-27.511035,"lng":153.254859,"tags":{"opening_hours":"24/7","wheelchair":"limited"}}
+{"id":"osm:way:339116949","category":"dog-park","lat":-27.486824,"lng":153.228725,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:341092302","category":"dog-park","name":"Riverwood Park","lat":-33.948386,"lng":151.045027,"tags":{"wheelchair":"limited"}}
+{"id":"osm:way:343338428","category":"dog-park","lat":-33.711861,"lng":151.13479}
+{"id":"osm:way:343807868","category":"dog-park","lat":-27.593416,"lng":153.026146}
+{"id":"osm:way:343890461","category":"dog-park","lat":-27.635239,"lng":152.866462,"tags":{"access":"yes"}}
+{"id":"osm:way:350996585","category":"dog-park","lat":-27.350642,"lng":153.105845,"tags":{"wheelchair":"no"}}
+{"id":"osm:way:351541074","category":"dog-park","name":"Paul Conti Park Dog Off Leash Area","lat":-27.450023,"lng":153.128552,"tags":{"access":"yes","operator":"Brisbane City Council"}}
+{"id":"osm:way:353643312","category":"dog-park","lat":-27.451778,"lng":153.144692,"tags":{"access":"yes"}}
+{"id":"osm:way:35422893","category":"dog-park","lat":-27.480251,"lng":153.057974,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:360835777","category":"dog-park","lat":-37.712121,"lng":145.039053}
+{"id":"osm:way:362356727","category":"dog-park","lat":-33.902178,"lng":151.152904,"tags":{"website":"http://www.marrickville.nsw.gov.au/en/community/community-services/pets-and-animals/dogs/dog-exercise-areas/?id=917","wheelchair":"yes"}}
+{"id":"osm:way:364433221","category":"dog-park","lat":-38.060114,"lng":145.1339}
+{"id":"osm:way:366898717","category":"dog-park","name":"Thiess Dog Park","lat":-27.599243,"lng":151.918872,"tags":{"operator":"Toowoomba Regional Council","addr:suburb":"Darling Heights","addr:state":"QLD"}}
+{"id":"osm:way:368121111","category":"dog-park","lat":-27.613937,"lng":152.935115}
+{"id":"osm:way:368216580","category":"dog-park","lat":-27.660057,"lng":152.878217}
+{"id":"osm:way:368409332","category":"dog-park","name":"Hastings Cunningham Reserve Dog Park","lat":-37.828899,"lng":140.762084}
+{"id":"osm:way:37399827","category":"dog-park","name":"ANZAC Park Dog Park","lat":-27.480194,"lng":152.9768}
+{"id":"osm:way:37623825","category":"dog-park","lat":-27.378334,"lng":153.012271,"tags":{"access":"yes"}}
+{"id":"osm:way:37815207","category":"dog-park","name":"The Avenue Dog Park","lat":-27.174681,"lng":152.943189}
+{"id":"osm:way:378284129","category":"dog-park","lat":-27.636101,"lng":153.019697,"tags":{"access":"yes"}}
+{"id":"osm:way:378284130","category":"dog-park","lat":-27.635936,"lng":153.019923,"tags":{"access":"yes"}}
+{"id":"osm:way:380881160","category":"dog-park","name":"Springfield Lakes Dog Park","lat":-27.689231,"lng":152.916109,"tags":{"addr:postcode":"4300","addr:suburb":"Springfield Lakes","addr:state":"QLD"}}
+{"id":"osm:way:38285906","category":"dog-park","lat":-27.165065,"lng":152.960331}
+{"id":"osm:way:38459332","category":"dog-park","lat":-27.409223,"lng":152.95571,"tags":{"access":"yes"}}
+{"id":"osm:way:387470361","category":"dog-park","name":"Pinoneer Park","lat":-31.975904,"lng":115.997773}
+{"id":"osm:way:389365941","category":"dog-park","name":"Dog Play Area","lat":-41.057819,"lng":145.889456}
+{"id":"osm:way:395250193","category":"dog-park","lat":-27.524549,"lng":153.120021}
+{"id":"osm:way:396180609","category":"dog-park","name":"Dog off leash park","lat":-33.76685,"lng":150.693191}
+{"id":"osm:way:39955579","category":"dog-park","lat":-27.563528,"lng":152.894315}
+{"id":"osm:way:40422858","category":"dog-park","lat":-27.376354,"lng":153.093426}
+{"id":"osm:way:406417891","category":"dog-park","lat":-27.518683,"lng":153.008224,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:41020196","category":"dog-park","lat":-33.748632,"lng":150.969403}
+{"id":"osm:way:410742117","category":"dog-park","lat":-27.472411,"lng":153.185192}
+{"id":"osm:way:410742118","category":"dog-park","lat":-27.472568,"lng":153.184912}
+{"id":"osm:way:413122686","category":"dog-park","lat":-33.727278,"lng":150.780104}
+{"id":"osm:way:414614673","category":"dog-park","name":"Suncoast Dog Park","lat":-43.017408,"lng":147.325915}
+{"id":"osm:way:420934918","category":"dog-park","lat":-27.887546,"lng":153.282905}
+{"id":"osm:way:42978685","category":"dog-park","lat":-27.401005,"lng":153.056087,"tags":{"wheelchair":"limited"}}
+{"id":"osm:way:429999094","category":"dog-park","lat":-33.980508,"lng":151.0875}
+{"id":"osm:way:431160746","category":"dog-park","lat":-33.714917,"lng":150.700013,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:431650783","category":"dog-park","name":"Labrador Fenced Agility Dog Park","lat":-27.942186,"lng":153.394648,"tags":{"access":"yes","operator":"GCCC"}}
+{"id":"osm:way:437892592","category":"dog-park","lat":-33.749677,"lng":150.79332}
+{"id":"osm:way:44222745","category":"dog-park","lat":-27.202247,"lng":153.042027,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:44618186","category":"dog-park","name":"Clayton Reserve","lat":-37.796539,"lng":144.938962,"tags":{"wheelchair":"yes","operator":"City Of Melbourne"}}
+{"id":"osm:way:44706006","category":"dog-park","lat":-27.321441,"lng":153.031955}
+{"id":"osm:way:447345071","category":"dog-park","lat":-34.76182,"lng":138.674223,"tags":{"wheelchair":"yes","access":"yes"}}
+{"id":"osm:way:450062769","category":"dog-park","lat":-34.808925,"lng":138.494662}
+{"id":"osm:way:450062770","category":"dog-park","lat":-34.808944,"lng":138.49392}
+{"id":"osm:way:454274288","category":"dog-park","lat":-27.411773,"lng":152.923479}
+{"id":"osm:way:455033033","category":"dog-park","lat":-33.809424,"lng":151.172178,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:457196449","category":"dog-park","lat":-33.791028,"lng":151.186082,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:459919344","category":"dog-park","name":"Off Leash Area","lat":-36.074184,"lng":146.93559,"tags":{"access":"yes"}}
+{"id":"osm:way:459920521","category":"dog-park","name":"Off Leash Area","lat":-36.055358,"lng":146.924097}
+{"id":"osm:way:459921816","category":"dog-park","name":"Off Leash Area","lat":-36.041505,"lng":146.924056}
+{"id":"osm:way:459921819","category":"dog-park","name":"Off Leash Area","lat":-36.030553,"lng":146.941286}
+{"id":"osm:way:460876055","category":"dog-park","lat":-33.814809,"lng":151.172084,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:462789037","category":"dog-park","lat":-34.832524,"lng":138.500736}
+{"id":"osm:way:467550820","category":"dog-park","name":"Off-leash dog area","lat":-27.949877,"lng":153.369514}
+{"id":"osm:way:468205958","category":"dog-park","name":"Greenway Dog Park","lat":-33.721675,"lng":151.040627}
+{"id":"osm:way:468535987","category":"dog-park","name":"Suffolk Park Dog Beach","lat":-28.680083,"lng":153.617251}
+{"id":"osm:way:469273446","category":"dog-park","lat":-41.433818,"lng":147.191089}
+{"id":"osm:way:469412476","category":"dog-park","lat":-37.602952,"lng":143.830115}
+{"id":"osm:way:469421790","category":"dog-park","name":"Diamond Creek Dog Park","lat":-37.675616,"lng":145.152905}
+{"id":"osm:way:469566465","category":"dog-park","name":"Bellongil Dog Beach","lat":-28.636614,"lng":153.604693}
+{"id":"osm:way:469650407","category":"dog-park","lat":-27.781973,"lng":153.231459}
+{"id":"osm:way:469662401","category":"dog-park","lat":-27.779909,"lng":153.272872,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:471423016","category":"dog-park","name":"Lathlain Dog park","lat":-31.974484,"lng":115.910016}
+{"id":"osm:way:471649431","category":"dog-park","lat":-37.909411,"lng":144.75807}
+{"id":"osm:way:476514324","category":"dog-park","lat":-41.435334,"lng":147.168351}
+{"id":"osm:way:476857719","category":"dog-park","lat":-33.90346,"lng":151.102353,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:480188842","category":"dog-park","name":"South Dubbo Dog Park","lat":-32.271414,"lng":148.613844}
+{"id":"osm:way:482348784","category":"dog-park","lat":-33.447793,"lng":151.451304}
+{"id":"osm:way:482588232","category":"dog-park","lat":-33.817282,"lng":151.209146,"tags":{"wheelchair":"no"}}
+{"id":"osm:way:482781312","category":"dog-park","name":"Wheelers Lane Park","lat":-32.24797,"lng":148.632107,"tags":{"addr:postcode":"2830","addr:suburb":"Dubbo"}}
+{"id":"osm:way:483600513","category":"dog-park","name":"Wright Road Dog Park","lat":-34.99583,"lng":138.726455}
+{"id":"osm:way:484303170","category":"dog-park","lat":-33.681409,"lng":151.108906}
+{"id":"osm:way:485072411","category":"dog-park","lat":-41.451155,"lng":147.145012}
+{"id":"osm:way:485442023","category":"dog-park","lat":-27.880816,"lng":153.308542}
+{"id":"osm:way:488621491","category":"dog-park","lat":-33.783435,"lng":151.194375,"tags":{"wheelchair":"no"}}
+{"id":"osm:way:488792552","category":"dog-park","name":"Off Leash Dog Area","lat":-27.406343,"lng":153.0509,"tags":{"access":"yes"}}
+{"id":"osm:way:489060535","category":"dog-park","lat":-35.02511,"lng":138.688514}
+{"id":"osm:way:489564251","category":"dog-park","lat":-27.547735,"lng":152.904741}
+{"id":"osm:way:490070989","category":"dog-park","lat":-37.813373,"lng":144.892183,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:490315696","category":"dog-park","lat":-27.426736,"lng":153.167947,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:490612011","category":"dog-park","name":"Card Avenue Dog Park","lat":-16.92129,"lng":145.747565}
+{"id":"osm:way:493667427","category":"dog-park","lat":-27.469125,"lng":153.148127,"tags":{"access":"yes"}}
+{"id":"osm:way:500297810","category":"dog-park","lat":-34.676571,"lng":138.698429}
+{"id":"osm:way:500300005","category":"dog-park","lat":-34.758861,"lng":138.636689}
+{"id":"osm:way:501508606","category":"dog-park","lat":-34.837526,"lng":138.619868}
+{"id":"osm:way:509523099","category":"dog-park","name":"Thompson's Road Dog Park","lat":-30.306865,"lng":153.103459}
+{"id":"osm:way:509851042","category":"dog-park","lat":-33.945369,"lng":150.861255}
+{"id":"osm:way:512454892","category":"dog-park","lat":-38.051006,"lng":145.13,"tags":{"website":"https://www.kingston.vic.gov.au/files/assets/public/local-laws/local-laws-files/dogs-off-leash/bicentennial20park.jpg","description":"The Chelsea Bicentennial Dog Parks off leash area for dogs to freely roam around and socialize"}}
+{"id":"osm:way:514103596","category":"dog-park","lat":-27.487396,"lng":153.162492,"tags":{"access":"yes"}}
+{"id":"osm:way:516274144","category":"dog-park","lat":-37.789245,"lng":144.97392,"tags":{"wheelchair":"no","description":"Fenced"}}
+{"id":"osm:way:516382563","category":"dog-park","lat":-27.529637,"lng":153.21633}
+{"id":"osm:way:516382565","category":"dog-park","lat":-27.529656,"lng":153.215951}
+{"id":"osm:way:516778652","category":"dog-park","name":"Off Leash Dog Park","lat":-33.677721,"lng":150.603185}
+{"id":"osm:way:521148806","category":"dog-park","lat":-34.757571,"lng":138.658536}
+{"id":"osm:way:530546515","category":"dog-park","lat":-27.307109,"lng":153.019783}
+{"id":"osm:way:53744423","category":"dog-park","lat":-27.386906,"lng":152.95715,"tags":{"access":"yes"}}
+{"id":"osm:way:537873475","category":"dog-park","name":"Kester Leonard Leash Free Area","lat":-32.252561,"lng":148.578882,"tags":{"addr:postcode":"2830","addr:suburb":"Dubbo"}}
+{"id":"osm:way:538506064","category":"dog-park","lat":-37.840329,"lng":144.735771}
+{"id":"osm:way:539169347","category":"dog-park","lat":-33.797812,"lng":151.193449,"tags":{"opening_hours":"15:00-10:00","wheelchair":"yes"}}
+{"id":"osm:way:539195396","category":"dog-park","lat":-27.629627,"lng":153.304276}
+{"id":"osm:way:539889364","category":"dog-park","name":"Warrigal Run","lat":-33.784403,"lng":150.870867}
+{"id":"osm:way:541809111","category":"dog-park","name":"Murray Paw Park - Main Offleash Dog Park","lat":-19.306852,"lng":146.80111}
+{"id":"osm:way:542680867","category":"dog-park","name":"Springbank Rise Dog Park","lat":-35.167482,"lng":149.098703}
+{"id":"osm:way:543265993","category":"dog-park","name":"Yarra Vista Dog Park","lat":-32.106057,"lng":115.859586,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:54356290","category":"dog-park","lat":-27.306929,"lng":152.987748,"tags":{"wheelchair":"limited"}}
+{"id":"osm:way:545009518","category":"dog-park","lat":-35.124439,"lng":138.53765}
+{"id":"osm:way:545026954","category":"dog-park","name":"Rossiter Park Off Leash Dog Park","lat":-19.307506,"lng":146.766649}
+{"id":"osm:way:545969349","category":"dog-park","lat":-34.831235,"lng":138.654561,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:546903167","category":"dog-park","lat":-37.290183,"lng":143.786215}
+{"id":"osm:way:549148965","category":"dog-park","name":"Deer Bush Dog Training Ground","lat":-33.865534,"lng":150.902873}
+{"id":"osm:way:549549224","category":"dog-park","name":"Bradbury Park Dog Off-Leash Area","lat":-27.399045,"lng":153.027444,"tags":{"wheelchair":"no"}}
+{"id":"osm:way:551639876","category":"dog-park","lat":-27.552975,"lng":153.110615}
+{"id":"osm:way:552787260","category":"dog-park","name":"Stebonheath Dog Park","lat":-34.675566,"lng":138.660848}
+{"id":"osm:way:553390644","category":"dog-park","lat":-27.924593,"lng":153.302427}
+{"id":"osm:way:553659840","category":"dog-park","name":"Elizabeth Daniels Park","lat":-26.677688,"lng":153.093835}
+{"id":"osm:way:553680482","category":"dog-park","lat":-28.126841,"lng":153.479638,"tags":{"website":"https://www.goldcoast.qld.gov.au/Services/Animals-pets/Dog-exercise-areas/Dog-off-leash-exercise-prohibited-areas","access":"yes"}}
+{"id":"osm:way:557145800","category":"dog-park","lat":-33.765467,"lng":150.982185}
+{"id":"osm:way:558237204","category":"dog-park","lat":-27.574012,"lng":153.073556}
+{"id":"osm:way:558237638","category":"dog-park","lat":-27.569433,"lng":153.072185,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:560919178","category":"dog-park","name":"Off-leash dog walking area","lat":-37.7678,"lng":145.005573}
+{"id":"osm:way:563586916","category":"dog-park","name":"Kingston View Dog Exercise Area","lat":-42.975144,"lng":147.281452,"tags":{"wheelchair":"limited"}}
+{"id":"osm:way:572810619","category":"dog-park","lat":-32.957331,"lng":151.615576,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:575727015","category":"dog-park","lat":-27.272251,"lng":152.976121}
+{"id":"osm:way:575732561","category":"dog-park","name":"Dog Off-leash Area","lat":-27.583471,"lng":151.945897}
+{"id":"osm:way:577405566","category":"dog-park","name":"Russell Quarry Oval","lat":-32.904208,"lng":151.699928}
+{"id":"osm:way:581709445","category":"dog-park","lat":-33.785489,"lng":151.112199,"tags":{"wheelchair":"limited"}}
+{"id":"osm:way:582427620","category":"dog-park","name":"Yarrabilba Dog Park","lat":-27.805916,"lng":153.10247,"tags":{"access":"yes","addr:postcode":"4207","addr:suburb":"Yarrabilba","addr:state":"QLD"}}
+{"id":"osm:way:582550836","category":"dog-park","name":"Killara Park/ Bert Oldfield Oval","lat":-33.759986,"lng":151.170799,"tags":{"description":"Off Leash Dog Park with the exception of 10am-3pm daily and during organised sporting events"}}
+{"id":"osm:way:583338854","category":"dog-park","lat":-19.333759,"lng":146.719513}
+{"id":"osm:way:583480833","category":"dog-park","name":"Riverside Off Leash Dog Park Cranbrook","lat":-19.316412,"lng":146.744785}
+{"id":"osm:way:584802990","category":"dog-park","lat":-27.496961,"lng":153.026011}
+{"id":"osm:way:585793725","category":"dog-park","lat":-27.677655,"lng":152.900527,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:585840165","category":"dog-park","name":"Carlo Close Playground","lat":-33.468207,"lng":151.390736}
+{"id":"osm:way:587125071","category":"dog-park","lat":-27.480884,"lng":153.162548}
+{"id":"osm:way:58885559","category":"dog-park","name":"Farm Road Reserve","lat":-37.964344,"lng":145.07642}
+{"id":"osm:way:590884675","category":"dog-park","lat":-27.49808,"lng":153.026279}
+{"id":"osm:way:591348084","category":"dog-park","name":"Milton Park Dog Leash Free Area","lat":-33.993737,"lng":150.878727,"tags":{"website":"https://campbelltown.bookable.net.au/#!/search?searchWord=Milton%20Park%20Dog%20Leash%20Free%20Area&date=2024-01-02&showMoreSearch=false&showMoreAttribute=false&venueId=312","opening_hours":"sunrise-sunset","access":"permissive","operator":"Campbelltown City Council","addr:postcode":"2564","addr:suburb":"Macquarie Fields","addr:state":"NSW"}}
+{"id":"osm:way:596288229","category":"dog-park","name":"Kingswood Crescent Reserve Dog Park","lat":-34.747299,"lng":138.607994}
+{"id":"osm:way:599487498","category":"dog-park","name":"Hurstbridge Dog Park","lat":-37.635714,"lng":145.191547}
+{"id":"osm:way:601300042","category":"dog-park","name":"John Turnbull Dog Park","lat":-42.86002,"lng":147.287492}
+{"id":"osm:way:605187394","category":"dog-park","name":"Progress Park","lat":-33.699726,"lng":151.29486,"tags":{"website":"https://www.northernbeaches.nsw.gov.au/things-to-do/recreation-area/progress-park","wheelchair":"limited","addr:postcode":"2101","addr:suburb":"North Narrabeen"}}
+{"id":"osm:way:605447053","category":"dog-park","lat":-33.814281,"lng":151.108062}
+{"id":"osm:way:608161708","category":"dog-park","lat":-27.427568,"lng":153.168626}
+{"id":"osm:way:608774500","category":"dog-park","lat":-27.481306,"lng":153.039748}
+{"id":"osm:way:610917509","category":"dog-park","name":"Gilpin Dog Park","lat":-37.768677,"lng":144.950092,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:611738184","category":"dog-park","name":"Leash-free area","lat":-38.245396,"lng":145.069154}
+{"id":"osm:way:611739623","category":"dog-park","lat":-38.238472,"lng":145.051251}
+{"id":"osm:way:611781529","category":"dog-park","lat":-38.337466,"lng":144.969616}
+{"id":"osm:way:611795420","category":"dog-park","lat":-38.260765,"lng":145.032198}
+{"id":"osm:way:611927861","category":"dog-park","lat":-33.823928,"lng":151.206338,"tags":{"wheelchair":"limited"}}
+{"id":"osm:way:616221009","category":"dog-park","name":"Lin Gordon Reserve","lat":-34.202573,"lng":150.563511}
+{"id":"osm:way:617751429","category":"dog-park","lat":-34.74927,"lng":149.712414}
+{"id":"osm:way:618119574","category":"dog-park","lat":-27.620687,"lng":153.297604}
+{"id":"osm:way:622165475","category":"dog-park","lat":-34.987757,"lng":138.824404}
+{"id":"osm:way:624637324","category":"dog-park","lat":-27.594665,"lng":151.987076}
+{"id":"osm:way:624938593","category":"dog-park","lat":-27.585632,"lng":151.972305}
+{"id":"osm:way:624938594","category":"dog-park","lat":-27.592158,"lng":151.966609}
+{"id":"osm:way:624987395","category":"dog-park","lat":-28.090924,"lng":153.35821}
+{"id":"osm:way:625725555","category":"dog-park","name":"Off Leash Dog Park (Rio Vista Park)","lat":-34.175742,"lng":142.160455}
+{"id":"osm:way:626077448","category":"dog-park","name":"Barka Park","lat":-35.085881,"lng":138.851544,"tags":{"operator":"Mount Barker District Council"}}
+{"id":"osm:way:629382911","category":"dog-park","name":"Shamrock Avenue Leash Free Area","lat":-30.509939,"lng":151.645246,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:630039968","category":"dog-park","name":"Boronia Reserve Dog Park","lat":-37.702986,"lng":144.732818}
+{"id":"osm:way:630826192","category":"dog-park","lat":-27.819025,"lng":153.282136}
+{"id":"osm:way:632519407","category":"dog-park","lat":-34.995445,"lng":138.725861}
+{"id":"osm:way:637669860","category":"dog-park","name":"Eddie Kornhauser Recreational Park","lat":-28.134796,"lng":153.439259}
+{"id":"osm:way:638139956","category":"dog-park","name":"Dog Training Park","lat":-28.152272,"lng":153.499143}
+{"id":"osm:way:64149218","category":"dog-park","lat":-27.588681,"lng":153.130985}
+{"id":"osm:way:64369956","category":"dog-park","lat":-27.605895,"lng":152.797453,"tags":{"access":"yes"}}
+{"id":"osm:way:646130104","category":"dog-park","lat":-37.620219,"lng":144.705667}
+{"id":"osm:way:647027552","category":"dog-park","lat":-32.918879,"lng":151.673112}
+{"id":"osm:way:654058211","category":"dog-park","lat":-34.220504,"lng":150.579965}
+{"id":"osm:way:655890008","category":"dog-park","name":"Off Leash Dog Area","lat":-37.835696,"lng":144.870377}
+{"id":"osm:way:660353235","category":"dog-park","name":"Kindyerra Park","lat":-32.937279,"lng":151.627378}
+{"id":"osm:way:662523336","category":"dog-park","lat":-32.72296,"lng":151.527736}
+{"id":"osm:way:668179683","category":"dog-park","lat":-27.640471,"lng":153.142303,"tags":{"access":"yes"}}
+{"id":"osm:way:669045538","category":"dog-park","lat":-38.060339,"lng":145.518365}
+{"id":"osm:way:674342445","category":"dog-park","lat":-27.365394,"lng":152.982484,"tags":{"access":"yes"}}
+{"id":"osm:way:675793805","category":"dog-park","lat":-37.736283,"lng":145.086696}
+{"id":"osm:way:67602846","category":"dog-park","lat":-27.601899,"lng":153.115192,"tags":{"wheelchair":"limited"}}
+{"id":"osm:way:677635893","category":"dog-park","lat":-34.891652,"lng":138.57233}
+{"id":"osm:way:677635895","category":"dog-park","lat":-34.891825,"lng":138.572742}
+{"id":"osm:way:679676777","category":"dog-park","lat":-33.622167,"lng":150.799332}
+{"id":"osm:way:679930317","category":"dog-park","lat":-27.336827,"lng":152.979458,"tags":{"access":"yes"}}
+{"id":"osm:way:683786954","category":"dog-park","name":"Gregory Hills Dog Park","lat":-34.030248,"lng":150.781382,"tags":{"website":"https://www.camden.nsw.gov.au/page-44/off-leash-dog-parks/","access":"yes","operator":"Camden Council","description":"Regular off-leash exercise helps dogs relieve boredom and release energy.\n\nIt may also reduce unwanted behaviour such as excessive barking. Outdoors exercise also benefits owners with dog parks bringing people together.","addr:postcode":"2557","addr:suburb":"Gregory Hills","addr:state":"NSW"}}
+{"id":"osm:way:685032408","category":"dog-park","name":"Mulbeam Dog Park","lat":-27.352029,"lng":153.053283,"tags":{"access":"yes"}}
+{"id":"osm:way:685358100","category":"dog-park","lat":-34.169147,"lng":140.741208}
+{"id":"osm:way:69025527","category":"dog-park","lat":-27.544592,"lng":153.089422}
+{"id":"osm:way:690573437","category":"dog-park","name":"Burlington Memorial Park Dog Off Leash Area","lat":-33.796815,"lng":150.9965}
+{"id":"osm:way:690837181","category":"dog-park","lat":-27.111238,"lng":152.96241}
+{"id":"osm:way:690837182","category":"dog-park","lat":-27.111314,"lng":152.962296}
+{"id":"osm:way:691651425","category":"dog-park","lat":-37.892231,"lng":145.258101}
+{"id":"osm:way:692661279","category":"dog-park","lat":-38.15253,"lng":145.161341}
+{"id":"osm:way:694000430","category":"dog-park","lat":-34.861384,"lng":138.581291}
+{"id":"osm:way:694000431","category":"dog-park","lat":-34.861258,"lng":138.581687,"tags":{"wheelchair":"limited"}}
+{"id":"osm:way:694969141","category":"dog-park","name":"Bona Dog Park","lat":-33.989623,"lng":151.138183}
+{"id":"osm:way:696322179","category":"dog-park","name":"Dog off-leash area","lat":-33.701695,"lng":150.933044}
+{"id":"osm:way:697102532","category":"dog-park","lat":-35.024318,"lng":138.897902,"tags":{"wheelchair":"no","access":"yes","operator":"Mount Barker District Council"}}
+{"id":"osm:way:698381843","category":"dog-park","lat":-28.650756,"lng":151.929401}
+{"id":"osm:way:698426296","category":"dog-park","name":"Hampden Road Reserve Dog Off Leash Facility","lat":-33.818106,"lng":150.965105}
+{"id":"osm:way:699588198","category":"dog-park","lat":-38.078659,"lng":145.133203,"tags":{"operator":"Kingston City Council"}}
+{"id":"osm:way:700075598","category":"dog-park","name":"Tudor Park Off-Leash Dog Area","lat":-27.690673,"lng":153.185442,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:702668577","category":"dog-park","lat":-27.54541,"lng":153.210397}
+{"id":"osm:way:70953915","category":"dog-park","lat":-27.60208,"lng":153.090558}
+{"id":"osm:way:70980738","category":"dog-park","name":"Conyngham Street Dog Park","lat":-34.944635,"lng":138.633353,"tags":{"website":"https://www.burnside.sa.gov.au/Parks/Conyngham-Street-Dog-Park"}}
+{"id":"osm:way:710620484","category":"dog-park","lat":-33.685229,"lng":151.308837,"tags":{"wheelchair":"limited"}}
+{"id":"osm:way:712286709","category":"dog-park","name":"Bulla Dog Exhibition Centre","lat":-37.638985,"lng":144.82588}
+{"id":"osm:way:713816020","category":"dog-park","lat":-27.561365,"lng":152.871966}
+{"id":"osm:way:723001562","category":"dog-park","lat":-37.771509,"lng":145.035808}
+{"id":"osm:way:72997578","category":"dog-park","lat":-33.959469,"lng":151.132709}
+{"id":"osm:way:732260249","category":"dog-park","lat":-27.578091,"lng":153.016157}
+{"id":"osm:way:733822888","category":"dog-park","lat":-31.424279,"lng":152.881091}
+{"id":"osm:way:741729956","category":"dog-park","name":"Newhaven Dog Park","lat":-32.135699,"lng":115.923632}
+{"id":"osm:way:741729957","category":"dog-park","name":"Harmony Fields Dog Park","lat":-32.053158,"lng":116.010621}
+{"id":"osm:way:741729958","category":"dog-park","name":"Harmony Fields Dog Park","lat":-32.052828,"lng":116.010775}
+{"id":"osm:way:741729959","category":"dog-park","lat":-32.068141,"lng":115.94958}
+{"id":"osm:way:744869134","category":"dog-park","lat":-37.600049,"lng":144.934021}
+{"id":"osm:way:753482533","category":"dog-park","lat":-38.12393,"lng":145.325181}
+{"id":"osm:way:759944822","category":"dog-park","name":"Lyndarum Wetland Off-leash Park","lat":-37.632136,"lng":145.016927}
+{"id":"osm:way:762760017","category":"dog-park","name":"Hercules Street Park Off Leash Dog Area","lat":-27.438436,"lng":153.069064,"tags":{"access":"yes","operator":"Brisbane City Council"}}
+{"id":"osm:way:764515990","category":"dog-park","lat":-33.862018,"lng":151.085733}
+{"id":"osm:way:765945875","category":"dog-park","lat":-26.492152,"lng":153.064965}
+{"id":"osm:way:766127083","category":"dog-park","lat":-38.114082,"lng":145.144793}
+{"id":"osm:way:766644946","category":"dog-park","name":"Off-Leash","lat":-38.192106,"lng":146.539271}
+{"id":"osm:way:768695141","category":"dog-park","lat":-42.841111,"lng":147.259992}
+{"id":"osm:way:769141537","category":"dog-park","name":"Small dogs","lat":-35.367059,"lng":149.21769}
+{"id":"osm:way:769812036","category":"dog-park","lat":-27.647749,"lng":153.102511,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:773749943","category":"dog-park","lat":-33.836844,"lng":151.0583,"tags":{"wheelchair":"yes","access":"yes"}}
+{"id":"osm:way:775845874","category":"dog-park","lat":-27.629758,"lng":153.304509}
+{"id":"osm:way:776715363","category":"dog-park","name":"Norris Bank Dog Off Leash Area","lat":-37.69447,"lng":145.052246,"tags":{"website":"https://www.whittlesea.vic.gov.au/arts-events-recreation/parks-and-playgrounds/dog-off-leash-parks/","wheelchair":"yes","operator":"City of Whittlesea"}}
+{"id":"osm:way:783216172","category":"dog-park","lat":-33.243549,"lng":149.098073}
+{"id":"osm:way:787524381","category":"dog-park","name":"Alf Pearce Dog Park","lat":-37.734063,"lng":144.910858}
+{"id":"osm:way:790879916","category":"dog-park","name":"Minto Dog Leash Free Area","lat":-34.017932,"lng":150.867033,"tags":{"website":"https://www.campbelltown.nsw.gov.au/ParksSportandRecreation/RLFPS/LookForParkSportsground/MintoDogLeashFree","opening_hours":"sunrise-sunset","access":"yes","operator":"Campbelltown City Council","addr:postcode":"2566","addr:suburb":"Minto","addr:state":"NSW"}}
+{"id":"osm:way:802388515","category":"dog-park","name":"Rockingham Enclosed Dog Park","lat":-32.283833,"lng":115.72349,"tags":{"access":"yes","operator":"Rockingham City Council","wikidata":"Q85379277"}}
+{"id":"osm:way:805191310","category":"dog-park","lat":-27.798028,"lng":153.11498}
+{"id":"osm:way:805813966","category":"dog-park","name":"Bennett Road Dog Off Leash Park","lat":-36.717642,"lng":142.188107,"tags":{"access":"yes","operator":"Horsham Rural City Council","addr:postcode":"3400","addr:suburb":"Horsham","addr:state":"VIC"}}
+{"id":"osm:way:807378624","category":"dog-park","lat":-33.978833,"lng":150.888917}
+{"id":"osm:way:810233600","category":"dog-park","lat":-27.644071,"lng":153.168642}
+{"id":"osm:way:810233603","category":"dog-park","lat":-27.644024,"lng":153.169793}
+{"id":"osm:way:81056362","category":"dog-park","lat":-27.704061,"lng":153.218557,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:812565762","category":"dog-park","lat":-33.819619,"lng":151.090136}
+{"id":"osm:way:815578724","category":"dog-park","name":"Dog Off-Leash Area","lat":-33.816445,"lng":151.078584,"tags":{"opening_hours":"Mo-Fr 06:00-08:00,17:00-19:00; PH off","wheelchair":"yes"}}
+{"id":"osm:way:816522764","category":"dog-park","name":"The Ridge Dog Off Leash Bush Park","lat":-34.031042,"lng":150.994543,"tags":{"wheelchair":"limited"}}
+{"id":"osm:way:820958530","category":"dog-park","lat":-33.907125,"lng":151.256885}
+{"id":"osm:way:823987605","category":"dog-park","name":"Kershaw Gardens Dog Park","lat":-23.364763,"lng":150.51641,"tags":{"access":"yes","operator":"Rockhampton Regional Council"}}
+{"id":"osm:way:833397127","category":"dog-park","lat":-34.594287,"lng":138.513032}
+{"id":"osm:way:833470582","category":"dog-park","lat":-32.735383,"lng":151.603376}
+{"id":"osm:way:835511749","category":"dog-park","lat":-27.679263,"lng":153.226964}
+{"id":"osm:way:835720715","category":"dog-park","lat":-38.084143,"lng":144.363099}
+{"id":"osm:way:837841797","category":"dog-park","lat":-34.890106,"lng":138.581187}
+{"id":"osm:way:839596848","category":"dog-park","lat":-38.265266,"lng":145.035539}
+{"id":"osm:way:844134398","category":"dog-park","name":"Hitchcock Park Dog Park","lat":-33.619435,"lng":151.328433,"tags":{"website":"https://www.northernbeaches.nsw.gov.au/things-to-do/recreation-area/hitchcock-park-dog-park"}}
+{"id":"osm:way:845396867","category":"dog-park","lat":-34.007132,"lng":151.072151,"tags":{"wheelchair":"no"}}
+{"id":"osm:way:845909120","category":"dog-park","lat":-27.717521,"lng":153.213423,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:845909121","category":"dog-park","lat":-27.71785,"lng":153.213725,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:847386141","category":"dog-park","name":"Paw Park","lat":-34.011895,"lng":150.757267}
+{"id":"osm:way:855774987","category":"dog-park","lat":-27.465171,"lng":153.093533,"tags":{"access":"yes"}}
+{"id":"osm:way:862915818","category":"dog-park","name":"Green Gully Reserve Dog Park","lat":-37.725439,"lng":144.820351,"tags":{"access":"yes","operator":"Brimbank City Council"}}
+{"id":"osm:way:866851538","category":"dog-park","name":"Cornelian Bay Dog Off-Lead Area","lat":-42.85137,"lng":147.324786,"tags":{"website":"https://www.hobartcity.com.au/dogs","access":"yes","operator":"City of Hobart"}}
+{"id":"osm:way:867565816","category":"dog-park","name":"Aranga Reserve Dog Park","lat":-37.801534,"lng":145.176406,"tags":{"access":"yes"}}
+{"id":"osm:way:8700638","category":"dog-park","lat":-27.443577,"lng":153.006321}
+{"id":"osm:way:870965484","category":"dog-park","lat":-27.475233,"lng":153.126221}
+{"id":"osm:way:871584691","category":"dog-park","name":"Bargo Off-leash Dog Park","lat":-34.295309,"lng":150.577939}
+{"id":"osm:way:87348778","category":"dog-park","lat":-27.515743,"lng":153.221837}
+{"id":"osm:way:881148400","category":"dog-park","lat":-33.891407,"lng":150.869729}
+{"id":"osm:way:890892429","category":"dog-park","lat":-27.539764,"lng":153.20496}
+{"id":"osm:way:89378424","category":"dog-park","name":"Kings Road / Robertson Road Power Easement","lat":-37.694663,"lng":144.786306,"tags":{"access":"yes","operator":"Brimbank City Council"}}
+{"id":"osm:way:893938708","category":"dog-park","lat":-36.395625,"lng":145.418595}
+{"id":"osm:way:899436943","category":"dog-park","lat":-27.922051,"lng":153.209008}
+{"id":"osm:way:903608837","category":"dog-park","lat":-27.636239,"lng":153.019869,"tags":{"access":"yes"}}
+{"id":"osm:way:909529128","category":"dog-park","name":"Flowerpoint Point Reserve","lat":-43.008335,"lng":147.327534,"tags":{"access":"yes","operator":"Kingborough Council"}}
+{"id":"osm:way:910752441","category":"dog-park","name":"Apex Park","lat":-42.949551,"lng":147.349781,"tags":{"access":"yes","operator":"Kingborough Council"}}
+{"id":"osm:way:915873872","category":"dog-park","name":"Thornleigh Dog Park","lat":-33.733526,"lng":151.086469,"tags":{"access":"yes","operator":"Hornsby Council"}}
+{"id":"osm:way:918065905","category":"dog-park","lat":-27.45812,"lng":153.070858,"tags":{"access":"yes"}}
+{"id":"osm:way:92026626","category":"dog-park","name":"Kokoda Park","lat":-37.280148,"lng":142.939277}
+{"id":"osm:way:9289925","category":"dog-park","name":"South Street Reserve","lat":-42.87642,"lng":147.381208,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:929172874","category":"dog-park","lat":-38.138119,"lng":145.176228}
+{"id":"osm:way:929172875","category":"dog-park","lat":-38.138231,"lng":145.175034}
+{"id":"osm:way:929934078","category":"dog-park","lat":-33.991017,"lng":150.792977}
+{"id":"osm:way:931963244","category":"dog-park","name":"Careel Bay Off-leash area - small and shy dog area","lat":-33.619862,"lng":151.328063,"tags":{"website":"https://www.northernbeaches.nsw.gov.au/things-to-do/recreation-area/hitchcock-park-dog-park","addr:postcode":"2107"}}
+{"id":"osm:way:932235149","category":"dog-park","lat":-27.240381,"lng":152.997792,"tags":{"wheelchair":"yes","access":"yes"}}
+{"id":"osm:way:932760622","category":"dog-park","name":"Redstone Pooch Play Zone","lat":-37.60188,"lng":144.76198}
+{"id":"osm:way:933749725","category":"dog-park","name":"Atkin Park","lat":-28.146749,"lng":153.494435,"tags":{"website":"https://www.goldcoast.qld.gov.au/thegoldcoast/atkin-park-27133.html","access":"yes","operator":"GCCC"}}
+{"id":"osm:way:934524461","category":"dog-park","name":"Ryelands Drive Reserve Dog Park","lat":-38.018899,"lng":145.317441,"tags":{"operator":"City of Casey"}}
+{"id":"osm:way:938236105","category":"dog-park","lat":-37.514379,"lng":145.124446}
+{"id":"osm:way:940690122","category":"dog-park","lat":-32.158098,"lng":115.855081}
+{"id":"osm:way:940690123","category":"dog-park","lat":-32.15859,"lng":115.855093}
+{"id":"osm:way:94865848","category":"dog-park","lat":-27.636383,"lng":153.247724,"tags":{"wheelchair":"yes","access":"yes"}}
+{"id":"osm:way:949250160","category":"dog-park","name":"Don Jackson Reserve Dog Park","lat":-38.05945,"lng":145.484704}
+{"id":"osm:way:949609265","category":"dog-park","name":"Namatjira Park Dog Off Leash Area","lat":-37.934884,"lng":145.111618,"tags":{"website":"https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas","access":"yes","operator":"City of Kingston"}}
+{"id":"osm:way:949614121","category":"dog-park","name":"Bald Hill Park Dog Off Leash Area","lat":-37.932442,"lng":145.10288,"tags":{"website":"https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas","wheelchair":"limited","access":"yes","operator":"City of Kingston"}}
+{"id":"osm:way:950211041","category":"dog-park","name":"Mavis Hutter Reserve Dog Off Leash Area","lat":-37.937385,"lng":145.091388,"tags":{"website":"https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas","access":"yes","operator":"City of Kingston"}}
+{"id":"osm:way:950211832","category":"dog-park","name":"Dales Park Dog Off Leash Area","lat":-37.933384,"lng":145.081542,"tags":{"website":"https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas","access":"yes","operator":"City of Kingston"}}
+{"id":"osm:way:951337401","category":"dog-park","name":"Heather Park Dog Off Leash Area","lat":-37.958276,"lng":145.129955,"tags":{"website":"https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas","access":"yes","operator":"City of Kingston"}}
+{"id":"osm:way:951337541","category":"dog-park","lat":-37.937702,"lng":145.044984,"tags":{"website":"https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas","wheelchair":"yes","access":"yes","operator":"City of Kingston"}}
+{"id":"osm:way:951337558","category":"dog-park","lat":-37.942632,"lng":145.053584,"tags":{"website":"https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas","access":"yes","operator":"City of Kingston"}}
+{"id":"osm:way:951337704","category":"dog-park","lat":-37.94992,"lng":145.054614,"tags":{"website":"https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas","access":"yes","operator":"City of Kingston"}}
+{"id":"osm:way:951338080","category":"dog-park","lat":-37.956013,"lng":145.048869,"tags":{"website":"https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas","access":"yes","operator":"City of Kingston"}}
+{"id":"osm:way:952176718","category":"dog-park","name":"Navan Park Dog Park","lat":-37.67165,"lng":144.569171}
+{"id":"osm:way:952817911","category":"dog-park","name":"Amaroo Drive Reserve Dog Off Leash Area","lat":-38.036077,"lng":145.132752,"tags":{"website":"https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas","access":"yes","operator":"City of Kingston"}}
+{"id":"osm:way:954181535","category":"dog-park","name":"Adams Street Reserve (John Fisher Park) and Curl Curl Lagoon","lat":-33.76784,"lng":151.29208,"tags":{"website":"https://www.northernbeaches.nsw.gov.au/things-to-do/recreation-area/adams-street-reserve-john-fisher-park-and-curl-curl-lagoon","wheelchair":"yes"}}
+{"id":"osm:way:954527847","category":"dog-park","name":"Belmont Dog Park","lat":-38.165516,"lng":144.350815}
+{"id":"osm:way:955295024","category":"dog-park","name":"Scarborough Park Off Leash Dog Area","lat":-33.967901,"lng":151.143461}
+{"id":"osm:way:95606084","category":"dog-park","lat":-27.69988,"lng":153.186909,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:957716905","category":"dog-park","lat":-33.797267,"lng":151.167994,"tags":{"opening_hours":"15:00-11:00","wheelchair":"yes","access":"yes","operator":"Willoughby City Council"}}
+{"id":"osm:way:95798984","category":"dog-park","lat":-27.673984,"lng":153.152382,"tags":{"opening_hours":"24/7","wheelchair":"yes"}}
+{"id":"osm:way:95799012","category":"dog-park","lat":-27.673717,"lng":153.152005,"tags":{"opening_hours":"24/7","wheelchair":"yes"}}
+{"id":"osm:way:959729971","category":"dog-park","lat":-35.128528,"lng":147.298484}
+{"id":"osm:way:961202494","category":"dog-park","lat":-33.364747,"lng":115.638418}
+{"id":"osm:way:967565308","category":"dog-park","lat":-38.253768,"lng":145.056575}
+{"id":"osm:way:968327115","category":"dog-park","name":"Perth Street Park Dog Park","lat":-27.486224,"lng":153.075964,"tags":{"wheelchair":"limited","access":"yes"}}
+{"id":"osm:way:96932990","category":"dog-park","lat":-27.671665,"lng":153.128892}
+{"id":"osm:way:969443118","category":"dog-park","lat":-27.574496,"lng":152.943654,"tags":{"wheelchair":"limited"}}
+{"id":"osm:way:969523576","category":"dog-park","name":"Casey Fields Dog Friendly Space","lat":-38.123283,"lng":145.306863,"tags":{"access":"yes"}}
+{"id":"osm:way:97200089","category":"dog-park","lat":-27.681648,"lng":153.142402,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:97358611","category":"dog-park","lat":-27.642232,"lng":153.12933,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:975131442","category":"dog-park","lat":-27.552541,"lng":153.016505}
+{"id":"osm:way:976293618","category":"dog-park","lat":-26.817032,"lng":153.085076}
+{"id":"osm:way:976293619","category":"dog-park","lat":-26.816642,"lng":153.08492}
+{"id":"osm:way:979752130","category":"dog-park","lat":-33.984162,"lng":150.815391}
+{"id":"osm:way:982184077","category":"dog-park","name":"Cobb Road Reserve Dog Park","lat":-38.20887,"lng":145.08012}
+{"id":"osm:way:984676895","category":"dog-park","name":"St Clair Dog Exercise Area","lat":-33.787429,"lng":150.782407}
+{"id":"osm:way:986060594","category":"dog-park","lat":-27.519298,"lng":153.022708,"tags":{"wheelchair":"yes","access":"yes"}}
+{"id":"osm:way:986120448","category":"dog-park","lat":-27.915321,"lng":153.276325}
+{"id":"osm:way:988582955","category":"dog-park","lat":-26.720019,"lng":153.048838,"tags":{"access":"yes"}}
+{"id":"osm:way:989246524","category":"dog-park","lat":-27.482935,"lng":153.14599,"tags":{"access":"yes"}}
+{"id":"osm:way:990237641","category":"dog-park","lat":-27.68763,"lng":153.05157,"tags":{"access":"yes"}}
+{"id":"osm:way:992393164","category":"dog-park","lat":-38.599041,"lng":145.59615,"tags":{"wheelchair":"limited"}}
+{"id":"osm:way:995972385","category":"dog-park","name":"Memorial Park Dog Off-Leash Trial","lat":-33.820101,"lng":151.086542,"tags":{"website":"https://www.ryde.nsw.gov.au/haveyoursay/Have-your-Say/Memorial-Park-Dog-Off-Leash-Trial","wheelchair":"no","access":"yes","operator":"City of Ryde"}}
+{"id":"osm:way:998317699","category":"dog-park","name":"Nicholson Road Dog Park","lat":-31.956932,"lng":115.825575}
+{"id":"osm:way:998885286","category":"dog-park","lat":-33.926965,"lng":151.164522}

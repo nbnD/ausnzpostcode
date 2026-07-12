@@ -6,6 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "tsc -p tsconfig.test.json && node --test .tmp-tests/tests/*.test.js",
     "generate:data": "node scripts/generate-postcode-indexes.mjs",
     "generate:sitemaps": "node scripts/generate-sitemaps.mjs"
   },

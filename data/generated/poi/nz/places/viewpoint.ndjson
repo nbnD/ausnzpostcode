@@ -1,0 +1,1679 @@
+{"id":"osm:node:1001571993","category":"viewpoint","lat":-46.431796,"lng":168.348934}
+{"id":"osm:node:10043814375","category":"viewpoint","lat":-43.519371,"lng":171.655459}
+{"id":"osm:node:10113160508","category":"viewpoint","name":"Whangamōmona Saddle","lat":-39.155136,"lng":174.699639}
+{"id":"osm:node:10113637545","category":"viewpoint","lat":-36.722152,"lng":175.514827}
+{"id":"osm:node:10145400118","category":"viewpoint","lat":-39.483035,"lng":176.919471}
+{"id":"osm:node:10147306791","category":"viewpoint","lat":-39.692256,"lng":176.898193}
+{"id":"osm:node:1015595040","category":"viewpoint","lat":-41.294446,"lng":174.896738}
+{"id":"osm:node:10160942417","category":"viewpoint","name":"Lookout","lat":-36.270775,"lng":174.801655}
+{"id":"osm:node:10218649993","category":"viewpoint","name":"Highland Park Trig Lookout","lat":-41.261879,"lng":174.781153}
+{"id":"osm:node:10232440877","category":"viewpoint","lat":-36.880251,"lng":175.04441}
+{"id":"osm:node:10254835634","category":"viewpoint","lat":-36.835351,"lng":174.745913}
+{"id":"osm:node:10254951409","category":"viewpoint","name":"Anduin River Viewpoint (Argonath Scene)","lat":-39.731355,"lng":175.916265}
+{"id":"osm:node:10258106458","category":"viewpoint","lat":-43.599089,"lng":172.712044,"tags":{"description":"Bridal Hill 360 viewpoint"}}
+{"id":"osm:node:10297418098","category":"viewpoint","lat":-37.108052,"lng":175.737348}
+{"id":"osm:node:10313887454","category":"viewpoint","name":"Ōhaaki Power Station","lat":-38.52698,"lng":176.295488}
+{"id":"osm:node:10313969510","category":"viewpoint","lat":-37.107743,"lng":175.113373}
+{"id":"osm:node:10313969609","category":"viewpoint","lat":-37.110542,"lng":175.116559}
+{"id":"osm:node:1048628450","category":"viewpoint","name":"Lou's Lookout","lat":-38.790248,"lng":177.129544}
+{"id":"osm:node:1052476242","category":"viewpoint","lat":-43.1964,"lng":171.741799}
+{"id":"osm:node:1052476884","category":"viewpoint","lat":-43.195949,"lng":171.742375}
+{"id":"osm:node:10544349008","category":"viewpoint","name":"North View Point","lat":-41.273214,"lng":174.008552}
+{"id":"osm:node:10558643409","category":"viewpoint","lat":-45.86849,"lng":170.633611}
+{"id":"osm:node:10564528536","category":"viewpoint","lat":-36.843548,"lng":174.751066}
+{"id":"osm:node:10575090041","category":"viewpoint","lat":-35.27815,"lng":174.29176}
+{"id":"osm:node:10575839394","category":"viewpoint","lat":-41.849211,"lng":171.735618}
+{"id":"osm:node:10584982061","category":"viewpoint","lat":-38.383968,"lng":178.319532}
+{"id":"osm:node:10584997366","category":"viewpoint","name":"The Alan Scragg Lookout","lat":-38.361629,"lng":178.305186}
+{"id":"osm:node:10593558443","category":"viewpoint","lat":-35.949279,"lng":173.742429}
+{"id":"osm:node:10605415224","category":"viewpoint","lat":-37.105175,"lng":175.117854}
+{"id":"osm:node:10608870232","category":"viewpoint","lat":-37.819728,"lng":174.828951}
+{"id":"osm:node:10613333321","category":"viewpoint","lat":-42.910346,"lng":173.28272}
+{"id":"osm:node:10613359803","category":"viewpoint","lat":-42.906741,"lng":173.288439}
+{"id":"osm:node:10628332889","category":"viewpoint","lat":-45.362476,"lng":167.75439}
+{"id":"osm:node:10628341865","category":"viewpoint","name":"Five Mile Lookout","lat":-45.366003,"lng":167.757354}
+{"id":"osm:node:10635259906","category":"viewpoint","name":"Viewpoint of the lake","lat":-44.002538,"lng":170.131684}
+{"id":"osm:node:10635260005","category":"viewpoint","lat":-43.945275,"lng":170.130918,"tags":{"description":"Viewpoint over the lake"}}
+{"id":"osm:node:10648010023","category":"viewpoint","lat":-43.609199,"lng":172.715046}
+{"id":"osm:node:10650861983","category":"viewpoint","name":"Hastings Aerodrome Viewing Area","lat":-39.65045,"lng":176.764134}
+{"id":"osm:node:10653448111","category":"viewpoint","lat":-46.369426,"lng":167.997981}
+{"id":"osm:node:10654133783","category":"viewpoint","lat":-39.13055,"lng":174.123835}
+{"id":"osm:node:10673232041","category":"viewpoint","lat":-39.075182,"lng":177.129802}
+{"id":"osm:node:10682151559","category":"viewpoint","lat":-35.026715,"lng":173.916137}
+{"id":"osm:node:10682151571","category":"viewpoint","lat":-35.027207,"lng":173.917451}
+{"id":"osm:node:1068452796","category":"viewpoint","lat":-44.851639,"lng":168.381023}
+{"id":"osm:node:10687362025","category":"viewpoint","lat":-34.812626,"lng":173.118235}
+{"id":"osm:node:10689555227","category":"viewpoint","name":"Torea Bay Jetty","lat":-41.210572,"lng":174.031502}
+{"id":"osm:node:10712834459","category":"viewpoint","lat":-41.034587,"lng":172.854562}
+{"id":"osm:node:10718702522","category":"viewpoint","lat":-45.882703,"lng":170.587498}
+{"id":"osm:node:10722639490","category":"viewpoint","lat":-43.804925,"lng":173.002445}
+{"id":"osm:node:10722689654","category":"viewpoint","lat":-43.787935,"lng":172.957478}
+{"id":"osm:node:1072294318","category":"viewpoint","name":"Martha Mine Lookout","lat":-37.386875,"lng":175.838092}
+{"id":"osm:node:10728579606","category":"viewpoint","name":"Amritsar Street Lookout","lat":-41.252821,"lng":174.798733}
+{"id":"osm:node:1074187818","category":"viewpoint","name":"Black Hill Lookout","lat":-37.398836,"lng":175.864213}
+{"id":"osm:node:10765077081","category":"viewpoint","lat":-35.207926,"lng":174.227376}
+{"id":"osm:node:10765147113","category":"viewpoint","lat":-35.219951,"lng":174.235052}
+{"id":"osm:node:10765147115","category":"viewpoint","lat":-35.213544,"lng":174.23732}
+{"id":"osm:node:10796148352","category":"viewpoint","lat":-36.783993,"lng":175.014693}
+{"id":"osm:node:10798135305","category":"viewpoint","lat":-35.79683,"lng":173.631857}
+{"id":"osm:node:10833868130","category":"viewpoint","lat":-45.487246,"lng":170.720206}
+{"id":"osm:node:10836341705","category":"viewpoint","lat":-39.228181,"lng":174.035637}
+{"id":"osm:node:1084621626","category":"viewpoint","lat":-37.559171,"lng":175.158112}
+{"id":"osm:node:1085301472","category":"viewpoint","name":"Split Apple Beach","lat":-41.017684,"lng":173.01894}
+{"id":"osm:node:1085361011","category":"viewpoint","name":"Colsons Hill Lookout","lat":-38.213414,"lng":175.874939}
+{"id":"osm:node:10863925705","category":"viewpoint","lat":-35.374505,"lng":173.606344}
+{"id":"osm:node:10888664393","category":"viewpoint","lat":-43.485711,"lng":172.543}
+{"id":"osm:node:10895597968","category":"viewpoint","lat":-36.75041,"lng":174.690651}
+{"id":"osm:node:1090330094","category":"viewpoint","name":"Paines Ford","lat":-40.884836,"lng":172.81155}
+{"id":"osm:node:10943683694","category":"viewpoint","lat":-41.264986,"lng":174.781487,"tags":{"description":"well established lookout for 'trainspotters' and 'shipspotters'"}}
+{"id":"osm:node:10975512142","category":"viewpoint","lat":-38.6697,"lng":176.085628}
+{"id":"osm:node:10975555210","category":"viewpoint","lat":-38.659171,"lng":176.086733}
+{"id":"osm:node:11047597106","category":"viewpoint","lat":-37.099765,"lng":175.131072}
+{"id":"osm:node:11072844905","category":"viewpoint","lat":-36.949579,"lng":174.925038}
+{"id":"osm:node:11092735205","category":"viewpoint","lat":-36.877023,"lng":174.763384}
+{"id":"osm:node:11110842905","category":"viewpoint","lat":-39.332327,"lng":175.510409}
+{"id":"osm:node:11121221178","category":"viewpoint","lat":-36.630581,"lng":174.762935}
+{"id":"osm:node:11121221393","category":"viewpoint","lat":-36.62973,"lng":174.766239}
+{"id":"osm:node:11124755033","category":"viewpoint","lat":-44.987501,"lng":168.671386}
+{"id":"osm:node:11162424231","category":"viewpoint","lat":-37.005673,"lng":174.796857,"tags":{"access":"yes"}}
+{"id":"osm:node:11182144637","category":"viewpoint","lat":-41.317005,"lng":174.968353}
+{"id":"osm:node:11206204537","category":"viewpoint","lat":-40.990763,"lng":173.804622}
+{"id":"osm:node:11206205537","category":"viewpoint","lat":-40.987136,"lng":173.807133}
+{"id":"osm:node:11206211237","category":"viewpoint","lat":-40.955427,"lng":173.824298}
+{"id":"osm:node:11206239237","category":"viewpoint","lat":-43.762364,"lng":172.893537}
+{"id":"osm:node:11206239238","category":"viewpoint","lat":-43.731164,"lng":172.924413}
+{"id":"osm:node:11206239239","category":"viewpoint","lat":-43.747017,"lng":170.115183}
+{"id":"osm:node:11206242837","category":"viewpoint","lat":-43.745249,"lng":172.993989}
+{"id":"osm:node:11206242937","category":"viewpoint","lat":-43.745057,"lng":172.994251}
+{"id":"osm:node:11206253337","category":"viewpoint","lat":-43.880226,"lng":170.11924}
+{"id":"osm:node:11210941037","category":"viewpoint","lat":-38.679312,"lng":178.030972}
+{"id":"osm:node:11216879650","category":"viewpoint","name":"Picton lookout","lat":-41.278102,"lng":174.004142}
+{"id":"osm:node:11226206767","category":"viewpoint","name":"Sharplin Falls Lookout","lat":-43.625708,"lng":171.410646}
+{"id":"osm:node:1123061543","category":"viewpoint","name":"Miners Cave","lat":-41.202646,"lng":172.18177,"tags":{"wheelchair":"no","access":"yes"}}
+{"id":"osm:node:11240797845","category":"viewpoint","lat":-39.087819,"lng":177.865429}
+{"id":"osm:node:1125278744","category":"viewpoint","lat":-36.98425,"lng":174.74858}
+{"id":"osm:node:1127196145","category":"viewpoint","lat":-38.007819,"lng":176.34262}
+{"id":"osm:node:11285174419","category":"viewpoint","lat":-43.569577,"lng":172.775823}
+{"id":"osm:node:11306511325","category":"viewpoint","lat":-43.0834,"lng":172.812243}
+{"id":"osm:node:1130779738","category":"viewpoint","name":"Rex Green Lookout","lat":-41.106846,"lng":174.895798}
+{"id":"osm:node:11364248374","category":"viewpoint","name":"Cannon Hill","lat":-39.064054,"lng":174.078601}
+{"id":"osm:node:11385291624","category":"viewpoint","lat":-36.829198,"lng":174.773478}
+{"id":"osm:node:11399669153","category":"viewpoint","lat":-41.160831,"lng":172.181076}
+{"id":"osm:node:11404864781","category":"viewpoint","name":"Bluff Lookout","lat":-43.49153,"lng":171.72465}
+{"id":"osm:node:11406966111","category":"viewpoint","lat":-40.878261,"lng":175.00504}
+{"id":"osm:node:11409068576","category":"viewpoint","lat":-42.933025,"lng":171.567465}
+{"id":"osm:node:11409163082","category":"viewpoint","lat":-44.015405,"lng":170.493382}
+{"id":"osm:node:11418285639","category":"viewpoint","lat":-36.802557,"lng":174.758148}
+{"id":"osm:node:11418285640","category":"viewpoint","lat":-36.802476,"lng":174.756619}
+{"id":"osm:node:11421770848","category":"viewpoint","lat":-36.803038,"lng":174.758368}
+{"id":"osm:node:11432803063","category":"viewpoint","lat":-38.215618,"lng":175.143939}
+{"id":"osm:node:11433320277","category":"viewpoint","name":"Te Harikoa Lookout","lat":-37.846714,"lng":176.089194}
+{"id":"osm:node:11433320294","category":"viewpoint","name":"Wairere Tapu Lookout","lat":-37.846203,"lng":176.088088}
+{"id":"osm:node:11433320295","category":"viewpoint","name":"Te Tae Ōmanawa Lookout","lat":-37.845722,"lng":176.08807}
+{"id":"osm:node:1144449415","category":"viewpoint","lat":-37.960553,"lng":177.021538}
+{"id":"osm:node:1144449495","category":"viewpoint","name":"Kohi Point Lookout","lat":-37.954909,"lng":177.008978}
+{"id":"osm:node:11457519081","category":"viewpoint","name":"View to Mt. Taranaki","lat":-39.12257,"lng":174.124047,"tags":{"wheelchair":"limited"}}
+{"id":"osm:node:11459163909","category":"viewpoint","lat":-36.261079,"lng":175.431136}
+{"id":"osm:node:11468556658","category":"viewpoint","lat":-41.282347,"lng":174.768255}
+{"id":"osm:node:11472519693","category":"viewpoint","lat":-41.391811,"lng":174.049827}
+{"id":"osm:node:11478108869","category":"viewpoint","lat":-43.988674,"lng":170.463855}
+{"id":"osm:node:11481841526","category":"viewpoint","name":"Rimu Viewing Platform","lat":-41.094346,"lng":174.188905}
+{"id":"osm:node:11520699070","category":"viewpoint","lat":-41.120616,"lng":174.201415}
+{"id":"osm:node:11527091607","category":"viewpoint","name":"Wairaki Oxbow Lagoon","lat":-45.944248,"lng":167.691827}
+{"id":"osm:node:11541797883","category":"viewpoint","lat":-44.850375,"lng":168.380427}
+{"id":"osm:node:11572176436","category":"viewpoint","name":"Oxenbridge Tunnel lookout","lat":-44.981081,"lng":168.664507,"tags":{"description":"Lookout over the Shotover River above the entrance to the Oxenbridge Tunnel."}}
+{"id":"osm:node:11591098631","category":"viewpoint","lat":-45.831117,"lng":170.487356}
+{"id":"osm:node:11647205069","category":"viewpoint","lat":-37.113096,"lng":175.556337}
+{"id":"osm:node:11647205070","category":"viewpoint","lat":-37.102812,"lng":175.573885}
+{"id":"osm:node:11647205071","category":"viewpoint","lat":-37.103237,"lng":175.574356}
+{"id":"osm:node:11652066777","category":"viewpoint","name":"One Kakar","lat":-45.359903,"lng":170.854208}
+{"id":"osm:node:11655424869","category":"viewpoint","lat":-36.689358,"lng":175.431784}
+{"id":"osm:node:11658203540","category":"viewpoint","lat":-37.630345,"lng":176.172315}
+{"id":"osm:node:11658251369","category":"viewpoint","lat":-36.498567,"lng":175.399637}
+{"id":"osm:node:11658562204","category":"viewpoint","lat":-44.26349,"lng":170.034432}
+{"id":"osm:node:11661611125","category":"viewpoint","name":"Acland Lagoon","lat":-43.834421,"lng":170.108952}
+{"id":"osm:node:11661616340","category":"viewpoint","lat":-43.892321,"lng":170.117135}
+{"id":"osm:node:11661677359","category":"viewpoint","lat":-43.936854,"lng":170.128292}
+{"id":"osm:node:11661731945","category":"viewpoint","lat":-43.882458,"lng":170.118724}
+{"id":"osm:node:11670883269","category":"viewpoint","lat":-37.0288,"lng":175.556728}
+{"id":"osm:node:11687029869","category":"viewpoint","lat":-37.130095,"lng":175.646511}
+{"id":"osm:node:11690109191","category":"viewpoint","lat":-37.628722,"lng":176.171432}
+{"id":"osm:node:11692452871","category":"viewpoint","name":"Mining Claim Lookout","lat":-45.015488,"lng":170.138074}
+{"id":"osm:node:11700026847","category":"viewpoint","name":"Tungutu Lookout","lat":-36.506032,"lng":174.721183}
+{"id":"osm:node:11702533269","category":"viewpoint","lat":-37.137679,"lng":175.554438}
+{"id":"osm:node:11710502469","category":"viewpoint","lat":-37.048498,"lng":175.616456}
+{"id":"osm:node:11710502569","category":"viewpoint","lat":-37.064559,"lng":175.634357}
+{"id":"osm:node:11726608001","category":"viewpoint","lat":-43.882372,"lng":170.118821}
+{"id":"osm:node:11747014369","category":"viewpoint","lat":-37.071867,"lng":175.575976}
+{"id":"osm:node:11751908581","category":"viewpoint","lat":-43.2584,"lng":171.711994}
+{"id":"osm:node:11764817930","category":"viewpoint","lat":-35.225557,"lng":174.232846}
+{"id":"osm:node:11770030534","category":"viewpoint","lat":-41.145986,"lng":172.615026}
+{"id":"osm:node:11774431953","category":"viewpoint","lat":-36.066829,"lng":174.551742}
+{"id":"osm:node:11774457274","category":"viewpoint","lat":-36.067298,"lng":174.546431}
+{"id":"osm:node:11799456990","category":"viewpoint","lat":-37.817942,"lng":174.83025}
+{"id":"osm:node:11820943969","category":"viewpoint","name":"Flat Rock","lat":-37.026794,"lng":175.87877}
+{"id":"osm:node:11822984630","category":"viewpoint","lat":-38.074224,"lng":175.017846}
+{"id":"osm:node:11880433863","category":"viewpoint","lat":-37.620294,"lng":175.851209}
+{"id":"osm:node:11882727127","category":"viewpoint","lat":-36.839187,"lng":174.754427}
+{"id":"osm:node:11896757826","category":"viewpoint","lat":-45.922343,"lng":170.452693}
+{"id":"osm:node:11903768569","category":"viewpoint","lat":-45.02355,"lng":168.671645}
+{"id":"osm:node:11903768570","category":"viewpoint","lat":-45.023262,"lng":168.673133}
+{"id":"osm:node:11927465769","category":"viewpoint","name":"Omanawa Falls lower lookout","lat":-37.845832,"lng":176.087894}
+{"id":"osm:node:1195392875","category":"viewpoint","lat":-36.843744,"lng":174.81544}
+{"id":"osm:node:11957150874","category":"viewpoint","name":"Forest Loop lookout","lat":-37.401243,"lng":175.919174}
+{"id":"osm:node:11968068183","category":"viewpoint","lat":-37.625278,"lng":176.173717}
+{"id":"osm:node:11974167852","category":"viewpoint","lat":-38.812771,"lng":174.58523}
+{"id":"osm:node:11997995970","category":"viewpoint","lat":-41.109537,"lng":172.103479}
+{"id":"osm:node:1199850514","category":"viewpoint","lat":-43.608103,"lng":172.697158}
+{"id":"osm:node:12021615965","category":"viewpoint","lat":-45.861055,"lng":170.626668}
+{"id":"osm:node:12021739910","category":"viewpoint","lat":-45.860938,"lng":170.626566}
+{"id":"osm:node:12040820029","category":"viewpoint","name":"Ōmana Lookout","lat":-36.88022,"lng":175.025309}
+{"id":"osm:node:12048862858","category":"viewpoint","name":"Mahaki Paoa Lookout","lat":-41.266056,"lng":173.781553}
+{"id":"osm:node:12050680103","category":"viewpoint","name":"Isengard Lookout","lat":-44.773985,"lng":168.326479}
+{"id":"osm:node:12070875359","category":"viewpoint","lat":-38.361393,"lng":176.370215}
+{"id":"osm:node:12070892421","category":"viewpoint","lat":-38.361695,"lng":176.36989}
+{"id":"osm:node:12070892816","category":"viewpoint","name":"Te Rere Ārai Mārena","lat":-38.360921,"lng":176.369562}
+{"id":"osm:node:12070919640","category":"viewpoint","lat":-38.357548,"lng":176.368047}
+{"id":"osm:node:12070939486","category":"viewpoint","lat":-38.132579,"lng":176.244397}
+{"id":"osm:node:12070940457","category":"viewpoint","name":"Roto Kārikitea","lat":-38.357369,"lng":176.367575}
+{"id":"osm:node:12070948716","category":"viewpoint","lat":-38.363096,"lng":176.368786}
+{"id":"osm:node:12070955817","category":"viewpoint","name":"Māhanga Rua","lat":-38.356816,"lng":176.368131}
+{"id":"osm:node:12070957471","category":"viewpoint","lat":-38.36173,"lng":176.369536}
+{"id":"osm:node:12078025307","category":"viewpoint","lat":-41.266785,"lng":173.280516}
+{"id":"osm:node:12078025309","category":"viewpoint","lat":-41.267333,"lng":173.280866}
+{"id":"osm:node:12078025311","category":"viewpoint","lat":-41.267905,"lng":173.281268}
+{"id":"osm:node:12078071985","category":"viewpoint","lat":-41.129397,"lng":175.080975}
+{"id":"osm:node:1212563435","category":"viewpoint","name":"Pah Point","lat":-36.303492,"lng":175.487428}
+{"id":"osm:node:1212563440","category":"viewpoint","name":"Pah Beach","lat":-36.301963,"lng":175.487009}
+{"id":"osm:node:1212563448","category":"viewpoint","name":"Gooseberry Flat Beach","lat":-36.305076,"lng":175.489713}
+{"id":"osm:node:12147589558","category":"viewpoint","lat":-38.660174,"lng":178.044243,"tags":{"description":"Bernie Vette Lookout"}}
+{"id":"osm:node:12159365944","category":"viewpoint","name":"Peak House Lookout","lat":-39.696023,"lng":176.905211}
+{"id":"osm:node:12231509788","category":"viewpoint","lat":-36.877952,"lng":174.763653}
+{"id":"osm:node:12243140424","category":"viewpoint","lat":-36.947908,"lng":174.782554}
+{"id":"osm:node:1225167991","category":"viewpoint","name":"Maori drawings","lat":-42.979927,"lng":172.692026}
+{"id":"osm:node:1225195955","category":"viewpoint","name":"Maori drawings","lat":-42.979955,"lng":172.692215}
+{"id":"osm:node:1225221514","category":"viewpoint","name":"Conical Hill","lat":-42.512259,"lng":172.828548}
+{"id":"osm:node:12256339839","category":"viewpoint","lat":-38.676231,"lng":178.027878}
+{"id":"osm:node:1227771056","category":"viewpoint","lat":-40.92343,"lng":173.843609}
+{"id":"osm:node:1227786520","category":"viewpoint","name":"French Pass Lookout","lat":-40.925251,"lng":173.834583}
+{"id":"osm:node:12306648782","category":"viewpoint","lat":-35.52979,"lng":173.530637}
+{"id":"osm:node:1231773646","category":"viewpoint","name":"Rob Roy Glacier","lat":-44.478194,"lng":168.728143}
+{"id":"osm:node:12321298122","category":"viewpoint","lat":-45.801169,"lng":170.521518}
+{"id":"osm:node:12324725216","category":"viewpoint","lat":-46.889831,"lng":168.134072}
+{"id":"osm:node:12324887065","category":"viewpoint","lat":-35.562156,"lng":174.497876}
+{"id":"osm:node:1233296105","category":"viewpoint","name":"Ships' Graveyard","lat":-43.627988,"lng":172.684275}
+{"id":"osm:node:1233312503","category":"viewpoint","lat":-43.624693,"lng":172.691924,"tags":{"description":"View basalt cliffs"}}
+{"id":"osm:node:12343058202","category":"viewpoint","name":"Cable bay lookout","lat":-41.160206,"lng":173.412595}
+{"id":"osm:node:1235194533","category":"viewpoint","lat":-45.921112,"lng":170.458266}
+{"id":"osm:node:12378246733","category":"viewpoint","lat":-36.020635,"lng":173.977358}
+{"id":"osm:node:12426843084","category":"viewpoint","lat":-41.138635,"lng":173.730459}
+{"id":"osm:node:12430270358","category":"viewpoint","name":"Waterfall View","lat":-36.07066,"lng":174.52446}
+{"id":"osm:node:12434241603","category":"viewpoint","lat":-41.26935,"lng":173.787909}
+{"id":"osm:node:12442800652","category":"viewpoint","lat":-40.307888,"lng":175.771123}
+{"id":"osm:node:12450169831","category":"viewpoint","lat":-36.966181,"lng":175.823504}
+{"id":"osm:node:12450356792","category":"viewpoint","lat":-36.914858,"lng":174.555137}
+{"id":"osm:node:12450368782","category":"viewpoint","lat":-36.914135,"lng":174.555618}
+{"id":"osm:node:12450375416","category":"viewpoint","lat":-36.914257,"lng":174.555289}
+{"id":"osm:node:12455045256","category":"viewpoint","lat":-42.934804,"lng":171.565489}
+{"id":"osm:node:12459998001","category":"viewpoint","lat":-40.313523,"lng":175.775734}
+{"id":"osm:node:12462367601","category":"viewpoint","lat":-44.281293,"lng":169.940783}
+{"id":"osm:node:12462367701","category":"viewpoint","lat":-44.283382,"lng":169.93993}
+{"id":"osm:node:12463778521","category":"viewpoint","lat":-44.570913,"lng":170.197839}
+{"id":"osm:node:12477051259","category":"viewpoint","lat":-35.440402,"lng":174.412579}
+{"id":"osm:node:12477123712","category":"viewpoint","name":"Tohumoana Lookout","lat":-35.448693,"lng":174.403775}
+{"id":"osm:node:1248423153","category":"viewpoint","lat":-40.999173,"lng":173.781724}
+{"id":"osm:node:12487666849","category":"viewpoint","name":"Lower viewpoint","lat":-43.714149,"lng":170.079152}
+{"id":"osm:node:12487795810","category":"viewpoint","lat":-41.273366,"lng":173.29123}
+{"id":"osm:node:12487796059","category":"viewpoint","lat":-41.273681,"lng":173.289813}
+{"id":"osm:node:12525232801","category":"viewpoint","name":"Karitai Viewpoint","lat":-45.90698,"lng":170.571521}
+{"id":"osm:node:12532892795","category":"viewpoint","lat":-43.599252,"lng":172.563673}
+{"id":"osm:node:12543446189","category":"viewpoint","lat":-39.478208,"lng":176.916263}
+{"id":"osm:node:12570334085","category":"viewpoint","lat":-35.6847,"lng":174.335446}
+{"id":"osm:node:12570486665","category":"viewpoint","lat":-35.694867,"lng":174.341874}
+{"id":"osm:node:12593948696","category":"viewpoint","name":"Crystal Valley View","lat":-43.274312,"lng":171.658321}
+{"id":"osm:node:12599719034","category":"viewpoint","lat":-38.166996,"lng":176.240332}
+{"id":"osm:node:12602161586","category":"viewpoint","lat":-38.036374,"lng":175.835616}
+{"id":"osm:node:12602168155","category":"viewpoint","lat":-38.036144,"lng":175.835735}
+{"id":"osm:node:12606041746","category":"viewpoint","lat":-37.99097,"lng":177.212213}
+{"id":"osm:node:12608820102","category":"viewpoint","lat":-41.80679,"lng":172.843896}
+{"id":"osm:node:12626504001","category":"viewpoint","lat":-37.068029,"lng":175.089981}
+{"id":"osm:node:12632570501","category":"viewpoint","lat":-37.858512,"lng":175.681355}
+{"id":"osm:node:1263332232","category":"viewpoint","name":"Mount Erin Lookout","lat":-39.727053,"lng":176.925653}
+{"id":"osm:node:1263332803","category":"viewpoint","lat":-39.289289,"lng":174.504973}
+{"id":"osm:node:1263356120","category":"viewpoint","lat":-38.920257,"lng":174.788058}
+{"id":"osm:node:1263356121","category":"viewpoint","name":"Mount Damper Falls viewing platform","lat":-38.919898,"lng":174.788401}
+{"id":"osm:node:12637756409","category":"viewpoint","lat":-38.162353,"lng":176.255377}
+{"id":"osm:node:12637756683","category":"viewpoint","lat":-38.161938,"lng":176.256474}
+{"id":"osm:node:1264869862","category":"viewpoint","name":"Hatch’s Hill Lookout","lat":-46.47898,"lng":168.29741}
+{"id":"osm:node:1271018470","category":"viewpoint","name":"Oreti River","lat":-46.465413,"lng":168.283526}
+{"id":"osm:node:12732177654","category":"viewpoint","lat":-42.429763,"lng":173.698454}
+{"id":"osm:node:12738921829","category":"viewpoint","name":"Cave Bay","lat":-37.028724,"lng":175.882072}
+{"id":"osm:node:12779294667","category":"viewpoint","lat":-38.162006,"lng":176.353081}
+{"id":"osm:node:12822666534","category":"viewpoint","lat":-39.703605,"lng":176.909227}
+{"id":"osm:node:12829183293","category":"viewpoint","lat":-38.361104,"lng":176.369632}
+{"id":"osm:node:12829191788","category":"viewpoint","lat":-38.141636,"lng":176.265229}
+{"id":"osm:node:12836451662","category":"viewpoint","lat":-36.877776,"lng":174.765211}
+{"id":"osm:node:12843192473","category":"viewpoint","lat":-43.382549,"lng":170.162633}
+{"id":"osm:node:12890222298","category":"viewpoint","lat":-36.277694,"lng":174.800549}
+{"id":"osm:node:12898728104","category":"viewpoint","lat":-46.602014,"lng":168.316535,"tags":{"description":"Scenic view over the cliffs with Stewart Island in the distance"}}
+{"id":"osm:node:12908446877","category":"viewpoint","name":"Ashhurst Lookout","lat":-40.29419,"lng":175.777023}
+{"id":"osm:node:12908471076","category":"viewpoint","name":"Woodville Lookout","lat":-40.323306,"lng":175.835789}
+{"id":"osm:node:12908481705","category":"viewpoint","name":"Te Āpiti Wind Farm Lookout","lat":-40.306919,"lng":175.808306}
+{"id":"osm:node:12922870191","category":"viewpoint","lat":-46.520984,"lng":168.25589}
+{"id":"osm:node:12953908918","category":"viewpoint","lat":-41.282133,"lng":173.243098}
+{"id":"osm:node:12953908922","category":"viewpoint","lat":-41.281839,"lng":173.243222}
+{"id":"osm:node:12955671496","category":"viewpoint","lat":-38.036394,"lng":175.834158}
+{"id":"osm:node:12979008501","category":"viewpoint","lat":-35.267845,"lng":174.072237}
+{"id":"osm:node:12999365007","category":"viewpoint","name":"Glowworms","lat":-35.932549,"lng":174.348975}
+{"id":"osm:node:13003398633","category":"viewpoint","name":"Archies Lookout","lat":-36.919611,"lng":174.934493}
+{"id":"osm:node:1300435766","category":"viewpoint","name":"Lookout","lat":-46.472838,"lng":168.29263}
+{"id":"osm:node:13111244861","category":"viewpoint","lat":-38.164184,"lng":176.256435}
+{"id":"osm:node:13111244862","category":"viewpoint","lat":-38.163699,"lng":176.256818}
+{"id":"osm:node:13111244863","category":"viewpoint","lat":-38.163717,"lng":176.257115}
+{"id":"osm:node:13111244864","category":"viewpoint","lat":-38.162922,"lng":176.258332}
+{"id":"osm:node:13111244866","category":"viewpoint","lat":-38.161858,"lng":176.258605}
+{"id":"osm:node:13116009001","category":"viewpoint","name":"Kauri Lookout","lat":-35.211592,"lng":173.789249}
+{"id":"osm:node:1313364458","category":"viewpoint","name":"Tapataia Mahaka / Peter's Lookout","lat":-44.088703,"lng":170.135799,"tags":{"wheelchair":"yes"}}
+{"id":"osm:node:1313378949","category":"viewpoint","name":"Kea Point","lat":-43.710552,"lng":170.084284}
+{"id":"osm:node:1313395152","category":"viewpoint","name":"Waiwhakaheke overlook","lat":-45.775444,"lng":170.730662,"tags":{"wheelchair":"yes"}}
+{"id":"osm:node:1313395154","category":"viewpoint","lat":-45.775579,"lng":170.730972}
+{"id":"osm:node:1313804156","category":"viewpoint","lat":-46.448161,"lng":169.816862}
+{"id":"osm:node:1313804164","category":"viewpoint","name":"Roaring Bay Viewing Hide","lat":-46.445665,"lng":169.803669,"tags":{"description":"Penguin viewing hide"}}
+{"id":"osm:node:1313804173","category":"viewpoint","lat":-46.445261,"lng":169.809092}
+{"id":"osm:node:1313804190","category":"viewpoint","lat":-46.444981,"lng":169.802785}
+{"id":"osm:node:1314755212","category":"viewpoint","name":"Reflection Island","lat":-43.437818,"lng":169.96304,"tags":{"wheelchair":"no"}}
+{"id":"osm:node:1314755277","category":"viewpoint","name":"View of Views","lat":-43.436538,"lng":169.960718,"tags":{"wheelchair":"no"}}
+{"id":"osm:node:1315849628","category":"viewpoint","lat":-39.721096,"lng":175.135369}
+{"id":"osm:node:1315971683","category":"viewpoint","name":"Wentworth Falls","lat":-37.259,"lng":175.799489}
+{"id":"osm:node:13160692504","category":"viewpoint","lat":-37.886378,"lng":175.410359}
+{"id":"osm:node:1316769246","category":"viewpoint","lat":-35.28213,"lng":174.093243}
+{"id":"osm:node:1316789579","category":"viewpoint","lat":-35.620303,"lng":174.515607}
+{"id":"osm:node:1319603877","category":"viewpoint","lat":-45.811907,"lng":170.551125}
+{"id":"osm:node:13240993654","category":"viewpoint","lat":-38.166903,"lng":176.239824}
+{"id":"osm:node:13300510875","category":"viewpoint","lat":-35.826927,"lng":174.505234}
+{"id":"osm:node:13316172496","category":"viewpoint","name":"Folly","lat":-36.899404,"lng":174.789189}
+{"id":"osm:node:13322796475","category":"viewpoint","lat":-40.851719,"lng":174.93115}
+{"id":"osm:node:13323853705","category":"viewpoint","lat":-41.033519,"lng":172.86176}
+{"id":"osm:node:13341393808","category":"viewpoint","name":"Enchanted Lookout","lat":-41.563592,"lng":173.353308}
+{"id":"osm:node:13341627419","category":"viewpoint","lat":-37.40514,"lng":174.707997}
+{"id":"osm:node:13356921974","category":"viewpoint","lat":-43.225723,"lng":170.155382}
+{"id":"osm:node:13356921975","category":"viewpoint","lat":-43.224967,"lng":170.159913}
+{"id":"osm:node:13358410521","category":"viewpoint","lat":-36.637962,"lng":175.500063}
+{"id":"osm:node:13385619801","category":"viewpoint","lat":-42.936892,"lng":171.589878}
+{"id":"osm:node:13387743856","category":"viewpoint","name":"Mowhanau Lookout","lat":-39.885433,"lng":174.899177,"tags":{"wheelchair":"limited"}}
+{"id":"osm:node:13409986794","category":"viewpoint","name":"Epiphany Point","lat":-36.779567,"lng":175.021828}
+{"id":"osm:node:13412687472","category":"viewpoint","name":"Karanga Plaza Tidal Steps","lat":-36.841312,"lng":174.759244}
+{"id":"osm:node:13416971922","category":"viewpoint","lat":-46.031799,"lng":170.118546}
+{"id":"osm:node:13417879731","category":"viewpoint","lat":-46.50317,"lng":169.488518}
+{"id":"osm:node:13422368360","category":"viewpoint","lat":-44.188255,"lng":170.14917}
+{"id":"osm:node:13428275717","category":"viewpoint","lat":-36.842728,"lng":174.760277}
+{"id":"osm:node:13436760856","category":"viewpoint","name":"View Point","lat":-40.485048,"lng":175.624456}
+{"id":"osm:node:13437538236","category":"viewpoint","lat":-43.517646,"lng":171.65769}
+{"id":"osm:node:13448971453","category":"viewpoint","lat":-37.127705,"lng":175.188559}
+{"id":"osm:node:13459978838","category":"viewpoint","lat":-39.318068,"lng":174.097136}
+{"id":"osm:node:13465416801","category":"viewpoint","name":"View of the Pillars of Hercules","lat":-39.149108,"lng":175.818832}
+{"id":"osm:node:13469655495","category":"viewpoint","lat":-38.071621,"lng":176.21654}
+{"id":"osm:node:13483045701","category":"viewpoint","lat":-44.402519,"lng":168.844536}
+{"id":"osm:node:13507906442","category":"viewpoint","lat":-41.293729,"lng":173.754757}
+{"id":"osm:node:13550883301","category":"viewpoint","lat":-35.540724,"lng":173.387462}
+{"id":"osm:node:13565772702","category":"viewpoint","lat":-37.003669,"lng":175.848247}
+{"id":"osm:node:13565822499","category":"viewpoint","lat":-40.306214,"lng":175.769219}
+{"id":"osm:node:13568292401","category":"viewpoint","lat":-36.883954,"lng":175.818035}
+{"id":"osm:node:13568599701","category":"viewpoint","lat":-43.457244,"lng":169.933205}
+{"id":"osm:node:13568654901","category":"viewpoint","lat":-38.139292,"lng":176.259151}
+{"id":"osm:node:13574882001","category":"viewpoint","lat":-38.892884,"lng":175.948122}
+{"id":"osm:node:13574940201","category":"viewpoint","lat":-39.098182,"lng":175.543441}
+{"id":"osm:node:13575191122","category":"viewpoint","lat":-40.965953,"lng":175.767844}
+{"id":"osm:node:13575434996","category":"viewpoint","name":"Valley of The Whales","lat":-44.92342,"lng":170.682161}
+{"id":"osm:node:13594492201","category":"viewpoint","lat":-42.292946,"lng":171.288428}
+{"id":"osm:node:13596670401","category":"viewpoint","lat":-43.285462,"lng":170.404345}
+{"id":"osm:node:13597022326","category":"viewpoint","name":"Ridgeline","lat":-37.7758,"lng":175.470479}
+{"id":"osm:node:13597159801","category":"viewpoint","lat":-43.485115,"lng":170.025856}
+{"id":"osm:node:13612960901","category":"viewpoint","lat":-43.849032,"lng":170.110474}
+{"id":"osm:node:13619335637","category":"viewpoint","lat":-41.266151,"lng":173.782036}
+{"id":"osm:node:13657426488","category":"viewpoint","lat":-36.962828,"lng":174.473563}
+{"id":"osm:node:13668190901","category":"viewpoint","lat":-38.26163,"lng":174.850429}
+{"id":"osm:node:13668193101","category":"viewpoint","name":"Glow Worm Wall","lat":-38.265891,"lng":175.078571}
+{"id":"osm:node:13673335964","category":"viewpoint","lat":-36.860682,"lng":174.657162}
+{"id":"osm:node:13673335976","category":"viewpoint","lat":-36.866376,"lng":174.65535}
+{"id":"osm:node:13686151633","category":"viewpoint","name":"Waiau River Lookout","lat":-42.5804,"lng":172.782907,"tags":{"access":"yes"}}
+{"id":"osm:node:13687914538","category":"viewpoint","name":"Larrys Lookout","lat":-38.21838,"lng":175.897229}
+{"id":"osm:node:13734173235","category":"viewpoint","lat":-39.60511,"lng":174.242832}
+{"id":"osm:node:13754899459","category":"viewpoint","lat":-45.114158,"lng":169.301703}
+{"id":"osm:node:13754899722","category":"viewpoint","lat":-45.111723,"lng":169.300893}
+{"id":"osm:node:13759738255","category":"viewpoint","lat":-45.111264,"lng":169.29609}
+{"id":"osm:node:13759742169","category":"viewpoint","lat":-45.109346,"lng":169.297079}
+{"id":"osm:node:13759782695","category":"viewpoint","name":"Friends Lookout","lat":-36.92138,"lng":174.935976}
+{"id":"osm:node:13760275566","category":"viewpoint","lat":-45.09712,"lng":169.279979}
+{"id":"osm:node:13760275609","category":"viewpoint","lat":-45.096123,"lng":169.278974}
+{"id":"osm:node:13838082641","category":"viewpoint","lat":-41.243745,"lng":174.820382}
+{"id":"osm:node:13850900282","category":"viewpoint","lat":-43.428625,"lng":169.981411}
+{"id":"osm:node:13860097904","category":"viewpoint","lat":-46.624429,"lng":168.34252}
+{"id":"osm:node:13870360202","category":"viewpoint","name":"Forest Hill lookout","lat":-46.202795,"lng":168.439614}
+{"id":"osm:node:13903373004","category":"viewpoint","name":"Roxburgh Gorge and Alexandra viewpoint","lat":-45.30028,"lng":169.355058}
+{"id":"osm:node:13903373202","category":"viewpoint","name":"Roxburgh Gorge viewpoint","lat":-45.30343,"lng":169.350147}
+{"id":"osm:node:13908740202","category":"viewpoint","name":"The Ring of Clutha","lat":-45.186058,"lng":169.294936,"tags":{"description":"A cluster of tall schist  outcrops which resemble the Neolithic standing stones of the UK when viewed from the south."}}
+{"id":"osm:node:13908740301","category":"viewpoint","name":"Clyde Lookout","lat":-45.192537,"lng":169.3057}
+{"id":"osm:node:13908865610","category":"viewpoint","lat":-38.136377,"lng":176.26042}
+{"id":"osm:node:13908865612","category":"viewpoint","lat":-38.136258,"lng":176.261733}
+{"id":"osm:node:13908865613","category":"viewpoint","lat":-38.129565,"lng":176.263648}
+{"id":"osm:node:13908865614","category":"viewpoint","lat":-38.129833,"lng":176.264962}
+{"id":"osm:node:13908865615","category":"viewpoint","lat":-38.131046,"lng":176.257124}
+{"id":"osm:node:13908865633","category":"viewpoint","lat":-38.129237,"lng":176.251942}
+{"id":"osm:node:13913664801","category":"viewpoint","name":"Hartley Bluff Bridge","lat":-45.06522,"lng":169.212386}
+{"id":"osm:node:13913664901","category":"viewpoint","name":"Reilly Bluff Bridge","lat":-45.065934,"lng":169.213528}
+{"id":"osm:node:13913665001","category":"viewpoint","name":"Pickaxe Bluff Bridge","lat":-45.079296,"lng":169.230688}
+{"id":"osm:node:13964116444","category":"viewpoint","lat":-36.713082,"lng":175.733728}
+{"id":"osm:node:13964116469","category":"viewpoint","lat":-36.712986,"lng":175.735813}
+{"id":"osm:node:13964116470","category":"viewpoint","lat":-36.713245,"lng":175.736951}
+{"id":"osm:node:13964116660","category":"viewpoint","lat":-36.70939,"lng":175.759183}
+{"id":"osm:node:14001977981","category":"viewpoint","name":"Rocks Lookout","lat":-40.989925,"lng":174.992355}
+{"id":"osm:node:14001978627","category":"viewpoint","name":"Coastal Lookout","lat":-40.972227,"lng":174.985254}
+{"id":"osm:node:1422671409","category":"viewpoint","lat":-41.479101,"lng":172.910041}
+{"id":"osm:node:1432334151","category":"viewpoint","name":"The Lightning Tree","lat":-43.198129,"lng":171.688048}
+{"id":"osm:node:1433173634","category":"viewpoint","lat":-43.212268,"lng":171.691643}
+{"id":"osm:node:1441613221","category":"viewpoint","lat":-43.296795,"lng":171.742356}
+{"id":"osm:node:1446870602","category":"viewpoint","name":"Whakapipi Lookout","lat":-37.541041,"lng":175.7207}
+{"id":"osm:node:148914017","category":"viewpoint","lat":-36.826617,"lng":174.799651}
+{"id":"osm:node:1564986909","category":"viewpoint","lat":-42.864949,"lng":173.302933}
+{"id":"osm:node:1567071740","category":"viewpoint","name":"Lookout","lat":-37.111174,"lng":175.729829}
+{"id":"osm:node:1593871943","category":"viewpoint","name":"Hūnua Falls Lookout","lat":-37.066881,"lng":175.09042}
+{"id":"osm:node:1595861082","category":"viewpoint","lat":-37.436067,"lng":175.711388}
+{"id":"osm:node:1597381460","category":"viewpoint","name":"Tokatū Point Lookout","lat":-36.364032,"lng":174.864507}
+{"id":"osm:node:1617018032","category":"viewpoint","lat":-41.859234,"lng":172.252338}
+{"id":"osm:node:1618508286","category":"viewpoint","name":"Waipunga Falls Viewpoint","lat":-38.957144,"lng":176.52386}
+{"id":"osm:node:1621231177","category":"viewpoint","lat":-40.312233,"lng":175.778501}
+{"id":"osm:node:1621231185","category":"viewpoint","lat":-40.315463,"lng":175.783416}
+{"id":"osm:node:1637018508","category":"viewpoint","name":"Northern Lookout","lat":-37.6128,"lng":175.156687}
+{"id":"osm:node:1637018510","category":"viewpoint","name":"Southern Lookout","lat":-37.617407,"lng":175.158317}
+{"id":"osm:node:1637232050","category":"viewpoint","name":"Hakarimata Scenic Reserve","lat":-37.661974,"lng":175.124618}
+{"id":"osm:node:1638548878","category":"viewpoint","name":"Harling Park Lookout","lat":-41.542919,"lng":173.949624}
+{"id":"osm:node:1651074006","category":"viewpoint","lat":-45.110819,"lng":170.972329}
+{"id":"osm:node:1651085911","category":"viewpoint","lat":-45.357733,"lng":170.85924}
+{"id":"osm:node:1652122987","category":"viewpoint","lat":-45.891191,"lng":170.672421}
+{"id":"osm:node:1656834486","category":"viewpoint","lat":-40.935018,"lng":172.923066}
+{"id":"osm:node:1661793038","category":"viewpoint","name":"The Zig Zag","lat":-44.973757,"lng":168.86468}
+{"id":"osm:node:1663688670","category":"viewpoint","name":"Starlight Cave","lat":-40.950023,"lng":172.869558}
+{"id":"osm:node:1665333040","category":"viewpoint","lat":-41.279903,"lng":174.003334}
+{"id":"osm:node:1665333066","category":"viewpoint","lat":-41.283808,"lng":174.003521}
+{"id":"osm:node:1671363913","category":"viewpoint","name":"Birds Lookout","lat":-37.137328,"lng":175.53809}
+{"id":"osm:node:1675684327","category":"viewpoint","lat":-45.05227,"lng":169.21895}
+{"id":"osm:node:1692802231","category":"viewpoint","name":"Achilles Point Lookout","lat":-36.843859,"lng":174.864053}
+{"id":"osm:node:1692802246","category":"viewpoint","lat":-36.844752,"lng":174.865577}
+{"id":"osm:node:1699403775","category":"viewpoint","lat":-36.846412,"lng":174.901171}
+{"id":"osm:node:170485240","category":"viewpoint","name":"Mount Victoria Lookout","lat":-41.296037,"lng":174.794325}
+{"id":"osm:node:1706584176","category":"viewpoint","lat":-41.279051,"lng":174.015638}
+{"id":"osm:node:1706584178","category":"viewpoint","name":"Queen Charlotte View","lat":-41.260225,"lng":174.035268}
+{"id":"osm:node:1706584179","category":"viewpoint","name":"The Snout View","lat":-41.250599,"lng":174.048814}
+{"id":"osm:node:1707932265","category":"viewpoint","name":"Waterfall","lat":-45.850096,"lng":170.497949}
+{"id":"osm:node:1709833048","category":"viewpoint","name":"Gannet colony","lat":-36.833295,"lng":174.425245}
+{"id":"osm:node:1712419658","category":"viewpoint","name":"Toe Toe Junction","lat":-40.484375,"lng":175.635737}
+{"id":"osm:node:1717102958","category":"viewpoint","lat":-36.946799,"lng":174.612976}
+{"id":"osm:node:1717118322","category":"viewpoint","name":"Old Pylon","lat":-37.491713,"lng":175.779895}
+{"id":"osm:node:172188398","category":"viewpoint","name":"Lookout north over Kapiti Island and the Kapiti Coast","lat":-41.004078,"lng":174.938404}
+{"id":"osm:node:1725006260","category":"viewpoint","name":"Platinum Mines","lat":-40.473352,"lng":175.639399}
+{"id":"osm:node:1727435131","category":"viewpoint","name":"Emerald Lakes","lat":-39.134452,"lng":175.652941}
+{"id":"osm:node:1751621944","category":"viewpoint","name":"Boulder Reach Lookout","lat":-45.493705,"lng":167.654397}
+{"id":"osm:node:1753424821","category":"viewpoint","name":"Fish Ladder","lat":-41.259789,"lng":174.769289}
+{"id":"osm:node:1754672804","category":"viewpoint","lat":-37.001194,"lng":174.811596,"tags":{"description":"Scenic Lookout Airport Runway"}}
+{"id":"osm:node:1754672805","category":"viewpoint","lat":-37.001764,"lng":174.812018,"tags":{"description":"Scenic Lookout Airport Runway"}}
+{"id":"osm:node:1774354982","category":"viewpoint","name":"Te Apiti Lookout","lat":-40.322475,"lng":175.794779}
+{"id":"osm:node:1776616832","category":"viewpoint","lat":-40.326362,"lng":175.804376}
+{"id":"osm:node:1782479157","category":"viewpoint","name":"Stanhope Lookout","lat":-41.21721,"lng":174.876697}
+{"id":"osm:node:1789294074","category":"viewpoint","name":"Hau Nui Wind Farm Lookout","lat":-41.357657,"lng":175.491104}
+{"id":"osm:node:179964171","category":"viewpoint","name":"Cape Foulwind","lat":-41.763101,"lng":171.457639}
+{"id":"osm:node:1804816677","category":"viewpoint","name":"Tapeka Point Lookout","lat":-35.242333,"lng":174.120323}
+{"id":"osm:node:1804824481","category":"viewpoint","name":"Flagstaff Hill Lookout","lat":-35.254906,"lng":174.11997}
+{"id":"osm:node:1804877773","category":"viewpoint","name":"Long Beach","lat":-35.258051,"lng":174.131345}
+{"id":"osm:node:1812310356","category":"viewpoint","name":"Rotary Lookout","lat":-41.551795,"lng":173.945113}
+{"id":"osm:node:1812324862","category":"viewpoint","name":"Mt Vernon","lat":-41.561473,"lng":173.980673}
+{"id":"osm:node:1812324874","category":"viewpoint","name":"The Crown","lat":-41.556964,"lng":173.978583}
+{"id":"osm:node:1822385365","category":"viewpoint","lat":-36.82491,"lng":174.705471}
+{"id":"osm:node:1822385368","category":"viewpoint","lat":-36.826054,"lng":174.709997}
+{"id":"osm:node:1831293711","category":"viewpoint","name":"Marokopa Falls","lat":-38.261321,"lng":174.850709}
+{"id":"osm:node:1833674705","category":"viewpoint","lat":-36.864305,"lng":174.831017}
+{"id":"osm:node:1862564122","category":"viewpoint","lat":-40.467387,"lng":175.229572}
+{"id":"osm:node:1892724940","category":"viewpoint","name":"Otomuri Lookout","lat":-40.648157,"lng":175.230792}
+{"id":"osm:node:1892724941","category":"viewpoint","name":"Papaitonga Lookout","lat":-40.644924,"lng":175.232344}
+{"id":"osm:node:1892783364","category":"viewpoint","name":"Devil's Staircase","lat":-39.145309,"lng":175.626661}
+{"id":"osm:node:1893158793","category":"viewpoint","name":"Tunnel Cave","lat":-41.204562,"lng":172.181093}
+{"id":"osm:node:1893159328","category":"viewpoint","name":"Tunnel Cave","lat":-41.203699,"lng":172.180127}
+{"id":"osm:node:1893228318","category":"viewpoint","name":"Incline Lookout","lat":-41.734605,"lng":171.795077}
+{"id":"osm:node:1905021824","category":"viewpoint","name":"New Zealand's tallest tree","lat":-45.763257,"lng":170.590053}
+{"id":"osm:node:1907945534","category":"viewpoint","name":"Lake Kohangatera Lookout","lat":-41.357538,"lng":174.872387}
+{"id":"osm:node:1908109921","category":"viewpoint","lat":-41.243879,"lng":174.92264}
+{"id":"osm:node:1908117920","category":"viewpoint","lat":-41.306023,"lng":174.896534}
+{"id":"osm:node:1908117922","category":"viewpoint","lat":-41.295476,"lng":174.903251}
+{"id":"osm:node:1924439328","category":"viewpoint","lat":-44.270426,"lng":169.847201}
+{"id":"osm:node:1926047792","category":"viewpoint","name":"Feilding Lookout","lat":-40.215488,"lng":175.553567}
+{"id":"osm:node:1931274191","category":"viewpoint","name":"Sugarloaf","lat":-41.209494,"lng":174.871093}
+{"id":"osm:node:1939221461","category":"viewpoint","lat":-36.938002,"lng":174.729454}
+{"id":"osm:node:1962212930","category":"viewpoint","name":"Sentinel Lookout","lat":-40.322427,"lng":175.798926}
+{"id":"osm:node:1983396452","category":"viewpoint","lat":-45.258245,"lng":169.391219}
+{"id":"osm:node:200512943","category":"viewpoint","lat":-41.02526,"lng":174.902156}
+{"id":"osm:node:200513485","category":"viewpoint","lat":-41.030116,"lng":174.890457}
+{"id":"osm:node:200523693","category":"viewpoint","lat":-41.02999,"lng":174.89706}
+{"id":"osm:node:200611430","category":"viewpoint","name":"Memorial Lookout","lat":-40.972207,"lng":174.96207}
+{"id":"osm:node:2006136519","category":"viewpoint","name":"Parkinsons Lookout","lat":-36.924398,"lng":174.566908,"tags":{"wikidata":"Q119032739"}}
+{"id":"osm:node:202106450","category":"viewpoint","lat":-41.727319,"lng":171.589458}
+{"id":"osm:node:203182605","category":"viewpoint","name":"Ōtira Viaduct Lookout at Deaths Corner","lat":-42.888088,"lng":171.556471}
+{"id":"osm:node:2049327017","category":"viewpoint","lat":-36.883458,"lng":174.538134}
+{"id":"osm:node:2055738811","category":"viewpoint","lat":-39.138805,"lng":175.627341}
+{"id":"osm:node:2065718761","category":"viewpoint","name":"Makara Peak Summit Viewing Deck","lat":-41.288564,"lng":174.70732}
+{"id":"osm:node:2089437268","category":"viewpoint","lat":-41.853738,"lng":172.735711}
+{"id":"osm:node:2092264447","category":"viewpoint","name":"Viewing Tower","lat":-38.07462,"lng":175.259935}
+{"id":"osm:node:2092264510","category":"viewpoint","name":"Trig Point and tower (loc approx)","lat":-38.064866,"lng":175.253909}
+{"id":"osm:node:2092431266","category":"viewpoint","lat":-35.559117,"lng":174.499426}
+{"id":"osm:node:2109766944","category":"viewpoint","lat":-44.942148,"lng":168.711612}
+{"id":"osm:node:2124780056","category":"viewpoint","lat":-46.895049,"lng":168.130761}
+{"id":"osm:node:2132764039","category":"viewpoint","lat":-37.069482,"lng":175.110417}
+{"id":"osm:node:2139789913","category":"viewpoint","lat":-38.135423,"lng":176.262127}
+{"id":"osm:node:2141528156","category":"viewpoint","name":"Yarndley's Native Bush Reserve","lat":-37.985037,"lng":175.311885}
+{"id":"osm:node:2149866620","category":"viewpoint","name":"Stormy Point Lookout","lat":-40.004274,"lng":175.640305}
+{"id":"osm:node:2161950228","category":"viewpoint","name":"Kauri View Point","lat":-39.911922,"lng":175.036427}
+{"id":"osm:node:2163218802","category":"viewpoint","lat":-37.680143,"lng":176.146382}
+{"id":"osm:node:21634178","category":"viewpoint","lat":-35.817391,"lng":174.520137}
+{"id":"osm:node:21634190","category":"viewpoint","lat":-35.817787,"lng":174.517046}
+{"id":"osm:node:21634591","category":"viewpoint","name":"Coopers Castle Lookout","lat":-36.172223,"lng":175.396706}
+{"id":"osm:node:2180974294","category":"viewpoint","name":"Waitoharuru Valley Lookout","lat":-38.21221,"lng":176.364918}
+{"id":"osm:node:2182512292","category":"viewpoint","name":"Maraetotara Falls","lat":-39.748146,"lng":176.936106,"tags":{"wikidata":"Q104768738"}}
+{"id":"osm:node:2186358612","category":"viewpoint","lat":-36.970438,"lng":174.90665}
+{"id":"osm:node:2193606463","category":"viewpoint","lat":-39.695959,"lng":176.8984}
+{"id":"osm:node:2194142827","category":"viewpoint","lat":-38.162195,"lng":176.520008}
+{"id":"osm:node:2194171221","category":"viewpoint","name":"Bald Knob","lat":-38.794848,"lng":177.068981}
+{"id":"osm:node:2215717683","category":"viewpoint","name":"Big Slip Lookout","lat":-40.313223,"lng":175.780373,"tags":{"access":"no"}}
+{"id":"osm:node:2215717837","category":"viewpoint","name":"Big Tōtara Tree","lat":-40.339536,"lng":175.815849}
+{"id":"osm:node:2215717879","category":"viewpoint","name":"Windy Lookout","lat":-40.324196,"lng":175.807411}
+{"id":"osm:node:2225828932","category":"viewpoint","name":"Ōkārito Trig","lat":-43.231352,"lng":170.155396}
+{"id":"osm:node:2242385915","category":"viewpoint","lat":-38.326944,"lng":176.304874}
+{"id":"osm:node:2244416681","category":"viewpoint","lat":-37.632068,"lng":176.171246}
+{"id":"osm:node:2246321076","category":"viewpoint","lat":-42.114709,"lng":171.32701,"tags":{"wheelchair":"yes"}}
+{"id":"osm:node:2246321091","category":"viewpoint","lat":-42.11497,"lng":171.327005}
+{"id":"osm:node:2246321124","category":"viewpoint","lat":-42.115373,"lng":171.327966}
+{"id":"osm:node:2246321161","category":"viewpoint","lat":-42.116088,"lng":171.328681}
+{"id":"osm:node:2246560980","category":"viewpoint","lat":-42.573787,"lng":171.471245}
+{"id":"osm:node:2246820649","category":"viewpoint","lat":-42.88086,"lng":171.555588}
+{"id":"osm:node:2252500202","category":"viewpoint","lat":-46.367552,"lng":167.990092}
+{"id":"osm:node:2252502047","category":"viewpoint","lat":-46.370816,"lng":167.995707}
+{"id":"osm:node:2254637040","category":"viewpoint","lat":-37.062577,"lng":175.68732}
+{"id":"osm:node:2256009451","category":"viewpoint","name":"Cameron Lookout","lat":-44.15748,"lng":169.306253}
+{"id":"osm:node:2256011254","category":"viewpoint","lat":-44.995776,"lng":168.920304}
+{"id":"osm:node:2283534143","category":"viewpoint","lat":-43.812274,"lng":173.012416}
+{"id":"osm:node:2284926692","category":"viewpoint","lat":-38.830788,"lng":177.518011}
+{"id":"osm:node:2295701722","category":"viewpoint","lat":-39.47898,"lng":176.918293}
+{"id":"osm:node:2297985358","category":"viewpoint","lat":-41.27621,"lng":173.260364}
+{"id":"osm:node:2321299195","category":"viewpoint","name":"The Pinnacles Lookout","lat":-41.447174,"lng":175.243146}
+{"id":"osm:node:2333041845","category":"viewpoint","name":"Dam Lookout","lat":-45.475128,"lng":169.319887}
+{"id":"osm:node:2337511165","category":"viewpoint","lat":-36.736005,"lng":175.508627}
+{"id":"osm:node:2342888494","category":"viewpoint","lat":-37.099028,"lng":174.653822}
+{"id":"osm:node:2342888967","category":"viewpoint","name":"Fish ladder","lat":-37.092163,"lng":174.649309}
+{"id":"osm:node:2361417101","category":"viewpoint","lat":-37.804127,"lng":175.303235}
+{"id":"osm:node:2361417115","category":"viewpoint","name":"John Mashlan Viewpoint","lat":-37.805365,"lng":175.306786}
+{"id":"osm:node:2377477619","category":"viewpoint","lat":-38.01424,"lng":176.344678}
+{"id":"osm:node:2377478292","category":"viewpoint","lat":-38.030525,"lng":176.255593}
+{"id":"osm:node:2387996176","category":"viewpoint","lat":-39.43363,"lng":175.520082}
+{"id":"osm:node:2389099263","category":"viewpoint","lat":-37.873361,"lng":175.926988}
+{"id":"osm:node:2406562105","category":"viewpoint","lat":-37.051608,"lng":175.254054}
+{"id":"osm:node:2425155272","category":"viewpoint","lat":-40.245846,"lng":175.541662}
+{"id":"osm:node:2427437280","category":"viewpoint","name":"Lowry Trig Viewpoint","lat":-41.265893,"lng":174.92365}
+{"id":"osm:node:2502386915","category":"viewpoint","lat":-39.197324,"lng":175.564647,"tags":{"description":"Taranaki Falls"}}
+{"id":"osm:node:2507532256","category":"viewpoint","name":"Banbury Mine","lat":-41.738044,"lng":171.801649}
+{"id":"osm:node:2507532258","category":"viewpoint","name":"Maloney's Bluff","lat":-41.198892,"lng":172.181093}
+{"id":"osm:node:2507532306","category":"viewpoint","name":"Mirror Tarn lookout","lat":-41.1471,"lng":172.199415}
+{"id":"osm:node:2507532310","category":"viewpoint","name":"Moria Arch Lookout","lat":-41.153321,"lng":172.198498}
+{"id":"osm:node:253714636","category":"viewpoint","name":"Lookout Rock","lat":-43.632662,"lng":172.622519}
+{"id":"osm:node:253807121","category":"viewpoint","name":"Earland Falls","lat":-44.803163,"lng":168.158096}
+{"id":"osm:node:255793559","category":"viewpoint","lat":-36.827258,"lng":174.812149,"tags":{"wheelchair":"yes"}}
+{"id":"osm:node:2560865048","category":"viewpoint","lat":-36.700563,"lng":175.613365}
+{"id":"osm:node:2560944142","category":"viewpoint","lat":-38.317458,"lng":174.944662}
+{"id":"osm:node:257042151","category":"viewpoint","name":"Silica Rapids","lat":-39.220535,"lng":175.53099}
+{"id":"osm:node:2600665008","category":"viewpoint","lat":-37.732085,"lng":176.285349}
+{"id":"osm:node:2600665049","category":"viewpoint","lat":-37.737106,"lng":176.282081}
+{"id":"osm:node:2605936414","category":"viewpoint","name":"Trigpoint and tower (reopens March 2014)","lat":-38.065948,"lng":175.249887}
+{"id":"osm:node:2606862072","category":"viewpoint","lat":-35.55727,"lng":174.50442}
+{"id":"osm:node:2611764726","category":"viewpoint","lat":-44.696225,"lng":169.13911}
+{"id":"osm:node:2640001439","category":"viewpoint","lat":-37.907955,"lng":174.896486}
+{"id":"osm:node:2640001452","category":"viewpoint","lat":-37.908169,"lng":174.896254}
+{"id":"osm:node:2640001481","category":"viewpoint","lat":-37.908564,"lng":174.896671}
+{"id":"osm:node:2640330183","category":"viewpoint","lat":-41.289643,"lng":174.782207}
+{"id":"osm:node:2647645231","category":"viewpoint","name":"Raukawa Falls","lat":-39.626134,"lng":175.314809}
+{"id":"osm:node:2647654741","category":"viewpoint","name":"Tower","lat":-41.095577,"lng":174.273761}
+{"id":"osm:node:2647800147","category":"viewpoint","name":"In the Flightpath","lat":-42.428496,"lng":173.698961}
+{"id":"osm:node:2647800672","category":"viewpoint","lat":-42.431848,"lng":173.702573}
+{"id":"osm:node:2649889868","category":"viewpoint","name":"Cathedral Gully Lookout","lat":-42.867887,"lng":173.304285}
+{"id":"osm:node:2649922861","category":"viewpoint","name":"Moeraki Boulders Lookout","lat":-45.34566,"lng":170.8261,"tags":{"wheelchair":"yes"}}
+{"id":"osm:node:2649951640","category":"viewpoint","lat":-44.997113,"lng":169.244898}
+{"id":"osm:node:2650010981","category":"viewpoint","name":"Glow-Worm Dell","lat":-42.708418,"lng":170.974955}
+{"id":"osm:node:267813079","category":"viewpoint","name":"Kauri Grove","lat":-36.79702,"lng":175.091101}
+{"id":"osm:node:268394285","category":"viewpoint","name":"Sentinel Rock","lat":-43.425026,"lng":170.168948,"tags":{"wikidata":"Q31660787"}}
+{"id":"osm:node:268396770","category":"viewpoint","name":"Glacier Viewpoint","lat":-43.489976,"lng":170.027339}
+{"id":"osm:node:2685676737","category":"viewpoint","name":"Khandallah Park Lower Lookout","lat":-41.241474,"lng":174.789416}
+{"id":"osm:node:268703299","category":"viewpoint","name":"Balclutha Bridge","lat":-46.234396,"lng":169.745244,"tags":{"description":"Good point for photos of the historic bridge"}}
+{"id":"osm:node:268717111","category":"viewpoint","lat":-46.517589,"lng":169.561038}
+{"id":"osm:node:268722133","category":"viewpoint","lat":-46.50311,"lng":169.488181}
+{"id":"osm:node:268748693","category":"viewpoint","lat":-46.571232,"lng":169.465203}
+{"id":"osm:node:268749120","category":"viewpoint","name":"Florence Hill Lookout","lat":-46.57441,"lng":169.459336}
+{"id":"osm:node:268763404","category":"viewpoint","name":"Bluff Hill Lookout","lat":-46.614953,"lng":168.338782}
+{"id":"osm:node:268894520","category":"viewpoint","name":"Slope Point","lat":-46.674289,"lng":169.001601,"tags":{"wheelchair":"limited","description":"The southernmost point of the South Island of New Zealand.","wikidata":"Q1544265","wikipedia":"en:Slope Point"}}
+{"id":"osm:node:268897397","category":"viewpoint","lat":-46.479394,"lng":169.724295,"tags":{"description":"Sealion Breeding Grounds"}}
+{"id":"osm:node:268922514","category":"viewpoint","name":"Stirling Point","lat":-46.613486,"lng":168.357307,"tags":{"wheelchair":"yes","description":"The southern end of State Highway 1, New Zealand's main north-south national highway.\n(and on a clear day if you look directly south the South Pole might be visible)"}}
+{"id":"osm:node:269077168","category":"viewpoint","name":"Scenic Lookout","lat":-46.353099,"lng":167.950367}
+{"id":"osm:node:269098911","category":"viewpoint","name":"McCrackens Rest","lat":-46.228233,"lng":167.668869}
+{"id":"osm:node:2697232674","category":"viewpoint","lat":-36.654,"lng":175.460889}
+{"id":"osm:node:269872458","category":"viewpoint","name":"Devil's Staircase Lookout","lat":-45.245714,"lng":168.742857}
+{"id":"osm:node:2749450522","category":"viewpoint","name":"Mueller Lake Lookout","lat":-43.716737,"lng":170.102702}
+{"id":"osm:node:2749517515","category":"viewpoint","lat":-42.789589,"lng":170.90865}
+{"id":"osm:node:2749782130","category":"viewpoint","name":"The Grove","lat":-40.848102,"lng":172.868321}
+{"id":"osm:node:2777072411","category":"viewpoint","lat":-45.361238,"lng":170.841001}
+{"id":"osm:node:2777072420","category":"viewpoint","name":"Seal Viewing Area","lat":-45.473603,"lng":170.831212}
+{"id":"osm:node:2777072434","category":"viewpoint","name":"Shagpoint","lat":-45.477308,"lng":170.827493}
+{"id":"osm:node:2777072437","category":"viewpoint","name":"Puketeraki Lookout","lat":-45.658909,"lng":170.645688}
+{"id":"osm:node:2777072522","category":"viewpoint","lat":-46.659742,"lng":168.849022}
+{"id":"osm:node:2777072525","category":"viewpoint","lat":-46.659758,"lng":168.850867}
+{"id":"osm:node:2801095811","category":"viewpoint","lat":-39.369594,"lng":175.367789}
+{"id":"osm:node:2830852258","category":"viewpoint","name":"Lower Lookout","lat":-44.486973,"lng":168.722868}
+{"id":"osm:node:2830853527","category":"viewpoint","name":"Diamond Lake Track","lat":-44.646541,"lng":168.964965}
+{"id":"osm:node:2845625631","category":"viewpoint","name":"Hardwood Lookout","lat":-41.034969,"lng":172.853638}
+{"id":"osm:node:2859335342","category":"viewpoint","name":"Maunganamu Outlook","lat":-38.975143,"lng":175.77457}
+{"id":"osm:node:2878915930","category":"viewpoint","lat":-37.791021,"lng":175.583837}
+{"id":"osm:node:288171128","category":"viewpoint","name":"Mawhera Quay","lat":-42.447796,"lng":171.21083}
+{"id":"osm:node:2881830822","category":"viewpoint","lat":-38.341969,"lng":176.369747}
+{"id":"osm:node:2881830836","category":"viewpoint","name":"Square Kauri Tree","lat":-36.990145,"lng":175.571683}
+{"id":"osm:node:2881830882","category":"viewpoint","lat":-39.827805,"lng":175.781491}
+{"id":"osm:node:2881831203","category":"viewpoint","name":"Bridal Veil Falls lookout","lat":-42.92826,"lng":171.56062}
+{"id":"osm:node:290580283","category":"viewpoint","lat":-43.599828,"lng":172.579342}
+{"id":"osm:node:2908535281","category":"viewpoint","lat":-40.95618,"lng":175.678807}
+{"id":"osm:node:290931396","category":"viewpoint","lat":-36.848471,"lng":174.762185,"tags":{"description":"More than one light"}}
+{"id":"osm:node:2918400011","category":"viewpoint","name":"Waituhi Lookout","lat":-38.859891,"lng":175.546361,"tags":{"wheelchair":"no","wikidata":"Q137853311"}}
+{"id":"osm:node:292203292","category":"viewpoint","lat":-41.325744,"lng":174.78627}
+{"id":"osm:node:2925775030","category":"viewpoint","lat":-45.831025,"lng":170.49713,"tags":{"description":"Glow worm viewing area"}}
+{"id":"osm:node:296293162","category":"viewpoint","name":"Centennial Lookout","lat":-41.294972,"lng":174.79817}
+{"id":"osm:node:297629871","category":"viewpoint","lat":-43.599829,"lng":172.58163}
+{"id":"osm:node:2980375075","category":"viewpoint","lat":-36.848185,"lng":174.807883}
+{"id":"osm:node:298045496","category":"viewpoint","lat":-41.285238,"lng":174.767846}
+{"id":"osm:node:298051361","category":"viewpoint","lat":-41.279938,"lng":174.768753}
+{"id":"osm:node:2982482162","category":"viewpoint","name":"Port Waikato","lat":-37.390101,"lng":174.729016}
+{"id":"osm:node:2982507190","category":"viewpoint","name":"Kaitoke Regional Park","lat":-41.049588,"lng":175.17912}
+{"id":"osm:node:2986564933","category":"viewpoint","lat":-36.5089,"lng":174.66339}
+{"id":"osm:node:299393359","category":"viewpoint","name":"(white post)","lat":-43.678147,"lng":172.621302}
+{"id":"osm:node:299910132","category":"viewpoint","lat":-43.661781,"lng":172.614409}
+{"id":"osm:node:299910134","category":"viewpoint","lat":-43.663634,"lng":172.609313}
+{"id":"osm:node:3001498353","category":"viewpoint","lat":-39.784775,"lng":175.221384}
+{"id":"osm:node:3001584244","category":"viewpoint","name":"Piriaka Lookout","lat":-38.932332,"lng":175.343771}
+{"id":"osm:node:3001584255","category":"viewpoint","name":"Scenic Falls","lat":-38.499088,"lng":175.188973}
+{"id":"osm:node:3001671924","category":"viewpoint","lat":-39.019702,"lng":175.712116}
+{"id":"osm:node:3003294139","category":"viewpoint","name":"View of Mt Cook","lat":-44.189998,"lng":170.140762}
+{"id":"osm:node:3006156318","category":"viewpoint","name":"Sentinel Rock Lookout","lat":-37.618388,"lng":175.853763}
+{"id":"osm:node:300809350","category":"viewpoint","name":"Raurimu Spiral Lookout","lat":-39.122505,"lng":175.391416}
+{"id":"osm:node:3008564150","category":"viewpoint","name":"Sugar Loaf","lat":-44.996805,"lng":168.701812,"tags":{"wikidata":"Q31659361"}}
+{"id":"osm:node:3008565537","category":"viewpoint","lat":-45.000833,"lng":168.683042}
+{"id":"osm:node:3021592973","category":"viewpoint","name":"Clevedon Scenic Reserve Viewpoint","lat":-36.979033,"lng":175.032671}
+{"id":"osm:node:3044409194","category":"viewpoint","lat":-37.259077,"lng":175.798792}
+{"id":"osm:node:306090670","category":"viewpoint","lat":-43.624518,"lng":172.637035}
+{"id":"osm:node:306091038","category":"viewpoint","lat":-43.622482,"lng":172.639059}
+{"id":"osm:node:307351536","category":"viewpoint","name":"James Hector Memorial Lookout","lat":-41.28417,"lng":174.763231}
+{"id":"osm:node:308172650","category":"viewpoint","name":"Hokitika Gorge","lat":-42.955776,"lng":171.016568}
+{"id":"osm:node:308178816","category":"viewpoint","lat":-42.814353,"lng":171.171675}
+{"id":"osm:node:3086863435","category":"viewpoint","lat":-41.265893,"lng":174.759199}
+{"id":"osm:node:311464341","category":"viewpoint","name":"Lookout","lat":-36.813945,"lng":175.071731}
+{"id":"osm:node:313784358","category":"viewpoint","lat":-38.164419,"lng":176.255476}
+{"id":"osm:node:3155958429","category":"viewpoint","lat":-36.502573,"lng":175.422678}
+{"id":"osm:node:3173673048","category":"viewpoint","lat":-40.997455,"lng":175.505304}
+{"id":"osm:node:3199677194","category":"viewpoint","lat":-35.529807,"lng":173.443585}
+{"id":"osm:node:320450932","category":"viewpoint","name":"Hawkes Lookout","lat":-41.024929,"lng":172.904593,"tags":{"wheelchair":"limited"}}
+{"id":"osm:node:321818059","category":"viewpoint","lat":-36.158751,"lng":175.365702}
+{"id":"osm:node:322016081","category":"viewpoint","name":"Yellow Eyed Penguin Colony","lat":-45.121832,"lng":170.980493,"tags":{"wheelchair":"yes"}}
+{"id":"osm:node:322016085","category":"viewpoint","lat":-45.121808,"lng":170.981245}
+{"id":"osm:node:322017502","category":"viewpoint","name":"Devils Punchbowl lookout","lat":-42.932926,"lng":171.566595}
+{"id":"osm:node:3222460091","category":"viewpoint","lat":-44.729359,"lng":168.200222}
+{"id":"osm:node:3224286305","category":"viewpoint","lat":-44.007064,"lng":170.490666}
+{"id":"osm:node:322719250","category":"viewpoint","name":"Hilltop View","lat":-41.298339,"lng":174.010883}
+{"id":"osm:node:322732694","category":"viewpoint","lat":-41.249318,"lng":174.912066}
+{"id":"osm:node:3228611838","category":"viewpoint","lat":-39.278895,"lng":174.085271}
+{"id":"osm:node:3229088460","category":"viewpoint","lat":-44.632755,"lng":169.343538}
+{"id":"osm:node:3229234915","category":"viewpoint","name":"Baldwin Street","lat":-45.850391,"lng":170.535861,"tags":{"wheelchair":"no"}}
+{"id":"osm:node:3231678412","category":"viewpoint","lat":-34.897528,"lng":173.090031}
+{"id":"osm:node:3232331499","category":"viewpoint","name":"Rocky Outcrop","lat":-38.034336,"lng":175.569278}
+{"id":"osm:node:3235280168","category":"viewpoint","name":"Paddy's Knob","lat":-41.282048,"lng":173.252243,"tags":{"wheelchair":"yes"}}
+{"id":"osm:node:324719140","category":"viewpoint","lat":-38.278263,"lng":176.408835}
+{"id":"osm:node:3281589324","category":"viewpoint","name":"Lookout","lat":-40.751029,"lng":175.641661}
+{"id":"osm:node:330124620","category":"viewpoint","lat":-37.04766,"lng":175.697549,"tags":{"description":"view on Tauranikau"}}
+{"id":"osm:node:330124712","category":"viewpoint","lat":-37.04797,"lng":175.717242}
+{"id":"osm:node:3308696183","category":"viewpoint","name":"Bullock Spur Crossing","lat":-41.305521,"lng":173.298664}
+{"id":"osm:node:3308744139","category":"viewpoint","name":"Windy Point","lat":-41.347987,"lng":173.342715}
+{"id":"osm:node:3315780780","category":"viewpoint","name":"Hang gliding take-off zone","lat":-41.343553,"lng":173.253838}
+{"id":"osm:node:3319220073","category":"viewpoint","name":"Port Underwood Lookout","lat":-41.380145,"lng":174.064208}
+{"id":"osm:node:3320201862","category":"viewpoint","name":"Tom's Lookout","lat":-40.312938,"lng":175.778671}
+{"id":"osm:node:3324041975","category":"viewpoint","name":"Te Raekaihau Lookout","lat":-41.344752,"lng":174.790728}
+{"id":"osm:node:3329110281","category":"viewpoint","name":"Lookout","lat":-38.792871,"lng":177.103028}
+{"id":"osm:node:3335801644","category":"viewpoint","name":"World War 2 Observation Post","lat":-36.777508,"lng":174.995645}
+{"id":"osm:node:3355666413","category":"viewpoint","name":"Taranaki Lookout","lat":-39.177342,"lng":175.37303}
+{"id":"osm:node:3370340034","category":"viewpoint","name":"Bruce Jackson Lookout","lat":-45.051203,"lng":169.21452}
+{"id":"osm:node:3372718644","category":"viewpoint","lat":-44.570879,"lng":170.198576,"tags":{"description":"Spillway Lookout"}}
+{"id":"osm:node:3373253338","category":"viewpoint","lat":-45.009141,"lng":168.900081}
+{"id":"osm:node:3373269480","category":"viewpoint","name":"Roaring Meg Lookout","lat":-45.0014,"lng":169.071522}
+{"id":"osm:node:337386623","category":"viewpoint","lat":-44.98955,"lng":168.43125}
+{"id":"osm:node:3377340639","category":"viewpoint","lat":-40.722857,"lng":175.644548}
+{"id":"osm:node:3409093360","category":"viewpoint","lat":-35.168531,"lng":174.085976}
+{"id":"osm:node:3409093930","category":"viewpoint","name":"Mana Whenua","lat":-35.169749,"lng":174.086599}
+{"id":"osm:node:3412436998","category":"viewpoint","lat":-35.278033,"lng":174.051508}
+{"id":"osm:node:3414987815","category":"viewpoint","lat":-35.694571,"lng":174.342399}
+{"id":"osm:node:3424091206","category":"viewpoint","lat":-36.63891,"lng":175.574892}
+{"id":"osm:node:3424413460","category":"viewpoint","lat":-36.673969,"lng":175.440811}
+{"id":"osm:node:3429130785","category":"viewpoint","lat":-38.275274,"lng":176.414616}
+{"id":"osm:node:3429130938","category":"viewpoint","lat":-38.273312,"lng":176.415702}
+{"id":"osm:node:3429130952","category":"viewpoint","lat":-38.280805,"lng":176.401587}
+{"id":"osm:node:3429131214","category":"viewpoint","lat":-38.279755,"lng":176.404348}
+{"id":"osm:node:3429131215","category":"viewpoint","lat":-38.279773,"lng":176.4094}
+{"id":"osm:node:3429131219","category":"viewpoint","lat":-38.279875,"lng":176.408165}
+{"id":"osm:node:3429131226","category":"viewpoint","lat":-38.280005,"lng":176.404075}
+{"id":"osm:node:3429131237","category":"viewpoint","lat":-38.280463,"lng":176.403207}
+{"id":"osm:node:3429131314","category":"viewpoint","lat":-38.282292,"lng":176.399047}
+{"id":"osm:node:3436610539","category":"viewpoint","name":"Stu's Lookout","lat":-40.990741,"lng":173.015451}
+{"id":"osm:node:3437051899","category":"viewpoint","name":"Yellow Point Lookout","lat":-40.973936,"lng":173.048015}
+{"id":"osm:node:3438516177","category":"viewpoint","name":"White Creek Faultline 1929","lat":-41.76819,"lng":172.191611}
+{"id":"osm:node:3438521293","category":"viewpoint","lat":-42.115167,"lng":171.327343}
+{"id":"osm:node:3439784609","category":"viewpoint","name":"Rangikapiti Pā","lat":-34.984621,"lng":173.525389}
+{"id":"osm:node:3445108893","category":"viewpoint","lat":-43.387135,"lng":170.180929}
+{"id":"osm:node:3446337585","category":"viewpoint","lat":-35.859679,"lng":174.529261}
+{"id":"osm:node:3456425653","category":"viewpoint","lat":-37.737833,"lng":176.282784}
+{"id":"osm:node:3456425660","category":"viewpoint","lat":-37.739594,"lng":176.285899}
+{"id":"osm:node:3458068837","category":"viewpoint","lat":-46.517631,"lng":169.560702}
+{"id":"osm:node:3470924605","category":"viewpoint","lat":-40.928295,"lng":175.898438}
+{"id":"osm:node:3475246466","category":"viewpoint","lat":-45.009408,"lng":168.899784}
+{"id":"osm:node:3489944689","category":"viewpoint","name":"Artist's Pallete Lookout","lat":-38.474187,"lng":176.149006,"tags":{"wheelchair":"no"}}
+{"id":"osm:node:3495888721","category":"viewpoint","name":"Remutaka Lookout","lat":-41.114128,"lng":175.231966}
+{"id":"osm:node:3498569638","category":"viewpoint","name":"The Rock (Jumping Spot)","lat":-38.16393,"lng":176.355951}
+{"id":"osm:node:3500011675","category":"viewpoint","name":"Fox Glacier South Side Viewpoint","lat":-43.491435,"lng":170.029371}
+{"id":"osm:node:3500412850","category":"viewpoint","name":"Mt Parihaka Lookout","lat":-35.712956,"lng":174.336681}
+{"id":"osm:node:3502129633","category":"viewpoint","name":"Wairakei Geothermal Power Lookout","lat":-38.620362,"lng":176.07341}
+{"id":"osm:node:3511911595","category":"viewpoint","lat":-43.601202,"lng":172.731332}
+{"id":"osm:node:3511917288","category":"viewpoint","lat":-43.598637,"lng":172.733418}
+{"id":"osm:node:3511919094","category":"viewpoint","lat":-43.599247,"lng":172.732661}
+{"id":"osm:node:3511919112","category":"viewpoint","lat":-43.600449,"lng":172.731703}
+{"id":"osm:node:3526805645","category":"viewpoint","lat":-39.323897,"lng":174.103304}
+{"id":"osm:node:3527782575","category":"viewpoint","lat":-38.13021,"lng":176.24427}
+{"id":"osm:node:3530015000","category":"viewpoint","lat":-37.95179,"lng":176.998008}
+{"id":"osm:node:3530674793","category":"viewpoint","lat":-38.473899,"lng":176.146464}
+{"id":"osm:node:3530674811","category":"viewpoint","lat":-38.47308,"lng":176.147005}
+{"id":"osm:node:3530674812","category":"viewpoint","lat":-38.473854,"lng":176.148394}
+{"id":"osm:node:3530674818","category":"viewpoint","lat":-38.475017,"lng":176.149642}
+{"id":"osm:node:3531617044","category":"viewpoint","lat":-41.127359,"lng":173.784383}
+{"id":"osm:node:3531778130","category":"viewpoint","lat":-37.037475,"lng":175.260602}
+{"id":"osm:node:3541417706","category":"viewpoint","lat":-39.3195,"lng":175.502536}
+{"id":"osm:node:3541417708","category":"viewpoint","lat":-39.319715,"lng":175.502076}
+{"id":"osm:node:355771040","category":"viewpoint","name":"Porter Rock","lat":-40.939894,"lng":172.946686}
+{"id":"osm:node:355930192","category":"viewpoint","name":"Knights Point Lookout","lat":-43.714613,"lng":169.225716,"tags":{"wheelchair":"yes"}}
+{"id":"osm:node:3561686742","category":"viewpoint","lat":-39.172988,"lng":175.514651,"tags":{"description":"LOTR filming location for Gollum Pool"}}
+{"id":"osm:node:3578003348","category":"viewpoint","lat":-43.59708,"lng":172.734332}
+{"id":"osm:node:3587555765","category":"viewpoint","lat":-38.647592,"lng":176.070388}
+{"id":"osm:node:3587559299","category":"viewpoint","name":"Mud Crater","lat":-38.646333,"lng":176.065489}
+{"id":"osm:node:3587559312","category":"viewpoint","name":"Mud Crater","lat":-38.648069,"lng":176.067776}
+{"id":"osm:node:3628660650","category":"viewpoint","lat":-41.233046,"lng":174.898692}
+{"id":"osm:node:364614727","category":"viewpoint","lat":-36.999803,"lng":174.545035,"tags":{"description":"Waterfall viewpoint"}}
+{"id":"osm:node:364883882","category":"viewpoint","name":"Parekura Peak","lat":-36.919558,"lng":174.57374}
+{"id":"osm:node:365601046","category":"viewpoint","name":"Seal Colony","lat":-41.763618,"lng":171.456811}
+{"id":"osm:node:365601048","category":"viewpoint","lat":-41.763733,"lng":171.456779}
+{"id":"osm:node:365601844","category":"viewpoint","name":"Irimahuwhero Viewpoint","lat":-42.075159,"lng":171.355076}
+{"id":"osm:node:365634788","category":"viewpoint","lat":-41.106254,"lng":174.230177}
+{"id":"osm:node:365635262","category":"viewpoint","lat":-41.120597,"lng":174.201417}
+{"id":"osm:node:365706014","category":"viewpoint","name":"Sealy Tarns Viewpoint","lat":-43.712953,"lng":170.074411}
+{"id":"osm:node:3659565908","category":"viewpoint","name":"Kaukau Lookout","lat":-41.234164,"lng":174.779886}
+{"id":"osm:node:366726939","category":"viewpoint","lat":-36.937876,"lng":174.510966}
+{"id":"osm:node:3677020229","category":"viewpoint","lat":-43.609727,"lng":172.701505}
+{"id":"osm:node:3688955051","category":"viewpoint","lat":-41.351146,"lng":173.874634}
+{"id":"osm:node:3702691299","category":"viewpoint","name":"Amelia Place Lookout","lat":-36.794769,"lng":174.682032,"tags":{"description":"Walkway diverges to either lookout over harbour or stairs to the beach (at low tide)"}}
+{"id":"osm:node:370458179","category":"viewpoint","name":"Wooden Seat","lat":-43.555368,"lng":172.57874}
+{"id":"osm:node:3712055409","category":"viewpoint","name":"Wall Island Lookout","lat":-41.764736,"lng":171.456233}
+{"id":"osm:node:3712074206","category":"viewpoint","name":"Kilkenny Lookout","lat":-41.86368,"lng":171.781952}
+{"id":"osm:node:3717009965","category":"viewpoint","name":"Lake Elterwater","lat":-41.794448,"lng":174.14831}
+{"id":"osm:node:3736803434","category":"viewpoint","lat":-38.114726,"lng":176.211177}
+{"id":"osm:node:3750052713","category":"viewpoint","lat":-43.605916,"lng":172.730943}
+{"id":"osm:node:3790891152","category":"viewpoint","lat":-36.159873,"lng":174.647376}
+{"id":"osm:node:3805978709","category":"viewpoint","lat":-38.053413,"lng":175.566943}
+{"id":"osm:node:3816414224","category":"viewpoint","name":"Whangarae Bay viewpoint","lat":-41.102042,"lng":173.641461}
+{"id":"osm:node:3816611994","category":"viewpoint","lat":-42.483839,"lng":173.527962}
+{"id":"osm:node:3826040515","category":"viewpoint","lat":-39.107313,"lng":176.776378}
+{"id":"osm:node:384257654","category":"viewpoint","lat":-43.599259,"lng":172.579051}
+{"id":"osm:node:384257655","category":"viewpoint","lat":-43.601566,"lng":172.580017,"tags":{"description":"wooden_seat"}}
+{"id":"osm:node:384257658","category":"viewpoint","lat":-43.602176,"lng":172.578293}
+{"id":"osm:node:384257659","category":"viewpoint","lat":-43.601936,"lng":172.577057}
+{"id":"osm:node:384257660","category":"viewpoint","lat":-43.600862,"lng":172.576814}
+{"id":"osm:node:385015789","category":"viewpoint","name":"Golden Bay Lookout","lat":-40.785273,"lng":172.726776}
+{"id":"osm:node:385021672","category":"viewpoint","lat":-40.948186,"lng":172.869886}
+{"id":"osm:node:3895622387","category":"viewpoint","lat":-41.284392,"lng":174.768256}
+{"id":"osm:node:390662214","category":"viewpoint","lat":-43.589956,"lng":172.64244}
+{"id":"osm:node:3915649880","category":"viewpoint","name":"Maungakawa Summit","lat":-37.80844,"lng":175.610933}
+{"id":"osm:node:3915762272","category":"viewpoint","name":"Control Gates Hill","lat":-38.672111,"lng":176.07046}
+{"id":"osm:node:3926619245","category":"viewpoint","lat":-35.768353,"lng":174.371091}
+{"id":"osm:node:3945062267","category":"viewpoint","lat":-41.039268,"lng":173.017431}
+{"id":"osm:node:3945232811","category":"viewpoint","name":"Withells Lookout","lat":-41.036658,"lng":173.012217}
+{"id":"osm:node:3949230860","category":"viewpoint","name":"Viewing Platform","lat":-42.440682,"lng":171.191136}
+{"id":"osm:node:3951167961","category":"viewpoint","lat":-42.389528,"lng":171.218379}
+{"id":"osm:node:3951168064","category":"viewpoint","lat":-42.382636,"lng":171.218531}
+{"id":"osm:node:3951168159","category":"viewpoint","lat":-42.392884,"lng":171.216882}
+{"id":"osm:node:3951168170","category":"viewpoint","name":"Point Elizabeth Lookout","lat":-42.379803,"lng":171.218795}
+{"id":"osm:node:3962411262","category":"viewpoint","lat":-41.272174,"lng":173.823681}
+{"id":"osm:node:3967825282","category":"viewpoint","name":"Lovers lookout","lat":-43.812682,"lng":172.957364}
+{"id":"osm:node:3994476613","category":"viewpoint","lat":-36.961006,"lng":174.4751}
+{"id":"osm:node:401434219","category":"viewpoint","name":"Water Tower (Cashmere Hill lookout)","lat":-43.57982,"lng":172.6339}
+{"id":"osm:node:401434234","category":"viewpoint","name":"Sign of the Takahe Lookout","lat":-43.580642,"lng":172.634588}
+{"id":"osm:node:4037783283","category":"viewpoint","lat":-43.594537,"lng":172.749113}
+{"id":"osm:node:4057360241","category":"viewpoint","lat":-43.733768,"lng":170.090972}
+{"id":"osm:node:4080981911","category":"viewpoint","lat":-42.44304,"lng":171.215634}
+{"id":"osm:node:4081615203","category":"viewpoint","name":"Point C","lat":-45.084266,"lng":169.212455}
+{"id":"osm:node:4081631550","category":"viewpoint","lat":-44.755287,"lng":169.380797}
+{"id":"osm:node:4081674410","category":"viewpoint","name":"The Knoll","lat":-43.134181,"lng":171.77319}
+{"id":"osm:node:4096470978","category":"viewpoint","lat":-36.789506,"lng":174.671519}
+{"id":"osm:node:4101659741","category":"viewpoint","lat":-37.468153,"lng":175.986621}
+{"id":"osm:node:4104686990","category":"viewpoint","lat":-39.256024,"lng":175.572418}
+{"id":"osm:node:4120853952","category":"viewpoint","name":"Lake Ngakoro Vista","lat":-38.363376,"lng":176.369187}
+{"id":"osm:node:4120875689","category":"viewpoint","lat":-39.533204,"lng":175.06445}
+{"id":"osm:node:4120875789","category":"viewpoint","lat":-39.829041,"lng":175.138555}
+{"id":"osm:node:412103585","category":"viewpoint","name":"Southern Alps","lat":-43.528524,"lng":172.264631}
+{"id":"osm:node:412754123","category":"viewpoint","name":"Hidden Valley lookout","lat":-43.591873,"lng":172.659884}
+{"id":"osm:node:4131929156","category":"viewpoint","lat":-42.409446,"lng":171.270412}
+{"id":"osm:node:4134762745","category":"viewpoint","lat":-38.129287,"lng":176.187831}
+{"id":"osm:node:4137069923","category":"viewpoint","name":"Lower Gorge Lookout","lat":-43.514814,"lng":171.646627}
+{"id":"osm:node:413898995","category":"viewpoint","lat":-43.590221,"lng":172.643666}
+{"id":"osm:node:4139399730","category":"viewpoint","lat":-36.768951,"lng":175.005639}
+{"id":"osm:node:4147718682","category":"viewpoint","lat":-36.771207,"lng":174.988709}
+{"id":"osm:node:4147758465","category":"viewpoint","lat":-36.783393,"lng":174.982374}
+{"id":"osm:node:4154995498","category":"viewpoint","lat":-45.813103,"lng":170.555717}
+{"id":"osm:node:415538067","category":"viewpoint","lat":-37.022257,"lng":174.547059}
+{"id":"osm:node:417294291","category":"viewpoint","lat":-43.429078,"lng":172.706411}
+{"id":"osm:node:417294294","category":"viewpoint","lat":-43.427848,"lng":172.70522}
+{"id":"osm:node:4177143289","category":"viewpoint","name":"Saint Pauls Rock","lat":-35.050281,"lng":173.749272}
+{"id":"osm:node:4177429989","category":"viewpoint","name":"Monkey Island","lat":-46.299946,"lng":167.725064}
+{"id":"osm:node:4186724956","category":"viewpoint","lat":-39.485816,"lng":176.917432}
+{"id":"osm:node:4186785421","category":"viewpoint","lat":-39.434134,"lng":176.856929}
+{"id":"osm:node:4211945602","category":"viewpoint","lat":-38.660121,"lng":176.08491}
+{"id":"osm:node:4230322091","category":"viewpoint","lat":-43.467828,"lng":170.016985}
+{"id":"osm:node:4230323289","category":"viewpoint","name":"Jetty Viewpoint","lat":-43.440298,"lng":169.965387,"tags":{"wheelchair":"limited"}}
+{"id":"osm:node:4230323492","category":"viewpoint","name":"Minnehaha","lat":-43.467524,"lng":170.017218}
+{"id":"osm:node:423784032","category":"viewpoint","lat":-41.093391,"lng":175.084464}
+{"id":"osm:node:4239098985","category":"viewpoint","lat":-36.758542,"lng":175.489469}
+{"id":"osm:node:4265622100","category":"viewpoint","lat":-37.84241,"lng":174.772401}
+{"id":"osm:node:4265622102","category":"viewpoint","lat":-37.853623,"lng":174.791783}
+{"id":"osm:node:4281458060","category":"viewpoint","name":"Wilkies Lookout","lat":-36.875975,"lng":174.766851}
+{"id":"osm:node:4281458448","category":"viewpoint","lat":-36.87663,"lng":174.766138}
+{"id":"osm:node:4281474389","category":"viewpoint","name":"Mokotahi Outlook","lat":-39.088028,"lng":177.866334}
+{"id":"osm:node:4283656989","category":"viewpoint","name":"Tolaga Bay Wharf","lat":-38.37831,"lng":178.322717}
+{"id":"osm:node:4287062861","category":"viewpoint","lat":-41.819114,"lng":172.808738}
+{"id":"osm:node:4293949989","category":"viewpoint","name":"Dawson Falls Lookout","lat":-39.325538,"lng":174.106805}
+{"id":"osm:node:4295625191","category":"viewpoint","name":"Huia Dam Intake Tunnel","lat":-36.990037,"lng":174.568643}
+{"id":"osm:node:4295663797","category":"viewpoint","lat":-36.848602,"lng":174.792762}
+{"id":"osm:node:4295678492","category":"viewpoint","name":"One Tree Hill Summit","lat":-36.9,"lng":174.783148}
+{"id":"osm:node:4295685100","category":"viewpoint","name":"Tank Farm Viewpoint","lat":-36.836513,"lng":174.758893}
+{"id":"osm:node:4295694795","category":"viewpoint","name":"Mount Eden Summit","lat":-36.878076,"lng":174.764433,"tags":{"wheelchair":"no"}}
+{"id":"osm:node:4295694797","category":"viewpoint","name":"Wynyard Quarter Metal Structure Viewpoint","lat":-36.840066,"lng":174.755665}
+{"id":"osm:node:4295694990","category":"viewpoint","name":"Musick Point Stairs Viewpoint","lat":-36.846387,"lng":174.900492}
+{"id":"osm:node:4295695091","category":"viewpoint","lat":-36.849664,"lng":174.791927}
+{"id":"osm:node:4303566101","category":"viewpoint","name":"Waterfall","lat":-37.950595,"lng":177.018772}
+{"id":"osm:node:4303593189","category":"viewpoint","name":"Haggas Lookout","lat":-38.263152,"lng":175.027913}
+{"id":"osm:node:4303593289","category":"viewpoint","name":"The Endeavour arrives in Cooks Cove","lat":-38.381554,"lng":178.327045}
+{"id":"osm:node:4303593290","category":"viewpoint","name":"Hole-in-the-wall viewpoint","lat":-38.379732,"lng":178.332156}
+{"id":"osm:node:4306543090","category":"viewpoint","lat":-39.153179,"lng":173.955968}
+{"id":"osm:node:4318990991","category":"viewpoint","name":"View of Ahuahu Valley","lat":-39.709709,"lng":175.133793}
+{"id":"osm:node:4325220278","category":"viewpoint","name":"Mt. Bledisloe Lookout","lat":-35.26061,"lng":174.048705,"tags":{"addr:postcode":"0204","addr:city":"Haruru"}}
+{"id":"osm:node:4333663795","category":"viewpoint","lat":-45.392846,"lng":167.767008}
+{"id":"osm:node:433451552","category":"viewpoint","lat":-37.424132,"lng":175.722595}
+{"id":"osm:node:4341830889","category":"viewpoint","name":"Scenic Reserve","lat":-35.28539,"lng":174.097614}
+{"id":"osm:node:4354973292","category":"viewpoint","lat":-36.864751,"lng":175.43599}
+{"id":"osm:node:4358213510","category":"viewpoint","name":"Couldrey House Lookout","lat":-36.53519,"lng":174.709939}
+{"id":"osm:node:4358213525","category":"viewpoint","lat":-36.537443,"lng":174.71133}
+{"id":"osm:node:4360897776","category":"viewpoint","lat":-37.787861,"lng":175.28748}
+{"id":"osm:node:4365365290","category":"viewpoint","lat":-45.023895,"lng":168.678726}
+{"id":"osm:node:4368824906","category":"viewpoint","lat":-36.573474,"lng":174.692495}
+{"id":"osm:node:4394245289","category":"viewpoint","lat":-44.689402,"lng":169.049903}
+{"id":"osm:node:4397097454","category":"viewpoint","name":"Edge View","lat":-43.820446,"lng":173.005383}
+{"id":"osm:node:4406506204","category":"viewpoint","lat":-37.788291,"lng":175.285374}
+{"id":"osm:node:4409012448","category":"viewpoint","name":"Islands Lookout","lat":-44.554017,"lng":170.197851}
+{"id":"osm:node:4414366389","category":"viewpoint","lat":-41.021538,"lng":175.402744}
+{"id":"osm:node:4415973015","category":"viewpoint","name":"Shakespeare Cliff Lookout","lat":-36.827027,"lng":175.730889}
+{"id":"osm:node:4415973021","category":"viewpoint","lat":-36.827342,"lng":175.730873}
+{"id":"osm:node:4420812235","category":"viewpoint","lat":-41.808844,"lng":172.094635}
+{"id":"osm:node:4429219311","category":"viewpoint","name":"Christmas Lookout","lat":-43.417661,"lng":170.154544}
+{"id":"osm:node:4430262236","category":"viewpoint","lat":-37.822295,"lng":174.824295}
+{"id":"osm:node:4432355756","category":"viewpoint","lat":-39.464183,"lng":175.576417}
+{"id":"osm:node:4432355762","category":"viewpoint","lat":-39.464311,"lng":175.576348}
+{"id":"osm:node:4432381551","category":"viewpoint","name":"Te Pōrere Lower Redoubt Viewing Tower","lat":-39.046323,"lng":175.590869}
+{"id":"osm:node:4432381553","category":"viewpoint","name":"Te Pōrere Upper Redoubt Viewing Tower","lat":-39.046571,"lng":175.586174}
+{"id":"osm:node:4432438291","category":"viewpoint","lat":-37.953711,"lng":177.024599}
+{"id":"osm:node:443522386","category":"viewpoint","lat":-36.898643,"lng":174.528395}
+{"id":"osm:node:443541503","category":"viewpoint","lat":-36.993378,"lng":174.5773}
+{"id":"osm:node:4435952448","category":"viewpoint","lat":-39.172658,"lng":175.514691}
+{"id":"osm:node:4438427190","category":"viewpoint","name":"South Saddle","lat":-41.344682,"lng":175.000871}
+{"id":"osm:node:4439099948","category":"viewpoint","lat":-44.134487,"lng":170.211831,"tags":{"description":"This used to be a campsite however there is a no camping sign."}}
+{"id":"osm:node:4441613192","category":"viewpoint","name":"Red Tarns","lat":-43.747899,"lng":170.098503}
+{"id":"osm:node:4459779490","category":"viewpoint","name":"Yeti's Lookout","lat":-40.484921,"lng":175.633064}
+{"id":"osm:node:4460870616","category":"viewpoint","lat":-38.420066,"lng":175.807405}
+{"id":"osm:node:4460937433","category":"viewpoint","lat":-38.408605,"lng":176.090055}
+{"id":"osm:node:4473785296","category":"viewpoint","lat":-42.408448,"lng":173.442963}
+{"id":"osm:node:4476180090","category":"viewpoint","name":"Kohua Poharu Mud Pools","lat":-38.475097,"lng":176.151141}
+{"id":"osm:node:447755989","category":"viewpoint","name":"Wind Turbine","lat":-41.310899,"lng":174.745278}
+{"id":"osm:node:448043253","category":"viewpoint","lat":-41.280601,"lng":174.90822,"tags":{"wheelchair":"no"}}
+{"id":"osm:node:448091825","category":"viewpoint","name":"Contemplation Point","lat":-43.463137,"lng":172.610596}
+{"id":"osm:node:4487897590","category":"viewpoint","name":"Stratford Plateau Lookout","lat":-39.30745,"lng":174.10117,"tags":{"wheelchair":"yes"}}
+{"id":"osm:node:4497795626","category":"viewpoint","name":"Larry’s Lookout","lat":-38.913027,"lng":175.749387}
+{"id":"osm:node:4499153744","category":"viewpoint","lat":-39.550442,"lng":176.831238}
+{"id":"osm:node:4503632990","category":"viewpoint","name":"South Hill sea view seat","lat":-45.112071,"lng":170.98168}
+{"id":"osm:node:4519630783","category":"viewpoint","lat":-36.857976,"lng":174.752237}
+{"id":"osm:node:4519822089","category":"viewpoint","lat":-45.812509,"lng":170.620121}
+{"id":"osm:node:4522452290","category":"viewpoint","lat":-45.47831,"lng":169.319774}
+{"id":"osm:node:4529488726","category":"viewpoint","lat":-39.306017,"lng":176.884038}
+{"id":"osm:node:4540607890","category":"viewpoint","lat":-35.304864,"lng":174.107301}
+{"id":"osm:node:4542676148","category":"viewpoint","lat":-44.992948,"lng":168.90928}
+{"id":"osm:node:4547488911","category":"viewpoint","lat":-43.386693,"lng":170.201344}
+{"id":"osm:node:4548894190","category":"viewpoint","name":"Motuoapa Cliff Lookout","lat":-38.934832,"lng":175.873564}
+{"id":"osm:node:4549917797","category":"viewpoint","name":"Two lakes lookout","lat":-38.201023,"lng":176.340292}
+{"id":"osm:node:4550109191","category":"viewpoint","lat":-38.258169,"lng":175.104736}
+{"id":"osm:node:4550527812","category":"viewpoint","name":"waterfall","lat":-42.911375,"lng":171.565283}
+{"id":"osm:node:4551520173","category":"viewpoint","name":"Mokoroa Falls Lookout","lat":-36.836378,"lng":174.471748}
+{"id":"osm:node:4551629389","category":"viewpoint","name":"Oparara Arch Lookout","lat":-41.146332,"lng":172.187117}
+{"id":"osm:node:4556451893","category":"viewpoint","name":"Scotts Hill Lookout","lat":-41.09963,"lng":172.103158}
+{"id":"osm:node:4562840792","category":"viewpoint","lat":-46.585793,"lng":168.8019}
+{"id":"osm:node:4564424793","category":"viewpoint","name":"Jack's Blowhole","lat":-46.505913,"lng":169.699142}
+{"id":"osm:node:4565987397","category":"viewpoint","name":"Whale Fossil Lookout","lat":-46.053468,"lng":170.000865}
+{"id":"osm:node:4571042911","category":"viewpoint","lat":-46.659791,"lng":168.846533}
+{"id":"osm:node:4571043957","category":"viewpoint","lat":-46.660534,"lng":168.847568}
+{"id":"osm:node:4571333815","category":"viewpoint","lat":-46.663274,"lng":169.105986}
+{"id":"osm:node:4574268767","category":"viewpoint","name":"Blue Penguins Pukekura viewing platform","lat":-45.777027,"lng":170.72838}
+{"id":"osm:node:4574268776","category":"viewpoint","lat":-45.775805,"lng":170.731096}
+{"id":"osm:node:4574268796","category":"viewpoint","lat":-45.776719,"lng":170.729264}
+{"id":"osm:node:4580611650","category":"viewpoint","lat":-43.718012,"lng":170.096909}
+{"id":"osm:node:4581820024","category":"viewpoint","lat":-36.759656,"lng":174.769863}
+{"id":"osm:node:4582192494","category":"viewpoint","name":"Mount Alfred","lat":-44.762182,"lng":168.364373}
+{"id":"osm:node:4583484889","category":"viewpoint","lat":-44.058795,"lng":170.888342}
+{"id":"osm:node:4584290193","category":"viewpoint","lat":-43.708955,"lng":170.100393}
+{"id":"osm:node:4584831554","category":"viewpoint","name":"Archey's Lookout","lat":-40.629953,"lng":175.445218}
+{"id":"osm:node:4584831652","category":"viewpoint","name":"Horowhenua Lookout","lat":-40.631087,"lng":175.451111}
+{"id":"osm:node:4584832297","category":"viewpoint","name":"Alps to Ocean Bike Trail Finish Line Picture Frame","lat":-45.105026,"lng":170.972565,"tags":{"operator":"Alps to Ocean"}}
+{"id":"osm:node:4588501090","category":"viewpoint","lat":-45.259488,"lng":169.390187}
+{"id":"osm:node:4591988089","category":"viewpoint","name":"Boundary Road","lat":-42.148662,"lng":172.214078}
+{"id":"osm:node:4592287684","category":"viewpoint","name":"Ruby Bay Lookout","lat":-41.22372,"lng":173.083154}
+{"id":"osm:node:4593635903","category":"viewpoint","lat":-37.001091,"lng":175.866697}
+{"id":"osm:node:4595156589","category":"viewpoint","name":"Halfway Bay lookout","lat":-45.197523,"lng":168.742065}
+{"id":"osm:node:4595968475","category":"viewpoint","lat":-35.214854,"lng":173.942413}
+{"id":"osm:node:4595968484","category":"viewpoint","lat":-35.214608,"lng":173.94283}
+{"id":"osm:node:4597132531","category":"viewpoint","lat":-40.184028,"lng":175.869071}
+{"id":"osm:node:4599026491","category":"viewpoint","name":"Kororipo Pā","lat":-35.218607,"lng":173.965279}
+{"id":"osm:node:4599077689","category":"viewpoint","name":"Queenstown Hill Viewpoint","lat":-45.019066,"lng":168.676815}
+{"id":"osm:node:4599083191","category":"viewpoint","lat":-43.19769,"lng":171.744173}
+{"id":"osm:node:4599086491","category":"viewpoint","name":"Queenstown Hill Viewpoint","lat":-45.023272,"lng":168.675192}
+{"id":"osm:node:4609004291","category":"viewpoint","name":"waterfall","lat":-37.304343,"lng":174.920474}
+{"id":"osm:node:4619819589","category":"viewpoint","lat":-42.380123,"lng":172.401666}
+{"id":"osm:node:4619993691","category":"viewpoint","lat":-35.230714,"lng":174.166071}
+{"id":"osm:node:4623706114","category":"viewpoint","lat":-35.223571,"lng":174.233788}
+{"id":"osm:node:4631941393","category":"viewpoint","name":"Nevins Lookout","lat":-38.920164,"lng":174.97491}
+{"id":"osm:node:4634022367","category":"viewpoint","lat":-45.813332,"lng":170.620396}
+{"id":"osm:node:4648366177","category":"viewpoint","lat":-40.992111,"lng":173.011514}
+{"id":"osm:node:4651303376","category":"viewpoint","name":"Eatwells Lookout","lat":-41.160404,"lng":174.161291}
+{"id":"osm:node:4651313644","category":"viewpoint","name":"Nikau View","lat":-41.198895,"lng":174.056574}
+{"id":"osm:node:4679491589","category":"viewpoint","name":"Overview of Hokitika","lat":-42.707537,"lng":170.976006}
+{"id":"osm:node:4681078789","category":"viewpoint","name":"Tuhourangi","lat":-38.208502,"lng":176.366009}
+{"id":"osm:node:4687889032","category":"viewpoint","name":"Tareha Point Scenic Lookout","lat":-35.192769,"lng":174.04908}
+{"id":"osm:node:4688135789","category":"viewpoint","name":"Ship Creek Beach Lookout","lat":-43.760142,"lng":169.144875}
+{"id":"osm:node:4692936433","category":"viewpoint","lat":-41.805369,"lng":172.311665}
+{"id":"osm:node:4698387838","category":"viewpoint","lat":-36.947159,"lng":174.605992}
+{"id":"osm:node:4698387839","category":"viewpoint","lat":-36.94724,"lng":174.60638}
+{"id":"osm:node:4706076393","category":"viewpoint","name":"Waitaki Dam Lookout","lat":-44.690327,"lng":170.424744,"tags":{"wheelchair":"yes"}}
+{"id":"osm:node:4710905689","category":"viewpoint","name":"Lookout","lat":-46.486372,"lng":169.543878}
+{"id":"osm:node:4714036395","category":"viewpoint","name":"Lookout  and picnic tables","lat":-37.359465,"lng":175.417925}
+{"id":"osm:node:472591853","category":"viewpoint","lat":-36.950883,"lng":174.478739}
+{"id":"osm:node:472591859","category":"viewpoint","name":"Kitenui Knob","lat":-36.950735,"lng":174.480324,"tags":{"wikidata":"Q124077104"}}
+{"id":"osm:node:4735450622","category":"viewpoint","name":"Lake Sylvan lookout","lat":-44.709794,"lng":168.322521}
+{"id":"osm:node:4742363487","category":"viewpoint","name":"Manuka Lane","lat":-41.184208,"lng":174.123066}
+{"id":"osm:node:4743831147","category":"viewpoint","lat":-42.458056,"lng":173.554951}
+{"id":"osm:node:4744765421","category":"viewpoint","lat":-44.121292,"lng":170.232165}
+{"id":"osm:node:4753726424","category":"viewpoint","name":"Lake Aviemore lookout","lat":-44.635507,"lng":170.287498}
+{"id":"osm:node:4757206060","category":"viewpoint","lat":-43.429118,"lng":172.71261}
+{"id":"osm:node:477063706","category":"viewpoint","lat":-36.969171,"lng":174.467654}
+{"id":"osm:node:477063709","category":"viewpoint","lat":-36.969227,"lng":174.467093}
+{"id":"osm:node:4776279322","category":"viewpoint","name":"Davis Flat","lat":-44.134036,"lng":169.335576}
+{"id":"osm:node:4776280321","category":"viewpoint","lat":-43.761454,"lng":169.145254}
+{"id":"osm:node:4785189683","category":"viewpoint","lat":-41.158241,"lng":174.823063}
+{"id":"osm:node:4785548621","category":"viewpoint","lat":-45.44259,"lng":167.684643}
+{"id":"osm:node:479860164","category":"viewpoint","name":"Planetable","lat":-43.57256,"lng":172.660362}
+{"id":"osm:node:4803620121","category":"viewpoint","name":"Windy Point","lat":-45.025427,"lng":168.769917}
+{"id":"osm:node:4809016522","category":"viewpoint","lat":-41.266059,"lng":174.040058}
+{"id":"osm:node:4810710306","category":"viewpoint","lat":-36.863937,"lng":174.656337}
+{"id":"osm:node:4815408260","category":"viewpoint","name":"Ngahere Park Lookout","lat":-40.428844,"lng":175.650365}
+{"id":"osm:node:4839280866","category":"viewpoint","lat":-45.026684,"lng":168.649545}
+{"id":"osm:node:4842853022","category":"viewpoint","lat":-37.80482,"lng":175.304232}
+{"id":"osm:node:4865633721","category":"viewpoint","name":"Pouākai Mirror Reflection","lat":-39.233796,"lng":174.047224}
+{"id":"osm:node:4884576568","category":"viewpoint","name":"Oakley Creek Waterfall","lat":-36.88218,"lng":174.703141}
+{"id":"osm:node:4893607183","category":"viewpoint","name":"Look out","lat":-43.750547,"lng":173.01479}
+{"id":"osm:node:4893660740","category":"viewpoint","lat":-44.871802,"lng":169.813881}
+{"id":"osm:node:489369081","category":"viewpoint","name":"seat","lat":-43.595908,"lng":172.660353}
+{"id":"osm:node:489369121","category":"viewpoint","name":"seat","lat":-43.590671,"lng":172.662076}
+{"id":"osm:node:4893696595","category":"viewpoint","name":"Picnic Point","lat":-46.567354,"lng":169.478337}
+{"id":"osm:node:4894706523","category":"viewpoint","name":"Scenic lookout","lat":-36.351654,"lng":174.471468}
+{"id":"osm:node:4901419434","category":"viewpoint","lat":-45.465,"lng":167.690448}
+{"id":"osm:node:4901419435","category":"viewpoint","lat":-45.497099,"lng":167.675191}
+{"id":"osm:node:4925641722","category":"viewpoint","name":"Lookout","lat":-45.683495,"lng":167.638081}
+{"id":"osm:node:4925641922","category":"viewpoint","name":"Pilot reserve","lat":-46.360543,"lng":168.021352}
+{"id":"osm:node:4925641923","category":"viewpoint","lat":-46.383986,"lng":168.030395}
+{"id":"osm:node:4925641924","category":"viewpoint","name":"Lookout 1","lat":-45.666187,"lng":167.65219}
+{"id":"osm:node:4925641925","category":"viewpoint","name":"Lookout 2","lat":-45.67875,"lng":167.643362}
+{"id":"osm:node:4925641927","category":"viewpoint","name":"Te Anau Lion Lookout Point","lat":-45.448478,"lng":167.752496}
+{"id":"osm:node:4929704923","category":"viewpoint","lat":-45.328275,"lng":168.205587}
+{"id":"osm:node:4929707324","category":"viewpoint","lat":-37.815752,"lng":174.832939}
+{"id":"osm:node:4929707325","category":"viewpoint","lat":-37.817051,"lng":174.831473}
+{"id":"osm:node:4952052122","category":"viewpoint","name":"Lookout","lat":-36.494313,"lng":175.421016}
+{"id":"osm:node:495960692","category":"viewpoint","name":"Observation Rock","lat":-46.902589,"lng":168.124505}
+{"id":"osm:node:495968601","category":"viewpoint","name":"Horseshoe Point","lat":-46.878011,"lng":168.14889}
+{"id":"osm:node:496806425","category":"viewpoint","lat":-44.693268,"lng":169.165147}
+{"id":"osm:node:497543123","category":"viewpoint","name":"Centre of New Zealand","lat":-41.27287,"lng":173.299444}
+{"id":"osm:node:4982142921","category":"viewpoint","name":"Lookout","lat":-43.251233,"lng":172.050202}
+{"id":"osm:node:4982143321","category":"viewpoint","name":"Valley lookout","lat":-43.268555,"lng":171.94003}
+{"id":"osm:node:498743478","category":"viewpoint","name":"Kaikoura Lookout","lat":-42.418333,"lng":173.691804}
+{"id":"osm:node:4987562224","category":"viewpoint","lat":-44.837257,"lng":168.390365}
+{"id":"osm:node:4987562225","category":"viewpoint","lat":-44.842408,"lng":168.392935}
+{"id":"osm:node:4987590221","category":"viewpoint","lat":-44.83846,"lng":168.388103}
+{"id":"osm:node:4993412221","category":"viewpoint","name":"Cathedral Grove","lat":-35.617663,"lng":173.530205}
+{"id":"osm:node:4993894897","category":"viewpoint","name":"Paihia Lookout","lat":-35.288062,"lng":174.079705}
+{"id":"osm:node:4994968137","category":"viewpoint","lat":-36.099711,"lng":174.585211}
+{"id":"osm:node:4997349358","category":"viewpoint","lat":-35.694777,"lng":174.34192}
+{"id":"osm:node:5005168842","category":"viewpoint","lat":-35.214213,"lng":173.942324}
+{"id":"osm:node:5005168854","category":"viewpoint","lat":-35.213856,"lng":173.941797}
+{"id":"osm:node:500852583","category":"viewpoint","name":"Lookout","lat":-40.683987,"lng":172.681735}
+{"id":"osm:node:5015598774","category":"viewpoint","lat":-43.809676,"lng":173.018673}
+{"id":"osm:node:5019130021","category":"viewpoint","lat":-44.655926,"lng":168.990505}
+{"id":"osm:node:502927764","category":"viewpoint","name":"seat","lat":-43.571721,"lng":172.659889}
+{"id":"osm:node:5029742050","category":"viewpoint","name":"Viewing Platform","lat":-43.486882,"lng":172.688323}
+{"id":"osm:node:5041770969","category":"viewpoint","name":"Penguin Lookout","lat":-45.395452,"lng":170.86813}
+{"id":"osm:node:5041770970","category":"viewpoint","name":"Penguin Lookout","lat":-45.393844,"lng":170.867715}
+{"id":"osm:node:5041770971","category":"viewpoint","name":"Penguin Lookout","lat":-45.392352,"lng":170.866215}
+{"id":"osm:node:5044357892","category":"viewpoint","name":"New Brighton Pier","lat":-43.505949,"lng":172.734951}
+{"id":"osm:node:509903412","category":"viewpoint","lat":-41.238911,"lng":174.789181}
+{"id":"osm:node:5105988442","category":"viewpoint","lat":-36.94719,"lng":174.606669}
+{"id":"osm:node:5108702334","category":"viewpoint","name":"Repeater Station South","lat":-45.887742,"lng":169.390071}
+{"id":"osm:node:5125758121","category":"viewpoint","name":"Dukes Nose / Kairara Rock","lat":-35.013068,"lng":173.734598}
+{"id":"osm:node:5138917463","category":"viewpoint","lat":-36.212449,"lng":175.327254}
+{"id":"osm:node:5138918692","category":"viewpoint","lat":-36.205533,"lng":175.325019}
+{"id":"osm:node:5139184554","category":"viewpoint","lat":-36.772122,"lng":174.634395}
+{"id":"osm:node:5141914453","category":"viewpoint","lat":-37.036991,"lng":175.276364}
+{"id":"osm:node:5153057523","category":"viewpoint","lat":-41.181554,"lng":175.43365}
+{"id":"osm:node:518285389","category":"viewpoint","lat":-41.248248,"lng":174.914855}
+{"id":"osm:node:518287298","category":"viewpoint","lat":-41.246333,"lng":174.920262}
+{"id":"osm:node:519551114","category":"viewpoint","lat":-43.621314,"lng":172.819845}
+{"id":"osm:node:5195760371","category":"viewpoint","lat":-36.817453,"lng":175.066462}
+{"id":"osm:node:5197238922","category":"viewpoint","lat":-45.170735,"lng":168.750137}
+{"id":"osm:node:5211675667","category":"viewpoint","lat":-36.74327,"lng":174.695374}
+{"id":"osm:node:5211757545","category":"viewpoint","name":"Tumbledown Point","lat":-36.824534,"lng":174.647446}
+{"id":"osm:node:5215706022","category":"viewpoint","lat":-39.386472,"lng":175.708549}
+{"id":"osm:node:5219058021","category":"viewpoint","name":"Top of the Dome Viewpoint","lat":-36.360009,"lng":174.61781}
+{"id":"osm:node:522282504","category":"viewpoint","lat":-37.551491,"lng":175.749036}
+{"id":"osm:node:5223890222","category":"viewpoint","lat":-42.87936,"lng":171.55703}
+{"id":"osm:node:5225682024","category":"viewpoint","lat":-40.732141,"lng":172.686873}
+{"id":"osm:node:5235777621","category":"viewpoint","name":"Reserve park","lat":-41.034797,"lng":173.021822}
+{"id":"osm:node:5235778121","category":"viewpoint","lat":-41.891804,"lng":171.44786}
+{"id":"osm:node:5240855555","category":"viewpoint","lat":-36.803428,"lng":175.562694}
+{"id":"osm:node:5243382671","category":"viewpoint","lat":-41.750753,"lng":173.676617}
+{"id":"osm:node:5251702096","category":"viewpoint","lat":-35.536611,"lng":173.370137}
+{"id":"osm:node:5262836428","category":"viewpoint","lat":-42.6309,"lng":171.498088}
+{"id":"osm:node:5262836432","category":"viewpoint","lat":-42.6238,"lng":171.500628}
+{"id":"osm:node:5265025324","category":"viewpoint","lat":-42.87029,"lng":171.154172}
+{"id":"osm:node:5273183405","category":"viewpoint","lat":-40.637186,"lng":175.352701}
+{"id":"osm:node:5297962525","category":"viewpoint","name":"Rocky Lookout","lat":-40.902865,"lng":175.453758}
+{"id":"osm:node:5297962526","category":"viewpoint","lat":-40.887082,"lng":175.424927}
+{"id":"osm:node:5302477233","category":"viewpoint","name":"Dorothy creek","lat":-42.84442,"lng":171.164019}
+{"id":"osm:node:5305618590","category":"viewpoint","lat":-40.857136,"lng":172.731062}
+{"id":"osm:node:5307617522","category":"viewpoint","lat":-36.944876,"lng":175.135153}
+{"id":"osm:node:5307617523","category":"viewpoint","lat":-36.940778,"lng":175.1337}
+{"id":"osm:node:5307617524","category":"viewpoint","lat":-36.934832,"lng":175.138535}
+{"id":"osm:node:5307617525","category":"viewpoint","lat":-36.935587,"lng":175.140916}
+{"id":"osm:node:5307617526","category":"viewpoint","lat":-36.932988,"lng":175.140423}
+{"id":"osm:node:5314106421","category":"viewpoint","name":"Grove Arm Jetty","lat":-41.274909,"lng":173.919469}
+{"id":"osm:node:5319271058","category":"viewpoint","name":"Otaki River Estuary Viewing Platform","lat":-40.755195,"lng":175.106943}
+{"id":"osm:node:5321913136","category":"viewpoint","lat":-36.966005,"lng":175.824104}
+{"id":"osm:node:5326359851","category":"viewpoint","name":"Magnificent Lookout","lat":-43.668324,"lng":172.722971}
+{"id":"osm:node:5328372979","category":"viewpoint","lat":-36.672146,"lng":174.746025}
+{"id":"osm:node:5329122955","category":"viewpoint","name":"Te kokota (White Silica Sands)","lat":-34.538507,"lng":172.975611}
+{"id":"osm:node:5333426454","category":"viewpoint","name":"Owharoa Falls","lat":-37.419539,"lng":175.764177}
+{"id":"osm:node:5334306184","category":"viewpoint","name":"Flagstaff Point","lat":-46.925627,"lng":168.131615}
+{"id":"osm:node:5334913854","category":"viewpoint","lat":-38.01387,"lng":176.344334}
+{"id":"osm:node:5336220807","category":"viewpoint","name":"Ackers Point","lat":-46.895604,"lng":168.163625}
+{"id":"osm:node:5336220840","category":"viewpoint","name":"Fisherman Point","lat":-46.894485,"lng":168.156406}
+{"id":"osm:node:5338025824","category":"viewpoint","lat":-45.965049,"lng":170.292451}
+{"id":"osm:node:5344052251","category":"viewpoint","name":"Kauri Grove","lat":-35.198829,"lng":173.799713}
+{"id":"osm:node:5352202521","category":"viewpoint","lat":-37.03519,"lng":175.873861}
+{"id":"osm:node:5353166021","category":"viewpoint","lat":-42.341433,"lng":172.936738}
+{"id":"osm:node:5360981609","category":"viewpoint","lat":-38.341648,"lng":176.369765}
+{"id":"osm:node:5362782065","category":"viewpoint","lat":-35.23061,"lng":173.959982}
+{"id":"osm:node:5363717206","category":"viewpoint","lat":-39.021964,"lng":175.716996}
+{"id":"osm:node:5365021226","category":"viewpoint","name":"Holdsworth Lookout","lat":-40.91238,"lng":175.475202}
+{"id":"osm:node:5367494608","category":"viewpoint","name":"Rangihoua Pā","lat":-35.170117,"lng":174.0914}
+{"id":"osm:node:5369787122","category":"viewpoint","lat":-45.025814,"lng":168.781571}
+{"id":"osm:node:5370468272","category":"viewpoint","lat":-39.170068,"lng":175.502773}
+{"id":"osm:node:5372545458","category":"viewpoint","name":"Makatote Viaduct Viewpoint","lat":-39.266512,"lng":175.391131}
+{"id":"osm:node:5373470321","category":"viewpoint","lat":-39.295979,"lng":174.063811}
+{"id":"osm:node:5378083486","category":"viewpoint","lat":-39.936633,"lng":175.061009}
+{"id":"osm:node:5379697139","category":"viewpoint","lat":-45.910049,"lng":170.535051}
+{"id":"osm:node:5393397661","category":"viewpoint","lat":-39.721213,"lng":176.769129}
+{"id":"osm:node:5393397663","category":"viewpoint","lat":-39.720639,"lng":176.768413}
+{"id":"osm:node:5400475622","category":"viewpoint","name":"Lion's Lookout","lat":-39.45873,"lng":173.847413}
+{"id":"osm:node:540086077","category":"viewpoint","lat":-43.573444,"lng":172.664477}
+{"id":"osm:node:5404465121","category":"viewpoint","lat":-43.515537,"lng":171.656856}
+{"id":"osm:node:5420942222","category":"viewpoint","name":"Tokatea Lookout (John H. Lucas Lookout)","lat":-36.719709,"lng":175.513779,"tags":{"opening_hours":"24/7"}}
+{"id":"osm:node:5426085625","category":"viewpoint","lat":-38.663882,"lng":178.104772}
+{"id":"osm:node:5434121428","category":"viewpoint","name":"Leisure Island","lat":-37.629492,"lng":176.185771}
+{"id":"osm:node:5441324735","category":"viewpoint","name":"Mount guy","lat":-43.59233,"lng":171.082927}
+{"id":"osm:node:5447559928","category":"viewpoint","lat":-42.428736,"lng":173.692961}
+{"id":"osm:node:5459239525","category":"viewpoint","lat":-41.760833,"lng":171.461424}
+{"id":"osm:node:5471893621","category":"viewpoint","name":"German Hill","lat":-44.924233,"lng":168.826473,"tags":{"wikidata":"Q31659682"}}
+{"id":"osm:node:5477073921","category":"viewpoint","name":"Oreti Beach","lat":-46.438778,"lng":168.230527}
+{"id":"osm:node:5487420266","category":"viewpoint","lat":-39.48877,"lng":176.921124}
+{"id":"osm:node:5487503121","category":"viewpoint","name":"Upper Lookout","lat":-43.501271,"lng":171.636006}
+{"id":"osm:node:5489987824","category":"viewpoint","lat":-43.74066,"lng":172.905076}
+{"id":"osm:node:5492198895","category":"viewpoint","lat":-36.826033,"lng":174.799664}
+{"id":"osm:node:5492323216","category":"viewpoint","lat":-44.175825,"lng":170.16299}
+{"id":"osm:node:5492533224","category":"viewpoint","lat":-43.712585,"lng":170.074432}
+{"id":"osm:node:5503789151","category":"viewpoint","lat":-40.967812,"lng":174.964829}
+{"id":"osm:node:5504084022","category":"viewpoint","name":"Skyline Beech Lookout","lat":-43.806581,"lng":173.012717}
+{"id":"osm:node:5506807233","category":"viewpoint","name":"Pipson Creek Viewpoint","lat":-44.229632,"lng":169.242522}
+{"id":"osm:node:5512848079","category":"viewpoint","lat":-37.923096,"lng":175.540787}
+{"id":"osm:node:5515383900","category":"viewpoint","lat":-36.58542,"lng":174.48805}
+{"id":"osm:node:5524108113","category":"viewpoint","lat":-36.877681,"lng":175.434086}
+{"id":"osm:node:5526655362","category":"viewpoint","name":"Picnic Rock Lookout","lat":-43.181617,"lng":171.678562}
+{"id":"osm:node:5541484721","category":"viewpoint","name":"Ninety Mile Beach (Access by car)","lat":-34.898808,"lng":173.084257}
+{"id":"osm:node:5543809934","category":"viewpoint","lat":-41.143882,"lng":174.815923}
+{"id":"osm:node:5548117122","category":"viewpoint","name":"Pillars of the Kings","lat":-45.011608,"lng":168.89264}
+{"id":"osm:node:554832818","category":"viewpoint","name":"South Head","lat":-35.534149,"lng":173.367812,"tags":{"wheelchair":"limited","wikidata":"Q98380116"}}
+{"id":"osm:node:5553735121","category":"viewpoint","name":"Port hills","lat":-43.58693,"lng":172.730423}
+{"id":"osm:node:5554011222","category":"viewpoint","name":"Lake Wanaka","lat":-44.697336,"lng":169.129914,"tags":{"wheelchair":"yes"}}
+{"id":"osm:node:5555147574","category":"viewpoint","lat":-36.800353,"lng":174.751127}
+{"id":"osm:node:5565421422","category":"viewpoint","lat":-41.439399,"lng":174.030593}
+{"id":"osm:node:5572315621","category":"viewpoint","lat":-41.911344,"lng":173.623181}
+{"id":"osm:node:5579501269","category":"viewpoint","lat":-43.704807,"lng":172.83931}
+{"id":"osm:node:5579501342","category":"viewpoint","lat":-43.703243,"lng":172.840076}
+{"id":"osm:node:5586972906","category":"viewpoint","name":"Tahora Saddle","lat":-39.063564,"lng":174.796402}
+{"id":"osm:node:5587432646","category":"viewpoint","lat":-43.469235,"lng":172.468907}
+{"id":"osm:node:5587483731","category":"viewpoint","lat":-43.467358,"lng":172.461121}
+{"id":"osm:node:5589402131","category":"viewpoint","lat":-43.467147,"lng":172.456141}
+{"id":"osm:node:559299538","category":"viewpoint","lat":-37.00157,"lng":174.550616}
+{"id":"osm:node:560344625","category":"viewpoint","lat":-37.101412,"lng":175.144695}
+{"id":"osm:node:560598127","category":"viewpoint","name":"Wairoa Dam Lookout","lat":-37.102001,"lng":175.125138}
+{"id":"osm:node:5606375666","category":"viewpoint","lat":-43.468441,"lng":172.461804}
+{"id":"osm:node:5608343426","category":"viewpoint","lat":-41.127571,"lng":174.860936}
+{"id":"osm:node:5608543546","category":"viewpoint","lat":-43.467754,"lng":172.459027}
+{"id":"osm:node:5608543547","category":"viewpoint","lat":-43.467731,"lng":172.458914}
+{"id":"osm:node:5610374539","category":"viewpoint","lat":-43.467371,"lng":172.462297}
+{"id":"osm:node:5614527122","category":"viewpoint","name":"Sunset Saddle","lat":-41.906018,"lng":172.739102}
+{"id":"osm:node:5619687524","category":"viewpoint","name":"Lindemann Lookout","lat":-37.544606,"lng":175.87455}
+{"id":"osm:node:563622370","category":"viewpoint","name":"Lookout","lat":-40.730166,"lng":175.638736}
+{"id":"osm:node:5636533335","category":"viewpoint","name":"Harbor & Boardwalk Viewpoint","lat":-41.744404,"lng":171.596214}
+{"id":"osm:node:5636535421","category":"viewpoint","lat":-41.744835,"lng":171.595249}
+{"id":"osm:node:5636535521","category":"viewpoint","lat":-41.744054,"lng":171.594022}
+{"id":"osm:node:5636535718","category":"viewpoint","name":"Viewing Platform","lat":-39.27043,"lng":174.095373}
+{"id":"osm:node:5636536023","category":"viewpoint","name":"Blue Lake","lat":-39.127267,"lng":175.659931}
+{"id":"osm:node:5636536246","category":"viewpoint","lat":-37.314675,"lng":175.882747}
+{"id":"osm:node:5636537447","category":"viewpoint","lat":-35.820956,"lng":174.51072}
+{"id":"osm:node:5636538653","category":"viewpoint","lat":-35.908382,"lng":174.460896}
+{"id":"osm:node:564571124","category":"viewpoint","lat":-41.259253,"lng":174.862867}
+{"id":"osm:node:564571131","category":"viewpoint","lat":-41.260399,"lng":174.864866}
+{"id":"osm:node:564653175","category":"viewpoint","lat":-42.955983,"lng":171.017922}
+{"id":"osm:node:5648747921","category":"viewpoint","name":"Mt John Observatory Southern Viewpoint","lat":-43.98797,"lng":170.462704}
+{"id":"osm:node:5649538025","category":"viewpoint","lat":-43.740348,"lng":172.892289}
+{"id":"osm:node:566155333","category":"viewpoint","lat":-43.132693,"lng":172.536813}
+{"id":"osm:node:5664763223","category":"viewpoint","name":"Halfway Remarkables","lat":-45.025714,"lng":168.777504}
+{"id":"osm:node:5668565539","category":"viewpoint","lat":-42.814955,"lng":171.167441}
+{"id":"osm:node:567278623","category":"viewpoint","lat":-37.026025,"lng":174.534986}
+{"id":"osm:node:567491792","category":"viewpoint","lat":-38.990389,"lng":175.764495}
+{"id":"osm:node:567543843","category":"viewpoint","name":"Geyser viewpoint","lat":-38.163245,"lng":176.25511}
+{"id":"osm:node:567546482","category":"viewpoint","name":"Wairere Falls Lower Lookout","lat":-37.734747,"lng":175.877385}
+{"id":"osm:node:5683111621","category":"viewpoint","lat":-44.277518,"lng":170.082133}
+{"id":"osm:node:5692054850","category":"viewpoint","lat":-45.031127,"lng":168.649217}
+{"id":"osm:node:5695477121","category":"viewpoint","name":"Brynderwyns Scenic Lookout","lat":-36.053804,"lng":174.425281}
+{"id":"osm:node:570716209","category":"viewpoint","name":"Brooklands Lagoon","lat":-43.415152,"lng":172.701713}
+{"id":"osm:node:5721506024","category":"viewpoint","lat":-37.595975,"lng":178.317005}
+{"id":"osm:node:5721801137","category":"viewpoint","name":"Pumpkin hill viewpoint","lat":-36.978635,"lng":175.847865}
+{"id":"osm:node:5734922636","category":"viewpoint","lat":-41.477303,"lng":173.982084}
+{"id":"osm:node:573880017","category":"viewpoint","name":"Werera","lat":-36.984259,"lng":174.48551}
+{"id":"osm:node:5768595249","category":"viewpoint","lat":-36.784492,"lng":174.988595}
+{"id":"osm:node:5768595361","category":"viewpoint","lat":-36.79138,"lng":175.007385}
+{"id":"osm:node:5793675676","category":"viewpoint","lat":-38.401288,"lng":176.215917}
+{"id":"osm:node:5793675688","category":"viewpoint","lat":-38.401796,"lng":176.215921}
+{"id":"osm:node:5793688502","category":"viewpoint","lat":-38.075698,"lng":175.088955}
+{"id":"osm:node:5801183553","category":"viewpoint","lat":-43.387345,"lng":170.202337}
+{"id":"osm:node:5824605276","category":"viewpoint","lat":-39.205094,"lng":175.545167,"tags":{"description":"Views of Mt Ruapehu, Mt Ngauruhoe, Mt Tongariro, Whakapapa Village and Chateau Tongariro Hotel"}}
+{"id":"osm:node:5826418812","category":"viewpoint","lat":-37.816437,"lng":176.041854}
+{"id":"osm:node:5839275086","category":"viewpoint","name":"Big Totara Trees","lat":-45.869086,"lng":167.638305}
+{"id":"osm:node:5858438870","category":"viewpoint","lat":-37.80775,"lng":176.049762}
+{"id":"osm:node:5872975390","category":"viewpoint","lat":-38.526899,"lng":175.159038}
+{"id":"osm:node:5887310839","category":"viewpoint","lat":-36.839392,"lng":174.765929,"tags":{"opening_hours":"Mo-Su 06:30-23:30"}}
+{"id":"osm:node:5898122367","category":"viewpoint","lat":-36.619048,"lng":174.746292}
+{"id":"osm:node:5903380484","category":"viewpoint","lat":-43.183257,"lng":172.328347}
+{"id":"osm:node:5903384410","category":"viewpoint","lat":-43.160361,"lng":172.330339}
+{"id":"osm:node:5940104033","category":"viewpoint","lat":-38.162726,"lng":176.25325}
+{"id":"osm:node:5962825585","category":"viewpoint","name":"Airstrip Lookout","lat":-41.17947,"lng":173.385377}
+{"id":"osm:node:5965114833","category":"viewpoint","lat":-36.4284,"lng":174.741022}
+{"id":"osm:node:5967793201","category":"viewpoint","name":"Spinnaker Lookout","lat":-41.108612,"lng":174.887524}
+{"id":"osm:node:5982180133","category":"viewpoint","name":"Private Viewing: Arnolds Place","lat":-36.851185,"lng":175.684377}
+{"id":"osm:node:5985000059","category":"viewpoint","name":"Mercury Bay View Point","lat":-36.826943,"lng":175.731125}
+{"id":"osm:node:5994459786","category":"viewpoint","lat":-38.797725,"lng":177.110379}
+{"id":"osm:node:5996815785","category":"viewpoint","lat":-36.055297,"lng":174.426018}
+{"id":"osm:node:6001434385","category":"viewpoint","name":"Rush Pools","lat":-41.311994,"lng":173.386991}
+{"id":"osm:node:600593741","category":"viewpoint","lat":-37.043637,"lng":174.509159}
+{"id":"osm:node:600593851","category":"viewpoint","lat":-37.041126,"lng":174.513183}
+{"id":"osm:node:6021297189","category":"viewpoint","name":"Mahia Lookout","lat":-39.084452,"lng":177.913645}
+{"id":"osm:node:6044095286","category":"viewpoint","name":"Minden Lookout","lat":-37.712254,"lng":176.055853}
+{"id":"osm:node:6046165385","category":"viewpoint","lat":-36.79156,"lng":174.997156}
+{"id":"osm:node:605218074","category":"viewpoint","name":"Hang-Gliding","lat":-43.643627,"lng":172.624469}
+{"id":"osm:node:605218109","category":"viewpoint","name":"seat","lat":-43.633157,"lng":172.625786}
+{"id":"osm:node:6052368587","category":"viewpoint","lat":-36.832381,"lng":175.716151}
+{"id":"osm:node:6052370415","category":"viewpoint","name":"Summit lookout","lat":-36.832768,"lng":175.715461}
+{"id":"osm:node:6052371782","category":"viewpoint","lat":-36.830324,"lng":175.724667}
+{"id":"osm:node:6052371831","category":"viewpoint","lat":-36.832241,"lng":175.716453}
+{"id":"osm:node:6055600185","category":"viewpoint","lat":-38.230492,"lng":178.304503}
+{"id":"osm:node:6056114453","category":"viewpoint","lat":-38.664069,"lng":178.099751}
+{"id":"osm:node:6062539385","category":"viewpoint","name":"Mount Taranaki viewpoint","lat":-39.119554,"lng":174.125349}
+{"id":"osm:node:6089223611","category":"viewpoint","lat":-46.661736,"lng":169.10049}
+{"id":"osm:node:6110274563","category":"viewpoint","lat":-36.786475,"lng":174.668341}
+{"id":"osm:node:6133843386","category":"viewpoint","lat":-36.061724,"lng":174.590546,"tags":{"description":"Tree view of the ocean"}}
+{"id":"osm:node:6133846485","category":"viewpoint","lat":-36.297728,"lng":174.715199}
+{"id":"osm:node:6150867646","category":"viewpoint","lat":-39.694767,"lng":176.900564}
+{"id":"osm:node:6150867671","category":"viewpoint","lat":-39.701963,"lng":176.909579}
+{"id":"osm:node:6154497885","category":"viewpoint","name":"Mirador for the summit of Mt Taranaki","lat":-39.315761,"lng":174.094699}
+{"id":"osm:node:6157945186","category":"viewpoint","name":"Akaroa Harbour View","lat":-43.744816,"lng":172.87228}
+{"id":"osm:node:6160675045","category":"viewpoint","lat":-38.163611,"lng":176.2547}
+{"id":"osm:node:6162117385","category":"viewpoint","name":"High View of bay and city","lat":-45.885116,"lng":170.56415}
+{"id":"osm:node:6163098388","category":"viewpoint","name":"Lookout","lat":-38.098739,"lng":175.636536}
+{"id":"osm:node:6167107329","category":"viewpoint","lat":-37.736394,"lng":176.282216}
+{"id":"osm:node:6167695395","category":"viewpoint","lat":-43.651904,"lng":172.635694}
+{"id":"osm:node:6169678297","category":"viewpoint","lat":-43.652366,"lng":172.623983}
+{"id":"osm:node:6172432902","category":"viewpoint","lat":-36.339205,"lng":174.780429}
+{"id":"osm:node:6174312185","category":"viewpoint","name":"Whakarewareewa Forest Look Out - Quarry Track","lat":-38.160355,"lng":176.278698}
+{"id":"osm:node:6175809957","category":"viewpoint","lat":-40.911053,"lng":175.262133}
+{"id":"osm:node:617950363","category":"viewpoint","lat":-45.180189,"lng":169.309722}
+{"id":"osm:node:6184651952","category":"viewpoint","lat":-34.990315,"lng":173.521587}
+{"id":"osm:node:6187395086","category":"viewpoint","name":"Edge of Lava Flow","lat":-39.200986,"lng":175.55927}
+{"id":"osm:node:6193737086","category":"viewpoint","name":"Wakatipu lookout","lat":-45.330756,"lng":168.734798}
+{"id":"osm:node:619736995","category":"viewpoint","name":"Honeycomb Rock","lat":-41.360118,"lng":175.810477}
+{"id":"osm:node:6199859773","category":"viewpoint","name":"Charles & Elisabeth Arthur","lat":-46.43137,"lng":169.793935}
+{"id":"osm:node:6204624075","category":"viewpoint","name":"Lookout","lat":-45.615231,"lng":167.698214,"tags":{"wheelchair":"yes"}}
+{"id":"osm:node:620507940","category":"viewpoint","lat":-40.796129,"lng":175.518813}
+{"id":"osm:node:6215085885","category":"viewpoint","lat":-45.825639,"lng":170.571098}
+{"id":"osm:node:6215193685","category":"viewpoint","name":"Blackrock Station","lat":-41.200498,"lng":174.084351}
+{"id":"osm:node:6215501085","category":"viewpoint","lat":-43.41823,"lng":170.180709}
+{"id":"osm:node:6217537385","category":"viewpoint","name":"Bay of many coves Saddle","lat":-41.167498,"lng":174.147082}
+{"id":"osm:node:6217537386","category":"viewpoint","lat":-41.166649,"lng":174.14797}
+{"id":"osm:node:6217660963","category":"viewpoint","name":"Franz Josef","lat":-43.388431,"lng":170.170586}
+{"id":"osm:node:6219935447","category":"viewpoint","lat":-42.30287,"lng":171.284461}
+{"id":"osm:node:6219935773","category":"viewpoint","lat":-41.987301,"lng":171.407026}
+{"id":"osm:node:6219946644","category":"viewpoint","name":"Berlins","lat":-41.858254,"lng":171.838687}
+{"id":"osm:node:6219949061","category":"viewpoint","name":"Crow Bay 42° South","lat":-42.000531,"lng":171.396148}
+{"id":"osm:node:6221272962","category":"viewpoint","lat":-46.402875,"lng":168.360026}
+{"id":"osm:node:6221383524","category":"viewpoint","name":"Mountain Lookout","lat":-39.269347,"lng":174.098049}
+{"id":"osm:node:6221429857","category":"viewpoint","lat":-39.286862,"lng":174.085249}
+{"id":"osm:node:6221431839","category":"viewpoint","lat":-39.286481,"lng":174.081799}
+{"id":"osm:node:6221433736","category":"viewpoint","lat":-39.277847,"lng":174.086287}
+{"id":"osm:node:6222163485","category":"viewpoint","lat":-36.929194,"lng":174.571098}
+{"id":"osm:node:622303816","category":"viewpoint","name":"Stuart Macaskill Lakes Lookout","lat":-41.086834,"lng":175.149726}
+{"id":"osm:node:6223749702","category":"viewpoint","lat":-38.615337,"lng":176.083675}
+{"id":"osm:node:6223749709","category":"viewpoint","lat":-38.615013,"lng":176.082944}
+{"id":"osm:node:6223749756","category":"viewpoint","lat":-38.614976,"lng":176.08265}
+{"id":"osm:node:6223749779","category":"viewpoint","lat":-38.614219,"lng":176.080175}
+{"id":"osm:node:6223750090","category":"viewpoint","lat":-38.614592,"lng":176.083741}
+{"id":"osm:node:6223750100","category":"viewpoint","lat":-38.61467,"lng":176.082716}
+{"id":"osm:node:6223750108","category":"viewpoint","lat":-38.614833,"lng":176.083184}
+{"id":"osm:node:6223750109","category":"viewpoint","lat":-38.614706,"lng":176.083369}
+{"id":"osm:node:6223750110","category":"viewpoint","lat":-38.614677,"lng":176.082869}
+{"id":"osm:node:6238957838","category":"viewpoint","lat":-42.955022,"lng":171.015881}
+{"id":"osm:node:6241094167","category":"viewpoint","lat":-39.691177,"lng":176.912583}
+{"id":"osm:node:6241094168","category":"viewpoint","lat":-39.695077,"lng":176.90965}
+{"id":"osm:node:6242788159","category":"viewpoint","lat":-44.168204,"lng":170.209187}
+{"id":"osm:node:6242903178","category":"viewpoint","name":"Lake Taupo","lat":-38.93243,"lng":175.872067}
+{"id":"osm:node:6242914676","category":"viewpoint","name":"Lake Taupo Lookout","lat":-38.905639,"lng":175.927356}
+{"id":"osm:node:6254504205","category":"viewpoint","lat":-38.038996,"lng":176.231906}
+{"id":"osm:node:6254901392","category":"viewpoint","name":"Lake Rotoiti","lat":-38.05714,"lng":176.431166}
+{"id":"osm:node:6257214259","category":"viewpoint","lat":-42.684289,"lng":172.213521}
+{"id":"osm:node:6267121286","category":"viewpoint","lat":-35.213703,"lng":173.95555}
+{"id":"osm:node:6273237275","category":"viewpoint","lat":-43.746424,"lng":173.016754}
+{"id":"osm:node:6273471085","category":"viewpoint","name":"Arapuni Swing Bridge","lat":-38.070571,"lng":175.644586}
+{"id":"osm:node:6285372204","category":"viewpoint","lat":-41.286046,"lng":174.767573}
+{"id":"osm:node:6285372205","category":"viewpoint","lat":-41.285857,"lng":174.767832}
+{"id":"osm:node:6285372206","category":"viewpoint","lat":-41.285622,"lng":174.767797}
+{"id":"osm:node:6287820988","category":"viewpoint","lat":-42.350277,"lng":171.255017}
+{"id":"osm:node:6292164485","category":"viewpoint","lat":-40.988575,"lng":173.029061}
+{"id":"osm:node:6292274485","category":"viewpoint","name":"The International Seat of Peace","lat":-37.736602,"lng":175.87048}
+{"id":"osm:node:6295277685","category":"viewpoint","name":"Lookout Viewpoint","lat":-45.057857,"lng":168.800684}
+{"id":"osm:node:6304386085","category":"viewpoint","name":"Light House","lat":-42.883452,"lng":173.317602}
+{"id":"osm:node:6309586122","category":"viewpoint","lat":-43.22857,"lng":172.222286}
+{"id":"osm:node:6314862587","category":"viewpoint","name":"Abel Tasman","lat":-40.990657,"lng":173.027316}
+{"id":"osm:node:6315165685","category":"viewpoint","name":"Pinnacles lookout","lat":-44.140056,"lng":171.066796}
+{"id":"osm:node:6315492485","category":"viewpoint","name":"Swing Bridge","lat":-41.767268,"lng":172.188991}
+{"id":"osm:node:6315638185","category":"viewpoint","lat":-36.890712,"lng":174.545895}
+{"id":"osm:node:632363662","category":"viewpoint","lat":-35.684449,"lng":174.336384}
+{"id":"osm:node:6324418885","category":"viewpoint","name":"Landslide","lat":-43.284102,"lng":170.321443}
+{"id":"osm:node:6326575185","category":"viewpoint","name":"Lake Hawea","lat":-44.472254,"lng":169.252658}
+{"id":"osm:node:6326575485","category":"viewpoint","lat":-44.458879,"lng":169.241656}
+{"id":"osm:node:6326630386","category":"viewpoint","name":"Gate closed","lat":-43.541683,"lng":170.885902}
+{"id":"osm:node:6329904785","category":"viewpoint","lat":-38.458996,"lng":174.935776}
+{"id":"osm:node:6334849935","category":"viewpoint","name":"Trig","lat":-36.069877,"lng":174.542331}
+{"id":"osm:node:6344431032","category":"viewpoint","name":"Windy canyon","lat":-36.170911,"lng":175.433914}
+{"id":"osm:node:6353212540","category":"viewpoint","lat":-35.035166,"lng":173.892476}
+{"id":"osm:node:6357462083","category":"viewpoint","lat":-35.220909,"lng":174.185981}
+{"id":"osm:node:6368508582","category":"viewpoint","lat":-42.769399,"lng":170.923283}
+{"id":"osm:node:6371067644","category":"viewpoint","name":"Windy Point","lat":-43.60639,"lng":172.731362}
+{"id":"osm:node:6371711175","category":"viewpoint","lat":-36.609913,"lng":174.815312}
+{"id":"osm:node:6380295957","category":"viewpoint","lat":-36.845356,"lng":174.867545}
+{"id":"osm:node:6387435197","category":"viewpoint","lat":-43.590766,"lng":172.806555}
+{"id":"osm:node:6392002087","category":"viewpoint","lat":-42.491443,"lng":172.83813}
+{"id":"osm:node:6402894102","category":"viewpoint","lat":-42.126373,"lng":171.862207}
+{"id":"osm:node:6403198888","category":"viewpoint","lat":-43.798761,"lng":172.995913}
+{"id":"osm:node:6403431297","category":"viewpoint","lat":-37.933766,"lng":176.129094}
+{"id":"osm:node:6405091085","category":"viewpoint","name":"Tarnbrae High Point","lat":-44.31061,"lng":169.807809}
+{"id":"osm:node:6406899218","category":"viewpoint","lat":-39.086847,"lng":175.652161}
+{"id":"osm:node:6406925281","category":"viewpoint","lat":-39.077371,"lng":175.656446}
+{"id":"osm:node:6407000729","category":"viewpoint","lat":-44.693062,"lng":169.045146}
+{"id":"osm:node:6407029908","category":"viewpoint","lat":-44.690563,"lng":169.048935}
+{"id":"osm:node:6408190085","category":"viewpoint","name":"Omarama Saddle","lat":-44.663833,"lng":169.820369}
+{"id":"osm:node:6408866830","category":"viewpoint","name":"Greta Point Lookout","lat":-41.300468,"lng":174.805521}
+{"id":"osm:node:6411451891","category":"viewpoint","lat":-41.186833,"lng":173.014963}
+{"id":"osm:node:6415252178","category":"viewpoint","lat":-37.933363,"lng":176.13826}
+{"id":"osm:node:6417557546","category":"viewpoint","name":"(#12)","lat":-44.49098,"lng":168.829563}
+{"id":"osm:node:6418706864","category":"viewpoint","lat":-37.061089,"lng":175.175156}
+{"id":"osm:node:6418706865","category":"viewpoint","lat":-37.066667,"lng":175.183626}
+{"id":"osm:node:6430229724","category":"viewpoint","name":"Viewing Platform","lat":-38.132475,"lng":176.152021}
+{"id":"osm:node:6433735271","category":"viewpoint","name":"Splugeons Rock","lat":-41.205642,"lng":172.607701}
+{"id":"osm:node:6436934680","category":"viewpoint","lat":-41.330602,"lng":174.83754}
+{"id":"osm:node:6451269386","category":"viewpoint","name":"cattle warf fishing platform","lat":-41.74438,"lng":171.594375}
+{"id":"osm:node:6460441085","category":"viewpoint","lat":-45.011282,"lng":168.782414}
+{"id":"osm:node:6460441086","category":"viewpoint","name":"Thompson's Hill","lat":-45.00123,"lng":168.845446}
+{"id":"osm:node:6467162948","category":"viewpoint","lat":-40.372891,"lng":175.622747}
+{"id":"osm:node:6474201794","category":"viewpoint","lat":-40.82474,"lng":174.931071}
+{"id":"osm:node:6474268585","category":"viewpoint","name":"Tupapakurua Falls Lookout","lat":-39.182055,"lng":175.356495}
+{"id":"osm:node:649684","category":"viewpoint","lat":-36.183805,"lng":175.399329}
+{"id":"osm:node:650002","category":"viewpoint","name":"Maunga Hirakimatā / Mount Hobson","lat":-36.186057,"lng":175.412924,"tags":{"wikidata":"Q6921210","wikipedia":"en:Mount Hobson (Great Barrier Island)"}}
+{"id":"osm:node:6503049114","category":"viewpoint","lat":-37.991967,"lng":177.163992}
+{"id":"osm:node:6516203403","category":"viewpoint","lat":-38.695166,"lng":176.162219}
+{"id":"osm:node:6516203404","category":"viewpoint","lat":-38.694027,"lng":176.163199}
+{"id":"osm:node:6522321385","category":"viewpoint","name":"Bishops Saddle","lat":-40.703597,"lng":172.671914}
+{"id":"osm:node:6534173892","category":"viewpoint","lat":-37.952884,"lng":176.997933}
+{"id":"osm:node:6534516252","category":"viewpoint","name":"Turitea Pa Lookout","lat":-40.3856,"lng":175.595216}
+{"id":"osm:node:6546324285","category":"viewpoint","lat":-35.684851,"lng":174.33613}
+{"id":"osm:node:6581982749","category":"viewpoint","lat":-41.26714,"lng":173.782848}
+{"id":"osm:node:659034112","category":"viewpoint","lat":-36.85973,"lng":174.638423}
+{"id":"osm:node:6597265572","category":"viewpoint","lat":-39.271426,"lng":174.972286}
+{"id":"osm:node:6601683893","category":"viewpoint","lat":-44.717214,"lng":169.286699}
+{"id":"osm:node:660541144","category":"viewpoint","name":"Kuataika Trig","lat":-36.90777,"lng":174.469134,"tags":{"wheelchair":"no"}}
+{"id":"osm:node:6615559507","category":"viewpoint","lat":-43.812878,"lng":172.784811}
+{"id":"osm:node:6634487185","category":"viewpoint","name":"Viewing Platform","lat":-41.295457,"lng":173.278148}
+{"id":"osm:node:6648651386","category":"viewpoint","lat":-41.026726,"lng":172.731417}
+{"id":"osm:node:6648651485","category":"viewpoint","lat":-41.026197,"lng":172.732085}
+{"id":"osm:node:6654525036","category":"viewpoint","lat":-37.889444,"lng":175.467024}
+{"id":"osm:node:6664983847","category":"viewpoint","lat":-37.247249,"lng":174.730859}
+{"id":"osm:node:667235956","category":"viewpoint","lat":-36.934456,"lng":174.454547}
+{"id":"osm:node:6695761375","category":"viewpoint","lat":-36.92898,"lng":174.451007}
+{"id":"osm:node:6742732787","category":"viewpoint","name":"Shirt Tail Viewpoint","lat":-45.32744,"lng":168.708945}
+{"id":"osm:node:676068188","category":"viewpoint","name":"Forest Tower","lat":-38.506583,"lng":175.592181}
+{"id":"osm:node:6762792943","category":"viewpoint","lat":-43.480076,"lng":172.675561}
+{"id":"osm:node:6783635102","category":"viewpoint","lat":-38.355168,"lng":176.367295}
+{"id":"osm:node:6787557556","category":"viewpoint","name":"Karaka Point lookout","lat":-41.254771,"lng":174.064198}
+{"id":"osm:node:6787577386","category":"viewpoint","lat":-44.002928,"lng":170.482367}
+{"id":"osm:node:6796150496","category":"viewpoint","lat":-38.114012,"lng":176.214319}
+{"id":"osm:node:6796150510","category":"viewpoint","lat":-38.114195,"lng":176.213911}
+{"id":"osm:node:681316512","category":"viewpoint","lat":-42.430706,"lng":173.700301}
+{"id":"osm:node:6813588213","category":"viewpoint","lat":-37.771268,"lng":175.225313}
+{"id":"osm:node:6813588264","category":"viewpoint","lat":-37.769912,"lng":175.224772}
+{"id":"osm:node:6822752688","category":"viewpoint","name":"End of Track","lat":-41.300423,"lng":173.27597}
+{"id":"osm:node:6822752689","category":"viewpoint","name":"Rope Bridge","lat":-46.428127,"lng":169.44313}
+{"id":"osm:node:6822752690","category":"viewpoint","name":"Rope Bridge","lat":-46.411228,"lng":169.449018}
+{"id":"osm:node:6831946486","category":"viewpoint","lat":-36.801592,"lng":175.085673}
+{"id":"osm:node:6833534938","category":"viewpoint","lat":-36.872596,"lng":174.774361}
+{"id":"osm:node:685009872","category":"viewpoint","name":"Wairere Falls Upper Lookout","lat":-37.734273,"lng":175.87968}
+{"id":"osm:node:6861289185","category":"viewpoint","lat":-37.148013,"lng":175.681691}
+{"id":"osm:node:6865091996","category":"viewpoint","name":"Sugar Loaf","lat":-36.496083,"lng":174.602969}
+{"id":"osm:node:6910992789","category":"viewpoint","name":"Pakia Hll","lat":-35.540797,"lng":173.386896}
+{"id":"osm:node:6925892351","category":"viewpoint","lat":-43.847128,"lng":172.94685}
+{"id":"osm:node:6925905956","category":"viewpoint","lat":-43.868835,"lng":172.959508}
+{"id":"osm:node:693258621","category":"viewpoint","lat":-45.587801,"lng":167.597113}
+{"id":"osm:node:6941777105","category":"viewpoint","lat":-37.148026,"lng":175.681693}
+{"id":"osm:node:6942515593","category":"viewpoint","lat":-38.088898,"lng":176.697356}
+{"id":"osm:node:695656392","category":"viewpoint","lat":-45.587438,"lng":167.597052}
+{"id":"osm:node:6983746810","category":"viewpoint","lat":-41.24245,"lng":174.922246}
+{"id":"osm:node:6993173286","category":"viewpoint","name":"Moutukiekie Beach Walk","lat":-42.314645,"lng":171.279692}
+{"id":"osm:node:7005692744","category":"viewpoint","lat":-35.853085,"lng":174.537286}
+{"id":"osm:node:7005709507","category":"viewpoint","lat":-35.852135,"lng":174.544099}
+{"id":"osm:node:7005716022","category":"viewpoint","lat":-35.852834,"lng":174.538126}
+{"id":"osm:node:7005727191","category":"viewpoint","lat":-35.852478,"lng":174.54623}
+{"id":"osm:node:7009875850","category":"viewpoint","lat":-39.704871,"lng":175.970103}
+{"id":"osm:node:7009906330","category":"viewpoint","lat":-38.64342,"lng":176.068198}
+{"id":"osm:node:7011798785","category":"viewpoint","name":"Napier Urban Farmer's Market","lat":-39.491387,"lng":176.913474}
+{"id":"osm:node:7011804185","category":"viewpoint","name":"Hawkes Bay Farmers Market","lat":-39.629173,"lng":176.862248}
+{"id":"osm:node:7012711985","category":"viewpoint","lat":-38.675383,"lng":178.028715}
+{"id":"osm:node:7021089297","category":"viewpoint","name":"Paritūtū","lat":-39.059508,"lng":174.023424}
+{"id":"osm:node:7037066342","category":"viewpoint","name":"Tucker Hill Lookout","lat":-45.253398,"lng":169.408187}
+{"id":"osm:node:7037283485","category":"viewpoint","name":"Mount Karioi Summit","lat":-37.865016,"lng":174.802069}
+{"id":"osm:node:7043171388","category":"viewpoint","lat":-38.009225,"lng":176.343062}
+{"id":"osm:node:7043962783","category":"viewpoint","name":"Signal Hill Lookout","lat":-45.858778,"lng":170.546725}
+{"id":"osm:node:7055853285","category":"viewpoint","lat":-39.447053,"lng":174.414349}
+{"id":"osm:node:7062127186","category":"viewpoint","lat":-40.849894,"lng":172.949598}
+{"id":"osm:node:7062141685","category":"viewpoint","lat":-40.847244,"lng":172.956282}
+{"id":"osm:node:7070862409","category":"viewpoint","lat":-36.893064,"lng":174.846507}
+{"id":"osm:node:7089656898","category":"viewpoint","lat":-37.873079,"lng":175.686046}
+{"id":"osm:node:7089983385","category":"viewpoint","name":"Top of Organ Pipes","lat":-45.808301,"lng":170.566924}
+{"id":"osm:node:7091915717","category":"viewpoint","lat":-36.8057,"lng":174.740527}
+{"id":"osm:node:7092628378","category":"viewpoint","lat":-36.834177,"lng":175.761127}
+{"id":"osm:node:7097931445","category":"viewpoint","lat":-42.527955,"lng":171.41108}
+{"id":"osm:node:7100615186","category":"viewpoint","name":"Lookout 76","lat":-37.088079,"lng":175.644066}
+{"id":"osm:node:7100750440","category":"viewpoint","lat":-36.947577,"lng":174.668756}
+{"id":"osm:node:7105060352","category":"viewpoint","lat":-35.258302,"lng":174.116664}
+{"id":"osm:node:7105084085","category":"viewpoint","name":"Te Matairangi","lat":-35.255539,"lng":174.12098}
+{"id":"osm:node:7111035690","category":"viewpoint","lat":-36.687518,"lng":174.746683}
+{"id":"osm:node:7113727586","category":"viewpoint","lat":-42.339979,"lng":173.570894}
+{"id":"osm:node:7113736585","category":"viewpoint","lat":-42.324198,"lng":173.59338}
+{"id":"osm:node:7113736685","category":"viewpoint","lat":-42.310483,"lng":173.612429}
+{"id":"osm:node:7131016189","category":"viewpoint","lat":-45.491084,"lng":167.633039}
+{"id":"osm:node:714010079","category":"viewpoint","lat":-39.275279,"lng":175.563347}
+{"id":"osm:node:7140363385","category":"viewpoint","name":"Ariki Falls","lat":-41.775876,"lng":172.190807}
+{"id":"osm:node:714220931","category":"viewpoint","lat":-46.623953,"lng":168.327934}
+{"id":"osm:node:7147631885","category":"viewpoint","name":"Kauri tree viewpoint","lat":-36.745527,"lng":175.48102}
+{"id":"osm:node:7152482267","category":"viewpoint","lat":-38.883349,"lng":175.966953}
+{"id":"osm:node:7165635585","category":"viewpoint","name":"Waikato Falls Viewpoint","lat":-39.130142,"lng":175.824109}
+{"id":"osm:node:7192448585","category":"viewpoint","name":"Outer Totaranui Viewpoint","lat":-41.151833,"lng":174.154767}
+{"id":"osm:node:7192448586","category":"viewpoint","lat":-41.197376,"lng":174.100067}
+{"id":"osm:node:7192449185","category":"viewpoint","lat":-41.174713,"lng":174.138787}
+{"id":"osm:node:7199397586","category":"viewpoint","name":"Clutha River Seat","lat":-44.668483,"lng":169.162293}
+{"id":"osm:node:7199592085","category":"viewpoint","lat":-41.273023,"lng":173.298143}
+{"id":"osm:node:7204950919","category":"viewpoint","name":"Arataki Visitor Centre Picture Frame","lat":-36.947103,"lng":174.606961,"tags":{"wheelchair":"yes"}}
+{"id":"osm:node:7204951956","category":"viewpoint","name":"Shakespear Regional Park Picture Frame","lat":-36.609688,"lng":174.820237}
+{"id":"osm:node:7204964987","category":"viewpoint","name":"Hūnua Ranges Regional Park Picture Frame","lat":-37.06756,"lng":175.089495}
+{"id":"osm:node:7204967316","category":"viewpoint","name":"Cascade Kauri Picture Frame","lat":-36.886315,"lng":174.520334,"tags":{"wheelchair":"yes"}}
+{"id":"osm:node:7205006422","category":"viewpoint","name":"Mahurangi Regional Park Picture Frame","lat":-36.510289,"lng":174.721798}
+{"id":"osm:node:7205006423","category":"viewpoint","name":"Tāpapakanga Regional Park Picture Frame","lat":-36.973716,"lng":175.254979}
+{"id":"osm:node:7205006424","category":"viewpoint","name":"Wenderholm Regional Park Picture Frame","lat":-36.531656,"lng":174.713255}
+{"id":"osm:node:7205006425","category":"viewpoint","name":"Long Bay Regional Park Picture Frame","lat":-36.683003,"lng":174.749441}
+{"id":"osm:node:7205006426","category":"viewpoint","name":"Āwhitu Regional Park Picture Frame","lat":-37.089209,"lng":174.652498}
+{"id":"osm:node:7205006427","category":"viewpoint","name":"Ambury Regional Park Picture Frame","lat":-36.944012,"lng":174.761002}
+{"id":"osm:node:7207443286","category":"viewpoint","name":"Little Bay Lookout","lat":-36.599435,"lng":175.550153}
+{"id":"osm:node:7207453785","category":"viewpoint","name":"Matamataharakeke","lat":-36.626622,"lng":175.524746}
+{"id":"osm:node:7221935285","category":"viewpoint","lat":-44.015824,"lng":170.485188}
+{"id":"osm:node:7236350685","category":"viewpoint","name":"Lake Rotoiti View","lat":-41.824915,"lng":172.810928}
+{"id":"osm:node:7241113887","category":"viewpoint","lat":-42.593387,"lng":172.567927}
+{"id":"osm:node:7244216585","category":"viewpoint","name":"Gentle Annie Maze Coastal Lookout","lat":-41.505716,"lng":171.946645}
+{"id":"osm:node:7253885501","category":"viewpoint","name":"Bird Hide","lat":-43.422464,"lng":172.702127}
+{"id":"osm:node:7253924885","category":"viewpoint","lat":-42.335494,"lng":171.260835}
+{"id":"osm:node:726922051","category":"viewpoint","name":"Huia Lookout","lat":-37.009584,"lng":174.574829}
+{"id":"osm:node:7273746785","category":"viewpoint","name":"Pakihi Walk Lookout","lat":-43.24772,"lng":170.204365}
+{"id":"osm:node:7281532985","category":"viewpoint","name":"Rata Lookout","lat":-43.410269,"lng":170.162354}
+{"id":"osm:node:7290102585","category":"viewpoint","name":"Lookout","lat":-41.327303,"lng":174.838393}
+{"id":"osm:node:7291547985","category":"viewpoint","name":"Valley and sea viewpoint","lat":-43.381045,"lng":170.161352}
+{"id":"osm:node:7293805791","category":"viewpoint","lat":-44.145472,"lng":171.074977,"tags":{"description":"Balancing bolder view point"}}
+{"id":"osm:node:7293805805","category":"viewpoint","lat":-44.141344,"lng":171.068157,"tags":{"description":"Pinnacles View Point"}}
+{"id":"osm:node:7311205579","category":"viewpoint","lat":-44.642543,"lng":168.969397}
+{"id":"osm:node:7311211805","category":"viewpoint","lat":-44.641876,"lng":168.967001}
+{"id":"osm:node:7311219490","category":"viewpoint","name":"Wanaka Viewpoint","lat":-44.643047,"lng":168.973526}
+{"id":"osm:node:7320586702","category":"viewpoint","lat":-41.287528,"lng":174.010563,"tags":{"description":"Viewpoint to Picton with harbor"}}
+{"id":"osm:node:7320586703","category":"viewpoint","lat":-41.282662,"lng":174.012922}
+{"id":"osm:node:735133130","category":"viewpoint","lat":-36.535627,"lng":174.713855}
+{"id":"osm:node:735174502","category":"viewpoint","lat":-35.684436,"lng":174.335633}
+{"id":"osm:node:7379617841","category":"viewpoint","lat":-43.591374,"lng":172.685116}
+{"id":"osm:node:7384133928","category":"viewpoint","lat":-43.623737,"lng":172.743801,"tags":{"description":"View towards Ripapa Island"}}
+{"id":"osm:node:7384478478","category":"viewpoint","lat":-39.889803,"lng":175.06395}
+{"id":"osm:node:7391879707","category":"viewpoint","lat":-38.004573,"lng":175.323493}
+{"id":"osm:node:7416435567","category":"viewpoint","lat":-45.03086,"lng":168.674275}
+{"id":"osm:node:7416514730","category":"viewpoint","lat":-45.029434,"lng":168.674609}
+{"id":"osm:node:7416526357","category":"viewpoint","lat":-45.024766,"lng":168.666547}
+{"id":"osm:node:7416526359","category":"viewpoint","lat":-45.025722,"lng":168.668394}
+{"id":"osm:node:7424669941","category":"viewpoint","lat":-45.030901,"lng":168.683294,"tags":{"description":"Aircraft spotters point approach Queenstown airport. Stunning view of Remarkables and lake."}}
+{"id":"osm:node:7441275059","category":"viewpoint","name":"Rolands Rock","lat":-45.020945,"lng":168.677241}
+{"id":"osm:node:7441275091","category":"viewpoint","lat":-45.023361,"lng":168.677107}
+{"id":"osm:node:7447999453","category":"viewpoint","name":"Moa's point","lat":-43.799153,"lng":172.949277,"tags":{"description":"View on Akaroa and the bay. A Moa statue is installed."}}
+{"id":"osm:node:7469489833","category":"viewpoint","name":"Te Ahumairangi Hill Lookout","lat":-41.275012,"lng":174.765347}
+{"id":"osm:node:7470134285","category":"viewpoint","name":"Orewa River","lat":-36.599393,"lng":174.698555}
+{"id":"osm:node:7470134485","category":"viewpoint","lat":-35.805608,"lng":173.659149}
+{"id":"osm:node:7500701387","category":"viewpoint","name":"Space Coast Viewing Area","lat":-39.051356,"lng":177.700924}
+{"id":"osm:node:7543483224","category":"viewpoint","lat":-43.581915,"lng":172.665372}
+{"id":"osm:node:7573529585","category":"viewpoint","name":"Valley View","lat":-43.579821,"lng":170.966351}
+{"id":"osm:node:7574473465","category":"viewpoint","lat":-41.265288,"lng":173.325364}
+{"id":"osm:node:7604185832","category":"viewpoint","lat":-35.634929,"lng":174.524363}
+{"id":"osm:node:7661774536","category":"viewpoint","lat":-41.200798,"lng":172.723723}
+{"id":"osm:node:7661781243","category":"viewpoint","lat":-41.190334,"lng":172.747049}
+{"id":"osm:node:7681846040","category":"viewpoint","lat":-37.006725,"lng":174.782212}
+{"id":"osm:node:7681846041","category":"viewpoint","lat":-37.006513,"lng":174.782348}
+{"id":"osm:node:7681846043","category":"viewpoint","lat":-37.006103,"lng":174.78219}
+{"id":"osm:node:7702266876","category":"viewpoint","lat":-36.922433,"lng":174.45755}
+{"id":"osm:node:7706131286","category":"viewpoint","lat":-39.134547,"lng":177.855329}
+{"id":"osm:node:7706138485","category":"viewpoint","lat":-43.008602,"lng":171.735812}
+{"id":"osm:node:7706139385","category":"viewpoint","lat":-40.437834,"lng":176.256147}
+{"id":"osm:node:7706139386","category":"viewpoint","lat":-39.064618,"lng":177.831194}
+{"id":"osm:node:7706139889","category":"viewpoint","lat":-37.94314,"lng":177.014102}
+{"id":"osm:node:7706140386","category":"viewpoint","lat":-37.940999,"lng":177.014476}
+{"id":"osm:node:7706140387","category":"viewpoint","lat":-38.649467,"lng":178.134739}
+{"id":"osm:node:7706140685","category":"viewpoint","lat":-37.942096,"lng":177.014249}
+{"id":"osm:node:770746408","category":"viewpoint","lat":-36.832602,"lng":174.424577}
+{"id":"osm:node:770746716","category":"viewpoint","lat":-36.830904,"lng":174.430395}
+{"id":"osm:node:7719393284","category":"viewpoint","name":"Cairn Lookout","lat":-40.979203,"lng":174.986035}
+{"id":"osm:node:7720554377","category":"viewpoint","name":"Paihia Beach Lookout","lat":-35.285393,"lng":174.097535}
+{"id":"osm:node:7726068077","category":"viewpoint","lat":-40.898736,"lng":175.01129}
+{"id":"osm:node:7730486592","category":"viewpoint","name":"Second Tupapakurua Falls Lookout","lat":-39.182267,"lng":175.355811}
+{"id":"osm:node:774211","category":"viewpoint","lat":-35.861372,"lng":174.531079}
+{"id":"osm:node:7745974785","category":"viewpoint","lat":-40.510635,"lng":175.64748}
+{"id":"osm:node:7746145982","category":"viewpoint","name":"Maurice Murray Lookout","lat":-40.472192,"lng":175.605899}
+{"id":"osm:node:7750058334","category":"viewpoint","lat":-43.63642,"lng":172.624936}
+{"id":"osm:node:7771337395","category":"viewpoint","name":"Awakino Heads","lat":-38.665692,"lng":174.619857}
+{"id":"osm:node:7771337688","category":"viewpoint","name":"Seaview Lookout","lat":-39.769484,"lng":174.484054}
+{"id":"osm:node:7771337689","category":"viewpoint","name":"Three Sisters View","lat":-38.812642,"lng":174.586309}
+{"id":"osm:node:7782321519","category":"viewpoint","lat":-43.590058,"lng":172.799149}
+{"id":"osm:node:7782321653","category":"viewpoint","lat":-43.584363,"lng":172.800241}
+{"id":"osm:node:7798083617","category":"viewpoint","lat":-38.897278,"lng":175.268935}
+{"id":"osm:node:7816378348","category":"viewpoint","name":"Opohe Kwanis Club Lookout","lat":-37.961378,"lng":177.025614}
+{"id":"osm:node:7821791469","category":"viewpoint","lat":-40.398999,"lng":175.706134}
+{"id":"osm:node:7834052400","category":"viewpoint","name":"14th Tee Lookout","lat":-36.75227,"lng":174.754886}
+{"id":"osm:node:7834517088","category":"viewpoint","lat":-34.57029,"lng":172.899104}
+{"id":"osm:node:7834524685","category":"viewpoint","lat":-35.278784,"lng":174.292335}
+{"id":"osm:node:783804338","category":"viewpoint","name":"Frying Pan Flat","lat":-38.361809,"lng":176.368523}
+{"id":"osm:node:783804699","category":"viewpoint","name":"Panoramic View","lat":-38.360951,"lng":176.368691}
+{"id":"osm:node:7842983799","category":"viewpoint","lat":-41.293609,"lng":174.899421}
+{"id":"osm:node:7861315790","category":"viewpoint","lat":-36.787108,"lng":174.669748}
+{"id":"osm:node:7864985457","category":"viewpoint","lat":-36.876404,"lng":174.764828}
+{"id":"osm:node:7901164741","category":"viewpoint","lat":-39.891415,"lng":176.017855}
+{"id":"osm:node:7911684443","category":"viewpoint","lat":-43.621312,"lng":172.639307}
+{"id":"osm:node:7924976842","category":"viewpoint","lat":-41.372952,"lng":173.298141}
+{"id":"osm:node:7946448546","category":"viewpoint","lat":-43.707495,"lng":172.836069}
+{"id":"osm:node:7958173994","category":"viewpoint","lat":-41.124522,"lng":174.862411}
+{"id":"osm:node:7968283608","category":"viewpoint","lat":-36.808827,"lng":174.779394}
+{"id":"osm:node:800271098","category":"viewpoint","lat":-36.944092,"lng":174.964538}
+{"id":"osm:node:8014566216","category":"viewpoint","lat":-36.811303,"lng":174.726528}
+{"id":"osm:node:8024914536","category":"viewpoint","lat":-37.077502,"lng":175.008442}
+{"id":"osm:node:8026686490","category":"viewpoint","name":"BEST viewpoint in QT","lat":-45.031797,"lng":168.677668}
+{"id":"osm:node:8045584898","category":"viewpoint","lat":-36.780566,"lng":175.040708}
+{"id":"osm:node:8072542117","category":"viewpoint","lat":-37.388703,"lng":175.942308}
+{"id":"osm:node:8073410328","category":"viewpoint","lat":-43.567624,"lng":172.725063}
+{"id":"osm:node:8076058935","category":"viewpoint","lat":-36.824411,"lng":174.802865}
+{"id":"osm:node:8079204924","category":"viewpoint","lat":-41.269357,"lng":173.785798}
+{"id":"osm:node:8086519728","category":"viewpoint","lat":-42.972571,"lng":172.704741}
+{"id":"osm:node:8089869940","category":"viewpoint","lat":-36.852929,"lng":174.771978}
+{"id":"osm:node:813167573","category":"viewpoint","lat":-37.005173,"lng":174.906794}
+{"id":"osm:node:8147614236","category":"viewpoint","lat":-41.240417,"lng":174.928484}
+{"id":"osm:node:8149807780","category":"viewpoint","lat":-39.459757,"lng":174.411088}
+{"id":"osm:node:8150574856","category":"viewpoint","lat":-39.454614,"lng":174.41861}
+{"id":"osm:node:8163759033","category":"viewpoint","name":"Kohekohe Point","lat":-34.984327,"lng":173.520059}
+{"id":"osm:node:8172076917","category":"viewpoint","name":"Whangapoua Estuary","lat":-36.145433,"lng":175.432666}
+{"id":"osm:node:8174699117","category":"viewpoint","name":"Lookout","lat":-36.154826,"lng":175.454217}
+{"id":"osm:node:8178419217","category":"viewpoint","lat":-36.069429,"lng":174.590811}
+{"id":"osm:node:8200239200","category":"viewpoint","lat":-39.132395,"lng":175.073397,"tags":{"description":"Blue Duck Falls"}}
+{"id":"osm:node:821372907","category":"viewpoint","lat":-37.079023,"lng":174.922473}
+{"id":"osm:node:8223434262","category":"viewpoint","lat":-36.790194,"lng":174.679726}
+{"id":"osm:node:8235940707","category":"viewpoint","lat":-38.341299,"lng":176.369915}
+{"id":"osm:node:8263302072","category":"viewpoint","lat":-36.932486,"lng":174.712828}
+{"id":"osm:node:8264635354","category":"viewpoint","lat":-37.015665,"lng":174.539685}
+{"id":"osm:node:8266234019","category":"viewpoint","lat":-38.731429,"lng":177.066437}
+{"id":"osm:node:8266244817","category":"viewpoint","lat":-38.79628,"lng":177.124546}
+{"id":"osm:node:8273320949","category":"viewpoint","lat":-37.951708,"lng":177.009421}
+{"id":"osm:node:8285634866","category":"viewpoint","lat":-41.285184,"lng":174.005504}
+{"id":"osm:node:8294868979","category":"viewpoint","lat":-40.744821,"lng":172.67094}
+{"id":"osm:node:8294988882","category":"viewpoint","lat":-40.751051,"lng":172.679348}
+{"id":"osm:node:8294988908","category":"viewpoint","lat":-40.746032,"lng":172.677093}
+{"id":"osm:node:8294988963","category":"viewpoint","lat":-40.744975,"lng":172.677282}
+{"id":"osm:node:8294989410","category":"viewpoint","name":"Rinonui Hill","lat":-40.745201,"lng":172.680287}
+{"id":"osm:node:8295272617","category":"viewpoint","lat":-37.95236,"lng":175.077097}
+{"id":"osm:node:8295431417","category":"viewpoint","lat":-37.992824,"lng":175.097995}
+{"id":"osm:node:8303777630","category":"viewpoint","name":"Eastern Hillside Lookout","lat":-39.064988,"lng":174.079544}
+{"id":"osm:node:830677052","category":"viewpoint","lat":-36.814933,"lng":174.430418}
+{"id":"osm:node:8332332028","category":"viewpoint","name":"Mataia Point","lat":-36.49541,"lng":174.421166}
+{"id":"osm:node:8332338596","category":"viewpoint","name":"Huikarokaro Pā","lat":-36.484896,"lng":174.41602}
+{"id":"osm:node:8332349194","category":"viewpoint","name":"Mataia Bay","lat":-36.493834,"lng":174.419792}
+{"id":"osm:node:8343160918","category":"viewpoint","name":"view point","lat":-38.880611,"lng":177.863966}
+{"id":"osm:node:8356441101","category":"viewpoint","name":"O'Neill Marriage Memorial","lat":-41.259336,"lng":174.780698}
+{"id":"osm:node:8356490224","category":"viewpoint","lat":-36.927934,"lng":174.712332}
+{"id":"osm:node:8365799020","category":"viewpoint","lat":-36.159711,"lng":174.649042}
+{"id":"osm:node:8369686958","category":"viewpoint","lat":-40.856263,"lng":172.729066}
+{"id":"osm:node:8369745677","category":"viewpoint","lat":-40.857853,"lng":172.729375}
+{"id":"osm:node:8382361780","category":"viewpoint","lat":-42.940381,"lng":171.561028}
+{"id":"osm:node:8402597973","category":"viewpoint","lat":-44.978019,"lng":168.858832}
+{"id":"osm:node:8433352757","category":"viewpoint","name":"Thorndon Lookout","lat":-41.278837,"lng":174.772156}
+{"id":"osm:node:843395630","category":"viewpoint","name":"Sugarloaf (Kaitoke Side)","lat":-36.258551,"lng":175.488088}
+{"id":"osm:node:843395633","category":"viewpoint","name":"Sugarloaf (Medlands Side)","lat":-36.259026,"lng":175.488188}
+{"id":"osm:node:843395647","category":"viewpoint","lat":-36.274407,"lng":175.489189}
+{"id":"osm:node:8434001070","category":"viewpoint","lat":-36.854823,"lng":174.87807}
+{"id":"osm:node:8444124919","category":"viewpoint","lat":-36.784005,"lng":175.016839}
+{"id":"osm:node:8447521528","category":"viewpoint","lat":-43.229608,"lng":171.715968}
+{"id":"osm:node:8448825117","category":"viewpoint","name":"Spooners Hill Lookout","lat":-39.124248,"lng":176.80743}
+{"id":"osm:node:8462734260","category":"viewpoint","name":"Greys Hill Lookout","lat":-38.593993,"lng":177.975263}
+{"id":"osm:node:848550697","category":"viewpoint","lat":-36.725541,"lng":174.69362}
+{"id":"osm:node:8498340217","category":"viewpoint","name":"Edwards Lookout","lat":-37.081518,"lng":175.645636}
+{"id":"osm:node:8499488123","category":"viewpoint","lat":-43.571858,"lng":172.716445}
+{"id":"osm:node:8505436226","category":"viewpoint","lat":-36.786698,"lng":174.996084}
+{"id":"osm:node:8530549545","category":"viewpoint","lat":-40.848105,"lng":174.915409}
+{"id":"osm:node:8577225540","category":"viewpoint","lat":-40.387639,"lng":175.615268}
+{"id":"osm:node:8588787124","category":"viewpoint","lat":-37.124514,"lng":175.688397}
+{"id":"osm:node:8592325958","category":"viewpoint","name":"Minefield Observation Post","lat":-36.829383,"lng":174.811593}
+{"id":"osm:node:860244425","category":"viewpoint","lat":-45.862658,"lng":170.523193}
+{"id":"osm:node:860260229","category":"viewpoint","lat":-45.832629,"lng":170.466319}
+{"id":"osm:node:8660827017","category":"viewpoint","name":"Kiwi Crèche - predator free area around the lake","lat":-39.148179,"lng":176.833353}
+{"id":"osm:node:8674569424","category":"viewpoint","lat":-41.2617,"lng":174.113151}
+{"id":"osm:node:8714153332","category":"viewpoint","name":"Frank's Cafe","lat":-39.153663,"lng":173.959732}
+{"id":"osm:node:871805006","category":"viewpoint","lat":-36.808408,"lng":174.752011}
+{"id":"osm:node:8784342821","category":"viewpoint","name":"Leslie's lookout","lat":-40.700812,"lng":172.682083}
+{"id":"osm:node:8813321418","category":"viewpoint","name":"Fred Ambler Lookout","lat":-36.848533,"lng":174.786276}
+{"id":"osm:node:8891565001","category":"viewpoint","name":"Toutouwai Hill Viewpoint","lat":-41.19439,"lng":174.803053}
+{"id":"osm:node:8949839860","category":"viewpoint","lat":-37.859835,"lng":175.532724}
+{"id":"osm:node:8953453227","category":"viewpoint","lat":-36.368012,"lng":174.832758}
+{"id":"osm:node:8985300842","category":"viewpoint","lat":-41.282751,"lng":174.779275}
+{"id":"osm:node:8985938063","category":"viewpoint","lat":-41.21231,"lng":174.824721}
+{"id":"osm:node:8998443970","category":"viewpoint","lat":-41.31659,"lng":174.807577}
+{"id":"osm:node:9035344898","category":"viewpoint","lat":-41.214511,"lng":174.84029}
+{"id":"osm:node:9035344899","category":"viewpoint","lat":-41.2154,"lng":174.839418}
+{"id":"osm:node:9068576032","category":"viewpoint","lat":-43.640722,"lng":172.624745}
+{"id":"osm:node:9072219993","category":"viewpoint","lat":-41.017898,"lng":174.913943}
+{"id":"osm:node:9072220038","category":"viewpoint","lat":-41.008841,"lng":174.923939}
+{"id":"osm:node:9106548062","category":"viewpoint","lat":-43.596026,"lng":172.720382}
+{"id":"osm:node:911058517","category":"viewpoint","lat":-44.694312,"lng":169.049111}
+{"id":"osm:node:9139203746","category":"viewpoint","lat":-41.257081,"lng":173.101318}
+{"id":"osm:node:9160157933","category":"viewpoint","lat":-43.467053,"lng":172.608239}
+{"id":"osm:node:9177819680","category":"viewpoint","lat":-43.603355,"lng":172.714778}
+{"id":"osm:node:9195562217","category":"viewpoint","lat":-39.761282,"lng":174.483925}
+{"id":"osm:node:9198799043","category":"viewpoint","name":"Shag Colonies","lat":-45.826764,"lng":170.630321}
+{"id":"osm:node:9198799044","category":"viewpoint","name":"Shag Colony","lat":-45.828925,"lng":170.637575}
+{"id":"osm:node:9211332131","category":"viewpoint","lat":-40.899696,"lng":176.231775}
+{"id":"osm:node:9239662629","category":"viewpoint","lat":-40.911486,"lng":176.21802}
+{"id":"osm:node:9239662723","category":"viewpoint","lat":-40.91075,"lng":176.219239}
+{"id":"osm:node:9269093677","category":"viewpoint","name":"Eye of the Needle","lat":-43.68942,"lng":172.709533}
+{"id":"osm:node:9285366416","category":"viewpoint","name":"Mount Dick Lookout","lat":-41.006141,"lng":175.435453}
+{"id":"osm:node:9285366724","category":"viewpoint","name":"Inwood Lookout","lat":-41.572683,"lng":172.937227}
+{"id":"osm:node:9285366725","category":"viewpoint","name":"Webber Lookout","lat":-40.942046,"lng":173.786125,"tags":{"wikidata":"Q128999341"}}
+{"id":"osm:node:9285366726","category":"viewpoint","name":"Bobs Lookout","lat":-41.024779,"lng":172.879674}
+{"id":"osm:node:9285399691","category":"viewpoint","name":"Whakamaru Lookout","lat":-38.393686,"lng":175.882557}
+{"id":"osm:node:9289332814","category":"viewpoint","lat":-36.774114,"lng":175.12334}
+{"id":"osm:node:9292054847","category":"viewpoint","lat":-36.842717,"lng":174.788299}
+{"id":"osm:node:9325783363","category":"viewpoint","name":"Rocky outcrop","lat":-45.081338,"lng":169.239356}
+{"id":"osm:node:9330794164","category":"viewpoint","lat":-37.067699,"lng":175.109304}
+{"id":"osm:node:9330939153","category":"viewpoint","lat":-36.824063,"lng":174.708554}
+{"id":"osm:node:9330939154","category":"viewpoint","lat":-36.824575,"lng":174.709386}
+{"id":"osm:node:9349891935","category":"viewpoint","lat":-36.76907,"lng":174.633991}
+{"id":"osm:node:9374668028","category":"viewpoint","lat":-40.996239,"lng":175.504401}
+{"id":"osm:node:937601374","category":"viewpoint","lat":-36.885234,"lng":174.985592}
+{"id":"osm:node:9377870674","category":"viewpoint","lat":-41.448729,"lng":175.237525}
+{"id":"osm:node:9377894880","category":"viewpoint","name":"Urban Eels","lat":-40.385064,"lng":175.597571}
+{"id":"osm:node:9382996556","category":"viewpoint","name":"Tokatū Point Lookout 2","lat":-36.365069,"lng":174.867113}
+{"id":"osm:node:9383153198","category":"viewpoint","name":"Queen Charlotte Sound Viewpoint","lat":-41.272751,"lng":174.004761}
+{"id":"osm:node:9384511492","category":"viewpoint","lat":-44.987989,"lng":168.671889}
+{"id":"osm:node:9385492270","category":"viewpoint","lat":-37.715577,"lng":176.320474}
+{"id":"osm:node:9391233257","category":"viewpoint","name":"Limestone Formations","lat":-45.801884,"lng":170.40117}
+{"id":"osm:node:9395873745","category":"viewpoint","lat":-43.157071,"lng":171.717807}
+{"id":"osm:node:9398187766","category":"viewpoint","lat":-38.978202,"lng":174.833939}
+{"id":"osm:node:9406774969","category":"viewpoint","lat":-37.08374,"lng":174.856647}
+{"id":"osm:node:9435807052","category":"viewpoint","lat":-36.995383,"lng":174.905391}
+{"id":"osm:node:9439057073","category":"viewpoint","lat":-39.361359,"lng":175.373766}
+{"id":"osm:node:9451468338","category":"viewpoint","lat":-41.155521,"lng":175.196433}
+{"id":"osm:node:9454476612","category":"viewpoint","lat":-42.674443,"lng":172.561473}
+{"id":"osm:node:9454534931","category":"viewpoint","name":"Grassy Knollw","lat":-42.661218,"lng":172.559073}
+{"id":"osm:node:9454535215","category":"viewpoint","lat":-42.676126,"lng":172.561237}
+{"id":"osm:node:9454843674","category":"viewpoint","lat":-42.698873,"lng":172.551981}
+{"id":"osm:node:9456872318","category":"viewpoint","lat":-42.716214,"lng":172.553972}
+{"id":"osm:node:9456903812","category":"viewpoint","lat":-42.736733,"lng":172.563925}
+{"id":"osm:node:9464705381","category":"viewpoint","lat":-36.656583,"lng":174.727823}
+{"id":"osm:node:9464705382","category":"viewpoint","lat":-36.65418,"lng":174.727848}
+{"id":"osm:node:9467138600","category":"viewpoint","lat":-36.812235,"lng":175.11798}
+{"id":"osm:node:9467210233","category":"viewpoint","lat":-36.778282,"lng":174.985054}
+{"id":"osm:node:9501770211","category":"viewpoint","lat":-36.960896,"lng":174.488663}
+{"id":"osm:node:9501770214","category":"viewpoint","lat":-36.960266,"lng":174.488503}
+{"id":"osm:node:9501770215","category":"viewpoint","lat":-36.9607,"lng":174.487923}
+{"id":"osm:node:9501946167","category":"viewpoint","lat":-42.34526,"lng":172.150271}
+{"id":"osm:node:9513062161","category":"viewpoint","lat":-40.372747,"lng":175.623651}
+{"id":"osm:node:9522571002","category":"viewpoint","lat":-36.842712,"lng":174.760181}
+{"id":"osm:node:9523637546","category":"viewpoint","lat":-40.375549,"lng":175.630289}
+{"id":"osm:node:9523713644","category":"viewpoint","lat":-40.370358,"lng":175.614238}
+{"id":"osm:node:953595128","category":"viewpoint","name":"Jenkins Hill","lat":-41.331675,"lng":173.280951,"tags":{"wikidata":"Q31469153"}}
+{"id":"osm:node:9538604693","category":"viewpoint","name":"Puke ō kai","lat":-36.820057,"lng":175.11382}
+{"id":"osm:node:9548591817","category":"viewpoint","lat":-41.813898,"lng":172.839356}
+{"id":"osm:node:9559214865","category":"viewpoint","lat":-36.839706,"lng":174.748179}
+{"id":"osm:node:9561516817","category":"viewpoint","name":"Rakaia Gorge lookout","lat":-43.516792,"lng":171.648909}
+{"id":"osm:node:956675607","category":"viewpoint","lat":-36.7833,"lng":174.734443}
+{"id":"osm:node:9572019859","category":"viewpoint","lat":-35.257302,"lng":174.131044}
+{"id":"osm:node:9576578130","category":"viewpoint","name":"Giant's stepe","lat":-39.151775,"lng":173.964824}
+{"id":"osm:node:9581632880","category":"viewpoint","lat":-36.832941,"lng":174.425982}
+{"id":"osm:node:9604754221","category":"viewpoint","lat":-36.91214,"lng":174.907134}
+{"id":"osm:node:9611904242","category":"viewpoint","lat":-36.837221,"lng":174.743115}
+{"id":"osm:node:9632905515","category":"viewpoint","lat":-38.467718,"lng":177.710521}
+{"id":"osm:node:964718450","category":"viewpoint","name":"Steel Mill Lookout","lat":-37.210934,"lng":174.735445}
+{"id":"osm:node:9650514721","category":"viewpoint","lat":-43.097285,"lng":172.863241}
+{"id":"osm:node:965827114","category":"viewpoint","name":"Pukekohe Hill","lat":-37.228905,"lng":174.893579}
+{"id":"osm:node:966701617","category":"viewpoint","lat":-37.246411,"lng":174.730524}
+{"id":"osm:node:9673221452","category":"viewpoint","lat":-36.9084,"lng":174.858765}
+{"id":"osm:node:9673221455","category":"viewpoint","lat":-36.90786,"lng":174.85829}
+{"id":"osm:node:9701754836","category":"viewpoint","lat":-36.829276,"lng":174.892884}
+{"id":"osm:node:9704921857","category":"viewpoint","lat":-36.822947,"lng":174.73431}
+{"id":"osm:node:9706308292","category":"viewpoint","name":"Big Pine Lookout","lat":-43.81272,"lng":172.958566}
+{"id":"osm:node:9708336391","category":"viewpoint","lat":-45.808153,"lng":170.628088}
+{"id":"osm:node:972094555","category":"viewpoint","name":"Mangagataururu","lat":-36.748286,"lng":175.537347}
+{"id":"osm:node:972123054","category":"viewpoint","name":"Lake Taupo Scenic Lookout","lat":-38.739016,"lng":176.070812}
+{"id":"osm:node:974031533","category":"viewpoint","name":"Haast Pass lookout","lat":-44.105922,"lng":169.351975}
+{"id":"osm:node:974061501","category":"viewpoint","lat":-44.368526,"lng":169.178383}
+{"id":"osm:node:974061512","category":"viewpoint","name":"Lake Hawea lookout (#16)","lat":-44.508161,"lng":169.247277}
+{"id":"osm:node:974098906","category":"viewpoint","name":"Crown Range Summit","lat":-44.992512,"lng":168.938519}
+{"id":"osm:node:974189936","category":"viewpoint","name":"Taiaroa Albatross Colony","lat":-45.776495,"lng":170.728269}
+{"id":"osm:node:974190315","category":"viewpoint","name":"Small Pyramid","lat":-45.823872,"lng":170.721777}
+{"id":"osm:node:974263936","category":"viewpoint","lat":-43.749432,"lng":172.869577}
+{"id":"osm:node:9760843813","category":"viewpoint","lat":-35.216856,"lng":173.963616,"tags":{"access":"customers"}}
+{"id":"osm:node:9770949098","category":"viewpoint","lat":-45.359229,"lng":170.419959}
+{"id":"osm:node:9778419125","category":"viewpoint","lat":-35.120722,"lng":173.975214}
+{"id":"osm:node:9832322335","category":"viewpoint","lat":-37.008223,"lng":174.589944}
+{"id":"osm:node:9849167772","category":"viewpoint","lat":-36.805716,"lng":174.735648}
+{"id":"osm:node:9863015519","category":"viewpoint","lat":-35.951303,"lng":173.743161}
+{"id":"osm:node:988520412","category":"viewpoint","name":"Coppermine Saddle","lat":-41.345998,"lng":173.357275}
+{"id":"osm:node:9889104583","category":"viewpoint","lat":-38.494846,"lng":175.203425}
+{"id":"osm:node:9928244721","category":"viewpoint","lat":-41.439285,"lng":175.217217}
+{"id":"osm:node:9948919902","category":"viewpoint","lat":-36.851984,"lng":174.762683}
+{"id":"osm:node:9952082854","category":"viewpoint","lat":-36.788268,"lng":175.077914}
+{"id":"osm:node:9966602544","category":"viewpoint","lat":-36.499291,"lng":174.799843}
+{"id":"osm:node:9968996970","category":"viewpoint","lat":-36.505025,"lng":174.79404}
+{"id":"osm:relation:14937129","category":"viewpoint","lat":-36.840446,"lng":174.759642,"tags":{"wheelchair":"yes","access":"yes","description":"Public viewing deck, accessible by stairs"}}
+{"id":"osm:relation:18994389","category":"viewpoint","name":"Frying Pan Flat","lat":-38.362089,"lng":176.368705}
+{"id":"osm:way:1149042241","category":"viewpoint","lat":-36.934196,"lng":174.735483}
+{"id":"osm:way:1337076140","category":"viewpoint","name":"Ship Creek Tauparikākā Viewing Tower","lat":-43.75771,"lng":169.147986,"tags":{"wheelchair":"no","access":"yes"}}
+{"id":"osm:way:1391543924","category":"viewpoint","lat":-41.296159,"lng":174.740014}
+{"id":"osm:way:1464582648","category":"viewpoint","lat":-41.297856,"lng":174.743978,"tags":{"wheelchair":"no"}}
+{"id":"osm:way:26586981","category":"viewpoint","name":"Upper Gondola Station","lat":-43.589484,"lng":172.716538,"tags":{"wheelchair":"no"}}
+{"id":"osm:way:32078020","category":"viewpoint","name":"The Quarterdeck Lookout","lat":-41.108212,"lng":174.891983}
+{"id":"osm:way:391692837","category":"viewpoint","name":"Rotary Viewing Platform","lat":-42.469043,"lng":171.194343}
+{"id":"osm:way:493172215","category":"viewpoint","lat":-43.536916,"lng":172.735735}
+{"id":"osm:way:680435371","category":"viewpoint","lat":-43.606261,"lng":172.731188}
+{"id":"osm:way:783233581","category":"viewpoint","lat":-43.761453,"lng":169.145255}
+{"id":"osm:way:783233583","category":"viewpoint","lat":-43.760197,"lng":169.144736}
+{"id":"osm:way:783233587","category":"viewpoint","lat":-43.758243,"lng":169.146616}
+{"id":"osm:way:892117150","category":"viewpoint","name":"Lookout Tower","lat":-35.663626,"lng":173.563929}

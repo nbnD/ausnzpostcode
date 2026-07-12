@@ -3,6 +3,8 @@ import { notFound } from "next/navigation";
 import { PostcodeDetailPage } from "@/components/PostcodeDetailPage";
 import { findPostcode, getCountryPostcodes, getDisplayLocality, getLocalitySummary } from "@/data/postcodes";
 import { createMetadata } from "@/lib/metadata";
+import { getPoiCountsForPostcode } from "@/lib/poi-data";
+import { buildPoiMetaDescription } from "@/lib/poi-seo";
 
 type Params = { postcode: string };
 
@@ -22,9 +24,17 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
     });
   }
 
+  const baseDescription = `Postcode ${postcode.code} covers ${getLocalitySummary(postcode)} in ${postcode.stateFull}. Browse map, nearby postcodes, and FAQs.`;
+
   return createMetadata({
     title: `${postcode.code} Postcode - ${getDisplayLocality(postcode)} ${postcode.state}`,
-    description: `Postcode ${postcode.code} covers ${getLocalitySummary(postcode)} in ${postcode.stateFull}. Browse map, nearby postcodes, and FAQs.`,
+    description: buildPoiMetaDescription({
+      postcode: postcode.code,
+      locality: getDisplayLocality(postcode),
+      stateFull: postcode.stateFull,
+      baseDescription,
+      counts: getPoiCountsForPostcode("au", postcode.code)
+    }),
     path: `/au/postcode/${postcode.code}`
   });
 }

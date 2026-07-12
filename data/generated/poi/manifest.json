@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": "poi-v1-6e608545b1ac",
+  "generatedAt": "2026-07-12T03:45:17.273Z",
+  "source": "OpenStreetMap contributors",
+  "licence": "Open Database License (ODbL)",
+  "attribution": "Place data © OpenStreetMap contributors, available under the Open Database License.",
+  "countries": [
+    "au",
+    "nz"
+  ],
+  "approvedCategories": [
+    "dog-park",
+    "museum",
+    "park",
+    "picnic-site",
+    "playground",
+    "public-bbq",
+    "viewpoint"
+  ],
+  "configuredCategoryRadiiKm": {
+    "public-bbq": 5,
+    "park": 5,
+    "dog-park": 8,
+    "playground": 5,
+    "picnic-site": 10,
+    "viewpoint": 20,
+    "museum": 15
+  },
+  "configuredPerCategoryLimit": 10,
+  "configuredTotalPostcodeLimit": 30,
+  "includeUnreferencedPois": false,
+  "normalisedPoisProcessed": 112857,
+  "uniquePoisReferenced": 47267,
+  "uniquePoisEmitted": 47267,
+  "unreferencedPoisExcluded": 65590,
+  "unreferencedPoisExcludedByCountry": {
+    "au": 59340,
+    "nz": 6250
+  },
+  "unreferencedPoisExcludedByCountryAndCategory": {
+    "au": {
+      "viewpoint": 3549,
+      "park": 37360,
+      "public-bbq": 3657,
+      "playground": 11968,
+      "picnic-site": 2164,
+      "museum": 426,
+      "dog-park": 216
+    },
+    "nz": {
+      "viewpoint": 401,
+      "picnic-site": 90,
+      "park": 4219,
+      "public-bbq": 71,
+      "playground": 1463,
+      "museum": 5,
+      "dog-park": 1
+    }
+  },
+  "uniquePoisByCountry": {
+    "au": 34483,
+    "nz": 12784
+  },
+  "uniquePoisByCountryAndCategory": {
+    "au": {
+      "dog-park": 731,
+      "museum": 1039,
+      "park": 12733,
+      "picnic-site": 2291,
+      "playground": 9764,
+      "public-bbq": 3409,
+      "viewpoint": 4516
+    },
+    "nz": {
+      "dog-park": 90,
+      "museum": 316,
+      "park": 5666,
+      "picnic-site": 491,
+      "playground": 4128,
+      "public-bbq": 414,
+      "viewpoint": 1679
+    }
+  },
+  "totalPostcodeReferences": 88693,
+  "postcodeReferencesByCountry": {
+    "au": 58249,
+    "nz": 30444
+  },
+  "postcodeCountWithReferences": {
+    "au": 2806,
+    "nz": 1654
+  },
+  "postcodeCountWithoutReferences": {
+    "au": 368,
+    "nz": 68
+  },
+  "partitionFileCount": 20,
+  "totalGeneratedBytes": 16273084,
+  "bytesByCountry": {
+    "au": 11038120,
+    "nz": 5230588
+  },
+  "bytesByOutputType": {
+    "places": 4975041,
+    "postcodeRefs": 11293667,
+    "reports": 4376
+  },
+  "largestGeneratedFile": {
+    "path": "au/postcode-refs/2.json",
+    "bytes": 1693990
+  }
+}
