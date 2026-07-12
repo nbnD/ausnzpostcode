@@ -1,0 +1,20 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": false,
+    "outDir": ".tmp-tests",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "jsx": "react-jsx"
+  },
+  "include": [
+    "lib/poi-data.ts",
+    "lib/poi-seo.ts",
+    "lib/schema.ts",
+    "components/NearbyPoiSection.tsx",
+    "tests/**/*.test.tsx"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

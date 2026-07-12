@@ -1,0 +1,4074 @@
+{
+  "schemaVersion": 1,
+  "country": "au",
+  "partition": "8",
+  "postcodes": {
+    "8001": {
+      "locality": "MELBOURNE",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:4817020",
+          "category": "park",
+          "distanceKm": 0.14
+        },
+        {
+          "id": "osm:way:154434095",
+          "category": "park",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:node:2182908994",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:way:972298801",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:node:3608381828",
+          "category": "public-bbq",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:3608381832",
+          "category": "public-bbq",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:355228932",
+          "category": "picnic-site",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:972298752",
+          "category": "playground",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:991677879",
+          "category": "playground",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:22562116",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:node:4867867750",
+          "category": "public-bbq",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:node:4469617901",
+          "category": "museum",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:131707394",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:9135519890",
+          "category": "museum",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:way:154434398",
+          "category": "park",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:22562115",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:35602986",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:4817097",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:5305688021",
+          "category": "viewpoint",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:40337821",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:1119097606",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:594365265",
+          "category": "museum",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:7042911615",
+          "category": "picnic-site",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:978940819",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:node:577520970",
+          "category": "viewpoint",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:7042968025",
+          "category": "picnic-site",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:7042968027",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:9162430112",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:595504813",
+          "category": "museum",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:node:13588874261",
+          "category": "viewpoint",
+          "distanceKm": 0.9
+        }
+      ]
+    },
+    "8002": {
+      "locality": "EAST MELBOURNE",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:4817020",
+          "category": "park",
+          "distanceKm": 0.14
+        },
+        {
+          "id": "osm:way:154434095",
+          "category": "park",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:node:2182908994",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:way:972298801",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:node:3608381828",
+          "category": "public-bbq",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:3608381832",
+          "category": "public-bbq",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:355228932",
+          "category": "picnic-site",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:972298752",
+          "category": "playground",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:991677879",
+          "category": "playground",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:22562116",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:node:4867867750",
+          "category": "public-bbq",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:node:4469617901",
+          "category": "museum",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:131707394",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:9135519890",
+          "category": "museum",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:way:154434398",
+          "category": "park",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:22562115",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:35602986",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:4817097",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:5305688021",
+          "category": "viewpoint",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:40337821",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:1119097606",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:594365265",
+          "category": "museum",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:7042911615",
+          "category": "picnic-site",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:978940819",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:node:577520970",
+          "category": "viewpoint",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:7042968025",
+          "category": "picnic-site",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:7042968027",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:9162430112",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:595504813",
+          "category": "museum",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:node:13588874261",
+          "category": "viewpoint",
+          "distanceKm": 0.9
+        }
+      ]
+    },
+    "8003": {
+      "locality": "COLLINS STREET EAST",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:900738753",
+          "category": "park",
+          "distanceKm": 0.28
+        },
+        {
+          "id": "osm:way:972303149",
+          "category": "park",
+          "distanceKm": 0.3
+        },
+        {
+          "id": "osm:way:14251243",
+          "category": "museum",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:node:13695001544",
+          "category": "public-bbq",
+          "distanceKm": 0.32
+        },
+        {
+          "id": "osm:way:27462510",
+          "category": "park",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:2696065819",
+          "category": "public-bbq",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:way:1503970242",
+          "category": "park",
+          "distanceKm": 0.42
+        },
+        {
+          "id": "osm:way:1498379390",
+          "category": "park",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:node:611984584",
+          "category": "museum",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:relation:20445760",
+          "category": "park",
+          "distanceKm": 0.49
+        },
+        {
+          "id": "osm:way:738054855",
+          "category": "park",
+          "distanceKm": 0.49
+        },
+        {
+          "id": "osm:way:1019278275",
+          "category": "park",
+          "distanceKm": 0.56
+        },
+        {
+          "id": "osm:way:154297116",
+          "category": "park",
+          "distanceKm": 0.62
+        },
+        {
+          "id": "osm:way:1470001597",
+          "category": "park",
+          "distanceKm": 0.67
+        },
+        {
+          "id": "osm:node:13778410273",
+          "category": "museum",
+          "distanceKm": 0.68
+        },
+        {
+          "id": "osm:node:6241052924",
+          "category": "public-bbq",
+          "distanceKm": 0.71
+        },
+        {
+          "id": "osm:node:2421613409",
+          "category": "viewpoint",
+          "distanceKm": 0.73
+        },
+        {
+          "id": "osm:way:1493604102",
+          "category": "playground",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:13783336411",
+          "category": "museum",
+          "distanceKm": 0.81
+        },
+        {
+          "id": "osm:way:1489355344",
+          "category": "playground",
+          "distanceKm": 0.86
+        },
+        {
+          "id": "osm:node:5479217021",
+          "category": "viewpoint",
+          "distanceKm": 0.92
+        },
+        {
+          "id": "osm:way:42555579",
+          "category": "playground",
+          "distanceKm": 0.93
+        },
+        {
+          "id": "osm:node:13706473901",
+          "category": "viewpoint",
+          "distanceKm": 0.94
+        },
+        {
+          "id": "osm:node:3105262652",
+          "category": "viewpoint",
+          "distanceKm": 0.95
+        },
+        {
+          "id": "osm:node:531390735",
+          "category": "public-bbq",
+          "distanceKm": 0.95
+        },
+        {
+          "id": "osm:node:6743435161",
+          "category": "public-bbq",
+          "distanceKm": 0.96
+        },
+        {
+          "id": "osm:node:13739870317",
+          "category": "museum",
+          "distanceKm": 0.97
+        },
+        {
+          "id": "osm:node:6743435099",
+          "category": "public-bbq",
+          "distanceKm": 0.97
+        },
+        {
+          "id": "osm:node:3557255800",
+          "category": "viewpoint",
+          "distanceKm": 0.98
+        },
+        {
+          "id": "osm:way:505273480",
+          "category": "playground",
+          "distanceKm": 0.99
+        }
+      ]
+    },
+    "8004": {
+      "locality": "ST KILDA ROAD",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:node:13915792128",
+          "category": "viewpoint",
+          "distanceKm": 19.4
+        }
+      ]
+    },
+    "8005": {
+      "locality": "WORLD TRADE CENTRE",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:1493604102",
+          "category": "playground",
+          "distanceKm": 0.17
+        },
+        {
+          "id": "osm:way:1494569679",
+          "category": "park",
+          "distanceKm": 0.18
+        },
+        {
+          "id": "osm:way:154297021",
+          "category": "park",
+          "distanceKm": 0.33
+        },
+        {
+          "id": "osm:node:13783336411",
+          "category": "museum",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:node:531390735",
+          "category": "public-bbq",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:44158379",
+          "category": "park",
+          "distanceKm": 0.44
+        },
+        {
+          "id": "osm:way:1498379390",
+          "category": "park",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:way:42555579",
+          "category": "playground",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:way:705895520",
+          "category": "park",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:way:965334504",
+          "category": "park",
+          "distanceKm": 0.48
+        },
+        {
+          "id": "osm:relation:20445760",
+          "category": "park",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:70807729",
+          "category": "park",
+          "distanceKm": 0.55
+        },
+        {
+          "id": "osm:node:6743435161",
+          "category": "public-bbq",
+          "distanceKm": 0.56
+        },
+        {
+          "id": "osm:way:1330678694",
+          "category": "playground",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:27462510",
+          "category": "park",
+          "distanceKm": 0.59
+        },
+        {
+          "id": "osm:way:44158378",
+          "category": "park",
+          "distanceKm": 0.62
+        },
+        {
+          "id": "osm:node:2696065819",
+          "category": "public-bbq",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:node:6699781924",
+          "category": "public-bbq",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:node:6743435099",
+          "category": "public-bbq",
+          "distanceKm": 0.69
+        },
+        {
+          "id": "osm:node:6699795769",
+          "category": "public-bbq",
+          "distanceKm": 0.7
+        },
+        {
+          "id": "osm:node:6699795706",
+          "category": "playground",
+          "distanceKm": 0.73
+        },
+        {
+          "id": "osm:node:5189608671",
+          "category": "public-bbq",
+          "distanceKm": 0.81
+        },
+        {
+          "id": "osm:way:975397189",
+          "category": "playground",
+          "distanceKm": 0.86
+        },
+        {
+          "id": "osm:node:6680961971",
+          "category": "public-bbq",
+          "distanceKm": 0.87
+        },
+        {
+          "id": "osm:node:13695001544",
+          "category": "public-bbq",
+          "distanceKm": 0.94
+        },
+        {
+          "id": "osm:node:3807932524",
+          "category": "public-bbq",
+          "distanceKm": 0.96
+        },
+        {
+          "id": "osm:way:859052999",
+          "category": "playground",
+          "distanceKm": 0.97
+        },
+        {
+          "id": "osm:way:859052998",
+          "category": "playground",
+          "distanceKm": 0.98
+        },
+        {
+          "id": "osm:way:14251243",
+          "category": "museum",
+          "distanceKm": 1.03
+        },
+        {
+          "id": "osm:node:3665378447",
+          "category": "playground",
+          "distanceKm": 1.2
+        }
+      ]
+    },
+    "8006": {
+      "locality": "ABECKETT STREET",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:1230755650",
+          "category": "park",
+          "distanceKm": 0.18
+        },
+        {
+          "id": "osm:way:1302952767",
+          "category": "park",
+          "distanceKm": 0.18
+        },
+        {
+          "id": "osm:node:13778410273",
+          "category": "museum",
+          "distanceKm": 0.34
+        },
+        {
+          "id": "osm:node:13704794918",
+          "category": "museum",
+          "distanceKm": 0.35
+        },
+        {
+          "id": "osm:node:703548449",
+          "category": "public-bbq",
+          "distanceKm": 0.39
+        },
+        {
+          "id": "osm:way:505273480",
+          "category": "playground",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:4817082",
+          "category": "park",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:47968100",
+          "category": "park",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:47968103",
+          "category": "park",
+          "distanceKm": 0.44
+        },
+        {
+          "id": "osm:way:47968101",
+          "category": "park",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:node:3101319430",
+          "category": "museum",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:47968104",
+          "category": "park",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:233484534",
+          "category": "park",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:node:3105262652",
+          "category": "viewpoint",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:way:738054855",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:way:32710367",
+          "category": "park",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:837487910",
+          "category": "playground",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:837487908",
+          "category": "playground",
+          "distanceKm": 0.75
+        },
+        {
+          "id": "osm:node:611984584",
+          "category": "museum",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:way:552522220",
+          "category": "playground",
+          "distanceKm": 0.82
+        },
+        {
+          "id": "osm:way:46197639",
+          "category": "museum",
+          "distanceKm": 0.88
+        },
+        {
+          "id": "osm:node:6248422584",
+          "category": "public-bbq",
+          "distanceKm": 0.99
+        },
+        {
+          "id": "osm:way:14251243",
+          "category": "museum",
+          "distanceKm": 1.05
+        },
+        {
+          "id": "osm:node:2337234744",
+          "category": "museum",
+          "distanceKm": 1.13
+        },
+        {
+          "id": "osm:node:13197097301",
+          "category": "viewpoint",
+          "distanceKm": 1.15
+        },
+        {
+          "id": "osm:node:13695001544",
+          "category": "public-bbq",
+          "distanceKm": 1.15
+        },
+        {
+          "id": "osm:node:11610094118",
+          "category": "viewpoint",
+          "distanceKm": 1.2
+        },
+        {
+          "id": "osm:node:2421613409",
+          "category": "viewpoint",
+          "distanceKm": 1.2
+        },
+        {
+          "id": "osm:node:6546305357",
+          "category": "public-bbq",
+          "distanceKm": 1.2
+        },
+        {
+          "id": "osm:way:22963244",
+          "category": "museum",
+          "distanceKm": 1.23
+        }
+      ]
+    },
+    "8007": {
+      "locality": "COLLINS STREET WEST",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:900738753",
+          "category": "park",
+          "distanceKm": 0.28
+        },
+        {
+          "id": "osm:way:972303149",
+          "category": "park",
+          "distanceKm": 0.3
+        },
+        {
+          "id": "osm:way:14251243",
+          "category": "museum",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:node:13695001544",
+          "category": "public-bbq",
+          "distanceKm": 0.32
+        },
+        {
+          "id": "osm:way:27462510",
+          "category": "park",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:2696065819",
+          "category": "public-bbq",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:way:1503970242",
+          "category": "park",
+          "distanceKm": 0.42
+        },
+        {
+          "id": "osm:way:1498379390",
+          "category": "park",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:node:611984584",
+          "category": "museum",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:relation:20445760",
+          "category": "park",
+          "distanceKm": 0.49
+        },
+        {
+          "id": "osm:way:738054855",
+          "category": "park",
+          "distanceKm": 0.49
+        },
+        {
+          "id": "osm:way:1019278275",
+          "category": "park",
+          "distanceKm": 0.56
+        },
+        {
+          "id": "osm:way:154297116",
+          "category": "park",
+          "distanceKm": 0.62
+        },
+        {
+          "id": "osm:way:1470001597",
+          "category": "park",
+          "distanceKm": 0.67
+        },
+        {
+          "id": "osm:node:13778410273",
+          "category": "museum",
+          "distanceKm": 0.68
+        },
+        {
+          "id": "osm:node:6241052924",
+          "category": "public-bbq",
+          "distanceKm": 0.71
+        },
+        {
+          "id": "osm:node:2421613409",
+          "category": "viewpoint",
+          "distanceKm": 0.73
+        },
+        {
+          "id": "osm:way:1493604102",
+          "category": "playground",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:13783336411",
+          "category": "museum",
+          "distanceKm": 0.81
+        },
+        {
+          "id": "osm:way:1489355344",
+          "category": "playground",
+          "distanceKm": 0.86
+        },
+        {
+          "id": "osm:node:5479217021",
+          "category": "viewpoint",
+          "distanceKm": 0.92
+        },
+        {
+          "id": "osm:way:42555579",
+          "category": "playground",
+          "distanceKm": 0.93
+        },
+        {
+          "id": "osm:node:13706473901",
+          "category": "viewpoint",
+          "distanceKm": 0.94
+        },
+        {
+          "id": "osm:node:3105262652",
+          "category": "viewpoint",
+          "distanceKm": 0.95
+        },
+        {
+          "id": "osm:node:531390735",
+          "category": "public-bbq",
+          "distanceKm": 0.95
+        },
+        {
+          "id": "osm:node:6743435161",
+          "category": "public-bbq",
+          "distanceKm": 0.96
+        },
+        {
+          "id": "osm:node:13739870317",
+          "category": "museum",
+          "distanceKm": 0.97
+        },
+        {
+          "id": "osm:node:6743435099",
+          "category": "public-bbq",
+          "distanceKm": 0.97
+        },
+        {
+          "id": "osm:node:3557255800",
+          "category": "viewpoint",
+          "distanceKm": 0.98
+        },
+        {
+          "id": "osm:way:505273480",
+          "category": "playground",
+          "distanceKm": 0.99
+        }
+      ]
+    },
+    "8008": {
+      "locality": "ST KILDA ROAD CENTRAL",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:15865305",
+          "category": "park",
+          "distanceKm": 0.18
+        },
+        {
+          "id": "osm:way:1000251760",
+          "category": "playground",
+          "distanceKm": 0.34
+        },
+        {
+          "id": "osm:way:45119493",
+          "category": "playground",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:1013638585",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:26353084",
+          "category": "park",
+          "distanceKm": 0.64
+        },
+        {
+          "id": "osm:way:154151768",
+          "category": "playground",
+          "distanceKm": 0.64
+        },
+        {
+          "id": "osm:node:577243374",
+          "category": "picnic-site",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:1668364752",
+          "category": "playground",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:node:4804794189",
+          "category": "public-bbq",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:node:582785631",
+          "category": "playground",
+          "distanceKm": 0.67
+        },
+        {
+          "id": "osm:node:4804794180",
+          "category": "public-bbq",
+          "distanceKm": 0.68
+        },
+        {
+          "id": "osm:way:1010839771",
+          "category": "park",
+          "distanceKm": 0.77
+        },
+        {
+          "id": "osm:way:988491521",
+          "category": "park",
+          "distanceKm": 0.86
+        },
+        {
+          "id": "osm:node:9136795269",
+          "category": "public-bbq",
+          "distanceKm": 0.87
+        },
+        {
+          "id": "osm:node:9136795270",
+          "category": "public-bbq",
+          "distanceKm": 0.87
+        },
+        {
+          "id": "osm:way:871723898",
+          "category": "park",
+          "distanceKm": 0.98
+        },
+        {
+          "id": "osm:way:871723899",
+          "category": "playground",
+          "distanceKm": 0.98
+        },
+        {
+          "id": "osm:way:43825226",
+          "category": "park",
+          "distanceKm": 0.99
+        },
+        {
+          "id": "osm:way:32773304",
+          "category": "park",
+          "distanceKm": 1
+        },
+        {
+          "id": "osm:node:369114285",
+          "category": "playground",
+          "distanceKm": 1
+        },
+        {
+          "id": "osm:way:905625015",
+          "category": "park",
+          "distanceKm": 1.01
+        },
+        {
+          "id": "osm:node:12422143213",
+          "category": "public-bbq",
+          "distanceKm": 1.05
+        },
+        {
+          "id": "osm:way:33191959",
+          "category": "park",
+          "distanceKm": 1.06
+        },
+        {
+          "id": "osm:node:13416782802",
+          "category": "playground",
+          "distanceKm": 1.07
+        },
+        {
+          "id": "osm:node:12423592433",
+          "category": "public-bbq",
+          "distanceKm": 1.08
+        },
+        {
+          "id": "osm:node:12423592434",
+          "category": "public-bbq",
+          "distanceKm": 1.08
+        },
+        {
+          "id": "osm:node:4548871073",
+          "category": "playground",
+          "distanceKm": 1.1
+        },
+        {
+          "id": "osm:node:4548871072",
+          "category": "playground",
+          "distanceKm": 1.12
+        },
+        {
+          "id": "osm:node:4548871091",
+          "category": "public-bbq",
+          "distanceKm": 1.14
+        },
+        {
+          "id": "osm:node:10872745800",
+          "category": "picnic-site",
+          "distanceKm": 1.36
+        }
+      ]
+    },
+    "8009": {
+      "locality": "FLINDERS LANE",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:node:611984584",
+          "category": "museum",
+          "distanceKm": 0.24
+        },
+        {
+          "id": "osm:node:2421613409",
+          "category": "viewpoint",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:way:154297117",
+          "category": "park",
+          "distanceKm": 0.34
+        },
+        {
+          "id": "osm:node:5479217021",
+          "category": "viewpoint",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:3557255800",
+          "category": "viewpoint",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:way:154297116",
+          "category": "park",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:way:900738753",
+          "category": "park",
+          "distanceKm": 0.39
+        },
+        {
+          "id": "osm:node:9298174575",
+          "category": "viewpoint",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:node:13706473901",
+          "category": "viewpoint",
+          "distanceKm": 0.41
+        },
+        {
+          "id": "osm:way:22963244",
+          "category": "museum",
+          "distanceKm": 0.41
+        },
+        {
+          "id": "osm:way:712600677",
+          "category": "park",
+          "distanceKm": 0.41
+        },
+        {
+          "id": "osm:node:13739870317",
+          "category": "museum",
+          "distanceKm": 0.42
+        },
+        {
+          "id": "osm:node:5724989221",
+          "category": "museum",
+          "distanceKm": 0.42
+        },
+        {
+          "id": "osm:way:14251243",
+          "category": "museum",
+          "distanceKm": 0.42
+        },
+        {
+          "id": "osm:way:1017759355",
+          "category": "park",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:1019278275",
+          "category": "park",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:1481647414",
+          "category": "park",
+          "distanceKm": 0.44
+        },
+        {
+          "id": "osm:way:712600675",
+          "category": "park",
+          "distanceKm": 0.44
+        },
+        {
+          "id": "osm:node:6241052924",
+          "category": "public-bbq",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:way:1019278277",
+          "category": "park",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:way:22963243",
+          "category": "museum",
+          "distanceKm": 0.48
+        },
+        {
+          "id": "osm:way:1481647412",
+          "category": "park",
+          "distanceKm": 0.48
+        },
+        {
+          "id": "osm:node:13695001544",
+          "category": "public-bbq",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:node:3105262652",
+          "category": "viewpoint",
+          "distanceKm": 0.56
+        },
+        {
+          "id": "osm:way:1481639792",
+          "category": "playground",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:3412531090",
+          "category": "museum",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:1489355344",
+          "category": "playground",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:13704794918",
+          "category": "museum",
+          "distanceKm": 0.76
+        },
+        {
+          "id": "osm:node:2696065819",
+          "category": "public-bbq",
+          "distanceKm": 0.82
+        },
+        {
+          "id": "osm:way:46197639",
+          "category": "museum",
+          "distanceKm": 0.83
+        }
+      ]
+    },
+    "8010": {
+      "locality": "LAW COURTS",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:node:12960413147",
+          "category": "playground",
+          "distanceKm": 0.16
+        },
+        {
+          "id": "osm:way:1409411604",
+          "category": "park",
+          "distanceKm": 0.21
+        },
+        {
+          "id": "osm:way:1408246424",
+          "category": "park",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:12960598774",
+          "category": "playground",
+          "distanceKm": 0.76
+        },
+        {
+          "id": "osm:way:1410490896",
+          "category": "park",
+          "distanceKm": 0.78
+        },
+        {
+          "id": "osm:way:105243013",
+          "category": "park",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:way:1396829471",
+          "category": "park",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:node:12960596399",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:way:1396829469",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:way:1392085470",
+          "category": "park",
+          "distanceKm": 0.98
+        },
+        {
+          "id": "osm:way:1392456811",
+          "category": "park",
+          "distanceKm": 1.04
+        },
+        {
+          "id": "osm:way:107138753",
+          "category": "park",
+          "distanceKm": 1.07
+        },
+        {
+          "id": "osm:way:1392090671",
+          "category": "playground",
+          "distanceKm": 1.08
+        },
+        {
+          "id": "osm:way:1392090666",
+          "category": "park",
+          "distanceKm": 1.1
+        },
+        {
+          "id": "osm:way:612538539",
+          "category": "playground",
+          "distanceKm": 1.13
+        },
+        {
+          "id": "osm:way:1395884875",
+          "category": "park",
+          "distanceKm": 1.28
+        },
+        {
+          "id": "osm:way:1395663969",
+          "category": "playground",
+          "distanceKm": 1.3
+        },
+        {
+          "id": "osm:way:1396762457",
+          "category": "playground",
+          "distanceKm": 1.3
+        },
+        {
+          "id": "osm:node:12882280523",
+          "category": "playground",
+          "distanceKm": 1.62
+        },
+        {
+          "id": "osm:node:12732264504",
+          "category": "playground",
+          "distanceKm": 1.93
+        },
+        {
+          "id": "osm:node:935714826",
+          "category": "viewpoint",
+          "distanceKm": 2.57
+        },
+        {
+          "id": "osm:node:4416164289",
+          "category": "viewpoint",
+          "distanceKm": 3.26
+        },
+        {
+          "id": "osm:node:12327722343",
+          "category": "public-bbq",
+          "distanceKm": 3.8
+        },
+        {
+          "id": "osm:node:10220816217",
+          "category": "public-bbq",
+          "distanceKm": 4.11
+        },
+        {
+          "id": "osm:node:4338608489",
+          "category": "museum",
+          "distanceKm": 7.12
+        },
+        {
+          "id": "osm:node:4143767589",
+          "category": "picnic-site",
+          "distanceKm": 9.04
+        },
+        {
+          "id": "osm:way:209919160",
+          "category": "museum",
+          "distanceKm": 12.48
+        },
+        {
+          "id": "osm:node:10857348215",
+          "category": "viewpoint",
+          "distanceKm": 12.84
+        },
+        {
+          "id": "osm:node:264201798",
+          "category": "viewpoint",
+          "distanceKm": 14.23
+        },
+        {
+          "id": "osm:node:264201779",
+          "category": "viewpoint",
+          "distanceKm": 14.26
+        }
+      ]
+    },
+    "8011": {
+      "locality": "LITTLE LONSDALE STREET",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:node:13704794918",
+          "category": "museum",
+          "distanceKm": 0.16
+        },
+        {
+          "id": "osm:node:3105262652",
+          "category": "viewpoint",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:way:47968101",
+          "category": "park",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:way:47968100",
+          "category": "park",
+          "distanceKm": 0.27
+        },
+        {
+          "id": "osm:way:47968104",
+          "category": "park",
+          "distanceKm": 0.27
+        },
+        {
+          "id": "osm:way:47968103",
+          "category": "park",
+          "distanceKm": 0.29
+        },
+        {
+          "id": "osm:node:13778410273",
+          "category": "museum",
+          "distanceKm": 0.42
+        },
+        {
+          "id": "osm:way:233484534",
+          "category": "park",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:1302952767",
+          "category": "park",
+          "distanceKm": 0.45
+        },
+        {
+          "id": "osm:way:1230755650",
+          "category": "park",
+          "distanceKm": 0.46
+        },
+        {
+          "id": "osm:node:3101319430",
+          "category": "museum",
+          "distanceKm": 0.56
+        },
+        {
+          "id": "osm:way:32710367",
+          "category": "park",
+          "distanceKm": 0.56
+        },
+        {
+          "id": "osm:way:1261367184",
+          "category": "park",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:node:611984584",
+          "category": "museum",
+          "distanceKm": 0.59
+        },
+        {
+          "id": "osm:node:703548449",
+          "category": "public-bbq",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:4817082",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:way:505273480",
+          "category": "playground",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:way:46197639",
+          "category": "museum",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:way:14251243",
+          "category": "museum",
+          "distanceKm": 0.88
+        },
+        {
+          "id": "osm:node:13197097301",
+          "category": "viewpoint",
+          "distanceKm": 0.91
+        },
+        {
+          "id": "osm:way:22963244",
+          "category": "museum",
+          "distanceKm": 0.95
+        },
+        {
+          "id": "osm:way:552522220",
+          "category": "playground",
+          "distanceKm": 0.95
+        },
+        {
+          "id": "osm:node:2421613409",
+          "category": "viewpoint",
+          "distanceKm": 0.96
+        },
+        {
+          "id": "osm:node:13695001544",
+          "category": "public-bbq",
+          "distanceKm": 0.99
+        },
+        {
+          "id": "osm:node:5724989221",
+          "category": "museum",
+          "distanceKm": 1
+        },
+        {
+          "id": "osm:way:22963243",
+          "category": "museum",
+          "distanceKm": 1.01
+        },
+        {
+          "id": "osm:way:837487910",
+          "category": "playground",
+          "distanceKm": 1.01
+        },
+        {
+          "id": "osm:way:837487908",
+          "category": "playground",
+          "distanceKm": 1.02
+        },
+        {
+          "id": "osm:node:3557255800",
+          "category": "viewpoint",
+          "distanceKm": 1.04
+        },
+        {
+          "id": "osm:node:9298174575",
+          "category": "viewpoint",
+          "distanceKm": 1.05
+        }
+      ]
+    },
+    "8012": {
+      "locality": "DOCKLANDS",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:1470001597",
+          "category": "park",
+          "distanceKm": 0.42
+        },
+        {
+          "id": "osm:way:1495382909",
+          "category": "park",
+          "distanceKm": 0.44
+        },
+        {
+          "id": "osm:way:977468210",
+          "category": "park",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:node:6743435099",
+          "category": "public-bbq",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:44158378",
+          "category": "park",
+          "distanceKm": 0.62
+        },
+        {
+          "id": "osm:way:60723058",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:70807729",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:738054855",
+          "category": "park",
+          "distanceKm": 0.64
+        },
+        {
+          "id": "osm:node:3807932524",
+          "category": "public-bbq",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:6699795706",
+          "category": "playground",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:way:1503970242",
+          "category": "park",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:relation:20445760",
+          "category": "park",
+          "distanceKm": 0.68
+        },
+        {
+          "id": "osm:way:44158773",
+          "category": "park",
+          "distanceKm": 0.69
+        },
+        {
+          "id": "osm:node:6699781924",
+          "category": "public-bbq",
+          "distanceKm": 0.69
+        },
+        {
+          "id": "osm:node:6699795769",
+          "category": "public-bbq",
+          "distanceKm": 0.7
+        },
+        {
+          "id": "osm:node:6743435161",
+          "category": "public-bbq",
+          "distanceKm": 0.7
+        },
+        {
+          "id": "osm:way:560066668",
+          "category": "playground",
+          "distanceKm": 0.72
+        },
+        {
+          "id": "osm:node:13783336411",
+          "category": "museum",
+          "distanceKm": 0.73
+        },
+        {
+          "id": "osm:node:4637139110",
+          "category": "viewpoint",
+          "distanceKm": 0.76
+        },
+        {
+          "id": "osm:way:42555579",
+          "category": "playground",
+          "distanceKm": 0.78
+        },
+        {
+          "id": "osm:node:531390735",
+          "category": "public-bbq",
+          "distanceKm": 0.81
+        },
+        {
+          "id": "osm:way:505273480",
+          "category": "playground",
+          "distanceKm": 0.82
+        },
+        {
+          "id": "osm:node:6680961971",
+          "category": "public-bbq",
+          "distanceKm": 0.82
+        },
+        {
+          "id": "osm:node:703548449",
+          "category": "public-bbq",
+          "distanceKm": 0.83
+        },
+        {
+          "id": "osm:node:13778410273",
+          "category": "museum",
+          "distanceKm": 0.84
+        },
+        {
+          "id": "osm:way:837487908",
+          "category": "playground",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:way:837487910",
+          "category": "playground",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:way:1493604102",
+          "category": "playground",
+          "distanceKm": 0.97
+        },
+        {
+          "id": "osm:node:5189608671",
+          "category": "public-bbq",
+          "distanceKm": 1.08
+        },
+        {
+          "id": "osm:way:975397189",
+          "category": "playground",
+          "distanceKm": 1.1
+        }
+      ]
+    },
+    "8045": {
+      "locality": "MELBOURNE",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:4817020",
+          "category": "park",
+          "distanceKm": 0.14
+        },
+        {
+          "id": "osm:way:154434095",
+          "category": "park",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:node:2182908994",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:way:972298801",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:node:3608381828",
+          "category": "public-bbq",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:3608381832",
+          "category": "public-bbq",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:355228932",
+          "category": "picnic-site",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:972298752",
+          "category": "playground",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:991677879",
+          "category": "playground",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:22562116",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:node:4867867750",
+          "category": "public-bbq",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:node:4469617901",
+          "category": "museum",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:131707394",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:9135519890",
+          "category": "museum",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:way:154434398",
+          "category": "park",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:22562115",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:35602986",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:4817097",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:5305688021",
+          "category": "viewpoint",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:40337821",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:1119097606",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:594365265",
+          "category": "museum",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:7042911615",
+          "category": "picnic-site",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:978940819",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:node:577520970",
+          "category": "viewpoint",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:7042968025",
+          "category": "picnic-site",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:7042968027",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:9162430112",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:595504813",
+          "category": "museum",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:node:13588874261",
+          "category": "viewpoint",
+          "distanceKm": 0.9
+        }
+      ]
+    },
+    "8051": {
+      "locality": "MELBOURNE",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:4817020",
+          "category": "park",
+          "distanceKm": 0.14
+        },
+        {
+          "id": "osm:way:154434095",
+          "category": "park",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:node:2182908994",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:way:972298801",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:node:3608381828",
+          "category": "public-bbq",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:3608381832",
+          "category": "public-bbq",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:355228932",
+          "category": "picnic-site",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:972298752",
+          "category": "playground",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:991677879",
+          "category": "playground",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:22562116",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:node:4867867750",
+          "category": "public-bbq",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:node:4469617901",
+          "category": "museum",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:131707394",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:9135519890",
+          "category": "museum",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:way:154434398",
+          "category": "park",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:22562115",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:35602986",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:4817097",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:5305688021",
+          "category": "viewpoint",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:40337821",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:1119097606",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:594365265",
+          "category": "museum",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:7042911615",
+          "category": "picnic-site",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:978940819",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:node:577520970",
+          "category": "viewpoint",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:7042968025",
+          "category": "picnic-site",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:7042968027",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:9162430112",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:595504813",
+          "category": "museum",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:node:13588874261",
+          "category": "viewpoint",
+          "distanceKm": 0.9
+        }
+      ]
+    },
+    "8066": {
+      "locality": "MELBOURNE",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:4817020",
+          "category": "park",
+          "distanceKm": 0.14
+        },
+        {
+          "id": "osm:way:154434095",
+          "category": "park",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:node:2182908994",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:way:972298801",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:node:3608381828",
+          "category": "public-bbq",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:3608381832",
+          "category": "public-bbq",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:355228932",
+          "category": "picnic-site",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:972298752",
+          "category": "playground",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:991677879",
+          "category": "playground",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:22562116",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:node:4867867750",
+          "category": "public-bbq",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:node:4469617901",
+          "category": "museum",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:131707394",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:9135519890",
+          "category": "museum",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:way:154434398",
+          "category": "park",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:22562115",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:35602986",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:4817097",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:5305688021",
+          "category": "viewpoint",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:40337821",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:1119097606",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:594365265",
+          "category": "museum",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:7042911615",
+          "category": "picnic-site",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:978940819",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:node:577520970",
+          "category": "viewpoint",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:7042968025",
+          "category": "picnic-site",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:7042968027",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:9162430112",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:595504813",
+          "category": "museum",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:node:13588874261",
+          "category": "viewpoint",
+          "distanceKm": 0.9
+        }
+      ]
+    },
+    "8069": {
+      "locality": "MELBOURNE",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:4817020",
+          "category": "park",
+          "distanceKm": 0.14
+        },
+        {
+          "id": "osm:way:154434095",
+          "category": "park",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:node:2182908994",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:way:972298801",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:node:3608381828",
+          "category": "public-bbq",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:3608381832",
+          "category": "public-bbq",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:355228932",
+          "category": "picnic-site",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:972298752",
+          "category": "playground",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:991677879",
+          "category": "playground",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:22562116",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:node:4867867750",
+          "category": "public-bbq",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:node:4469617901",
+          "category": "museum",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:131707394",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:9135519890",
+          "category": "museum",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:way:154434398",
+          "category": "park",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:22562115",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:35602986",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:4817097",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:5305688021",
+          "category": "viewpoint",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:40337821",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:1119097606",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:594365265",
+          "category": "museum",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:7042911615",
+          "category": "picnic-site",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:978940819",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:node:577520970",
+          "category": "viewpoint",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:7042968025",
+          "category": "picnic-site",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:7042968027",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:9162430112",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:595504813",
+          "category": "museum",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:node:13588874261",
+          "category": "viewpoint",
+          "distanceKm": 0.9
+        }
+      ]
+    },
+    "8070": {
+      "locality": "MELBOURNE",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:4817020",
+          "category": "park",
+          "distanceKm": 0.14
+        },
+        {
+          "id": "osm:way:154434095",
+          "category": "park",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:node:2182908994",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:way:972298801",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:node:3608381828",
+          "category": "public-bbq",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:3608381832",
+          "category": "public-bbq",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:355228932",
+          "category": "picnic-site",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:972298752",
+          "category": "playground",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:991677879",
+          "category": "playground",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:22562116",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:node:4867867750",
+          "category": "public-bbq",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:node:4469617901",
+          "category": "museum",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:131707394",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:9135519890",
+          "category": "museum",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:way:154434398",
+          "category": "park",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:22562115",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:35602986",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:4817097",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:5305688021",
+          "category": "viewpoint",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:40337821",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:1119097606",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:594365265",
+          "category": "museum",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:7042911615",
+          "category": "picnic-site",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:978940819",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:node:577520970",
+          "category": "viewpoint",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:7042968025",
+          "category": "picnic-site",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:7042968027",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:9162430112",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:595504813",
+          "category": "museum",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:node:13588874261",
+          "category": "viewpoint",
+          "distanceKm": 0.9
+        }
+      ]
+    },
+    "8071": {
+      "locality": "MELBOURNE",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:4817020",
+          "category": "park",
+          "distanceKm": 0.14
+        },
+        {
+          "id": "osm:way:154434095",
+          "category": "park",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:node:2182908994",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:way:972298801",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:node:3608381828",
+          "category": "public-bbq",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:3608381832",
+          "category": "public-bbq",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:355228932",
+          "category": "picnic-site",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:972298752",
+          "category": "playground",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:991677879",
+          "category": "playground",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:22562116",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:node:4867867750",
+          "category": "public-bbq",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:node:4469617901",
+          "category": "museum",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:131707394",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:9135519890",
+          "category": "museum",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:way:154434398",
+          "category": "park",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:22562115",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:35602986",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:4817097",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:5305688021",
+          "category": "viewpoint",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:40337821",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:1119097606",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:594365265",
+          "category": "museum",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:7042911615",
+          "category": "picnic-site",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:978940819",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:node:577520970",
+          "category": "viewpoint",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:7042968025",
+          "category": "picnic-site",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:7042968027",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:9162430112",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:595504813",
+          "category": "museum",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:node:13588874261",
+          "category": "viewpoint",
+          "distanceKm": 0.9
+        }
+      ]
+    },
+    "8102": {
+      "locality": "MELBOURNE",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:4817020",
+          "category": "park",
+          "distanceKm": 0.14
+        },
+        {
+          "id": "osm:way:154434095",
+          "category": "park",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:node:2182908994",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:way:972298801",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:node:3608381828",
+          "category": "public-bbq",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:3608381832",
+          "category": "public-bbq",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:355228932",
+          "category": "picnic-site",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:972298752",
+          "category": "playground",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:991677879",
+          "category": "playground",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:22562116",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:node:4867867750",
+          "category": "public-bbq",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:node:4469617901",
+          "category": "museum",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:131707394",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:9135519890",
+          "category": "museum",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:way:154434398",
+          "category": "park",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:22562115",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:35602986",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:4817097",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:5305688021",
+          "category": "viewpoint",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:40337821",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:1119097606",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:594365265",
+          "category": "museum",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:7042911615",
+          "category": "picnic-site",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:978940819",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:node:577520970",
+          "category": "viewpoint",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:7042968025",
+          "category": "picnic-site",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:7042968027",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:9162430112",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:595504813",
+          "category": "museum",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:node:13588874261",
+          "category": "viewpoint",
+          "distanceKm": 0.9
+        }
+      ]
+    },
+    "8107": {
+      "locality": "MELBOURNE",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:4817020",
+          "category": "park",
+          "distanceKm": 0.14
+        },
+        {
+          "id": "osm:way:154434095",
+          "category": "park",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:node:2182908994",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:way:972298801",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:node:3608381828",
+          "category": "public-bbq",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:3608381832",
+          "category": "public-bbq",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:355228932",
+          "category": "picnic-site",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:972298752",
+          "category": "playground",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:991677879",
+          "category": "playground",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:22562116",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:node:4867867750",
+          "category": "public-bbq",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:node:4469617901",
+          "category": "museum",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:131707394",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:9135519890",
+          "category": "museum",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:way:154434398",
+          "category": "park",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:22562115",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:35602986",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:4817097",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:5305688021",
+          "category": "viewpoint",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:40337821",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:1119097606",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:594365265",
+          "category": "museum",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:7042911615",
+          "category": "picnic-site",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:978940819",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:node:577520970",
+          "category": "viewpoint",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:7042968025",
+          "category": "picnic-site",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:7042968027",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:9162430112",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:595504813",
+          "category": "museum",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:node:13588874261",
+          "category": "viewpoint",
+          "distanceKm": 0.9
+        }
+      ]
+    },
+    "8111": {
+      "locality": "MELBOURNE",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:4817020",
+          "category": "park",
+          "distanceKm": 0.14
+        },
+        {
+          "id": "osm:way:154434095",
+          "category": "park",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:node:2182908994",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:way:972298801",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:node:3608381828",
+          "category": "public-bbq",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:3608381832",
+          "category": "public-bbq",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:355228932",
+          "category": "picnic-site",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:972298752",
+          "category": "playground",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:991677879",
+          "category": "playground",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:22562116",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:node:4867867750",
+          "category": "public-bbq",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:node:4469617901",
+          "category": "museum",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:131707394",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:9135519890",
+          "category": "museum",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:way:154434398",
+          "category": "park",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:22562115",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:35602986",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:4817097",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:5305688021",
+          "category": "viewpoint",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:40337821",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:1119097606",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:594365265",
+          "category": "museum",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:7042911615",
+          "category": "picnic-site",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:978940819",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:node:577520970",
+          "category": "viewpoint",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:7042968025",
+          "category": "picnic-site",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:7042968027",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:9162430112",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:595504813",
+          "category": "museum",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:node:13588874261",
+          "category": "viewpoint",
+          "distanceKm": 0.9
+        }
+      ]
+    },
+    "8120": {
+      "locality": "MELBOURNE",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:4817020",
+          "category": "park",
+          "distanceKm": 0.14
+        },
+        {
+          "id": "osm:way:154434095",
+          "category": "park",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:node:2182908994",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:way:972298801",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:node:3608381828",
+          "category": "public-bbq",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:3608381832",
+          "category": "public-bbq",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:355228932",
+          "category": "picnic-site",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:972298752",
+          "category": "playground",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:991677879",
+          "category": "playground",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:22562116",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:node:4867867750",
+          "category": "public-bbq",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:node:4469617901",
+          "category": "museum",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:131707394",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:9135519890",
+          "category": "museum",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:way:154434398",
+          "category": "park",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:22562115",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:35602986",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:4817097",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:5305688021",
+          "category": "viewpoint",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:40337821",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:1119097606",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:594365265",
+          "category": "museum",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:7042911615",
+          "category": "picnic-site",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:978940819",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:node:577520970",
+          "category": "viewpoint",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:7042968025",
+          "category": "picnic-site",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:7042968027",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:9162430112",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:595504813",
+          "category": "museum",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:node:13588874261",
+          "category": "viewpoint",
+          "distanceKm": 0.9
+        }
+      ]
+    },
+    "8205": {
+      "locality": "MELBOURNE",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:4817020",
+          "category": "park",
+          "distanceKm": 0.14
+        },
+        {
+          "id": "osm:way:154434095",
+          "category": "park",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:node:2182908994",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:way:972298801",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:node:3608381828",
+          "category": "public-bbq",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:3608381832",
+          "category": "public-bbq",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:355228932",
+          "category": "picnic-site",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:972298752",
+          "category": "playground",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:991677879",
+          "category": "playground",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:22562116",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:node:4867867750",
+          "category": "public-bbq",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:node:4469617901",
+          "category": "museum",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:131707394",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:9135519890",
+          "category": "museum",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:way:154434398",
+          "category": "park",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:22562115",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:35602986",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:4817097",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:5305688021",
+          "category": "viewpoint",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:40337821",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:1119097606",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:594365265",
+          "category": "museum",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:7042911615",
+          "category": "picnic-site",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:978940819",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:node:577520970",
+          "category": "viewpoint",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:7042968025",
+          "category": "picnic-site",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:7042968027",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:9162430112",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:595504813",
+          "category": "museum",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:node:13588874261",
+          "category": "viewpoint",
+          "distanceKm": 0.9
+        }
+      ]
+    },
+    "8383": {
+      "locality": "MELBOURNE",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:4817020",
+          "category": "park",
+          "distanceKm": 0.14
+        },
+        {
+          "id": "osm:way:154434095",
+          "category": "park",
+          "distanceKm": 0.26
+        },
+        {
+          "id": "osm:node:2182908994",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:way:972298801",
+          "category": "playground",
+          "distanceKm": 0.31
+        },
+        {
+          "id": "osm:node:3608381828",
+          "category": "public-bbq",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:node:3608381832",
+          "category": "public-bbq",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:355228932",
+          "category": "picnic-site",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:way:972298752",
+          "category": "playground",
+          "distanceKm": 0.43
+        },
+        {
+          "id": "osm:way:991677879",
+          "category": "playground",
+          "distanceKm": 0.47
+        },
+        {
+          "id": "osm:way:22562116",
+          "category": "park",
+          "distanceKm": 0.5
+        },
+        {
+          "id": "osm:node:4867867750",
+          "category": "public-bbq",
+          "distanceKm": 0.51
+        },
+        {
+          "id": "osm:node:4469617901",
+          "category": "museum",
+          "distanceKm": 0.52
+        },
+        {
+          "id": "osm:way:131707394",
+          "category": "park",
+          "distanceKm": 0.53
+        },
+        {
+          "id": "osm:node:9135519890",
+          "category": "museum",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:way:154434398",
+          "category": "park",
+          "distanceKm": 0.57
+        },
+        {
+          "id": "osm:way:22562115",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:35602986",
+          "category": "park",
+          "distanceKm": 0.58
+        },
+        {
+          "id": "osm:way:4817097",
+          "category": "park",
+          "distanceKm": 0.6
+        },
+        {
+          "id": "osm:node:5305688021",
+          "category": "viewpoint",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:40337821",
+          "category": "park",
+          "distanceKm": 0.63
+        },
+        {
+          "id": "osm:way:1119097606",
+          "category": "park",
+          "distanceKm": 0.65
+        },
+        {
+          "id": "osm:node:594365265",
+          "category": "museum",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:node:7042911615",
+          "category": "picnic-site",
+          "distanceKm": 0.74
+        },
+        {
+          "id": "osm:way:978940819",
+          "category": "playground",
+          "distanceKm": 0.8
+        },
+        {
+          "id": "osm:node:577520970",
+          "category": "viewpoint",
+          "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:7042968025",
+          "category": "picnic-site",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:7042968027",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:9162430112",
+          "category": "public-bbq",
+          "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:595504813",
+          "category": "museum",
+          "distanceKm": 0.9
+        },
+        {
+          "id": "osm:node:13588874261",
+          "category": "viewpoint",
+          "distanceKm": 0.9
+        }
+      ]
+    },
+    "8438": {
+      "locality": "SUNSHINE WEST",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:290792625",
+          "category": "park",
+          "distanceKm": 0.15
+        },
+        {
+          "id": "osm:way:183810899",
+          "category": "park",
+          "distanceKm": 0.23
+        },
+        {
+          "id": "osm:way:1285834019",
+          "category": "playground",
+          "distanceKm": 0.28
+        },
+        {
+          "id": "osm:node:4994260723",
+          "category": "public-bbq",
+          "distanceKm": 0.36
+        },
+        {
+          "id": "osm:way:1455710954",
+          "category": "playground",
+          "distanceKm": 0.37
+        },
+        {
+          "id": "osm:way:183801068",
+          "category": "park",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:way:363828151",
+          "category": "playground",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:way:290841429",
+          "category": "park",
+          "distanceKm": 0.42
+        },
+        {
+          "id": "osm:way:291578992",
+          "category": "park",
+          "distanceKm": 0.44
+        },
+        {
+          "id": "osm:way:1285834020",
+          "category": "playground",
+          "distanceKm": 0.48
+        },
+        {
+          "id": "osm:way:383236067",
+          "category": "park",
+          "distanceKm": 0.49
+        },
+        {
+          "id": "osm:way:1285457860",
+          "category": "park",
+          "distanceKm": 0.55
+        },
+        {
+          "id": "osm:way:290841426",
+          "category": "park",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:807910244",
+          "category": "playground",
+          "distanceKm": 0.67
+        },
+        {
+          "id": "osm:way:749648343",
+          "category": "park",
+          "distanceKm": 0.68
+        },
+        {
+          "id": "osm:way:1285227740",
+          "category": "park",
+          "distanceKm": 0.83
+        },
+        {
+          "id": "osm:way:1378475909",
+          "category": "playground",
+          "distanceKm": 0.84
+        },
+        {
+          "id": "osm:way:1285227739",
+          "category": "dog-park",
+          "distanceKm": 0.86
+        },
+        {
+          "id": "osm:way:1378475910",
+          "category": "playground",
+          "distanceKm": 0.93
+        },
+        {
+          "id": "osm:way:1378475911",
+          "category": "playground",
+          "distanceKm": 0.93
+        },
+        {
+          "id": "osm:way:266788747",
+          "category": "dog-park",
+          "distanceKm": 1.18
+        },
+        {
+          "id": "osm:way:1110176231",
+          "category": "playground",
+          "distanceKm": 1.22
+        },
+        {
+          "id": "osm:way:1285227779",
+          "category": "playground",
+          "distanceKm": 1.24
+        },
+        {
+          "id": "osm:node:10245571481",
+          "category": "public-bbq",
+          "distanceKm": 1.81
+        },
+        {
+          "id": "osm:node:4019427974",
+          "category": "public-bbq",
+          "distanceKm": 2.58
+        },
+        {
+          "id": "osm:node:10605458504",
+          "category": "public-bbq",
+          "distanceKm": 2.99
+        },
+        {
+          "id": "osm:way:1281308135",
+          "category": "public-bbq",
+          "distanceKm": 3.32
+        },
+        {
+          "id": "osm:node:1970908554",
+          "category": "public-bbq",
+          "distanceKm": 3.95
+        },
+        {
+          "id": "osm:node:11821752252",
+          "category": "public-bbq",
+          "distanceKm": 4.19
+        },
+        {
+          "id": "osm:node:11968071962",
+          "category": "public-bbq",
+          "distanceKm": 4.24
+        }
+      ]
+    },
+    "8511": {
+      "locality": "SUNSHINE WEST",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:way:290792625",
+          "category": "park",
+          "distanceKm": 0.15
+        },
+        {
+          "id": "osm:way:183810899",
+          "category": "park",
+          "distanceKm": 0.23
+        },
+        {
+          "id": "osm:way:1285834019",
+          "category": "playground",
+          "distanceKm": 0.28
+        },
+        {
+          "id": "osm:node:4994260723",
+          "category": "public-bbq",
+          "distanceKm": 0.36
+        },
+        {
+          "id": "osm:way:1455710954",
+          "category": "playground",
+          "distanceKm": 0.37
+        },
+        {
+          "id": "osm:way:183801068",
+          "category": "park",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:way:363828151",
+          "category": "playground",
+          "distanceKm": 0.38
+        },
+        {
+          "id": "osm:way:290841429",
+          "category": "park",
+          "distanceKm": 0.42
+        },
+        {
+          "id": "osm:way:291578992",
+          "category": "park",
+          "distanceKm": 0.44
+        },
+        {
+          "id": "osm:way:1285834020",
+          "category": "playground",
+          "distanceKm": 0.48
+        },
+        {
+          "id": "osm:way:383236067",
+          "category": "park",
+          "distanceKm": 0.49
+        },
+        {
+          "id": "osm:way:1285457860",
+          "category": "park",
+          "distanceKm": 0.55
+        },
+        {
+          "id": "osm:way:290841426",
+          "category": "park",
+          "distanceKm": 0.61
+        },
+        {
+          "id": "osm:way:807910244",
+          "category": "playground",
+          "distanceKm": 0.67
+        },
+        {
+          "id": "osm:way:749648343",
+          "category": "park",
+          "distanceKm": 0.68
+        },
+        {
+          "id": "osm:way:1285227740",
+          "category": "park",
+          "distanceKm": 0.83
+        },
+        {
+          "id": "osm:way:1378475909",
+          "category": "playground",
+          "distanceKm": 0.84
+        },
+        {
+          "id": "osm:way:1285227739",
+          "category": "dog-park",
+          "distanceKm": 0.86
+        },
+        {
+          "id": "osm:way:1378475910",
+          "category": "playground",
+          "distanceKm": 0.93
+        },
+        {
+          "id": "osm:way:1378475911",
+          "category": "playground",
+          "distanceKm": 0.93
+        },
+        {
+          "id": "osm:way:266788747",
+          "category": "dog-park",
+          "distanceKm": 1.18
+        },
+        {
+          "id": "osm:way:1110176231",
+          "category": "playground",
+          "distanceKm": 1.22
+        },
+        {
+          "id": "osm:way:1285227779",
+          "category": "playground",
+          "distanceKm": 1.24
+        },
+        {
+          "id": "osm:node:10245571481",
+          "category": "public-bbq",
+          "distanceKm": 1.81
+        },
+        {
+          "id": "osm:node:4019427974",
+          "category": "public-bbq",
+          "distanceKm": 2.58
+        },
+        {
+          "id": "osm:node:10605458504",
+          "category": "public-bbq",
+          "distanceKm": 2.99
+        },
+        {
+          "id": "osm:way:1281308135",
+          "category": "public-bbq",
+          "distanceKm": 3.32
+        },
+        {
+          "id": "osm:node:1970908554",
+          "category": "public-bbq",
+          "distanceKm": 3.95
+        },
+        {
+          "id": "osm:node:11821752252",
+          "category": "public-bbq",
+          "distanceKm": 4.19
+        },
+        {
+          "id": "osm:node:11968071962",
+          "category": "public-bbq",
+          "distanceKm": 4.24
+        }
+      ]
+    },
+    "8785": {
+      "locality": "DANDENONG",
+      "stateOrRegion": "VIC",
+      "places": [
+        {
+          "id": "osm:node:7078921951",
+          "category": "public-bbq",
+          "distanceKm": 1.21
+        },
+        {
+          "id": "osm:node:7078935582",
+          "category": "public-bbq",
+          "distanceKm": 1.23
+        },
+        {
+          "id": "osm:way:469810583",
+          "category": "park",
+          "distanceKm": 1.28
+        },
+        {
+          "id": "osm:way:1312162714",
+          "category": "park",
+          "distanceKm": 1.55
+        },
+        {
+          "id": "osm:way:1061988166",
+          "category": "park",
+          "distanceKm": 1.61
+        },
+        {
+          "id": "osm:way:1339059667",
+          "category": "park",
+          "distanceKm": 1.67
+        },
+        {
+          "id": "osm:way:294801005",
+          "category": "playground",
+          "distanceKm": 1.67
+        },
+        {
+          "id": "osm:way:1312162716",
+          "category": "park",
+          "distanceKm": 1.69
+        },
+        {
+          "id": "osm:way:1339059671",
+          "category": "park",
+          "distanceKm": 1.69
+        },
+        {
+          "id": "osm:way:1339059669",
+          "category": "park",
+          "distanceKm": 1.71
+        },
+        {
+          "id": "osm:way:452230538",
+          "category": "park",
+          "distanceKm": 1.84
+        },
+        {
+          "id": "osm:way:1186372491",
+          "category": "playground",
+          "distanceKm": 1.86
+        },
+        {
+          "id": "osm:way:1339059668",
+          "category": "park",
+          "distanceKm": 1.86
+        },
+        {
+          "id": "osm:way:1312162713",
+          "category": "park",
+          "distanceKm": 1.89
+        },
+        {
+          "id": "osm:way:1186372467",
+          "category": "playground",
+          "distanceKm": 2.09
+        },
+        {
+          "id": "osm:way:1308332375",
+          "category": "playground",
+          "distanceKm": 2.39
+        },
+        {
+          "id": "osm:node:5865489306",
+          "category": "public-bbq",
+          "distanceKm": 2.48
+        },
+        {
+          "id": "osm:node:5865489307",
+          "category": "public-bbq",
+          "distanceKm": 2.5
+        },
+        {
+          "id": "osm:way:620856462",
+          "category": "playground",
+          "distanceKm": 2.5
+        },
+        {
+          "id": "osm:node:9381111651",
+          "category": "playground",
+          "distanceKm": 2.6
+        },
+        {
+          "id": "osm:way:59034517",
+          "category": "playground",
+          "distanceKm": 2.64
+        },
+        {
+          "id": "osm:node:2117168370",
+          "category": "playground",
+          "distanceKm": 2.72
+        },
+        {
+          "id": "osm:way:1178560491",
+          "category": "picnic-site",
+          "distanceKm": 2.75
+        },
+        {
+          "id": "osm:node:12505562576",
+          "category": "playground",
+          "distanceKm": 2.76
+        },
+        {
+          "id": "osm:node:6846364560",
+          "category": "public-bbq",
+          "distanceKm": 2.79
+        },
+        {
+          "id": "osm:node:6846394659",
+          "category": "picnic-site",
+          "distanceKm": 2.79
+        },
+        {
+          "id": "osm:node:10133919903",
+          "category": "public-bbq",
+          "distanceKm": 2.8
+        },
+        {
+          "id": "osm:way:994820073",
+          "category": "playground",
+          "distanceKm": 2.8
+        },
+        {
+          "id": "osm:node:10133925098",
+          "category": "public-bbq",
+          "distanceKm": 2.81
+        },
+        {
+          "id": "osm:node:10133918480",
+          "category": "public-bbq",
+          "distanceKm": 2.83
+        }
+      ]
+    }
+  }
+}

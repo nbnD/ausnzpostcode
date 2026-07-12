@@ -540,3 +540,44 @@ It should not look like:
 * a cheap ad directory
 
 It should feel like a premium, trustworthy postcode and locality discovery platform for Australia and New Zealand.
+
+## Local POI Pipeline Skill
+
+For tasks involving:
+
+- Australia or New Zealand OSM PBF files
+- offline POI extraction
+- parks, BBQs, dog parks, playgrounds, picnic sites, viewpoints or museums
+- nearby postcode matching
+- generated POI JSON
+- POI validation and size limits
+- postcode-page POI integration
+- OpenStreetMap attribution
+
+read and follow:
+
+`.agents/skills/osm-local-poi-pipeline/SKILL.md`
+
+This skill takes priority over general implementation preferences for POI work.
+
+## Local Discovery SEO and GEO Skill and getting referenced by AI tools
+
+For tasks involving:
+
+- postcode-page SEO
+- GEO and answer-engine visibility
+- metadata
+- structured data
+- internal linking
+- factual local summaries
+- indexability
+- AI citation readiness
+- editorial content
+
+read and follow:
+
+`.agents/skills/ausnz-local-discovery-seo-geo/SKILL.md`
+
+For POI-related SEO or GEO work, use both this skill and:
+
+`.agents/skills/osm-local-poi-pipeline/SKILL.md`

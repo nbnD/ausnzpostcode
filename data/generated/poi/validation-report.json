@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-12T08:20:36.703Z",
+  "valid": true,
+  "issueCount": 0,
+  "warningCount": 0,
+  "issues": [],
+  "warnings": [],
+  "totals": {
+    "uniquePoisEmitted": 47267,
+    "uniquePoisByCountry": {
+      "au": 34483,
+      "nz": 12784
+    },
+    "uniquePoisByCountryAndCategory": {
+      "au": {
+        "dog-park": 731,
+        "museum": 1039,
+        "park": 12733,
+        "picnic-site": 2291,
+        "playground": 9764,
+        "public-bbq": 3409,
+        "viewpoint": 4516
+      },
+      "nz": {
+        "dog-park": 90,
+        "museum": 316,
+        "park": 5666,
+        "picnic-site": 491,
+        "playground": 4128,
+        "public-bbq": 414,
+        "viewpoint": 1679
+      }
+    },
+    "totalPostcodeReferences": 88693,
+    "postcodeReferencesByCountry": {
+      "au": 58249,
+      "nz": 30444
+    },
+    "partitionFileCount": 20,
+    "totalGeneratedBytes": 16273084,
+    "bytesByCountry": {
+      "au": 11038120,
+      "nz": 5230588
+    },
+    "bytesByOutputType": {
+      "places": 4975041,
+      "postcodeRefs": 11293667,
+      "reports": 4376
+    },
+    "largestGeneratedFile": {
+      "path": "au/postcode-refs/2.json",
+      "bytes": 1693990
+    }
+  },
+  "totalGeneratedBytesExcludingValidationReport": 16273084
+}

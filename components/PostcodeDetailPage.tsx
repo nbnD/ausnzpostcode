@@ -3,6 +3,7 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { DataDisclaimer } from "@/components/DataDisclaimer";
 import { FaqList } from "@/components/FaqList";
 import { JsonLd } from "@/components/JsonLd";
+import { NearbyPoiSection } from "@/components/NearbyPoiSection";
 import { PostcodeMap } from "@/components/PostcodeMap";
 import { ShareActions } from "@/components/ShareActions";
 import {
@@ -16,8 +17,10 @@ import {
   statePath,
   type PostcodeRecord
 } from "@/data/postcodes";
-import { breadcrumbSchema, faqSchema, placeSchema } from "@/lib/schema";
+import { breadcrumbSchema, faqSchema, nearbyPoiItemListSchema, placeSchema } from "@/lib/schema";
 import { siteConfig } from "@/lib/site";
+import { getNearbyPoisForPostcode, getPoiCountsForPostcode, getPoiManifest } from "@/lib/poi-data";
+import { getPreviewPlaces } from "@/lib/poi-seo";
 
 export function buildPostcodeFaqs(postcode: PostcodeRecord) {
   const locality = getDisplayLocality(postcode);
@@ -52,6 +55,14 @@ export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
   const locality = getDisplayLocality(postcode);
   const summary = getLocalitySummary(postcode);
   const faqs = buildPostcodeFaqs(postcode);
+  const hasCoordinates = Number.isFinite(postcode.lat) && Number.isFinite(postcode.lng) && postcode.lat !== 0 && postcode.lng !== 0;
+  const mapLabel = encodeURIComponent(`Postcode ${postcode.code} ${locality}`);
+  const googleMapsUrl = `https://www.google.com/maps/search/?api=1&query=${postcode.lat},${postcode.lng}`;
+  const appleMapsUrl = `https://maps.apple.com/?ll=${postcode.lat},${postcode.lng}&q=${mapLabel}`;
+  const poiManifest = getPoiManifest();
+  const nearbyPois = getNearbyPoisForPostcode(postcode.country, postcode.code);
+  const poiCounts = getPoiCountsForPostcode(postcode.country, postcode.code);
+  const poiPreviewPlaces = getPreviewPlaces(nearbyPois, 6);
   const schema = [
     breadcrumbSchema([
       { name: "Home", href: "/" },
@@ -60,7 +71,16 @@ export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
       { name: postcode.code, href: path }
     ]),
     faqSchema(faqs),
-    placeSchema(`Postcode ${postcode.code} ${locality}`, path, `${summary} in ${postcode.stateFull}.`)
+    placeSchema(`Postcode ${postcode.code} ${locality}`, path, `${summary} in ${postcode.stateFull}.`),
+    ...(poiPreviewPlaces.length > 0
+      ? [
+          nearbyPoiItemListSchema({
+            name: `Nearby OpenStreetMap places for postcode ${postcode.code}`,
+            path,
+            places: poiPreviewPlaces
+          })
+        ]
+      : [])
   ];
 
   return (
@@ -127,6 +147,44 @@ export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
             </h2>
             <div className="p-4">
               <PostcodeMap lat={postcode.lat} lng={postcode.lng} label={`${postcode.code} ${locality}`} />
+              {hasCoordinates ? (
+                <div className="mt-4 grid gap-3 sm:grid-cols-2">
+                  <a
+                    href={googleMapsUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group flex items-center gap-3 rounded-[14px] border border-border bg-white p-3 shadow-[0_10px_30px_rgba(11,37,69,0.08)] transition hover:-translate-y-0.5 hover:border-coral hover:shadow-[0_16px_38px_rgba(232,71,42,0.16)] focus:outline-none focus:ring-2 focus:ring-coral focus:ring-offset-2"
+                    aria-label={`Open postcode ${postcode.code} in Google Maps`}
+                  >
+                    <span className="grid h-12 w-12 shrink-0 place-items-center overflow-hidden rounded-xl bg-[linear-gradient(135deg,#4285F4_0%,#34A853_45%,#FBBC05_68%,#EA4335_100%)] shadow-inner">
+                      <span className="rounded-full bg-white px-2 py-1 font-heading text-xs font-extrabold text-[#1A73E8]">G</span>
+                    </span>
+                    <span>
+                      <span className="block font-heading text-sm font-extrabold text-navy group-hover:text-coral">
+                        Open with Google Maps
+                      </span>
+                      <span className="mt-0.5 block text-xs text-muted">View directions and nearby places</span>
+                    </span>
+                  </a>
+                  <a
+                    href={appleMapsUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group flex items-center gap-3 rounded-[14px] border border-border bg-white p-3 shadow-[0_10px_30px_rgba(11,37,69,0.08)] transition hover:-translate-y-0.5 hover:border-green hover:shadow-[0_16px_38px_rgba(45,106,79,0.16)] focus:outline-none focus:ring-2 focus:ring-green focus:ring-offset-2"
+                    aria-label={`Open postcode ${postcode.code} in Apple Maps`}
+                  >
+                    <span className="grid h-12 w-12 shrink-0 place-items-center overflow-hidden rounded-xl bg-[linear-gradient(135deg,#F7FAFF_0%,#D7ECFF_38%,#78D4A7_70%,#FF6B6B_100%)] shadow-inner">
+                      <span className="rounded-full bg-white px-2 py-1 font-heading text-xs font-extrabold text-green">A</span>
+                    </span>
+                    <span>
+                      <span className="block font-heading text-sm font-extrabold text-navy group-hover:text-green">
+                        Open with Apple Maps
+                      </span>
+                      <span className="mt-0.5 block text-xs text-muted">Open this postcode location on iOS or Mac</span>
+                    </span>
+                  </a>
+                </div>
+              ) : null}
             </div>
           </div>
           <div className="mb-4 overflow-hidden rounded-[14px] border border-border bg-white">
@@ -142,6 +200,7 @@ export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
               ))}
             </div>
           </div>
+          <NearbyPoiSection postcode={postcode.code} locality={locality} places={nearbyPois} counts={poiCounts} manifest={poiManifest} />
           <div className="mb-4">
             <DataDisclaimer />
           </div>

@@ -1,0 +1,95 @@
+{
+  "emittedPoiCountsByCountry": {
+    "au": 34483,
+    "nz": 12784
+  },
+  "emittedPoiCountsByCountryAndCategory": {
+    "au": {
+      "dog-park": 731,
+      "museum": 1039,
+      "park": 12733,
+      "picnic-site": 2291,
+      "playground": 9764,
+      "public-bbq": 3409,
+      "viewpoint": 4516
+    },
+    "nz": {
+      "dog-park": 90,
+      "museum": 316,
+      "park": 5666,
+      "picnic-site": 491,
+      "playground": 4128,
+      "public-bbq": 414,
+      "viewpoint": 1679
+    }
+  },
+  "retainedPostcodeReferenceCountsByCountry": {
+    "au": 58249,
+    "nz": 30444
+  },
+  "retainedPostcodeReferenceCountsByCountryAndCategory": {
+    "au": {
+      "public-bbq": 7594,
+      "park": 17303,
+      "picnic-site": 3930,
+      "museum": 2562,
+      "playground": 15100,
+      "viewpoint": 9946,
+      "dog-park": 1814
+    },
+    "nz": {
+      "park": 8770,
+      "playground": 7537,
+      "dog-park": 426,
+      "public-bbq": 1582,
+      "museum": 2316,
+      "viewpoint": 8080,
+      "picnic-site": 1733
+    }
+  },
+  "averageReferencesPerPostcode": {
+    "au": 20.759,
+    "nz": 18.406
+  },
+  "maximumReferencesInPostcode": {
+    "au": 30,
+    "nz": 30
+  },
+  "postcodesWithReferencesByCountry": {
+    "au": 2806,
+    "nz": 1654
+  },
+  "postcodesWithoutReferencesByCountry": {
+    "au": 368,
+    "nz": 68
+  },
+  "unnamedEmittedPoisByCategory": {
+    "au": {
+      "dog-park": 448,
+      "museum": 53,
+      "park": 4953,
+      "picnic-site": 1780,
+      "playground": 8612,
+      "public-bbq": 3352,
+      "viewpoint": 2431
+    },
+    "nz": {
+      "dog-park": 46,
+      "museum": 16,
+      "park": 2170,
+      "picnic-site": 437,
+      "playground": 3910,
+      "public-bbq": 406,
+      "viewpoint": 1060
+    }
+  },
+  "generatedSizeByCountry": {
+    "au": 11038120,
+    "nz": 5230588
+  },
+  "generatedSizeByOutputType": {
+    "places": 4975041,
+    "postcodeRefs": 11293667
+  },
+  "partitionFileCount": 20
+}

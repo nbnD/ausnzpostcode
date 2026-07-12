@@ -1,0 +1,316 @@
+{"id":"osm:node:10776431920","category":"museum","name":"Switzers Museum & Bottlehouse","lat":-45.724698,"lng":168.848569}
+{"id":"osm:node:11005206356","category":"museum","name":"Mercury Bay Museum","lat":-36.832696,"lng":175.707612,"tags":{"opening_hours":"Mo-Sa 10:00-15:00"}}
+{"id":"osm:node:11189845590","category":"museum","name":"Ongaonga Museum","lat":-39.912388,"lng":176.415741}
+{"id":"osm:node:11473066166","category":"museum","name":"Heritage museum","lat":-37.393456,"lng":175.840558}
+{"id":"osm:node:11506662549","category":"museum","name":"Awarua Communications Museum","lat":-46.504595,"lng":168.372391,"tags":{"website":"https://www.awaruamuseum.co.nz/","opening_hours":"Su 13:00-16:00","addr:postcode":"9877","addr:city":"Awarua, Invercargill","wikidata":"Q124248617"}}
+{"id":"osm:node:1157306038","category":"museum","name":"Rutherford's Den","lat":-43.531137,"lng":172.628079,"tags":{"website":"http://www.rutherfordsden.org.nz/","opening_hours":"Mo-Su 10:00-17:00"}}
+{"id":"osm:node:1166098689","category":"museum","name":"Reserve Bank Museum","lat":-41.278954,"lng":174.775331,"tags":{"website":"http://rbnzmuseum.govt.nz","opening_hours":"Mo-Fr 09:30-16:00"}}
+{"id":"osm:node:11840425128","category":"museum","name":"Space Place","lat":-41.284324,"lng":174.767156,"tags":{"website":"https://www.museumswellington.org.nz/space-place/","opening_hours":"Tu-We 17:00-22:30; Th 10:00-22:30; Fr-Sa 10:00-23:00; Su 10:00-17:00","wheelchair":"yes"}}
+{"id":"osm:node:1225168320","category":"museum","name":"Hayes Engineering Works Historic Place","lat":-45.010961,"lng":169.903753}
+{"id":"osm:node:12306508573","category":"museum","name":"Village Radio","lat":-37.704232,"lng":176.148738}
+{"id":"osm:node:12342361011","category":"museum","name":"Cromwell Museum","lat":-45.037195,"lng":169.197591,"tags":{"opening_hours":"Mo-Fr 10:00-16:00; Sa-Su 11:00-15:00"}}
+{"id":"osm:node:12497476009","category":"museum","name":"Māngungu Mission House","lat":-35.354875,"lng":173.570528,"tags":{"operator":"Heritage New Zealand","wikidata":"Q112872140","wikipedia":"en:Māngungu Mission"}}
+{"id":"osm:node:12505474652","category":"museum","name":"Harmon's Classic Car Museum","lat":-42.389977,"lng":173.678688}
+{"id":"osm:node:12517021284","category":"museum","name":"Geraldine Military Musuem","lat":-44.090528,"lng":171.243375,"tags":{"website":"https://www.geraldinemilitarymuseum.co.nz/","opening_hours":"Mo-Su 09:30-16:00"}}
+{"id":"osm:node:1263263975","category":"museum","name":"Pioneer Village","lat":-39.356503,"lng":174.293083}
+{"id":"osm:node:1263304384","category":"museum","name":"Tawhiti Museum","lat":-39.568335,"lng":174.311674,"tags":{"opening_hours":"Jun-Aug: Su 10:00-16:00"}}
+{"id":"osm:node:12688660601","category":"museum","name":"Craft Station","lat":-43.770539,"lng":172.790353,"tags":{"opening_hours":"Mo-Su 09:30-16:30"}}
+{"id":"osm:node:12965730357","category":"museum","name":"Bulls Museum","lat":-40.174386,"lng":175.385493,"tags":{"website":"http://bullsmuseum.co.nz/","opening_hours":"Mo-Su 10:00-15:00","operator":"Bulls and Districts Historical Society"}}
+{"id":"osm:node:13117455583","category":"museum","name":"Te Ūaka The Lyttelton Museum","lat":-43.602798,"lng":172.720901,"tags":{"wikidata":"Q131781523","wikipedia":"en:Lyttelton Museum"}}
+{"id":"osm:node:13291532388","category":"museum","name":"Canterbury Museum Pop-Up","lat":-43.530098,"lng":172.631972}
+{"id":"osm:node:13334828576","category":"museum","name":"Te Kuiti Museum & Gallery","lat":-38.334442,"lng":175.165337}
+{"id":"osm:node:13377076498","category":"museum","name":"National Toy Museum","lat":-39.156078,"lng":174.206704}
+{"id":"osm:node:1392132419","category":"museum","name":"New Zealand Police Museum","lat":-41.118876,"lng":174.859977}
+{"id":"osm:node:13946549999","category":"museum","name":"Wairoa Museum","lat":-39.033454,"lng":177.420474,"tags":{"website":"https://www.wairoadc.govt.nz/our-district/wairoa-museum/","opening_hours":"10:00-16:00","wikidata":"Q140257810"}}
+{"id":"osm:node:1504896120","category":"museum","name":"Te Amorangi Museum","lat":-38.121445,"lng":176.305253}
+{"id":"osm:node:1577770550","category":"museum","name":"Ōtorohanga Museum","lat":-38.180814,"lng":175.210356,"tags":{"website":"https://www.otorohangamuseum.co.nz","opening_hours":"Mo-We,Su off; Th-Sa 12:00-15:00"}}
+{"id":"osm:node:1609885028","category":"museum","name":"Thames Historical Museum","lat":-37.133929,"lng":175.540381}
+{"id":"osm:node:1609885032","category":"museum","name":"Thames School of Mines Museum","lat":-37.134911,"lng":175.537649}
+{"id":"osm:node:1613905498","category":"museum","name":"Kevs Museum","lat":-37.781684,"lng":176.313652}
+{"id":"osm:node:1627957938","category":"museum","name":"Karamea Museum","lat":-41.248959,"lng":172.117734,"tags":{"wikidata":"Q98668777"}}
+{"id":"osm:node:1650925933","category":"museum","name":"Okains Bay Maori & Colonial Museum","lat":-43.710178,"lng":173.041488,"tags":{"website":"https://www.okainsbaymuseum.co.nz/","opening_hours":"Mo-Su 10:00-17:00; Dec 25 closed \"Christmas Day\"","wikidata":"Q85658591"}}
+{"id":"osm:node:1720261442","category":"museum","name":"Museum Historical Museum (closed)","lat":-46.328331,"lng":168.848688,"tags":{"website":"https://southlandnz.com/listing/wyndham-historical-museum/954/","addr:postcode":"9831","addr:city":"Wyndham"}}
+{"id":"osm:node:1727281821","category":"museum","name":"Dunedin Gasworks Museum","lat":-45.893198,"lng":170.502497,"tags":{"wikidata":"Q5314974"}}
+{"id":"osm:node:1804832248","category":"museum","name":"Pompallier French Catholic Mission","lat":-35.264506,"lng":174.12181,"tags":{"website":"http://www.pompallier.co.nz/","opening_hours":"We-Su 10:00-16:00","addr:postcode":"0202","addr:city":"Russell"}}
+{"id":"osm:node:191616274","category":"museum","name":"Kowai Archives","lat":-43.209763,"lng":172.695666,"tags":{"opening_hours":"\"By appointment\"","operator":"Kowai Archives Society","addr:suburb":"Balcairn"}}
+{"id":"osm:node:195201821","category":"museum","name":"Pātaka Art + Museum","lat":-41.131776,"lng":174.839169,"tags":{"website":"https://pataka.org.nz/; https://poriruacity.govt.nz/discover-porirua/things-do/pataka/","wheelchair":"yes","wikidata":"Q18666215"}}
+{"id":"osm:node:2031361418","category":"museum","name":"Firth Tower Museum","lat":-37.801709,"lng":175.807582}
+{"id":"osm:node:2100761777","category":"museum","name":"International Police Museum","lat":-40.208418,"lng":176.100297}
+{"id":"osm:node:2100904074","category":"museum","name":"Rugby Museum","lat":-40.358356,"lng":175.608249,"tags":{"wikidata":"Q7015629"}}
+{"id":"osm:node:2100904079","category":"museum","name":"Te Manawa Museum","lat":-40.358149,"lng":175.608034,"tags":{"wikidata":"Q7690866"}}
+{"id":"osm:node:2180974297","category":"museum","lat":-38.211987,"lng":176.363513}
+{"id":"osm:node:2247233681","category":"museum","lat":-44.732498,"lng":170.469442}
+{"id":"osm:node:2261562660","category":"museum","name":"Havelock Heritage Museum","lat":-41.277087,"lng":173.766316,"tags":{"addr:postcode":"7100","addr:suburb":"Havelock","addr:city":"Havelock"}}
+{"id":"osm:node:2261636318","category":"museum","name":"Collingwood Museum","lat":-40.676988,"lng":172.682632,"tags":{"wikidata":"Q77979079"}}
+{"id":"osm:node:2273331719","category":"museum","name":"Martinborough Colonial Museum","lat":-41.218948,"lng":175.460176}
+{"id":"osm:node:2297537227","category":"museum","name":"Pleasant Point Railway","lat":-44.261159,"lng":171.131114,"tags":{"wikidata":"Q1641910"}}
+{"id":"osm:node:2316913384","category":"museum","name":"Te Awamutu Museum","lat":-38.011378,"lng":175.323851,"tags":{"contact:website":"https://tamuseum.org.nz/","opening_hours":"Mo-Fr 10:00-16:00; Sa 10:00-14:00; Su off; PH 10:00-14:00","operator":"Waipā District Council","addr:postcode":"3800","addr:suburb":"Te Awamutu","addr:city":"Te Awamutu"}}
+{"id":"osm:node:2396772295","category":"museum","name":"Dunedin Public Art Gallery & Museum","lat":-45.87455,"lng":170.502966,"tags":{"opening_hours":"Mo-Su 10:00-17:00","wikidata":"Q5314986"}}
+{"id":"osm:node:2397995269","category":"museum","name":"Taieri Historical Park","lat":-45.851575,"lng":170.236958}
+{"id":"osm:node:2471620212","category":"museum","name":"History House","lat":-42.447936,"lng":171.205263,"tags":{"wikidata":"Q98668650"}}
+{"id":"osm:node:2526110026","category":"museum","name":"Classics Museum","lat":-37.784383,"lng":175.253434,"tags":{"website":"https://classicsmuseum.co.nz/","addr:suburb":"Dinsdale"}}
+{"id":"osm:node:2588684437","category":"museum","name":"Teviot Museum","lat":-45.539792,"lng":169.312048,"tags":{"opening_hours":"Su 14:00-16:00"}}
+{"id":"osm:node:2628264189","category":"museum","name":"Holocaust Centre of New Zealand","lat":-41.297189,"lng":174.772349,"tags":{"website":"https://www.holocaustcentre.org.nz/","opening_hours":"Su-Fr 10:00-13:00","operator":"Holocaust Centre of New Zealand","addr:postcode":"6011","addr:suburb":"Te Aro","addr:city":"Wellington"}}
+{"id":"osm:node:2659037732","category":"museum","name":"Hokitika Museum","lat":-42.718618,"lng":170.961137,"tags":{"opening_hours":"10:00-16:30","wikidata":"Q54819076"}}
+{"id":"osm:node:2662602335","category":"museum","name":"National Transport and Toy Museum","lat":-44.72265,"lng":169.239821,"tags":{"website":"www.nttmuseum.co.nz","opening_hours":"Mo-Su 08:30-17:00","wheelchair":"yes","wikidata":"Q16895737"}}
+{"id":"osm:node:2664675000","category":"museum","name":"Raglan & District Museum","lat":-37.802102,"lng":174.868461,"tags":{"website":"https://www.raglanmuseum.co.nz/","addr:suburb":"Raglan"}}
+{"id":"osm:node:267850299","category":"museum","name":"Fyffe House","lat":-42.416756,"lng":173.707033,"tags":{"website":"http://www.heritage.org.nz/places/places-to-visit/marlborough-region/fyffe-house","operator":"New Zealand Historic Places Trust","description":"Historic Homestead operated by the New Zealand Historic Places Trust","addr:postcode":"7300","addr:suburb":"Kaikōura","addr:city":"Kaikōura","wikidata":"Q79301285"}}
+{"id":"osm:node:268528391","category":"museum","name":"South Canterbury Museum","lat":-44.397142,"lng":171.251016,"tags":{"wikidata":"Q85802253"}}
+{"id":"osm:node:2748880089","category":"museum","lat":-45.596345,"lng":170.667976}
+{"id":"osm:node:2823766884","category":"museum","name":"Owaka Museum","lat":-46.449871,"lng":169.661127,"tags":{"opening_hours":"Mo-Fr 08:30-17:00; Sa,Su,PH 09:30-16:00","wikidata":"Q63071972"}}
+{"id":"osm:node:2898703400","category":"museum","name":"Packard & Pioneer Museum","lat":-35.754229,"lng":174.207804}
+{"id":"osm:node:298326385","category":"museum","name":"Cricket Museum","lat":-41.300047,"lng":174.779385}
+{"id":"osm:node:3056521983","category":"museum","name":"Wanganui Riverboat Centre","lat":-39.932736,"lng":175.057654,"tags":{"operator":"Wanganui Riverboat Trust","addr:postcode":"4500","addr:city":"Wanganui"}}
+{"id":"osm:node:3335801643","category":"museum","name":"Waiheke Musical Museum","lat":-36.781176,"lng":175.006852,"tags":{"website":"https://musicalmuseum.org/"}}
+{"id":"osm:node:335842564","category":"museum","name":"Brayshaw Park","lat":-41.530511,"lng":173.940639,"tags":{"website":"https://brayshawpark.org.nz/"}}
+{"id":"osm:node:3364614104","category":"museum","name":"Old Post Office Museum","lat":-36.780331,"lng":174.656924}
+{"id":"osm:node:3373130108","category":"museum","name":"Goldfields Mining Centre","lat":-45.039994,"lng":169.121271}
+{"id":"osm:node:3461981590","category":"museum","name":"Bushman's Museum","lat":-46.131698,"lng":167.689328}
+{"id":"osm:node:3698156744","category":"museum","lat":-37.567221,"lng":175.910911}
+{"id":"osm:node:3934805886","category":"museum","name":"Claphams Clock Museum","lat":-35.725146,"lng":174.326466,"tags":{"opening_hours":"Mo-Su 09:00-17:00","addr:postcode":"0110","addr:city":"Whangarei"}}
+{"id":"osm:node:4060136118","category":"museum","lat":-42.655308,"lng":173.040308}
+{"id":"osm:node:4118935990","category":"museum","name":"New Zealand Sports Hall of Fame","lat":-45.875367,"lng":170.508828,"tags":{"website":"https://www.nzhalloffame.co.nz/","opening_hours":"Tu-Su 10:00-15:00; Mo off","wikidata":"Q13954816"}}
+{"id":"osm:node:4164564978","category":"museum","name":"Vanished World","lat":-44.854994,"lng":170.684313,"tags":{"opening_hours":"Mo-Su 09:30-17:00"}}
+{"id":"osm:node:4190352962","category":"museum","name":"Golden Bay Museum","lat":-40.857716,"lng":172.806213,"tags":{"website":"https://goldenbaymuseum.org.nz/","opening_hours":"Mo-Fr 10:00-16:00; Sa 10:00-14:00","wheelchair":"yes","addr:postcode":"7110","addr:suburb":"Tākaka","addr:city":"Tākaka"}}
+{"id":"osm:node:4211573085","category":"museum","name":"Tramway Museum","lat":-37.413057,"lng":175.774365,"tags":{"opening_hours":"We, Su 10:00-15:00"}}
+{"id":"osm:node:4448320398","category":"museum","name":"Matthews Vintage Collection","lat":-34.997204,"lng":173.424344,"tags":{"website":"https://www.matthewsvintage.com","opening_hours":"Mo-Fr 13:00-17:00; Su 13:00-17:00","addr:postcode":"0486","addr:suburb":"Taipa","addr:city":"Kaitaia"}}
+{"id":"osm:node:4516287242","category":"museum","name":"Gypsy Rose Tea Museum","lat":-39.536982,"lng":176.847838}
+{"id":"osm:node:4564371392","category":"museum","name":"Mike Pero's Motorcycle Gallery","lat":-43.501025,"lng":172.555675,"tags":{"website":"https://motorcyclegallery.co.nz/","addr:postcode":"8042","addr:suburb":"Avonhead","addr:city":"Christchurch"}}
+{"id":"osm:node:4578527592","category":"museum","name":"Classic Motorcycles Mecca","lat":-46.413196,"lng":168.349064,"tags":{"opening_hours":"Mo-Su 10:00-17:00","addr:suburb":"Invercargill"}}
+{"id":"osm:node:4582063514","category":"museum","name":"Akaroa Museum","lat":-43.805135,"lng":172.967589,"tags":{"opening_hours":"Mo-Su 10:30-16:30"}}
+{"id":"osm:node:4597120699","category":"museum","name":"Motueka Museum","lat":-41.110726,"lng":173.010872,"tags":{"wikidata":"Q79302872"}}
+{"id":"osm:node:4641455119","category":"museum","name":"Museum","lat":-39.6765,"lng":175.799471}
+{"id":"osm:node:4727188489","category":"museum","name":"Whangaroa Museum","lat":-35.100396,"lng":173.77969}
+{"id":"osm:node:4741045959","category":"museum","name":"Tuakau and Districts Museum","lat":-37.257418,"lng":174.947882}
+{"id":"osm:node:4777946122","category":"museum","name":"Motorsport","lat":-45.056118,"lng":169.164715}
+{"id":"osm:node:494048109","category":"museum","name":"Fell Engine Museum","lat":-41.118129,"lng":175.327233}
+{"id":"osm:node:5011650807","category":"museum","name":"Teece Museum of Classical Antiquities","lat":-43.531856,"lng":172.628106}
+{"id":"osm:node:5196969738","category":"museum","name":"Kaikoura Museum","lat":-42.402799,"lng":173.682594,"tags":{"website":"https://kaikoura-museum.co.nz/","opening_hours":"Mo-Su 10:00-16:00","wheelchair":"yes","addr:postcode":"7300","addr:city":"Kaikoura"}}
+{"id":"osm:node:5203748154","category":"museum","name":"Quake City","lat":-43.528592,"lng":172.633438,"tags":{"website":"https://www.canterburymuseum.com/","opening_hours":"Mo-Su 10:00-17:00","wheelchair":"yes","operator":"Canterbury Museum"}}
+{"id":"osm:node:5261430134","category":"museum","name":"Sir Edmund Hillary Alpine Centre","lat":-43.732778,"lng":170.093114,"tags":{"website":"https://www.hermitage.co.nz/en/the-sir-edmund-hillary-alpine-centre","opening_hours":"Mo-Fr 08:00-20:00"}}
+{"id":"osm:node:528514980","category":"museum","name":"Central Stories","lat":-45.254109,"lng":169.391804}
+{"id":"osm:node:5415795923","category":"museum","name":"McCahon House","lat":-36.947426,"lng":174.664175,"tags":{"website":"https://mccahonhouse.org.nz./","opening_hours":"We-Su 13:00-16:00","wheelchair":"no","operator":"McCahon House Trust","addr:postcode":"0604","addr:suburb":"Titirangi","addr:city":"Auckland","wikidata":"Q79302486"}}
+{"id":"osm:node:5432815137","category":"museum","name":"Albertland & Districts Museum","lat":-36.297614,"lng":174.522255,"tags":{"addr:suburb":"Wellsford"}}
+{"id":"osm:node:5455615821","category":"museum","name":"Aviator Guy Menzies Replica Bi-Plane","lat":-43.14923,"lng":170.555681}
+{"id":"osm:node:5581508756","category":"museum","name":"Gemston & Fossil Museum Birdlings Flat","lat":-43.825214,"lng":172.699336,"tags":{"opening_hours":"09:00-17:00","addr:postcode":"7591","addr:city":"Millers Flat"}}
+{"id":"osm:node:5648566009","category":"museum","name":"Tuapeka Goldfields Museum","lat":-45.912999,"lng":169.686915,"tags":{"website":"https://www.facebook.com/Tuapeka-Goldfields-Museum-521323161327628/","opening_hours":"Mo-Su 09:30-15:30","operator":"Tuapeka Goldfields Museum Society Inc.","description":"Local, community-maintained museum with artefacts from the Otago gold rush, turn of the century rural life, and the historical Chinese settlement.","addr:postcode":"9532","addr:suburb":"Lawrence","addr:city":"Lawrence"}}
+{"id":"osm:node:567249932","category":"museum","name":"Coach House Museum","lat":-40.231429,"lng":175.567577}
+{"id":"osm:node:5689134725","category":"museum","name":"Golden Bay Machinery & Early Settlers Museum","lat":-40.729817,"lng":172.626471}
+{"id":"osm:node:5826276555","category":"museum","name":"Fiordland Vintage Machinery Museum","lat":-45.411282,"lng":167.735377}
+{"id":"osm:node:599460252","category":"museum","name":"Nelson Provincial Museum","lat":-41.274446,"lng":173.283621,"tags":{"website":"https://nelsonmuseum.co.nz","opening_hours":"Mo-Fr 10:00-17:00; Sa,Su,PH 10:00-16:30","wheelchair":"yes","addr:suburb":"Nelson","addr:city":"Nelson","wikidata":"Q6990697"}}
+{"id":"osm:node:6143957185","category":"museum","name":"Geology Museum","lat":-45.864984,"lng":170.515052,"tags":{"opening_hours":"Mo-Fr 09:00-17:00","wikidata":"Q64657134"}}
+{"id":"osm:node:6157377478","category":"museum","name":"Whare Tinei Ahi / Fire Station","lat":-36.867632,"lng":174.727583,"tags":{"website":"https://motat.nz/exhibitions/firehouse/","operator":"MOTAT"}}
+{"id":"osm:node:6185171685","category":"museum","name":"Te Rahui Center","lat":-37.779298,"lng":175.282639}
+{"id":"osm:node:6209102686","category":"museum","name":"bakery museum","lat":-45.663095,"lng":169.411964}
+{"id":"osm:node:6245636598","category":"museum","name":"Middleton Model Railway","lat":-40.69339,"lng":175.646442}
+{"id":"osm:node:6366096652","category":"museum","name":"Waitomo Museum of Caves","lat":-38.261028,"lng":175.109162,"tags":{"operator":"Waitomo Caves Museum Society"}}
+{"id":"osm:node:6501457712","category":"museum","name":"Historic Cape Light museum","lat":-39.24282,"lng":173.776147,"tags":{"opening_hours":"Mo, Fr-Su 11:00-15:00"}}
+{"id":"osm:node:6622702241","category":"museum","name":"Maritime museum","lat":-41.256471,"lng":173.101987}
+{"id":"osm:node:6699727653","category":"museum","name":"Gore Heritage Centre","lat":-46.097334,"lng":168.945861,"tags":{"operator":"Gore District Council","description":"The heritage centre incorporates the Hokonui Moonshine Museum, the Gore Historical Museum, and the Hokonui Heritage Research Centre."}}
+{"id":"osm:node:6699727654","category":"museum","name":"Gore Historical Museum","lat":-46.097371,"lng":168.945871,"tags":{"description":"This museum celebrates Gore's social history with a variety of displays and special collections. A wide range of items and information cover the arrival of southern Maori, early European settlers, and the resulting enterprise that made the District unique","wikidata":"Q63184403"}}
+{"id":"osm:node:6699727655","category":"museum","name":"Hokonui Heritage Research Centre","lat":-46.097293,"lng":168.945851,"tags":{"description":"The centre has resources designed for those wishing to undertake local history or genealogical research."}}
+{"id":"osm:node:6699727656","category":"museum","name":"Hokonui Moonshine Museum","lat":-46.097253,"lng":168.94584,"tags":{"description":"The Gore District's colourful history of illicit whiskey making and consumption is celebrated in this unique museum, located in Gore heritage precinct."}}
+{"id":"osm:node:6745067785","category":"museum","name":"Old Library Arts Centre","lat":-35.723955,"lng":174.31817,"tags":{"website":"http://www.oldlibrary.org.nz","opening_hours":"Tu-Th 10:00-16:00","addr:suburb":"Whangārei"}}
+{"id":"osm:node:6813345485","category":"museum","name":"The Dunedin Museum of Natural Mystery","lat":-45.865613,"lng":170.504452,"tags":{"wikidata":"Q64652513"}}
+{"id":"osm:node:7035703875","category":"museum","name":"Fort Taiaroa","lat":-45.774864,"lng":170.7282,"tags":{"wikidata":"Q79301069"}}
+{"id":"osm:node:7036542941","category":"museum","name":"North Otago Museum","lat":-45.099795,"lng":170.969571}
+{"id":"osm:node:7049930036","category":"museum","name":"Herb Factory Museum","lat":-45.187618,"lng":169.320308,"tags":{"addr:city":"Clyde"}}
+{"id":"osm:node:7050035427","category":"museum","name":"Maniototo Early Settlers Museum","lat":-45.02373,"lng":170.147532,"tags":{"opening_hours":"Jan-Apr: We 13:00-16:00; Jan-Apr: Th-Su 10:30-16:00"}}
+{"id":"osm:node:7050035433","category":"museum","name":"Jubilee Museum","lat":-45.023473,"lng":170.147279,"tags":{"opening_hours":"Dec-Apr: We 13:00-16:00; Dec-Apr: Th-Su 10:30-16:00"}}
+{"id":"osm:node:706989090","category":"museum","lat":-35.601328,"lng":174.287325}
+{"id":"osm:node:7140650386","category":"museum","name":"Mokau Museum","lat":-38.697743,"lng":174.619545,"tags":{"wikidata":"Q66606378"}}
+{"id":"osm:node:7140651485","category":"museum","name":"Mokau Art Gallery","lat":-38.697548,"lng":174.619549}
+{"id":"osm:node:7477556600","category":"museum","name":"Waimate Museum & Archives","lat":-44.732298,"lng":171.045974,"tags":{"website":"https://www.waimatemuseumandarchives.org.nz/","opening_hours":"Tu-Fr 10:00-15:30; PH off","wheelchair":"yes","operator":"Waimate Historical Society Inc.","addr:postcode":"7924","addr:city":"Waimate","wikidata":"Q93167167"}}
+{"id":"osm:node:776040243","category":"museum","name":"Lakes District Museum","lat":-44.938511,"lng":168.833306,"tags":{"website":"https://museumqueenstown.com/","opening_hours":"Mo-Su 09:00-17:00","addr:postcode":"9302","wikidata":"Q40435276"}}
+{"id":"osm:node:8540613367","category":"museum","name":"The Lion & Tusk Museum","lat":-37.656342,"lng":176.193446,"tags":{"addr:postcode":"3116","addr:city":"Tauranga"}}
+{"id":"osm:node:8682259908","category":"museum","name":"Victoria University Classics Museum","lat":-41.288679,"lng":174.768688,"tags":{"website":"https://www.wgtn.ac.nz/slc/about/our-programmes/classics/classics-museum","operator":"Victoria University of Wellington","addr:postcode":"6012","addr:city":"Wellington"}}
+{"id":"osm:node:9335806773","category":"museum","name":"Okato & District Historical Society","lat":-39.191316,"lng":173.877354,"tags":{"opening_hours":"We 10:00-13:00","addr:city":"Okato"}}
+{"id":"osm:node:9452087144","category":"museum","lat":-42.760608,"lng":172.56368}
+{"id":"osm:relation:13263709","category":"museum","name":"Marlborough Museum","lat":-41.531636,"lng":173.940404,"tags":{"website":"https://www.marlboroughmuseum.org.nz","opening_hours":"Mo-Su 10:00-16:00","addr:postcode":"7201","addr:suburb":"Redwoodtown"}}
+{"id":"osm:way:1001932658","category":"museum","name":"Russell Museum","lat":-35.263247,"lng":174.122187,"tags":{"opening_hours":"Mo-Su 10:00-16:00","addr:postcode":"0202","addr:suburb":"Russell","addr:city":"Russell","wikidata":"Q104604487"}}
+{"id":"osm:way:1030260828","category":"museum","name":"Te Māori Waiwhetu Cultural Centre and Museum","lat":-41.223321,"lng":174.921423}
+{"id":"osm:way:1031506245","category":"museum","name":"Classic Flyers Aviation Museum","lat":-37.667841,"lng":176.197614,"tags":{"website":"https://www.classicflyersnz.com/","addr:postcode":"3116","addr:suburb":"Mount Maunganui","addr:city":"Mount Maunganui","wikidata":"Q5128154"}}
+{"id":"osm:way:1055576325","category":"museum","name":"Helensville Pioneer Museum","lat":-36.676042,"lng":174.444873}
+{"id":"osm:way:1065720934","category":"museum","name":"Te Waimate Mission House","lat":-35.316593,"lng":173.876304}
+{"id":"osm:way:1066010977","category":"museum","name":"Museum of New Zealand Te Papa Tongarewa Archives","lat":-41.298277,"lng":174.779141}
+{"id":"osm:way:1074124239","category":"museum","name":"Pioneer Hall","lat":-43.63993,"lng":172.485429,"tags":{"operator":"Lincoln Historical Society"}}
+{"id":"osm:way:1075609900","category":"museum","name":"Mount Bruce Pioneer Museum","lat":-40.796874,"lng":175.61229,"tags":{"website":"https://wairarapanz.com/see-and-do/mt-bruce-pioneer-museum"}}
+{"id":"osm:way:1086030774","category":"museum","name":"Interpretation Centre","lat":-45.382124,"lng":170.429415}
+{"id":"osm:way:1096687992","category":"museum","name":"Waimarino Museum","lat":-39.425686,"lng":175.275724,"tags":{"website":"https://www.raetihi.nz/shop/product/552185/waimarino-museum/?variantId=1540048","opening_hours":"Su,We 11:00-15:00 || \"Other opening times can be arranged on request, please email us.\""}}
+{"id":"osm:way:1127644423","category":"museum","name":"Steam Scene Museum","lat":-43.470694,"lng":172.497464,"tags":{"operator":"The Canterbury Steam Perservation Society Inc."}}
+{"id":"osm:way:1153427491","category":"museum","name":"The Wool Shed - National Museum of Sheep and Shearing","lat":-40.948978,"lng":175.664653,"tags":{"website":"https://www.thewoolshednz.com/","addr:postcode":"5810","addr:city":"Masterton"}}
+{"id":"osm:way:1158682197","category":"museum","name":"Sled House","lat":-38.663438,"lng":178.028701,"tags":{"wikidata":"Q79303948"}}
+{"id":"osm:way:1158682198","category":"museum","name":"Wylie Cottage","lat":-38.663501,"lng":178.028867,"tags":{"wikidata":"Q76938716"}}
+{"id":"osm:way:120612031","category":"museum","name":"MOTAT Great North Road","lat":-36.867361,"lng":174.727247,"tags":{"website":"https://motat.nz","wheelchair":"yes","addr:postcode":"1022","addr:suburb":"Western Springs","addr:city":"Auckland","wikidata":"Q136554472"}}
+{"id":"osm:way:1233196307","category":"museum","name":"Bill Richardson Transport World","lat":-46.409548,"lng":168.380254,"tags":{"wikidata":"Q29378771"}}
+{"id":"osm:way:1241241802","category":"museum","name":"South Canterbury Aviation Heritage Centre","lat":-44.303599,"lng":171.224784}
+{"id":"osm:way:1253118448","category":"museum","name":"Whale Fossil","lat":-46.053467,"lng":170.000801,"tags":{"website":"https://milton-district.co.nz/attraction/milburn-whale-fossils-lookout-2/","opening_hours":"24/7"}}
+{"id":"osm:way:1276634122","category":"museum","name":"The Garrison Society - RNZAF Station Omaka","lat":-41.536707,"lng":173.924267,"tags":{"addr:postcode":"7272","addr:suburb":"Burleigh","addr:city":"Blenheim"}}
+{"id":"osm:way:1296809403","category":"museum","name":"Olveston Historic Home","lat":-45.866291,"lng":170.502364,"tags":{"addr:postcode":"9016","addr:suburb":"Dunedin Central","addr:city":"Dunedin","wikidata":"Q7088887","wikipedia":"en:Olveston (house)"}}
+{"id":"osm:way:131474500","category":"museum","name":"Te Aroha District Museum","lat":-37.544648,"lng":175.715331,"tags":{"wikidata":"Q76927900"}}
+{"id":"osm:way:1318201799","category":"museum","name":"Munitions Laboratory and Muesum / Public Toilets","lat":-41.164524,"lng":174.90001,"tags":{"operator":"Greater Wellington Regional Council","addr:postcode":"5010","addr:city":"Lower Hutt"}}
+{"id":"osm:way:1366211975","category":"museum","name":"Hillsborough Holden Car Museum","lat":-39.094829,"lng":174.155841}
+{"id":"osm:way:137197434","category":"museum","name":"Rotorua Museum","lat":-38.135603,"lng":176.259072,"tags":{"opening_hours":"closed \"indefinitely, due to earthquake damage\"","wikidata":"Q7370609"}}
+{"id":"osm:way:139076712","category":"museum","name":"National Army Museum","lat":-39.481233,"lng":175.670078,"tags":{"website":"https://www.armymuseum.co.nz/","wikidata":"Q3330644","wikipedia":"en:National Army Museum (New Zealand)"}}
+{"id":"osm:way:141573706","category":"museum","name":"Port Museum","lat":-41.261401,"lng":173.295386}
+{"id":"osm:way:1418179128","category":"museum","lat":-38.663413,"lng":178.028782}
+{"id":"osm:way:1425516854","category":"museum","name":"Morrinsville Museum","lat":-37.656522,"lng":175.529705,"tags":{"website":"https://www.morrinsvillemuseum.org.nz/","opening_hours":"Mo-Fr 11:00-16:00; Sa[1] 09:00-13:00; Su 11:00-15:00; Jan 1, Jan 2, Dec 25,Dec 26: off"}}
+{"id":"osm:way:1474912286","category":"museum","name":"Port Chalmers Maritime Museum","lat":-45.814963,"lng":170.623099,"tags":{"website":"http://portmuseum.org.nz/","wikidata":"Q64654610"}}
+{"id":"osm:way:148306828","category":"museum","name":"Te Wharetaonga Museum and Gallery","lat":-37.953686,"lng":176.994873}
+{"id":"osm:way:153753380","category":"museum","name":"Nelson Classic Car Museum","lat":-41.29822,"lng":173.239632,"tags":{"website":"https://nelsonclassiccarmuseum.nz/","opening_hours":"Mo-Su 10:00-16:00; Dec 25 off","wheelchair":"yes","addr:suburb":"Annesbrook","wikidata":"Q8036641"}}
+{"id":"osm:way:153924615","category":"museum","name":"New Zealand Portrait Gallery","lat":-41.283622,"lng":174.778159,"tags":{"website":"https://nzportraitgallery.org.nz/","wikidata":"Q28180748"}}
+{"id":"osm:way:154260841","category":"museum","name":"New Zealand Maritime Museum Hui Te Ananui a Tangaroa","lat":-36.841734,"lng":174.76336,"tags":{"website":"https://maritimemuseum.co.nz","opening_hours":"Mo-Su 10:00-17:00; Dec 25: off","operator":"Tātaki Auckland Unlimited","wikidata":"Q7942457","wikipedia":"en:New Zealand Maritime Museum"}}
+{"id":"osm:way:156934330","category":"museum","name":"Dargaville Maritime Museum","lat":-35.959131,"lng":173.864062,"tags":{"website":"https://www.dargavillemuseum.co.nz/","addr:city":"Dargaville"}}
+{"id":"osm:way:159929111","category":"museum","name":"Otago Museum","lat":-45.865699,"lng":170.510818,"tags":{"opening_hours":"Mo-Su 10:00-17:00","wheelchair":"yes","wikidata":"Q7108347"}}
+{"id":"osm:way:160909406","category":"museum","name":"Puke Ariki New Plymouth Museum","lat":-39.056925,"lng":174.071877,"tags":{"website":"https://pukeariki.com/","opening_hours":"Mo-Su 10:00-17:00; Dec 25 off","wheelchair":"yes","addr:postcode":"4310","addr:suburb":"New Plymouth","addr:city":"New Plymouth"}}
+{"id":"osm:way:162154097","category":"museum","name":"Maota Sāmoa;Sāmoa House","lat":-36.857214,"lng":174.757992,"tags":{"addr:suburb":"Auckland Central","wikidata":"Q122979647","wikipedia":"en:Samoa House"}}
+{"id":"osm:way:167957697","category":"museum","name":"The Dowse Art Museum","lat":-41.211881,"lng":174.904404,"tags":{"wheelchair":"yes","wikidata":"Q17049879","wikipedia":"en:Dowse Art Museum"}}
+{"id":"osm:way:175699192","category":"museum","name":"Audio Visual Museum","lat":-40.47088,"lng":175.282108}
+{"id":"osm:way:175699213","category":"museum","name":"Foxton Historical Society Museum","lat":-40.470926,"lng":175.281747}
+{"id":"osm:way:186994810","category":"museum","name":"Tongariro National Trout Centre","lat":-39.020156,"lng":175.810106,"tags":{"website":"https://troutcentre.com/"}}
+{"id":"osm:way:190557095","category":"museum","name":"Museum of New Zealand Te Papa Tongarewa","lat":-41.290312,"lng":174.7821,"tags":{"website":"https://tepapa.govt.nz","opening_hours":"10:00-18:00; Dec 24 off","wheelchair":"yes","operator":"Museum of New Zealand Te Papa Tongarewa","addr:postcode":"6011","addr:suburb":"Te Aro","addr:city":"Wellington","wikidata":"Q915603","wikipedia":"en:Te Papa"}}
+{"id":"osm:way:200072890","category":"museum","name":"Foxton Flax Stripper Museum","lat":-40.473992,"lng":175.280279}
+{"id":"osm:way:200134029","category":"museum","name":"Aotea Utanganui / Museum of South Taranaki","lat":-39.754372,"lng":174.47187,"tags":{"wikidata":"Q4778791"}}
+{"id":"osm:way:203328398","category":"museum","name":"Waipu Museum","lat":-35.984064,"lng":174.445309,"tags":{"wikidata":"Q89055017"}}
+{"id":"osm:way:205425812","category":"museum","name":"Yaldhurst Museum","lat":-43.510646,"lng":172.504798,"tags":{"website":"http://www.yaldhurstmuseum.co.nz/","addr:postcode":"7676","addr:city":"Christchurch","wikidata":"Q8047320"}}
+{"id":"osm:way:208400245","category":"museum","name":"Rangiora Museum","lat":-43.300658,"lng":172.593159,"tags":{"opening_hours":"We 13:00-16:30;Su 13:00-16:30","addr:postcode":"7400","addr:suburb":"Rangiora"}}
+{"id":"osm:way:212948138","category":"museum","name":"Petone Settlers Museum","lat":-41.229318,"lng":174.880193,"tags":{"website":"https://petonesettlers.org.nz/","opening_hours":"We-Su 10:00-16:00","wikidata":"Q24886262"}}
+{"id":"osm:way:216002880","category":"museum","name":"Martinborough Colonial Museum","lat":-41.218957,"lng":175.460254,"tags":{"addr:postcode":"5711","addr:suburb":"Martinborough","addr:city":"Martinborough"}}
+{"id":"osm:way:216936657","category":"museum","name":"Waikato Museum","lat":-37.789765,"lng":175.286527,"tags":{"website":"https://waikatomuseum.co.nz/","opening_hours":"Mo-Su 10:00-17:00","addr:suburb":"Hamilton Central","wikidata":"Q7960003"}}
+{"id":"osm:way:217387920","category":"museum","name":"Thornycroft Torpedo Boat Museum","lat":-43.610049,"lng":172.703364,"tags":{"website":"https://www.lytteltoninfocentre.nz/lyttelton-torpedo-boat-museum","operator":"Lyttelton Information Centre"}}
+{"id":"osm:way:217462132","category":"museum","name":"Tui Brewery Museum","lat":-40.42321,"lng":175.864628}
+{"id":"osm:way:217719879","category":"museum","name":"New Brighton Museum","lat":-43.508926,"lng":172.72452,"tags":{"website":"https://www.nbmuseum.org.nz/","opening_hours":"Mo-Su 13:00-15:00","addr:postcode":"8061","addr:suburb":"New Brighton","addr:city":"Christchurch"}}
+{"id":"osm:way:221030830","category":"museum","lat":-41.274659,"lng":174.955106}
+{"id":"osm:way:221326258","category":"museum","name":"Edwin Fox Maritime Museum","lat":-41.286677,"lng":174.005594}
+{"id":"osm:way:221689639","category":"museum","name":"Old Customs House","lat":-39.482017,"lng":176.896371,"tags":{"wikidata":"Q79301064"}}
+{"id":"osm:way:224613554","category":"museum","name":"Founders Heritage Park","lat":-41.261743,"lng":173.296505,"tags":{"opening_hours":"10:00-16:30","wikidata":"Q5474607","wikipedia":"en:Founders Heritage Park"}}
+{"id":"osm:way:236713475","category":"museum","name":"The Plains Museum","lat":-43.923882,"lng":171.708305,"tags":{"website":"https://www.plainsrailway.co.nz/","description":"Ourdoor museum"}}
+{"id":"osm:way:23906678","category":"museum","name":"Tāmaki Paenga Hira / Auckland War Memorial Museum","lat":-36.860666,"lng":174.777805,"tags":{"website":"https://www.aucklandmuseum.com/","opening_hours":"Mo,We-Fr 10:00-17:00; Tu 10:00-20:30; Sa,Su,PH 09:00-17:00; Dec 25: off","wheelchair":"yes","addr:postcode":"1010","addr:suburb":"Parnell","addr:city":"Auckland","wikidata":"Q758657","wikipedia":"en:Auckland War Memorial Museum"}}
+{"id":"osm:way:250856271","category":"museum","name":"Wellington Museum","lat":-41.285347,"lng":174.778188,"tags":{"website":"http://wellingtoncityheritage.org.nz/buildings/151-300/160-wellington-harbour-board-head-office-and-bond-store;https://www.museumswellington.org.nz/wellington-museum/","opening_hours":"Mo-Su 10:00-17:00","wheelchair":"yes","operator":"Museums Wellington","wikidata":"Q9292226"}}
+{"id":"osm:way:252061659","category":"museum","name":"Cable Car Museum","lat":-41.285263,"lng":174.767438,"tags":{"website":"https://www.museumswellington.org.nz/cable-car-museum/","opening_hours":"Mo-Su 10:00-17:00","wheelchair":"yes","addr:postcode":"6012","addr:suburb":"Kelburn","addr:city":"Wellington","wikidata":"Q61066504"}}
+{"id":"osm:way:257208796","category":"museum","name":"Cambridge Museum","lat":-37.896341,"lng":175.47181,"tags":{"website":"https://www.cambridgemuseum.org.nz/","addr:postcode":"3434","addr:suburb":"Cambridge","addr:city":"Cambridge","wikidata":"Q77978664"}}
+{"id":"osm:way:264854202","category":"museum","name":"Nairn Street Colonial Cottage","lat":-41.299298,"lng":174.769956,"tags":{"website":"http://nairnstcottage.nz/","opening_hours":"Mo-Su 12:00-16:00","addr:suburb":"Mount Cook","wikidata":"Q9292492","wikipedia":"en:Nairn Street Cottage"}}
+{"id":"osm:way:27127579","category":"museum","name":"The Whare","lat":-43.59975,"lng":172.575772}
+{"id":"osm:way:280674321","category":"museum","name":"Porirua Hospital Museum","lat":-41.140417,"lng":174.831618}
+{"id":"osm:way:286218921","category":"museum","name":"Medical Museum","lat":-35.741579,"lng":174.27039}
+{"id":"osm:way:286218923","category":"museum","name":"Whangarei Museum","lat":-35.74215,"lng":174.269347,"tags":{"opening_hours":"Mo-Su 10:00-16:00"}}
+{"id":"osm:way:290285227","category":"museum","name":"Gem & Mineral Hall","lat":-42.53549,"lng":171.18166}
+{"id":"osm:way:290372975","category":"museum","name":"Ross Goldfields Information & Heritage Centre","lat":-42.900722,"lng":170.815339}
+{"id":"osm:way:291024485","category":"museum","name":"Alberton","lat":-36.889993,"lng":174.724619,"tags":{"wikidata":"Q76853346","wikipedia":"en:Alberton, Auckland"}}
+{"id":"osm:way:292960985","category":"museum","name":"Te Whakairinga Mutu / Air Force Museum","lat":-43.546555,"lng":172.547613,"tags":{"website":"https://airforcemuseum.co.nz","opening_hours":"Mo-Su,PH 09:30-16:30; Dec 25: off","wheelchair":"yes","operator":"Venues Ōtautahi","addr:city":"Christchurch","wikidata":"Q4697927","wikipedia":"en:Air Force Museum of New Zealand"}}
+{"id":"osm:way:301622003","category":"museum","name":"Kawhia Regional Museum, Gallery and Information Centre","lat":-38.065291,"lng":174.823168,"tags":{"addr:postcode":"3889","addr:suburb":"Kawhia","addr:city":"Kawhia"}}
+{"id":"osm:way:307693452","category":"museum","lat":-41.11815,"lng":175.327228}
+{"id":"osm:way:307963525","category":"museum","name":"Puhoi Heritage Museum","lat":-36.515495,"lng":174.661477,"tags":{"website":"https://puhoiheritagemuseum.co.nz/","opening_hours":"Mo-Su 12:00-15:00"}}
+{"id":"osm:way:319216804","category":"museum","name":"Papakura Museum","lat":-37.063932,"lng":174.942103,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:327947574","category":"museum","name":"Whangamata War Memorial Hall","lat":-37.211102,"lng":175.869219,"tags":{"website":"https://www.tcdc.govt.nz/"}}
+{"id":"osm:way:330338496","category":"museum","name":"Te Toi Uku Clay Works","lat":-36.91108,"lng":174.680199,"tags":{"website":"https://portageceramicstrust.org.nz/"}}
+{"id":"osm:way:333201753","category":"museum","name":"Kapiti Coast Museum","lat":-40.877891,"lng":175.067108}
+{"id":"osm:way:333398320","category":"museum","name":"Southward Car Museum","lat":-40.89419,"lng":175.028858,"tags":{"wikidata":"Q7571111"}}
+{"id":"osm:way:338268688","category":"museum","name":"National Museum of the Royal New Zealand Navy","lat":-36.828867,"lng":174.809392,"tags":{"contact:website":"https://navymuseum.co.nz/","opening_hours":"Mo-Su 10:00-17:00","operator":"New Zealand Defence Force","addr:suburb":"Devonport","addr:city":"Auckland"}}
+{"id":"osm:way:338620145","category":"museum","name":"Albertland Heritage Museum","lat":-36.297681,"lng":174.52225,"tags":{"website":"https://albertlandmuseum.co.nz/","addr:postcode":"0900","addr:suburb":"Wellsford","addr:city":"Wellsford","wikidata":"Q133815572"}}
+{"id":"osm:way:338904451","category":"museum","name":"Mansion House","lat":-36.430474,"lng":174.818694,"tags":{"wikidata":"Q24190011","wikipedia":"en:Mansion House, Kawau Island"}}
+{"id":"osm:way:339274250","category":"museum","name":"Warkworth and District Museum","lat":-36.41643,"lng":174.669128,"tags":{"opening_hours":"Sep-Mar: Mo-Su 10:00-16:00; Apr-Aug: Mo-Su 10:00-15:00"}}
+{"id":"osm:way:339723494","category":"museum","name":"Huia Settlers Museum","lat":-37.004862,"lng":174.562346,"tags":{"opening_hours":"Su 13:30-16:30","addr:suburb":"Huia","wikidata":"Q117452488"}}
+{"id":"osm:way:339842574","category":"museum","name":"Devonport Museum","lat":-36.824827,"lng":174.80265}
+{"id":"osm:way:340220708","category":"museum","name":"Waiuku Museum","lat":-37.247183,"lng":174.728919,"tags":{"opening_hours":"Su 13:30-16:00","addr:postcode":"2123","addr:suburb":"Waiuku","addr:city":"Waiuku","wikidata":"Q115771748"}}
+{"id":"osm:way:343355722","category":"museum","name":"Katherine Mansfield House and Garden","lat":-41.270164,"lng":174.779874,"tags":{"addr:postcode":"6011","addr:suburb":"Thorndon","addr:city":"Wellington"}}
+{"id":"osm:way:345800616","category":"museum","name":"Wellington Tramway Museum","lat":-40.969321,"lng":174.980309,"tags":{"website":"https://www.wellingtontrams.org.nz/","opening_hours":"Sa,Su,PH 11:00-16:30; Dec 25: off; Dec 26-Jan 24: 11:00-16:30","operator":"Wellington Tramway Museum society","wikidata":"Q7981526"}}
+{"id":"osm:way:352563490","category":"museum","lat":-37.553331,"lng":175.916924}
+{"id":"osm:way:35559732","category":"museum","name":"Cheviot Museum","lat":-42.812219,"lng":173.274487}
+{"id":"osm:way:359337311","category":"museum","name":"Opotiki Museum","lat":-38.003837,"lng":177.284052}
+{"id":"osm:way:362748343","category":"museum","name":"The Historic Village","lat":-37.704537,"lng":176.149983,"tags":{"website":"https://historicvillage.co.nz","wikidata":"Q136388564"}}
+{"id":"osm:way:364014078","category":"museum","name":"Staveley Historical and Geological Centre","lat":-43.652247,"lng":171.442552}
+{"id":"osm:way:364601872","category":"museum","name":"Te Awahou Nieuwe Stroom","lat":-40.473859,"lng":175.280483,"tags":{"opening_hours":"Mo-Fr 09:00-17:00; Sa,Su 10:00-16:00","wikidata":"Q96407871"}}
+{"id":"osm:way:366054548","category":"museum","name":"Pioneer Village","lat":-35.41089,"lng":173.801204}
+{"id":"osm:way:369945361","category":"museum","name":"Tirau Museum","lat":-37.995463,"lng":175.804377}
+{"id":"osm:way:370668662","category":"museum","name":"Whanganui Tramways Museum and Tramshed","lat":-39.934019,"lng":175.056603,"tags":{"addr:postcode":"4500","addr:suburb":"Whanganui","addr:city":"Whanganui"}}
+{"id":"osm:way:370668774","category":"museum","name":"Quartz Museum of Studio Ceramics","lat":-39.931246,"lng":175.056001,"tags":{"website":"https://www.quartzmuseum.org.nz/","opening_hours":"Tu-Su 10:30-16:00","operator":"Rick Rudd"}}
+{"id":"osm:way:372801570","category":"museum","name":"MTG","lat":-39.488974,"lng":176.919049,"tags":{"website":"https://www.mtghawkesbay.com/","opening_hours":"Mo-Su 10:00-17:00; Dec 25 off","wheelchair":"yes","operator":"Napier City Coucil","addr:postcode":"4110","addr:suburb":"Napier South","addr:city":"Napier","wikidata":"Q17054366"}}
+{"id":"osm:way:374045237","category":"museum","name":"Carterton Railway Station","lat":-41.02177,"lng":175.523405}
+{"id":"osm:way:376340504","category":"museum","name":"Te Hikoi Southern Journey Heritage Museum","lat":-46.352024,"lng":168.0132,"tags":{"website":"https://www.tehikoi.co.nz/","addr:postcode":"9822","addr:suburb":"Riverton/Aparima","addr:city":"Riverton/Aparima"}}
+{"id":"osm:way:376342626","category":"museum","name":"Riverton Community Arts Centre","lat":-46.351979,"lng":168.014282,"tags":{"opening_hours":"11:00+","addr:postcode":"9822","addr:suburb":"Riverton/Aparima","addr:city":"Riverton/Aparima"}}
+{"id":"osm:way:377271784","category":"museum","name":"Kaikoura Marine Aquarium","lat":-42.413477,"lng":173.702216,"tags":{"website":"marineaquarium.co.nz","addr:postcode":"7300","addr:suburb":"Kaikōura","addr:city":"Kaikōura"}}
+{"id":"osm:way:381455514","category":"museum","name":"Bluff Maritime Museum","lat":-46.596277,"lng":168.331883,"tags":{"opening_hours":"Mo-Fr 10:00-16:30; Sa-Su 12:30-16:30","addr:postcode":"9842","addr:city":"Bluff","wikidata":"Q4930659"}}
+{"id":"osm:way:383193959","category":"museum","name":"Lumsden Heritage Trust","lat":-45.739227,"lng":168.442257,"tags":{"opening_hours":"24/7","wheelchair":"yes","operator":"Lumsden Heritage Trust","wikidata":"Q18712423","wikipedia":"en:Lumsden Heritage Trust"}}
+{"id":"osm:way:384613013","category":"museum","name":"Mangawhai Museum","lat":-36.105685,"lng":174.582528,"tags":{"opening_hours":"10:00-16:00"}}
+{"id":"osm:way:387096256","category":"museum","name":"Middlemarch Museum","lat":-45.507748,"lng":170.119791,"tags":{"wikidata":"Q74628014"}}
+{"id":"osm:way:389136104","category":"museum","name":"Dinosaur House","lat":-39.426243,"lng":175.276113,"tags":{"website":"https://www.dinosaurhouse.co.nz/","opening_hours":"Tu-Fr 10:00-16:00; Sa-Su 10:00-17:00","addr:postcode":"4632","addr:suburb":"Raetihi","addr:city":"Raetihi"}}
+{"id":"osm:way:394745551","category":"museum","name":"Paekakariki Station and Museum","lat":-40.987317,"lng":174.954136,"tags":{"website":"https://stationmuseum.org.nz","wikidata":"Q24189380"}}
+{"id":"osm:way:397419843","category":"museum","name":"Millerton Information Centre","lat":-41.633257,"lng":171.869587}
+{"id":"osm:way:398482799","category":"museum","name":"School of Mines","lat":-42.118808,"lng":171.869014,"tags":{"wikidata":"Q79303887"}}
+{"id":"osm:way:400547290","category":"museum","name":"Matuku Takotako: Sumner Centre","lat":-43.569049,"lng":172.758737,"tags":{"website":"https://my.christchurchcitylibraries.com/locations/sumner/","opening_hours":"Mo-Fr 10:00-18:00; Sa 10:00-13:00","addr:postcode":"8081","addr:city":"Christchurch"}}
+{"id":"osm:way:401701429","category":"museum","name":"Godley Head Heritage Trust Museum","lat":-43.588141,"lng":172.803916}
+{"id":"osm:way:406899996","category":"museum","name":"Blacks Point Museum","lat":-42.131605,"lng":171.881998,"tags":{"wikidata":"Q98916263"}}
+{"id":"osm:way:408761991","category":"museum","name":"Geraldine Vintage Car & Machinery Museum","lat":-44.102439,"lng":171.24423}
+{"id":"osm:way:408762022","category":"museum","name":"Geraldine Historical Museum","lat":-44.092849,"lng":171.244043}
+{"id":"osm:way:408830876","category":"museum","name":"The Ashburton Fire Museum","lat":-43.92341,"lng":171.707739,"tags":{"website":"https://www.plainsrailway.co.nz/running-days/"}}
+{"id":"osm:way:408830919","category":"museum","name":"The Plains Museum","lat":-43.923243,"lng":171.708065,"tags":{"website":"https://www.plainsrailway.co.nz/"}}
+{"id":"osm:way:409222648","category":"museum","name":"Omaka Aviation Heritage Centre","lat":-41.53784,"lng":173.929835,"tags":{"website":"https://www.omaka.org.nz/","opening_hours":"May 01-Nov 30, 10:00-17:00; Dec 01-Apr 30, 09:00-17:00","wheelchair":"yes","operator":"The New Zealand Aviation Museum Trust","description":"Omaka Aviation Heritage Centre houses a display like no other and you don’t have to be an aviation buff to enjoy it! Stories from World Wars One & Two War come to life in a theatrical treatment, which is innovative and visually stunning.","addr:postcode":"7272","addr:suburb":"Burleigh","addr:city":"Blenheim","wikidata":"Q7089492","wikipedia":"en:Omaka Aviation Heritage Centre"}}
+{"id":"osm:way:411533773","category":"museum","name":"Waikouaiti Coast Heritage Centre","lat":-45.596396,"lng":170.667976,"tags":{"wikidata":"Q77024142"}}
+{"id":"osm:way:411855743","category":"museum","name":"Livery Stables","lat":-45.104118,"lng":170.969904}
+{"id":"osm:way:411855827","category":"museum","name":"Whitestone City","lat":-45.103847,"lng":170.970619,"tags":{"website":"https://www.victorianoamaru.co.nz/whitestone-city/","opening_hours":"Mo-Su 10:00-16:00","addr:postcode":"9400","addr:suburb":"Oamaru","addr:city":"Oamaru"}}
+{"id":"osm:way:413211107","category":"museum","name":"Fairlie Heritage Museum","lat":-44.093797,"lng":170.823328,"tags":{"addr:postcode":"7925","addr:suburb":"Fairlie"}}
+{"id":"osm:way:413227081","category":"museum","name":"Glentunnel Museum","lat":-43.480979,"lng":171.931198}
+{"id":"osm:way:430881553","category":"museum","name":"Coromandel School of Mines & Historic Museum","lat":-36.754515,"lng":175.502379,"tags":{"website":"https://www.nzmuseums.co.nz/collections/3121/coromandel-school-of-mines-and-historical-museum","wheelchair":"yes","operator":"NZ Museums","addr:suburb":"Coromandel","wikidata":"Q79311466"}}
+{"id":"osm:way:434691495","category":"museum","name":"New Zealand Warbirds Association","lat":-37.032709,"lng":174.975852}
+{"id":"osm:way:435227914","category":"museum","name":"Murchison Museum","lat":-41.801596,"lng":172.325141,"tags":{"addr:suburb":"Murchison"}}
+{"id":"osm:way:436792493","category":"museum","name":"Faraday Museum of Technology","lat":-39.494015,"lng":176.905451,"tags":{"website":"https://www.faradaymuseum.co.nz/","addr:suburb":"Napier South"}}
+{"id":"osm:way:437739176","category":"museum","name":"Stone Store","lat":-35.217766,"lng":173.962672,"tags":{"opening_hours":"Nov-Apr Mo-Su,PH 10:00-17:00; May-Oct Mo-Su,PH 10:00-16:00","addr:postcode":"0230","wikidata":"Q4454541"}}
+{"id":"osm:way:437739178","category":"museum","name":"Mission House","lat":-35.21749,"lng":173.962282,"tags":{"opening_hours":"Nov-Apr Mo-Su,PH 10:00-17:00; May-Oct Mo-Su,PH 10:00-16:00","description":"New Zealand's oldest house","wikidata":"Q1939039"}}
+{"id":"osm:way:444747943","category":"museum","name":"Warbirds & Wheels","lat":-44.724278,"lng":169.243815,"tags":{"website":"https://warbirdsandwheels.com/","opening_hours":"Nov-Apr 09:00-17:00","addr:suburb":"Wānaka","wikidata":"Q19876942"}}
+{"id":"osm:way:457640489","category":"museum","lat":-40.069953,"lng":176.216927}
+{"id":"osm:way:479202662","category":"museum","lat":-39.016016,"lng":174.857704}
+{"id":"osm:way:485322093","category":"museum","lat":-37.41308,"lng":175.774321}
+{"id":"osm:way:485654660","category":"museum","name":"Traction Engine Museum","lat":-40.192569,"lng":175.557164}
+{"id":"osm:way:488221127","category":"museum","name":"Golder's Cottage","lat":-41.125528,"lng":175.05629,"tags":{"addr:postcode":"5018","addr:suburb":"Elderslea","addr:city":"Upper Hutt","wikidata":"Q5580107"}}
+{"id":"osm:way:495304411","category":"museum","name":"Meadsville Gallery","lat":-38.335373,"lng":175.165715}
+{"id":"osm:way:497781552","category":"museum","name":"Omaka Classic Cars","lat":-41.537202,"lng":173.930072}
+{"id":"osm:way:512279969","category":"museum","name":"Ohakune Railway Museum","lat":-39.403318,"lng":175.416795,"tags":{"website":"https://www.maintrunk.co.nz","opening_hours":"Th-Su 10:00-14:00"}}
+{"id":"osm:way:512569955","category":"museum","name":"The Central Art Gallery","lat":-43.531515,"lng":172.628219}
+{"id":"osm:way:524228258","category":"museum","name":"Mercer Museum","lat":-37.279877,"lng":175.046987,"tags":{"addr:postcode":"2474","addr:city":"Mercer"}}
+{"id":"osm:way:542889977","category":"museum","name":"Te Ahurea","lat":-35.216829,"lng":173.96377,"tags":{"website":"http://www.kerikeri.co.nz/Rewas_Village.cfm","wheelchair":"no"}}
+{"id":"osm:way:607122344","category":"museum","name":"Birkenhead Historical Society Museum","lat":-36.808638,"lng":174.721049,"tags":{"operator":"Birkenhead Historical Society"}}
+{"id":"osm:way:61379585","category":"museum","name":"Huakaiwaka Visitor Centre","lat":-37.012847,"lng":174.907709,"tags":{"opening_hours":"Mo-Su,PH 08:00-16:30","addr:suburb":"The Gardens","addr:city":"Auckland"}}
+{"id":"osm:way:617553440","category":"museum","lat":-43.297579,"lng":172.189934}
+{"id":"osm:way:624607128","category":"museum","name":"Bolton St Cemetery Chapel","lat":-41.27948,"lng":174.774292,"tags":{"opening_hours":"Mo-Su 10:00-16:00"}}
+{"id":"osm:way:630289065","category":"museum","name":"McNicol Homestead","lat":-36.989357,"lng":175.045859,"tags":{"opening_hours":"Sa-Su 13:00-16:00","wikidata":"Q79309567"}}
+{"id":"osm:way:645438010","category":"museum","name":"Tokomaru Steam Engine Museum","lat":-40.47636,"lng":175.509897,"tags":{"website":"https://www.tokomarusteam.com/","opening_hours":"\"by appointment only\""}}
+{"id":"osm:way:656045477","category":"museum","name":"Classic Boat Museum","lat":-41.801281,"lng":172.84601,"tags":{"website":"http://www.classicboatmuseum.co.nz/","addr:postcode":"7072","addr:city":"St. Arnaud"}}
+{"id":"osm:way:664024328","category":"museum","name":"Clyde Museum","lat":-45.189714,"lng":169.317375}
+{"id":"osm:way:667820851","category":"museum","name":"MOTAT Aviation Hall","lat":-36.861327,"lng":174.713475,"tags":{"website":"https://motat.nz","addr:suburb":"Western Springs","addr:city":"Auckland","wikidata":"Q136554502"}}
+{"id":"osm:way:678251247","category":"museum","lat":-41.268155,"lng":174.989695}
+{"id":"osm:way:688876329","category":"museum","name":"Ashburton Art Gallery & Heritage Centre","lat":-43.901921,"lng":171.749605,"tags":{"opening_hours":"10:00-16:00","wikidata":"Q85743271"}}
+{"id":"osm:way:705626932","category":"museum","name":"Te Kōngahu Museum of Waitangi","lat":-35.267543,"lng":174.080469,"tags":{"website":"https://www.waitangi.org.nz","opening_hours":"Mo-Su 09:00-17:00","wheelchair":"yes","operator":"Waitangi Treaty Grounds"}}
+{"id":"osm:way:709886856","category":"museum","name":"Silver Stream Railway Museum","lat":-41.151021,"lng":174.994927,"tags":{"opening_hours":"Su,PH 11:00-16:00","operator":"Silver Stream Railway","wikidata":"Q7516419","wikipedia":"en:Silver Stream Railway"}}
+{"id":"osm:way:746510888","category":"museum","name":"Picton Heritage and Whaling Museum","lat":-41.288591,"lng":174.006389,"tags":{"opening_hours":"10:00-16:00"}}
+{"id":"osm:way:750289183","category":"museum","name":"Te Rau Aroha","lat":-35.266331,"lng":174.081989,"tags":{"operator":"Waitangi Treaty Grounds","description":"Museum of the Price of Citizenship"}}
+{"id":"osm:way:753599783","category":"museum","name":"Ngaio Marsh House","lat":-43.571981,"lng":172.626766,"tags":{"website":"https://www.ngaiomarsh.org/","opening_hours":"Tu,Sa-Su \"by appointment\"","wikidata":"Q109297635"}}
+{"id":"osm:way:754050618","category":"museum","name":"Arrowtown Gaol","lat":-44.940252,"lng":168.835874}
+{"id":"osm:way:754613324","category":"museum","name":"Janet Frame's house","lat":-45.094635,"lng":170.964765}
+{"id":"osm:way:776432733","category":"museum","name":"Kapiti Aviation Museum","lat":-40.901385,"lng":174.991606}
+{"id":"osm:way:777214221","category":"museum","name":"Rakiura Museum","lat":-46.89825,"lng":168.126729}
+{"id":"osm:way:787835444","category":"museum","name":"Cobblestones Museum","lat":-41.085213,"lng":175.455478,"tags":{"wikidata":"Q15211080"}}
+{"id":"osm:way:787852945","category":"museum","name":"The Vintage Aviator","lat":-40.971034,"lng":175.632576}
+{"id":"osm:way:787852946","category":"museum","name":"Sport and Vintage Aviation Society","lat":-40.970733,"lng":175.63252}
+{"id":"osm:way:874441808","category":"museum","name":"Central Hawkes Bay Settlers Museum","lat":-39.944159,"lng":176.587408,"tags":{"addr:postcode":"4210","addr:suburb":"Waipawa","addr:city":"Waipawa"}}
+{"id":"osm:way:87977402","category":"museum","name":"Whanganui Regional Museum","lat":-39.931633,"lng":175.051874,"tags":{"opening_hours":"Mo-Su 10:00-16:30","wheelchair":"yes","wikidata":"Q18666207","wikipedia":"en:Whanganui Regional Museum"}}
+{"id":"osm:way:88416264","category":"museum","name":"Kauri Museum","lat":-36.130177,"lng":174.185327,"tags":{"website":"https://www.kaurimuseum.com/","opening_hours":"Mo-Su 09:00-17:00","wheelchair":"yes","addr:postcode":"0593","addr:city":"Matakohe","wikidata":"Q6378891"}}
+{"id":"osm:way:884976769","category":"museum","name":"Cardrona Distillery & Museum","lat":-44.865343,"lng":169.018455,"tags":{"website":"https://www.cardronadistillery.com","opening_hours":"Mo-Su 09:00-17:00"}}
+{"id":"osm:way:88735609","category":"museum","name":"Taupō Museum and Art Gallery","lat":-38.687284,"lng":176.067335,"tags":{"website":"https://www.taupodc.govt.nz/museum","opening_hours":"Mo-Su 10:00-16:30","addr:postcode":"3330","addr:suburb":"Taupō","addr:city":"Taupō"}}
+{"id":"osm:way:88748713","category":"museum","name":"Toitū Otago Settlers Museum","lat":-45.877263,"lng":170.505786,"tags":{"website":"https://www.toituosm.com/","opening_hours":"Mo-Su 10:00-17:00","wheelchair":"yes","operator":"Dunedin City Council","addr:postcode":"9016","addr:suburb":"Dunedin Central","addr:city":"Dunedin","wikidata":"Q1431259","wikipedia":"en:Toitū Otago Settlers Museum"}}
+{"id":"osm:way:899770822","category":"museum","name":"New Zealand Timber Museum","lat":-38.068248,"lng":175.790267,"tags":{"wikidata":"Q98551645","wikipedia":"en:New Zealand Timber Museum"}}
+{"id":"osm:way:908956020","category":"museum","name":"Gisborne City Vintage Railway","lat":-38.671792,"lng":178.022722,"tags":{"website":"https://www.gcvr.org.nz/","addr:city":"Gisborne","wikidata":"Q16926836","wikipedia":"en:Gisborne City Vintage Railway"}}
+{"id":"osm:way:908966266","category":"museum","name":"East Coast Museum of Technology","lat":-38.646795,"lng":177.969106,"tags":{"website":"https://www.ecmot.org.nz/","addr:postcode":"4010","addr:city":"Makaraka, Gisborne","wikidata":"Q138763957"}}
+{"id":"osm:way:910782688","category":"museum","name":"C Company Memorial House","lat":-38.664026,"lng":178.028778,"tags":{"addr:postcode":"4010","addr:city":"Gisborne"}}
+{"id":"osm:way:910782689","category":"museum","name":"Tairawhiti Museum","lat":-38.66374,"lng":178.028497,"tags":{"opening_hours":"Mo-Sa 10:00-16:00","wheelchair":"yes","addr:postcode":"4010","addr:city":"Gisborne","wikidata":"Q46206909"}}
+{"id":"osm:way:914076478","category":"museum","name":"Taumarumui Rail Action Centre","lat":-38.882744,"lng":175.265355}
+{"id":"osm:way:926910338","category":"museum","name":"Shannon Railway Station Museum & Visitor Centre","lat":-40.546542,"lng":175.41111}
+{"id":"osm:way:92770417","category":"museum","name":"Our City O-Tautahi","lat":-43.530789,"lng":172.633623,"tags":{"wikidata":"Q7110584","wikipedia":"en:Our City, Christchurch"}}
+{"id":"osm:way:939762554","category":"museum","name":"Rai Valley Pioneer Cottage","lat":-41.216022,"lng":173.596124}
+{"id":"osm:way:960095665","category":"museum","name":"Otaki Museum","lat":-40.752712,"lng":175.139046,"tags":{"website":"http://www.otakimuseum.co.nz/","opening_hours":"Th-Sa 10:00-14:00","addr:postcode":"5512","addr:suburb":"Ōtaki","addr:city":"Ōtaki"}}
+{"id":"osm:way:984804982","category":"museum","name":"Luttrells Gardens and Museum","lat":-40.175765,"lng":175.790701,"tags":{"addr:postcode":"4884","addr:suburb":"Pohangina","addr:city":"Ashhurst"}}
+{"id":"osm:way:984836628","category":"museum","name":"Dunedin Museum of Natural Mystery","lat":-45.865596,"lng":170.504466,"tags":{"wikidata":"Q64652513","wikipedia":"en:Dunedin Museum of Natural Mystery"}}
+{"id":"osm:way:989764723","category":"museum","name":"Museum of Waiheke & Historic Village","lat":-36.801491,"lng":175.069655,"tags":{"website":"http://www.waihekemuseum.org.nz/","operator":"Waiheke Island Historical Society"}}
+{"id":"osm:way:993165494","category":"museum","name":"South Canterbury Traction Engine And Transport Museum.","lat":-44.318296,"lng":171.242409,"tags":{"website":"https://sctetm.co.nz"}}
+{"id":"osm:way:997827405","category":"museum","name":"Wairoa Museum","lat":-38.212138,"lng":176.363647}
+{"id":"osm:way:997827410","category":"museum","name":"Barracks Museum","lat":-38.212301,"lng":176.363106}

@@ -1,4 +1,6 @@
-import { siteConfig } from "@/lib/site";
+import { siteConfig } from "./site";
+import type { NearbyPoi } from "./poi-data";
+import { displayPoiName, poiCategoryTitle } from "./poi-seo";
 
 type Breadcrumb = {
   name: string;
@@ -40,5 +42,34 @@ export function placeSchema(name: string, path: string, description: string) {
     name,
     description,
     url: new URL(path, siteConfig.url).toString()
+  };
+}
+
+export function nearbyPoiItemListSchema({
+  name,
+  path,
+  places
+}: {
+  name: string;
+  path: string;
+  places: NearbyPoi[];
+}) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name,
+    url: new URL(path, siteConfig.url).toString(),
+    numberOfItems: places.length,
+    itemListElement: places.map((place, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      item: {
+        "@type": "Place",
+        name: displayPoiName(place),
+        url: place.osmUrl,
+        category: poiCategoryTitle(place.category),
+        description: `${displayPoiName(place)} is ${place.distanceKm.toFixed(2)} km from this postcode centre in the retained nearby OpenStreetMap results.`
+      }
+    }))
   };
 }
