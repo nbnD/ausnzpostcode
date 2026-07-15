@@ -58,6 +58,7 @@ test("POI utilities resolve AU and NZ postcode refs, counts and OSM links", () =
   assert.deepEqual(au.map((place) => place.id), ["osm:node:1001", "osm:way:1002", "osm:node:1003"]);
   assert.deepEqual(au.map((place) => place.distanceKm), [0.5, 0.2, 0.7]);
   assert.equal(au[1].osmUrl, "https://www.openstreetmap.org/way/1002");
+  assert.equal(au[1].googleMapsUrl, "https://www.google.com/maps/search/?api=1&query=-33.861,151.201");
   assert.deepEqual(getPoiCountsForPostcode("au", "2000"), { park: 1, "public-bbq": 1, playground: 1 });
   assert.deepEqual(getPoiCountsForPostcode("nz", "1010"), { museum: 1 });
   assert.equal(hasPoiData("au", "9999"), false);
@@ -89,11 +90,18 @@ test("POI labels, counts and rendered section are safe and static-friendly", () 
   assert.match(buildPoiSummary({ postcode: "2000", locality: "Sydney", counts }), /Near Sydney postcode 2000/);
   assert.match(buildPoiSummary({ postcode: "2000", locality: "Sydney", counts }), /1 park, 1 mapped public BBQ location and 1 playground/);
   assert.match(html, /Nearby parks, BBQs and places to visit/);
-  assert.match(html, /compare nearby public facilities and visitor places around the postcode centre/);
+  assert.match(html, /<button[^>]*aria-pressed="true"[^>]*>All<\/button>/);
+  assert.match(html, /<button[^>]*aria-pressed="false"[^>]*>1 park<\/button>/);
+  assert.match(html, /<button[^>]*aria-pressed="false"[^>]*>1 mapped public BBQ location<\/button>/);
+  assert.match(html, /<button[^>]*aria-pressed="false"[^>]*>1 playground<\/button>/);
   assert.match(html, /Royal Park/);
   assert.match(html, /Public BBQ location/);
   assert.match(html, /0.20 km from this postcode centre/);
+  assert.match(html, /Open in Google Maps/);
+  assert.match(html, /https:\/\/www\.google\.com\/maps\/search\/\?api=1&amp;query=-33\.861,151\.201/);
   assert.match(html, /Place data © OpenStreetMap contributors, available under the ODbL/);
+  assert.doesNotMatch(html, /compare nearby public facilities and visitor places around the postcode centre/);
+  assert.doesNotMatch(html, /before opening the source record on OpenStreetMap/);
   assert.doesNotMatch(html, /inside this postcode|top-rated|official place|exact containment/i);
 
   const empty = renderToStaticMarkup(
@@ -127,7 +135,7 @@ test("POI metadata and ItemList schema use only visible preview facts", () => {
   assert.equal(schema.numberOfItems, 3);
   assert.equal(schema.itemListElement[0].item.name, "Royal Park");
   assert.equal(schema.itemListElement.some((item) => item.item.name === "Public BBQ location"), true);
-  assert.equal(schema.itemListElement.some((item) => item.item.url === "https://www.openstreetmap.org/way/1002"), true);
+  assert.equal(schema.itemListElement.some((item) => item.item.url === "https://www.google.com/maps/search/?api=1&query=-33.861,151.201"), true);
   assert.doesNotMatch(JSON.stringify(schema), /opening_hours|wheelchair|inside this postcode|top-rated|official place/i);
 });
 
