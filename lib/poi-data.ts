@@ -42,6 +42,7 @@ export type NearbyPoi = SharedPoi & {
   osmType: "node" | "way" | "relation";
   osmId: string;
   osmUrl: string;
+  googleMapsUrl: string;
 };
 
 type ValidationReport = {
@@ -120,13 +121,10 @@ export function getNearbyPoisForPostcode(country: CountryCode, postcode: string)
       distanceKm: ref.distanceKm,
       osmType: osm.osmType,
       osmId: osm.osmId,
-      osmUrl: `https://www.openstreetmap.org/${osm.osmType}/${osm.osmId}`
+      osmUrl: `https://www.openstreetmap.org/${osm.osmType}/${osm.osmId}`,
+      googleMapsUrl: `https://www.google.com/maps/search/?api=1&query=${poi.lat},${poi.lng}`
     };
   });
-}
-
-export function getNearbyPoisByCategory(country: CountryCode, postcode: string, category: PoiCategory): NearbyPoi[] {
-  return getNearbyPoisForPostcode(country, postcode).filter((poi) => poi.category === category);
 }
 
 export function getPoiCountsForPostcode(country: CountryCode, postcode: string): Partial<Record<PoiCategory, number>> {
@@ -134,10 +132,6 @@ export function getPoiCountsForPostcode(country: CountryCode, postcode: string):
     counts[ref.category] = (counts[ref.category] ?? 0) + 1;
     return counts;
   }, {});
-}
-
-export function getPoiGeneratedDate(): string | null {
-  return getPoiManifest()?.generatedAt ?? null;
 }
 
 export function __resetPoiDataCacheForTests() {

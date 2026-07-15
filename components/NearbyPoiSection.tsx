@@ -1,3 +1,6 @@
+"use client";
+
+import { useMemo, useState } from "react";
 import type { NearbyPoi, PoiCategory, PoiManifest } from "../lib/poi-data";
 import {
   buildPoiSummary,
@@ -17,9 +20,17 @@ type NearbyPoiSectionProps = {
 };
 
 export function NearbyPoiSection({ postcode, locality, places, counts, manifest }: NearbyPoiSectionProps) {
+  const [selectedCategory, setSelectedCategory] = useState<PoiCategory | "all">("all");
+  const categories = poiPreviewCategoryOrder.filter((category) => (counts[category] ?? 0) > 0);
+  const previews = useMemo(() => {
+    if (selectedCategory === "all") return getPreviewPlaces(places, 6);
+    return getPreviewPlaces(
+      places.filter((place) => place.category === selectedCategory),
+      10
+    );
+  }, [places, selectedCategory]);
   if (places.length === 0 || !manifest) return null;
 
-  const previews = getPreviewPlaces(places, 6);
   const summary = buildPoiSummary({ postcode, locality, counts });
   const generatedDate = formatGeneratedDate(manifest.generatedAt);
 
@@ -32,23 +43,31 @@ export function NearbyPoiSection({ postcode, locality, places, counts, manifest 
       <div className="p-5">
         <p className="text-sm leading-6 text-text">{summary}</p>
         <div className="mt-4 flex flex-wrap gap-2">
-          {Object.entries(counts)
-            .filter(([, count]) => Number(count) > 0)
-            .sort(([a], [b]) => poiPreviewCategoryOrder.indexOf(a as PoiCategory) - poiPreviewCategoryOrder.indexOf(b as PoiCategory))
-            .map(([category, count]) => (
-              <span key={category} className="rounded-full border border-border bg-ash px-3 py-1 text-xs font-semibold text-navy">
-                {count} {poiLabelFor(category as PoiCategory, count ?? 0)}
-              </span>
-            ))}
+          <button
+            type="button"
+            onClick={() => setSelectedCategory("all")}
+            aria-pressed={selectedCategory === "all"}
+            className={filterButtonClass(selectedCategory === "all")}
+          >
+            All
+          </button>
+          {categories.map((category) => (
+            <button
+              key={category}
+              type="button"
+              onClick={() => setSelectedCategory(category)}
+              aria-pressed={selectedCategory === category}
+              className={filterButtonClass(selectedCategory === category)}
+            >
+              {counts[category]} {poiLabelFor(category, counts[category] ?? 0)}
+            </button>
+          ))}
         </div>
-        <p className="mt-4 text-sm leading-6 text-muted">
-          Use this section to compare nearby public facilities and visitor places around the postcode centre before opening the source record on OpenStreetMap.
-        </p>
         <div className="mt-5 grid gap-3 sm:grid-cols-2">
           {previews.map((place) => (
             <a
               key={place.id}
-              href={place.osmUrl}
+              href={place.googleMapsUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="group rounded-[12px] border border-border bg-ash p-4 transition hover:-translate-y-0.5 hover:border-coral hover:bg-white hover:shadow-[0_14px_34px_rgba(11,37,69,0.1)] focus:outline-none focus:ring-2 focus:ring-coral focus:ring-offset-2"
@@ -60,7 +79,7 @@ export function NearbyPoiSection({ postcode, locality, places, counts, manifest 
                 {displayPoiName(place)}
               </span>
               <span className="mt-1 block text-xs text-muted">
-                {place.distanceKm.toFixed(2)} km from this postcode centre · OpenStreetMap
+                {place.distanceKm.toFixed(2)} km from this postcode centre · Open in Google Maps
               </span>
             </a>
           ))}
@@ -78,6 +97,14 @@ export function NearbyPoiSection({ postcode, locality, places, counts, manifest 
       </div>
     </section>
   );
+}
+
+function filterButtonClass(active: boolean) {
+  const base =
+    "rounded-full border px-3 py-1 text-xs font-semibold transition focus:outline-none focus:ring-2 focus:ring-coral focus:ring-offset-2";
+  return active
+    ? `${base} border-coral bg-coral text-white shadow-[0_8px_18px_rgba(232,71,42,0.22)]`
+    : `${base} border-border bg-ash text-navy hover:border-coral hover:bg-white hover:text-coral`;
 }
 
 function formatGeneratedDate(value: string) {
