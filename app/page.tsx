@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
+import { CityGuideLinks } from "@/components/CityGuideLinks";
 import { PopularPostcodeGrid } from "@/components/PopularPostcodeGrid";
 import { SearchHero } from "@/components/SearchHero";
 import { SectionHeading } from "@/components/SectionHeading";
 import { StateGrid } from "@/components/StateGrid";
 import { TabbedFAQAccordion } from "@/components/TabbedFAQAccordion";
+import { getCityPages } from "@/data/city-pages";
 import { formatCount, homepageData } from "@/data/postcodes";
 import { createMetadata } from "@/lib/metadata";
 import { faqSchema } from "@/lib/schema";
@@ -100,6 +102,7 @@ const faqItems = faqGroups.flatMap((group) => group.items);
 
 export default function Home() {
   const schema = faqSchema(faqItems);
+  const cityPages = getCityPages();
 
   return (
     <>
@@ -131,6 +134,13 @@ export default function Home() {
         <section className="mb-12">
           <SectionHeading title="Browse New Zealand by region" href="/nz" linkLabel="See all" />
           <StateGrid title="New Zealand regions" items={homepageData.nzRegions} accent="nz" />
+        </section>
+        <section className="mb-12">
+          <SectionHeading
+            title="Major city postcode guides"
+            description="Jump straight to high-demand city postcode guides for Sydney, Melbourne, Auckland, Wellington, and other major areas."
+          />
+          <CityGuideLinks cities={cityPages} />
         </section>
         <section className="mb-12">
           <SectionHeading title="Popular postcode lookups" href="/search" linkLabel="Search postcodes" />

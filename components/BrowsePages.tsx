@@ -1,9 +1,13 @@
 import Link from "next/link";
 import type { ReactNode } from "react";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { CityGuideLinks } from "@/components/CityGuideLinks";
 import { DataDisclaimer } from "@/components/DataDisclaimer";
 import { FaqList } from "@/components/FaqList";
 import { JsonLd } from "@/components/JsonLd";
+import { LocalityPostcodeLabel } from "@/components/LocalityPostcodeLabel";
+import { RegionPostcodeGrid } from "@/components/RegionPostcodeGrid";
+import { getCityPages } from "@/data/city-pages";
 import {
   countryName,
   countryRoot,
@@ -12,6 +16,7 @@ import {
   getBrowseLetters,
   getCountryLocalities,
   getCountryPostcodes,
+  getDirectoryLocalities,
   getLocalitiesByRegion,
   getPostcodesByRegion,
   localityPath,
@@ -72,6 +77,44 @@ function regionFaqs({
   ];
 }
 
+const auRegionDescriptions: Record<string, string> = {
+  ACT: "The Australian Capital Territory is centred on Canberra and includes national institutions, universities, government precincts, town centres and surrounding residential suburbs.",
+  NSW: "New South Wales covers Sydney, coastal towns, regional cities, inland communities and rural delivery areas across the most populous state in Australia.",
+  NT: "The Northern Territory covers Darwin, Alice Springs, remote communities, pastoral regions and large delivery areas across northern and central Australia.",
+  QLD: "Queensland covers Brisbane, coastal cities, regional centres, island communities and inland towns across the state's tropical and subtropical regions.",
+  SA: "South Australia covers Adelaide, wine regions, coastal towns, regional service centres and remote communities across the state's southern and inland areas.",
+  TAS: "Tasmania covers Hobart, Launceston, coastal towns, island communities and regional localities across the state.",
+  VIC: "Victoria covers Melbourne, Geelong, regional cities, coastal towns, alpine areas and rural communities across south-eastern Australia.",
+  WA: "Western Australia covers Perth, regional cities, mining towns, coastal communities and remote delivery areas across Australia's largest state."
+};
+
+const nzRegionDescriptions: Record<string, string> = {
+  Auckland: "Auckland is New Zealand's largest urban region, covering central Auckland, North Shore, West Auckland, South Auckland, airport areas, coastal suburbs and nearby communities.",
+  Wellington: "Wellington covers New Zealand's capital city, harbour suburbs, Hutt Valley localities, Porirua, Kapiti Coast and surrounding communities.",
+  Canterbury: "Canterbury covers Christchurch, the Canterbury Plains, alpine townships, coastal communities and rural localities across the central South Island."
+};
+
+function regionOverviewDescription({
+  country,
+  regionKey,
+  regionName,
+  postcodeCount,
+  localityCount
+}: {
+  country: CountryCode;
+  regionKey: string;
+  regionName: string;
+  postcodeCount: number;
+  localityCount: number;
+}) {
+  const description = country === "au"
+    ? auRegionDescriptions[regionKey] ?? `${regionName} covers suburbs, towns, regional centres and delivery localities across Australia.`
+    : nzRegionDescriptions[regionName] ?? `${regionName} covers localities, towns, rural communities and delivery areas across New Zealand.`;
+  const localityLabel = country === "au" ? "suburb and locality records" : "locality records";
+
+  return `${description} This page lists ${formatCount(postcodeCount)} postcode pages and ${formatCount(localityCount)} related ${localityLabel}.`;
+}
+
 export function PostcodeListPage({ country }: { country: CountryCode }) {
   const root = countryRoot(country);
   const name = countryName(country);
@@ -98,7 +141,7 @@ export function LocalityListPage({ country }: { country: CountryCode }) {
   const root = countryRoot(country);
   const isNz = country === "nz";
   const name = countryName(country);
-  const items = getCountryLocalities(country);
+  const items = getDirectoryLocalities(getCountryLocalities(country));
   const faqs = pageFaqs(country, isNz ? "locality" : "suburb");
   const path = `${root}/${isNz ? "localities" : "suburbs"}`;
 
@@ -114,8 +157,7 @@ export function LocalityListPage({ country }: { country: CountryCode }) {
               <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
                 {letterItems.map((item) => (
                   <Link key={item.slug} href={localityPath(item)} className="rounded-lg border border-border bg-white p-3 text-sm font-semibold text-text transition hover:border-coral hover:text-coral">
-                    {item.name}
-                    <span className="ml-2 text-xs font-normal text-muted">{item.postcode}</span>
+                    <LocalityPostcodeLabel name={item.name} postcode={item.postcode} />
                   </Link>
                 ))}
               </div>
@@ -154,7 +196,8 @@ export function RegionListPage({ country, slug }: { country: CountryCode; slug: 
   const root = countryRoot(country);
   const name = countryName(country);
   const items = getPostcodesByRegion(country, region.abbr ?? region.name);
-  const regionLocalities = getLocalitiesByRegion(country, region.abbr ?? region.name);
+  const regionLocalities = getDirectoryLocalities(getLocalitiesByRegion(country, region.abbr ?? region.name));
+  const regionCities = getCityPages(country).filter((city) => (city.state && city.state === region.abbr) || city.stateFull === region.name);
   const path = statePath(country, region.abbr ?? region.name);
   const faqs = regionFaqs({
     country,
@@ -175,8 +218,13 @@ export function RegionListPage({ country, slug }: { country: CountryCode; slug: 
             Find postcodes in {region.name}
           </h2>
           <p className="mt-3 text-sm leading-6 text-muted">
-            {region.name} has {formatCount(items.length)} indexed postcode pages and {formatCount(regionLocalities.length)} related {country === "nz" ? "locality" : "suburb"} records in this directory.
-            Use the postcode cards below for map positions, nearby postcodes, local place data, and source notes.
+            {regionOverviewDescription({
+              country,
+              regionKey: region.abbr ?? region.name,
+              regionName: region.name,
+              postcodeCount: items.length,
+              localityCount: regionLocalities.length
+            })}
           </p>
         </div>
         <div className="card-surface p-6">
@@ -186,22 +234,21 @@ export function RegionListPage({ country, slug }: { country: CountryCode; slug: 
           <div className="mt-4 grid gap-2">
             {regionLocalities.slice(0, 8).map((item) => (
               <Link key={item.slug} href={localityPath(item)} className="rounded-lg border border-border bg-ash px-3 py-2 text-sm font-semibold text-text transition hover:border-coral hover:bg-white hover:text-coral">
-                {item.name}
-                <span className="ml-2 text-xs font-normal text-muted">{item.postcode}</span>
+                <LocalityPostcodeLabel name={item.name} postcode={item.postcode} />
               </Link>
             ))}
           </div>
         </div>
       </section>
-      <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-        {items.map((item) => (
-          <Link key={item.code} href={postcodePath(item)} className="card-surface p-4">
-            <p className="font-heading text-2xl font-extrabold text-navy">{item.code}</p>
-            <p className="mt-1 text-sm font-semibold text-text">{item.locality}</p>
-            <p className="mt-1 text-xs text-muted">{item.stateFull}</p>
-          </Link>
-        ))}
-      </div>
+      {regionCities.length > 0 ? (
+        <section className="mb-8">
+          <h2 className="mb-4 font-heading text-2xl font-extrabold text-navy">
+            Major city guides in {region.name}
+          </h2>
+          <CityGuideLinks cities={regionCities} compact />
+        </section>
+      ) : null}
+      <RegionPostcodeGrid items={items} />
       <div className="mt-8">
         <Link href={root} className="text-sm font-bold text-coral hover:underline">Back to {name}</Link>
       </div>

@@ -1,8 +1,11 @@
 import Link from "next/link";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { CityGuideLinks } from "@/components/CityGuideLinks";
 import { DataDisclaimer } from "@/components/DataDisclaimer";
 import { FaqList } from "@/components/FaqList";
 import { JsonLd } from "@/components/JsonLd";
+import { LocalityPostcodeLabel } from "@/components/LocalityPostcodeLabel";
+import { getCityPages } from "@/data/city-pages";
 import {
   countryName,
   countryRoot,
@@ -10,6 +13,7 @@ import {
   getBrowseLetters,
   getCountryLocalities,
   getCountryPostcodes,
+  getDirectoryLocalities,
   getRegions,
   localityPath,
   postcodePath,
@@ -23,24 +27,56 @@ export function CountryDirectoryPage({ country }: { country: CountryCode }) {
   const root = countryRoot(country);
   const isNz = country === "nz";
   const postcodes = getCountryPostcodes(country);
-  const localities = getCountryLocalities(country);
+  const localities = getDirectoryLocalities(getCountryLocalities(country));
   const regions = getRegions(country);
   const featuredRegions = regions.slice(0, 6);
   const featuredLocalities = localities.slice(0, 12);
-  const faqs = [
-    {
-      question: `How do I search ${name} postcodes?`,
-      answer: `Use the search page or browse ${name} by ${isNz ? "region and locality" : "state and suburb"} from this directory.`
-    },
-    {
-      question: `Is the ${name} directory static?`,
-      answer: "Yes. Pages are generated from local JSON data and exported as static files for GitHub Pages."
-    },
-    {
-      question: "Is this an official postal authority?",
-      answer: "No. AusNZ Postcode is an independent reference directory and is not affiliated with postal authorities or government agencies."
-    }
-  ];
+  const cities = getCityPages(country);
+  const faqs = isNz
+    ? [
+        {
+          question: "How many New Zealand postcodes are listed?",
+          answer: `This directory lists ${formatCount(postcodes.length)} New Zealand postcode records and ${formatCount(localities.length)} related locality records across ${formatCount(regions.length)} regions.`
+        },
+        {
+          question: "How do I find a New Zealand postcode for a locality?",
+          answer: "Search by locality name, browse New Zealand regions, or open the A-Z locality directory to find matching postcode pages and nearby places where available."
+        },
+        {
+          question: "Which New Zealand regions can I browse by postcode?",
+          answer: "You can browse New Zealand postcode pages by region, including Auckland, Wellington, Canterbury and other regional directories linked from this page."
+        },
+        {
+          question: "Can the same 4-digit postcode exist in Australia and New Zealand?",
+          answer: "Yes. Australia and New Zealand both use 4-digit postcodes, so always check the country and locality before using a postcode for address research or delivery reference."
+        },
+        {
+          question: "Is AusNZ Postcode an official New Zealand postal source?",
+          answer: "No. AusNZ Postcode is an independent reference directory. For official delivery or address verification, check the relevant postal authority."
+        }
+      ]
+    : [
+        {
+          question: "How many Australian postcodes are listed?",
+          answer: `This directory lists ${formatCount(postcodes.length)} Australian postcode records and ${formatCount(localities.length)} related suburb and locality records across states and territories.`
+        },
+        {
+          question: "How do I find an Australian postcode for a suburb?",
+          answer: "Search by suburb name or postcode, browse by state or territory, or use the A-Z suburb directory to open postcode pages with map positions, nearby postcodes and source notes."
+        },
+        {
+          question: "Which Australian states and territories can I browse by postcode?",
+          answer: "You can browse postcode pages for New South Wales, Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory and Australian Capital Territory from this directory."
+        },
+        {
+          question: "Can one Australian postcode cover multiple suburbs?",
+          answer: "Yes. Many Australian postcodes cover multiple suburbs, towns or delivery localities. Postcode pages show the related suburb and locality names available in the source data."
+        },
+        {
+          question: "Is AusNZ Postcode an official Australia Post source?",
+          answer: "No. AusNZ Postcode is an independent reference directory. For official delivery or address verification, check the relevant postal authority."
+        }
+      ];
 
   const schema = [
     breadcrumbSchema([
@@ -121,12 +157,14 @@ export function CountryDirectoryPage({ country }: { country: CountryCode }) {
             ))}
           </div>
         </section>
-        <section className="mb-10 grid gap-4 lg:grid-cols-2">
+        <section className="mb-10 grid items-start gap-4 lg:grid-cols-2">
           <div className="card-surface p-6">
             <p className="font-heading text-xs font-bold uppercase tracking-[0.12em] text-coral">Search demand</p>
             <h2 className="mt-2 font-heading text-2xl font-extrabold text-navy">Common {name} postcode lookups</h2>
             <p className="mt-3 text-sm leading-6 text-muted">
-              Start with major {isNz ? "regions and localities" : "states and suburbs"}, then move into postcode pages for maps, nearby places, related localities, and source notes.
+              {isNz
+                ? "Explore high-demand New Zealand region and locality lookups, then open detailed postcode pages for coordinates, nearby postcodes, local place context and source notes."
+                : "Explore high-demand Australian state and suburb lookups, then open detailed postcode pages for coordinates, nearby postcodes, local place context and source notes."}
             </p>
             <div className="mt-5 flex flex-wrap gap-2">
               {featuredRegions.map((region) => (
@@ -144,17 +182,20 @@ export function CountryDirectoryPage({ country }: { country: CountryCode }) {
             <p className="font-heading text-xs font-bold uppercase tracking-[0.12em] text-coral">A-Z shortcuts</p>
             <h2 className="mt-2 font-heading text-2xl font-extrabold text-navy">Browse by {isNz ? "locality" : "suburb"}</h2>
             <p className="mt-3 text-sm leading-6 text-muted">
-              These pages help searchers find direct answers such as which postcode belongs to a suburb, town, city centre, or delivery locality.
+              Use the A-Z directory to find postcode pages for {isNz ? "localities, towns, city centres and regional delivery areas" : "suburbs, towns, city centres and delivery localities"} with clear links to related maps, nearby postcodes and source notes.
             </p>
             <div className="mt-5 grid gap-2 sm:grid-cols-2">
               {featuredLocalities.map((item) => (
                 <Link key={item.slug} href={localityPath(item)} className="rounded-lg border border-border bg-ash px-3 py-2 text-sm font-semibold text-text transition hover:border-coral hover:bg-white hover:text-coral">
-                  {item.name}
-                  <span className="ml-2 text-xs font-normal text-muted">{item.postcode}</span>
+                  <LocalityPostcodeLabel name={item.name} postcode={item.postcode} />
                 </Link>
               ))}
             </div>
           </div>
+        </section>
+        <section className="mb-10">
+          <h2 className="mb-4 font-heading text-2xl font-extrabold text-navy">Major city postcode guides</h2>
+          <CityGuideLinks cities={cities} />
         </section>
         <section className="mb-10">
           <h2 className="mb-4 font-heading text-2xl font-extrabold text-navy">A-Z quick links</h2>

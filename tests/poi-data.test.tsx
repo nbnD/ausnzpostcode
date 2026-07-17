@@ -87,7 +87,7 @@ test("POI labels, counts and rendered section are safe and static-friendly", () 
   );
 
   assert.equal(displayPoiName(places[1]), "Public BBQ location");
-  assert.match(buildPoiSummary({ postcode: "2000", locality: "Sydney", counts }), /Near Sydney postcode 2000/);
+  assert.match(buildPoiSummary({ postcode: "2000", locality: "Sydney", counts }), /Around Sydney postcode 2000/);
   assert.match(buildPoiSummary({ postcode: "2000", locality: "Sydney", counts }), /1 park, 1 mapped public BBQ location and 1 playground/);
   assert.match(html, /Nearby parks, BBQs and places to visit/);
   assert.match(html, /<button[^>]*aria-pressed="true"[^>]*>All<\/button>/);
@@ -129,8 +129,8 @@ test("POI metadata and ItemList schema use only visible preview facts", () => {
     places: previews
   });
 
-  assert.match(description, /Nearby OpenStreetMap results include/);
-  assert.match(description, /matched from the postcode centre/);
+  assert.match(description, /Nearby OpenStreetMap place results include/);
+  assert.match(description, /ranked by distance from the postcode centre/);
   assert.equal(schema["@type"], "ItemList");
   assert.equal(schema.numberOfItems, 3);
   assert.equal(schema.itemListElement[0].item.name, "Royal Park");

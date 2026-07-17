@@ -9,6 +9,7 @@ import { ShareActions } from "@/components/ShareActions";
 import {
   countryName,
   countryRoot,
+  getDirectoryLocalities,
   getDisplayLocality,
   getLocalitiesForPostcode,
   getLocalitySummary,
@@ -65,7 +66,7 @@ export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
   const nearbyPois = getNearbyPoisForPostcode(postcode.country, postcode.code);
   const poiCounts = getPoiCountsForPostcode(postcode.country, postcode.code);
   const poiPreviewPlaces = getPreviewPlaces(nearbyPois, 6);
-  const postcodeLocalities = getLocalitiesForPostcode(postcode.country, postcode.code);
+  const postcodeLocalities = getDirectoryLocalities(getLocalitiesForPostcode(postcode.country, postcode.code));
   const browseLabel = isNz ? "localities" : "suburbs";
   const schema = [
     breadcrumbSchema([

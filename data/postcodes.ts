@@ -156,6 +156,45 @@ export const localities: LocalityRecord[] = Array.from(
   new Map(localityCandidates.map((item) => [`${item.country}:${item.slug}`, item])).values()
 );
 
+export function getDirectoryLocalities(items: LocalityRecord[]) {
+  const aliasSlugs = new Set<string>();
+  const displayNames = new Map<string, string>();
+  const groups = new Map<string, LocalityRecord[]>();
+
+  for (const item of items) {
+    const key = `${item.country}:${item.postcode}`;
+    groups.set(key, [...(groups.get(key) ?? []), item]);
+  }
+
+  for (const group of groups.values()) {
+    for (const shortName of group) {
+      if (!isInitialism(shortName.name)) continue;
+
+      const fullName = group.find((item) => item.slug !== shortName.slug && initialsFor(item.name) === shortName.name);
+      if (!fullName) continue;
+
+      aliasSlugs.add(shortName.slug);
+      displayNames.set(fullName.slug, `${fullName.name} (${shortName.name})`);
+    }
+  }
+
+  return items
+    .filter((item) => !aliasSlugs.has(item.slug))
+    .map((item) => displayNames.has(item.slug) ? { ...item, name: displayNames.get(item.slug)! } : item);
+}
+
+function isInitialism(value: string) {
+  return /^[A-Z0-9]{2,8}$/.test(value);
+}
+
+function initialsFor(value: string) {
+  return value
+    .split(/[^A-Za-z0-9]+/)
+    .filter(Boolean)
+    .map((part) => part.charAt(0).toUpperCase())
+    .join("");
+}
+
 export function getCountryLocalities(country: CountryCode) {
   return localities.filter((item) => item.country === country);
 }
@@ -189,7 +228,7 @@ export function getNearbyLocalities(locality: LocalityRecord, limit = 8) {
 }
 
 export function getBrowseLetters(country: CountryCode, basePath: string): BrowseLetter[] {
-  const counts = getCountryLocalities(country).reduce<Record<string, number>>((acc, item) => {
+  const counts = getDirectoryLocalities(getCountryLocalities(country)).reduce<Record<string, number>>((acc, item) => {
     const letter = item.name.charAt(0).toUpperCase();
     if (/^[A-Z]$/.test(letter)) acc[letter] = (acc[letter] ?? 0) + 1;
     return acc;
