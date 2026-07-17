@@ -10,9 +10,11 @@ import {
   countryName,
   countryRoot,
   getDisplayLocality,
+  getLocalitiesForPostcode,
   getLocalitySummary,
   getNearbyPostcodes,
   getRegions,
+  localityPath,
   postcodePath,
   statePath,
   type PostcodeRecord
@@ -63,6 +65,8 @@ export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
   const nearbyPois = getNearbyPoisForPostcode(postcode.country, postcode.code);
   const poiCounts = getPoiCountsForPostcode(postcode.country, postcode.code);
   const poiPreviewPlaces = getPreviewPlaces(nearbyPois, 6);
+  const postcodeLocalities = getLocalitiesForPostcode(postcode.country, postcode.code);
+  const browseLabel = isNz ? "localities" : "suburbs";
   const schema = [
     breadcrumbSchema([
       { name: "Home", href: "/" },
@@ -120,6 +124,27 @@ export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
         <section>
           <div className="mb-4 overflow-hidden rounded-[14px] border border-border bg-white">
             <h2 className="border-b border-border bg-ash px-5 py-3.5 font-heading text-xs font-bold uppercase tracking-[0.08em] text-navy">
+              Postcode overview
+            </h2>
+            <div className="space-y-4 p-5 text-sm leading-6 text-text">
+              <p>
+                Postcode <strong>{postcode.code}</strong> is used for {summary} in {postcode.stateFull}, {country}.
+                Use this page to compare the postcode details, map position, nearby postcodes, related {browseLabel}, and nearby public places matched from the postcode centre.
+              </p>
+              <div className="grid gap-3 sm:grid-cols-2">
+                <Link href={statePath(postcode.country, postcode.state)} className="rounded-xl border border-border bg-ash p-4 transition hover:border-coral hover:bg-white">
+                  <span className="block font-heading text-sm font-extrabold text-navy">Browse {postcode.stateFull}</span>
+                  <span className="mt-1 block text-xs text-muted">See more postcodes in this {isNz ? "region" : "state or territory"}.</span>
+                </Link>
+                <Link href={`${root}/${browseLabel}`} className="rounded-xl border border-border bg-ash p-4 transition hover:border-coral hover:bg-white">
+                  <span className="block font-heading text-sm font-extrabold text-navy">Browse {country} {browseLabel}</span>
+                  <span className="mt-1 block text-xs text-muted">Use the A-Z directory for related locality pages.</span>
+                </Link>
+              </div>
+            </div>
+          </div>
+          <div className="mb-4 overflow-hidden rounded-[14px] border border-border bg-white">
+            <h2 className="border-b border-border bg-ash px-5 py-3.5 font-heading text-xs font-bold uppercase tracking-[0.08em] text-navy">
               Postcode details
             </h2>
             <dl className="divide-y divide-border text-sm">
@@ -141,6 +166,24 @@ export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
               ))}
             </dl>
           </div>
+          {postcodeLocalities.length > 0 ? (
+            <div className="mb-4 overflow-hidden rounded-[14px] border border-border bg-white">
+              <h2 className="border-b border-border bg-ash px-5 py-3.5 font-heading text-xs font-bold uppercase tracking-[0.08em] text-navy">
+                {isNz ? "Localities" : "Suburbs and localities"} in postcode {postcode.code}
+              </h2>
+              <div className="flex flex-wrap gap-2 p-5">
+                {postcodeLocalities.slice(0, 24).map((item) => (
+                  <Link
+                    key={item.slug}
+                    href={localityPath(item)}
+                    className="rounded-lg border border-border bg-ash px-4 py-2 font-heading text-sm font-bold text-navy transition hover:border-coral hover:bg-white hover:text-coral"
+                  >
+                    {item.name}
+                  </Link>
+                ))}
+              </div>
+            </div>
+          ) : null}
           <div className="mb-4 overflow-hidden rounded-[14px] border border-border bg-white">
             <h2 className="border-b border-border bg-ash px-5 py-3.5 font-heading text-xs font-bold uppercase tracking-[0.08em] text-navy">
               OpenStreetMap location
@@ -233,6 +276,25 @@ export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
                   <span className="text-xs text-muted">{region.count}</span>
                 </Link>
               ))}
+            </div>
+          </div>
+          <div className="mt-4 rounded-[14px] border border-border bg-white p-5">
+            <h2 className="mb-3 font-heading text-xs font-bold uppercase tracking-[0.08em] text-navy">
+              Related pages
+            </h2>
+            <div className="space-y-2 text-sm">
+              <Link href={`${root}/postcodes`} className="block font-semibold text-text hover:text-coral">
+                {country} postcodes
+              </Link>
+              <Link href={`${root}/${browseLabel}`} className="block font-semibold text-text hover:text-coral">
+                {country} {browseLabel}
+              </Link>
+              <Link href={`${root}/a-z`} className="block font-semibold text-text hover:text-coral">
+                {country} A-Z directory
+              </Link>
+              <Link href="/search" className="block font-semibold text-text hover:text-coral">
+                Search all postcodes
+              </Link>
             </div>
           </div>
         </aside>

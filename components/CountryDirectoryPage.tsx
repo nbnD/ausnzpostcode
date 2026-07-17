@@ -11,6 +11,7 @@ import {
   getCountryLocalities,
   getCountryPostcodes,
   getRegions,
+  localityPath,
   postcodePath,
   statePath,
   type CountryCode
@@ -24,6 +25,8 @@ export function CountryDirectoryPage({ country }: { country: CountryCode }) {
   const postcodes = getCountryPostcodes(country);
   const localities = getCountryLocalities(country);
   const regions = getRegions(country);
+  const featuredRegions = regions.slice(0, 6);
+  const featuredLocalities = localities.slice(0, 12);
   const faqs = [
     {
       question: `How do I search ${name} postcodes?`,
@@ -116,6 +119,41 @@ export function CountryDirectoryPage({ country }: { country: CountryCode }) {
                 <p className="mt-1 text-xs text-muted">{postcode.stateFull}</p>
               </Link>
             ))}
+          </div>
+        </section>
+        <section className="mb-10 grid gap-4 lg:grid-cols-2">
+          <div className="card-surface p-6">
+            <p className="font-heading text-xs font-bold uppercase tracking-[0.12em] text-coral">Search demand</p>
+            <h2 className="mt-2 font-heading text-2xl font-extrabold text-navy">Common {name} postcode lookups</h2>
+            <p className="mt-3 text-sm leading-6 text-muted">
+              Start with major {isNz ? "regions and localities" : "states and suburbs"}, then move into postcode pages for maps, nearby places, related localities, and source notes.
+            </p>
+            <div className="mt-5 flex flex-wrap gap-2">
+              {featuredRegions.map((region) => (
+                <Link
+                  key={region.name}
+                  href={statePath(country, region.abbr ?? region.name)}
+                  className="rounded-full border border-border bg-ash px-3 py-1.5 text-xs font-bold text-navy transition hover:border-coral hover:bg-white hover:text-coral"
+                >
+                  {region.name} postcodes
+                </Link>
+              ))}
+            </div>
+          </div>
+          <div className="card-surface p-6">
+            <p className="font-heading text-xs font-bold uppercase tracking-[0.12em] text-coral">A-Z shortcuts</p>
+            <h2 className="mt-2 font-heading text-2xl font-extrabold text-navy">Browse by {isNz ? "locality" : "suburb"}</h2>
+            <p className="mt-3 text-sm leading-6 text-muted">
+              These pages help searchers find direct answers such as which postcode belongs to a suburb, town, city centre, or delivery locality.
+            </p>
+            <div className="mt-5 grid gap-2 sm:grid-cols-2">
+              {featuredLocalities.map((item) => (
+                <Link key={item.slug} href={localityPath(item)} className="rounded-lg border border-border bg-ash px-3 py-2 text-sm font-semibold text-text transition hover:border-coral hover:bg-white hover:text-coral">
+                  {item.name}
+                  <span className="ml-2 text-xs font-normal text-muted">{item.postcode}</span>
+                </Link>
+              ))}
+            </div>
           </div>
         </section>
         <section className="mb-10">
