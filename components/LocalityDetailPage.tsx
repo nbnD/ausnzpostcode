@@ -46,6 +46,9 @@ export function LocalityDetailPage({ locality }: { locality: LocalityRecord }) {
   const path = localityPath(locality);
   const postcode = findPostcode(locality.country, locality.postcode);
   const faqs = buildLocalityFaqs(locality);
+  const isNz = locality.country === "nz";
+  const kind = isNz ? "locality" : "suburb";
+  const nearbyLocalities = getNearbyLocalities(locality);
   const schema = [
     breadcrumbSchema([
       { name: "Home", href: "/" },
@@ -87,9 +90,33 @@ export function LocalityDetailPage({ locality }: { locality: LocalityRecord }) {
           </div>
           <ShareActions title={`${locality.name} postcode ${locality.postcode}`} url={`${siteConfig.url}${path}`} />
         </div>
-      </section>
+        </section>
       <main className="mx-auto grid max-w-6xl gap-6 px-4 py-7 sm:px-6 lg:grid-cols-[1fr_340px]">
         <section>
+          <div className="mb-4 overflow-hidden rounded-[14px] border border-border bg-white">
+            <h2 className="border-b border-border bg-ash px-5 py-3.5 font-heading text-xs font-bold uppercase tracking-[0.08em] text-navy">
+              {locality.name} postcode overview
+            </h2>
+            <div className="space-y-4 p-5 text-sm leading-6 text-text">
+              <p>
+                <strong>{locality.name}</strong> is a {kind} in {locality.stateFull}, {country}, and uses postcode{" "}
+                <Link href={postcode ? postcodePath(postcode) : "/search"} className="font-bold text-coral hover:underline">
+                  {locality.postcode}
+                </Link>
+                . This page connects the {kind} to its postcode, region, map position, nearby places, and related {isNz ? "localities" : "suburbs"}.
+              </p>
+              <div className="grid gap-3 sm:grid-cols-2">
+                <Link href={statePath(locality.country, locality.state)} className="rounded-xl border border-border bg-ash p-4 transition hover:border-coral hover:bg-white">
+                  <span className="block font-heading text-sm font-extrabold text-navy">Browse {locality.stateFull}</span>
+                  <span className="mt-1 block text-xs text-muted">Find more postcodes in this {isNz ? "region" : "state or territory"}.</span>
+                </Link>
+                <Link href={`${root}/${isNz ? "localities" : "suburbs"}`} className="rounded-xl border border-border bg-ash p-4 transition hover:border-coral hover:bg-white">
+                  <span className="block font-heading text-sm font-extrabold text-navy">Browse {country} {isNz ? "localities" : "suburbs"}</span>
+                  <span className="mt-1 block text-xs text-muted">Jump through the full A-Z directory.</span>
+                </Link>
+              </div>
+            </div>
+          </div>
           <div className="mb-4 overflow-hidden rounded-[14px] border border-border bg-white">
             <h2 className="border-b border-border bg-ash px-5 py-3.5 font-heading text-xs font-bold uppercase tracking-[0.08em] text-navy">
               Locality details
@@ -123,7 +150,7 @@ export function LocalityDetailPage({ locality }: { locality: LocalityRecord }) {
               Nearby {locality.country === "au" ? "suburbs" : "localities"}
             </h2>
             <div className="flex flex-wrap gap-2 p-5">
-              {getNearbyLocalities(locality).map((item) => (
+              {nearbyLocalities.map((item) => (
                 <Link key={item.slug} href={localityPath(item)} className="rounded-lg border border-border bg-ash px-4 py-2 font-heading text-sm font-bold text-navy transition hover:border-coral hover:text-coral">
                   {item.name}
                 </Link>
@@ -143,6 +170,25 @@ export function LocalityDetailPage({ locality }: { locality: LocalityRecord }) {
           </div>
         </section>
         <aside className="hidden lg:block">
+          <div className="mb-4 rounded-[14px] border border-border bg-white p-5">
+            <h2 className="mb-3 font-heading text-xs font-bold uppercase tracking-[0.08em] text-navy">
+              Related pages
+            </h2>
+            <div className="space-y-2 text-sm">
+              <Link href={postcode ? postcodePath(postcode) : "/search"} className="block font-semibold text-text hover:text-coral">
+                Postcode {locality.postcode}
+              </Link>
+              <Link href={statePath(locality.country, locality.state)} className="block font-semibold text-text hover:text-coral">
+                {locality.stateFull} postcodes
+              </Link>
+              <Link href={`${root}/a-z`} className="block font-semibold text-text hover:text-coral">
+                {country} A-Z directory
+              </Link>
+              <Link href="/search" className="block font-semibold text-text hover:text-coral">
+                Search all postcodes
+              </Link>
+            </div>
+          </div>
           <DataDisclaimer />
         </aside>
       </main>

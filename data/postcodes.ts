@@ -137,7 +137,7 @@ export function getPostcodesByRegion(country: CountryCode, region: string) {
   return getCountryPostcodes(country).filter((item) => item.state === region || item.stateFull === region);
 }
 
-export const localities: LocalityRecord[] = postcodes.flatMap((postcode) => {
+const localityCandidates: LocalityRecord[] = postcodes.flatMap((postcode) => {
   const names = postcode.localities ?? [postcode.locality];
   return names.map((name) => ({
     country: postcode.country,
@@ -152,8 +152,20 @@ export const localities: LocalityRecord[] = postcodes.flatMap((postcode) => {
   }));
 });
 
+export const localities: LocalityRecord[] = Array.from(
+  new Map(localityCandidates.map((item) => [`${item.country}:${item.slug}`, item])).values()
+);
+
 export function getCountryLocalities(country: CountryCode) {
   return localities.filter((item) => item.country === country);
+}
+
+export function getLocalitiesForPostcode(country: CountryCode, code: string) {
+  return localities.filter((item) => item.country === country && item.postcode === code);
+}
+
+export function getLocalitiesByRegion(country: CountryCode, region: string) {
+  return getCountryLocalities(country).filter((item) => item.state === region || item.stateFull === region);
 }
 
 export function findLocality(country: CountryCode, slug: string) {

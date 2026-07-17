@@ -8,6 +8,7 @@ type CountryFilter = "au" | "nz" | "all";
 type TypeFilter = string;
 
 const perPage = 8;
+const popularSearches = ["2000", "Sydney", "3000", "Melbourne", "1010", "Auckland", "6011", "Wellington"];
 
 export function SearchResults() {
   const [query, setQuery] = useState("");
@@ -105,6 +106,23 @@ export function SearchResults() {
                 }`}
               >
                 {label}
+              </button>
+            ))}
+          </div>
+          <div className="mt-4 flex flex-wrap items-center gap-2">
+            <span className="text-xs font-semibold text-ice">Popular searches:</span>
+            {popularSearches.map((example) => (
+              <button
+                key={example}
+                type="button"
+                onClick={() => {
+                  setCountryFilter(["1010", "Auckland", "6011", "Wellington"].includes(example) ? "nz" : "au");
+                  setQuery(example);
+                  setPage(1);
+                }}
+                className="rounded-full border border-white/20 bg-white/10 px-3 py-1 text-xs font-bold text-white transition hover:border-coral hover:bg-coral"
+              >
+                {example}
               </button>
             ))}
           </div>

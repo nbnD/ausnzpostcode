@@ -12,6 +12,7 @@ import {
   getBrowseLetters,
   getCountryLocalities,
   getCountryPostcodes,
+  getLocalitiesByRegion,
   getPostcodesByRegion,
   localityPath,
   postcodePath,
@@ -30,6 +31,43 @@ function pageFaqs(country: CountryCode, topic: string) {
     {
       question: `Can I use this ${topic} list for official mail verification?`,
       answer: "Use this directory as a general reference only. Check the relevant postal authority for official delivery or address verification."
+    }
+  ];
+}
+
+function regionFaqs({
+  country,
+  regionName,
+  countryName,
+  postcodeCount,
+  localityCount
+}: {
+  country: CountryCode;
+  regionName: string;
+  countryName: string;
+  postcodeCount: number;
+  localityCount: number;
+}) {
+  const isNz = country === "nz";
+  const placeType = isNz ? "localities" : "suburbs";
+  const areaType = isNz ? "region" : "state";
+
+  return [
+    {
+      question: `How many postcodes are listed for ${regionName}?`,
+      answer: `${regionName} has ${formatCount(postcodeCount)} indexed postcode pages in the ${countryName} directory.`
+    },
+    {
+      question: `What ${placeType} are included in the ${regionName} postcode directory?`,
+      answer: `This ${regionName} ${areaType} page includes ${formatCount(localityCount)} related ${placeType} records, with popular ${placeType} linked above the postcode list.`
+    },
+    {
+      question: `How do I find a postcode in ${regionName}?`,
+      answer: `Use the postcode cards on this page to open individual ${regionName} postcode pages, or use search to look up a postcode, ${isNz ? "locality" : "suburb"}, town, city centre, or region name.`
+    },
+    {
+      question: `Is ${regionName} postcode information official?`,
+      answer: `AusNZ Postcode is an independent ${countryName} postcode reference. For official delivery or address verification in ${regionName}, check the relevant postal authority.`
     }
   ];
 }
@@ -116,11 +154,45 @@ export function RegionListPage({ country, slug }: { country: CountryCode; slug: 
   const root = countryRoot(country);
   const name = countryName(country);
   const items = getPostcodesByRegion(country, region.abbr ?? region.name);
+  const regionLocalities = getLocalitiesByRegion(country, region.abbr ?? region.name);
   const path = statePath(country, region.abbr ?? region.name);
-  const faqs = pageFaqs(country, country === "nz" ? "region" : "state");
+  const faqs = regionFaqs({
+    country,
+    regionName: region.name,
+    countryName: name,
+    postcodeCount: items.length,
+    localityCount: regionLocalities.length
+  });
 
   return (
     <BrowseShell country={country} title={`${region.name} postcodes`} description={`Browse ${formatCount(items.length)} postcodes in ${region.name}, ${name}.`} path={path} faqs={faqs} regionName={region.name}>
+      <section className="mb-8 grid items-start gap-4 lg:grid-cols-[1.2fr_0.8fr]">
+        <div className="card-surface p-6">
+          <p className="font-heading text-xs font-bold uppercase tracking-[0.12em] text-coral">
+            {country === "nz" ? "Region overview" : "State overview"}
+          </p>
+          <h2 className="mt-2 font-heading text-2xl font-extrabold text-navy">
+            Find postcodes in {region.name}
+          </h2>
+          <p className="mt-3 text-sm leading-6 text-muted">
+            {region.name} has {formatCount(items.length)} indexed postcode pages and {formatCount(regionLocalities.length)} related {country === "nz" ? "locality" : "suburb"} records in this directory.
+            Use the postcode cards below for map positions, nearby postcodes, local place data, and source notes.
+          </p>
+        </div>
+        <div className="card-surface p-6">
+          <p className="font-heading text-xs font-bold uppercase tracking-[0.12em] text-coral">
+            Popular {country === "nz" ? "localities" : "suburbs"}
+          </p>
+          <div className="mt-4 grid gap-2">
+            {regionLocalities.slice(0, 8).map((item) => (
+              <Link key={item.slug} href={localityPath(item)} className="rounded-lg border border-border bg-ash px-3 py-2 text-sm font-semibold text-text transition hover:border-coral hover:bg-white hover:text-coral">
+                {item.name}
+                <span className="ml-2 text-xs font-normal text-muted">{item.postcode}</span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
       <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
         {items.map((item) => (
           <Link key={item.code} href={postcodePath(item)} className="card-surface p-4">
