@@ -34,7 +34,17 @@ export function Footer() {
         </div>
         <div className="mt-10 flex flex-wrap items-center justify-between gap-3 border-t border-white/10 pt-5 text-xs text-[#4B6278]">
           <p>© {new Date().getFullYear()} {siteConfig.name}. Static postcode directory.</p>
-          <p>Open data posture · OpenStreetMap compatible</p>
+          <p>
+            Developed by{" "}
+            <a
+              href="https://flutterjunction.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-semibold text-[#7B93B0] transition hover:text-white"
+            >
+              Flutter Junction
+            </a>
+          </p>
         </div>
       </div>
     </footer>

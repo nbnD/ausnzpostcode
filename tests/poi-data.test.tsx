@@ -90,6 +90,7 @@ test("POI labels, counts and rendered section are safe and static-friendly", () 
   assert.match(buildPoiSummary({ postcode: "2000", locality: "Sydney", counts }), /Around Sydney postcode 2000/);
   assert.match(buildPoiSummary({ postcode: "2000", locality: "Sydney", counts }), /1 park, 1 mapped public BBQ location and 1 playground/);
   assert.match(html, /Nearby parks, BBQs and places to visit/);
+  assert.match(html, /Nearby local places/);
   assert.match(html, /<button[^>]*aria-pressed="true"[^>]*>All<\/button>/);
   assert.match(html, /<button[^>]*aria-pressed="false"[^>]*>1 park<\/button>/);
   assert.match(html, /<button[^>]*aria-pressed="false"[^>]*>1 mapped public BBQ location<\/button>/);
@@ -99,7 +100,10 @@ test("POI labels, counts and rendered section are safe and static-friendly", () 
   assert.match(html, /0.20 km from this postcode centre/);
   assert.match(html, /Open in Google Maps/);
   assert.match(html, /https:\/\/www\.google\.com\/maps\/search\/\?api=1&amp;query=-33\.861,151\.201/);
+  assert.match(html, /These nearby places are matched by distance from the postcode centre/);
   assert.match(html, /Place data © OpenStreetMap contributors, available under the ODbL/);
+  assert.doesNotMatch(html, /OpenStreetMap nearby places/);
+  assert.doesNotMatch(html, /retained nearby OpenStreetMap results/);
   assert.doesNotMatch(html, /compare nearby public facilities and visitor places around the postcode centre/);
   assert.doesNotMatch(html, /before opening the source record on OpenStreetMap/);
   assert.doesNotMatch(html, /inside this postcode|top-rated|official place|exact containment/i);
@@ -129,14 +133,15 @@ test("POI metadata and ItemList schema use only visible preview facts", () => {
     places: previews
   });
 
-  assert.match(description, /Nearby OpenStreetMap place results include/);
+  assert.match(description, /Nearby place results include/);
+  assert.doesNotMatch(description, /OpenStreetMap/);
   assert.match(description, /ranked by distance from the postcode centre/);
   assert.equal(schema["@type"], "ItemList");
   assert.equal(schema.numberOfItems, 3);
   assert.equal(schema.itemListElement[0].item.name, "Royal Park");
   assert.equal(schema.itemListElement.some((item) => item.item.name === "Public BBQ location"), true);
   assert.equal(schema.itemListElement.some((item) => item.item.url === "https://www.google.com/maps/search/?api=1&query=-33.861,151.201"), true);
-  assert.doesNotMatch(JSON.stringify(schema), /opening_hours|wheelchair|inside this postcode|top-rated|official place/i);
+  assert.doesNotMatch(JSON.stringify(schema), /retained nearby OpenStreetMap results|opening_hours|wheelchair|inside this postcode|top-rated|official place/i);
 });
 
 function fixtureDataset() {

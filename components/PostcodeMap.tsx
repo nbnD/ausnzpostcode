@@ -67,8 +67,8 @@ export function PostcodeMap({
   }
 
   return (
-    <div className="overflow-hidden rounded-[14px] border border-border">
-      <div ref={mapElement} className="h-[260px]" />
+    <div className="relative z-0 overflow-hidden rounded-[14px] border border-border">
+      <div ref={mapElement} className="relative z-0 h-[260px]" />
       <p className="border-t border-border bg-white px-3 py-2 text-xs text-muted">
         Map tiles and attribution from OpenStreetMap contributors.
       </p>

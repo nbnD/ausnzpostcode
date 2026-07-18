@@ -35,6 +35,15 @@ function coordinate(value) {
   return Number.isFinite(number) ? Number(number.toFixed(6)) : 0;
 }
 
+function positiveNumberValue(value) {
+  const number = Number(value);
+  return Number.isFinite(number) && number > 0 ? number : undefined;
+}
+
+function compactObject(values) {
+  return Object.fromEntries(Object.entries(values).filter(([, value]) => value !== undefined && value !== ""));
+}
+
 function assertRecord(condition, message) {
   if (!condition) throw new Error(message);
 }
@@ -46,8 +55,9 @@ function groupPostcodes(records, country, issues) {
     const code = clean(record.postcode);
     const locality = clean(record.locality);
     const state = clean(record.state || record.region);
-    const lat = coordinate(record.lat);
-    const lng = coordinate(record.long ?? record.lng);
+    const hasPreciseCoordinates = Boolean(clean(record.Lat_precise) && clean(record.Long_precise));
+    const lat = coordinate(record.Lat_precise || record.lat);
+    const lng = coordinate(record.Long_precise || record.long || record.lng);
 
     assertRecord(/^\d{3,4}$/.test(code), `Invalid postcode "${code}" in ${country}`);
     assertRecord(locality, `Missing locality for ${country} ${code}`);
@@ -61,19 +71,37 @@ function groupPostcodes(records, country, issues) {
 
     if (!existing) {
       grouped.set(key, {
-        code,
-        locality,
-        localities: [locality],
-        localityCount: 1,
-        state,
-        stateFull,
-        country,
-        lga: clean(record.lga) || undefined,
-        electorate: clean(record.electorate) || undefined,
-        type,
-        remoteness: clean(record.remoteness) || undefined,
-        lat,
-        lng
+        ...compactObject({
+          code,
+          locality,
+          localities: [locality],
+          localityCount: 1,
+          state,
+          stateFull,
+          country,
+          lga: clean(record.lgaregion || record.lga),
+          lgaCode: clean(record.lgacode),
+          electorate: clean(record.electorate || record.ced),
+          federalElectorate: clean(record.ced || record.electorate),
+          stateElectorate: clean(record.sed_name),
+          sa1: clean(record.SA1_NAME_2021),
+          sa2: clean(record.SA2_NAME_2021 || record.sa2name),
+          sa3: clean(record.SA3_NAME_2021 || record.sa3name),
+          sa4: clean(record.SA4_NAME_2021 || record.sa4name),
+          phn: clean(record.phn_name || record.phn_code),
+          territory: country === "nz" ? clean(record.territory) : undefined,
+          island: country === "nz" ? clean(record.island) : undefined,
+          deliveryCentre: country === "au" ? clean(record.dc) : undefined,
+          chargeZone: country === "au" ? clean(record.chargezone) : undefined,
+          type,
+          status: clean(record.status),
+          remoteness: clean(record.RA_2021_NAME || record.remoteness || record.RA_2021),
+          mmm: clean(record.MMM_2019 || record.MMM_2015),
+          coordinatePrecision: country === "au" ? (hasPreciseCoordinates ? "Precise source coordinates" : "General source coordinates") : "Source coordinates",
+          altitude: positiveNumberValue(record.altitude),
+          lat,
+          lng
+        })
       });
       continue;
     }

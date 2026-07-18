@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import { CountrySwitcher } from "@/components/CountrySwitcher";
-import { formatCount, getDisplayLocality, homepageData, postcodes, postcodePath } from "@/data/postcodes";
+import { getDisplayLocality, homepageData, postcodes, postcodePath } from "@/data/postcodes";
 
 type Country = "au" | "nz";
 
@@ -27,11 +27,12 @@ export function SearchHero() {
       .slice(0, 5);
   }, [country, normalizedQuery]);
 
-  const countryWord = country === "au" ? "Australian" : "New Zealand";
-  const countrySub =
-    country === "au"
-      ? `Australia's ${formatCount(homepageData.stats.auPostcodes)} postcodes and ${formatCount(homepageData.stats.auLocalities)} localities`
-      : `New Zealand's ${formatCount(homepageData.stats.nzPostcodes)} postcodes and ${formatCount(homepageData.stats.nzLocalities)} localities`;
+  const heroTitle = country === "au"
+    ? "Find Australian postcodes by suburb, locality or state"
+    : "Find New Zealand postcodes by locality or region";
+  const heroDescription = country === "au"
+    ? "Search Australian postcodes, suburbs and localities with state links, map-ready postcode pages, nearby postcodes and clear source notes."
+    : "Search New Zealand postcodes and localities with region links, map-ready postcode pages, nearby postcodes and clear source notes.";
 
   return (
     <>
@@ -40,21 +41,28 @@ export function SearchHero() {
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_700px_400px_at_60%_0%,rgba(232,71,42,0.10)_0%,transparent_70%),radial-gradient(ellipse_500px_300px_at_20%_100%,rgba(45,106,79,0.13)_0%,transparent_70%)]" />
         <div className="relative mx-auto max-w-4xl">
           <p className="mb-4 text-xs font-bold uppercase tracking-[0.12em] text-sky">
-            Free · Accurate · Static-first
+            Australia & New Zealand postcode lookup
           </p>
           <h1
             className="font-heading text-4xl font-extrabold leading-tight tracking-normal text-white sm:text-5xl"
-            aria-label={`Find any ${countryWord} postcode instantly`}
+            aria-label={heroTitle}
           >
-            Find any{" "}
-            <span className={country === "au" ? "text-coral" : "text-[#4ADE80]"}>{countryWord}</span>
-            {" "}
-            <br />
-            postcode instantly
+            {country === "au" ? (
+              <>
+                Find <span className="text-coral">Australian postcodes</span>
+                <br />
+                by suburb, locality or state
+              </>
+            ) : (
+              <>
+                Find <span className="text-[#4ADE80]">New Zealand postcodes</span>
+                <br />
+                by locality or region
+              </>
+            )}
           </h1>
           <p className="mx-auto mt-4 max-w-xl text-base leading-7 text-ice sm:text-lg">
-            Search by postcode, suburb, or locality across {countrySub}. Built as a fast,
-            premium static directory with clear source attribution.
+            {heroDescription}
           </p>
           <div className="relative mx-auto mt-10 max-w-2xl">
             <label htmlFor="homepage-search" className="sr-only">

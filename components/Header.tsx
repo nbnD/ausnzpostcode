@@ -9,7 +9,7 @@ export function Header() {
   const [open, setOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-30 border-b-2 border-navy2 bg-navy">
+    <header className="sticky top-0 z-[1000] border-b-2 border-navy2 bg-navy">
       <div className="mx-auto flex h-[60px] max-w-6xl items-center justify-between gap-4 px-4 sm:px-6">
         <Link href="/" className="flex items-center gap-2 font-heading text-lg font-extrabold tracking-normal text-white" aria-label="AusNZ Postcode home">
           <Image

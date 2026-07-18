@@ -37,7 +37,7 @@ export function NearbyPoiSection({ postcode, locality, places, counts, manifest 
   return (
     <section className="mb-4 overflow-hidden rounded-[14px] border border-border bg-white">
       <div className="border-b border-border bg-[linear-gradient(135deg,#0B2545_0%,#112d5e_100%)] px-5 py-4">
-        <p className="text-xs font-bold uppercase tracking-[0.08em] text-sky">OpenStreetMap nearby places</p>
+        <p className="text-xs font-bold uppercase tracking-[0.08em] text-sky">Nearby local places</p>
         <h2 className="mt-1 font-heading text-xl font-extrabold text-white">Nearby parks, BBQs and places to visit</h2>
       </div>
       <div className="p-5">
@@ -86,8 +86,7 @@ export function NearbyPoiSection({ postcode, locality, places, counts, manifest 
         </div>
         <div className="mt-5 rounded-[12px] border border-border bg-white p-4 text-xs leading-5 text-muted">
           <p>
-            These are retained nearby OpenStreetMap results within the configured search radius for each category.
-            They are matched by distance from the postcode centre and may not describe postal delivery areas.
+            These nearby places are matched by distance from the postcode centre and may not describe postal delivery areas.
           </p>
           <p className="mt-2">
             Dataset generated {generatedDate}. Place data © OpenStreetMap contributors, available under the ODbL.

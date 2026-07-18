@@ -6,6 +6,7 @@ import { DataDisclaimer } from "@/components/DataDisclaimer";
 import { FaqList } from "@/components/FaqList";
 import { JsonLd } from "@/components/JsonLd";
 import { LocalityPostcodeLabel } from "@/components/LocalityPostcodeLabel";
+import { PostcodePaginationGrid } from "@/components/PostcodePaginationGrid";
 import { RegionPostcodeGrid } from "@/components/RegionPostcodeGrid";
 import { getCityPages } from "@/data/city-pages";
 import {
@@ -20,7 +21,6 @@ import {
   getLocalitiesByRegion,
   getPostcodesByRegion,
   localityPath,
-  postcodePath,
   statePath,
   type CountryCode
 } from "@/data/postcodes";
@@ -252,15 +252,7 @@ export function PostcodeListPage({ country }: { country: CountryCode }) {
 
   return (
     <BrowseShell country={country} title={`${name} postcodes`} description={`Browse ${formatCount(items.length)} ${name} postcode pages.`} path={path} faqs={faqs}>
-      <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-        {items.map((item) => (
-          <Link key={item.code} href={postcodePath(item)} className="card-surface p-4">
-            <p className="font-heading text-2xl font-extrabold text-navy">{item.code}</p>
-            <p className="mt-1 text-sm font-semibold text-text">{item.locality}</p>
-            <p className="mt-1 text-xs text-muted">{item.stateFull}</p>
-          </Link>
-        ))}
-      </div>
+      <PostcodePaginationGrid items={items} />
     </BrowseShell>
   );
 }

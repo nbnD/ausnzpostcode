@@ -36,10 +36,10 @@ export function buildPoiSummary({
   const phrases = getPoiCountPhrases(counts);
 
   if (phrases.length === 0) {
-    return `No nearby OpenStreetMap place results are currently available for postcode ${postcode} in this dataset.`;
+    return `No nearby place results are currently available for postcode ${postcode} in this dataset.`;
   }
 
-  return `Around ${locality} postcode ${postcode}, this directory highlights ${joinPhrases(phrases)} from OpenStreetMap, ranked by distance from the postcode centre.`;
+  return `Around ${locality} postcode ${postcode}, this directory highlights ${joinPhrases(phrases)}, ranked by distance from the postcode centre.`;
 }
 
 export function buildPoiMetaDescription({
@@ -47,18 +47,20 @@ export function buildPoiMetaDescription({
   locality,
   stateFull,
   baseDescription,
-  counts
+  counts,
+  areaDescription
 }: {
   postcode: string;
   locality: string;
   stateFull: string;
   baseDescription: string;
   counts: Partial<Record<PoiCategory, number>>;
+  areaDescription?: string;
 }) {
   const phrases = getPoiCountPhrases(counts).slice(0, 3);
   if (phrases.length === 0) return baseDescription;
 
-  return `Postcode ${postcode} covers ${locality} in ${stateFull}. Nearby OpenStreetMap place results include ${joinPhrases(phrases)}, ranked by distance from the postcode centre.`;
+  return `Postcode ${postcode} covers ${locality} in ${stateFull}${areaDescription ? `, with ${areaDescription}` : ""}. Nearby place results include ${joinPhrases(phrases)}, ranked by distance from the postcode centre.`;
 }
 
 export function getPreviewPlaces(places: NearbyPoi[], limit: number) {

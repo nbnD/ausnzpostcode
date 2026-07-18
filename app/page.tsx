@@ -116,8 +116,7 @@ export default function Home() {
           {[
             [formatCount(homepageData.stats.auPostcodes), "AU postcodes"],
             [formatCount(homepageData.stats.nzPostcodes), "NZ postcodes"],
-            [formatCount(homepageData.stats.auLocalities + homepageData.stats.nzLocalities), "localities"],
-            ["0", "paid APIs"]
+            [formatCount(homepageData.stats.auLocalities + homepageData.stats.nzLocalities), "localities"]
           ].map(([num, label], index) => (
             <div key={label} className={`flex items-center gap-2 px-7 py-2 ${index > 0 ? "border-l border-border" : ""}`}>
               <span className="font-heading text-xl font-bold text-navy">{num}</span>

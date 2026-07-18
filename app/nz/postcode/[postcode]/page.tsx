@@ -24,7 +24,9 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
     });
   }
 
-  const baseDescription = `Postcode ${postcode.code} covers ${getLocalitySummary(postcode)} in ${postcode.stateFull}. Browse map, nearby postcodes, and FAQs.`;
+  const areaParts = [postcode.territory, postcode.island].filter(Boolean).join(", ");
+  const areaDescription = areaParts ? `listed area data for ${areaParts}` : undefined;
+  const baseDescription = `Postcode ${postcode.code} covers ${getLocalitySummary(postcode)} in ${postcode.stateFull}${areaDescription ? `, with ${areaDescription}` : ""}. Browse map, nearby postcodes, local classifications, and FAQs.`;
 
   return createMetadata({
     title: `${postcode.code} Postcode - ${getDisplayLocality(postcode)} ${postcode.stateFull}`,
@@ -33,6 +35,7 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
       locality: getDisplayLocality(postcode),
       stateFull: postcode.stateFull,
       baseDescription,
+      areaDescription,
       counts: getPoiCountsForPostcode("nz", postcode.code)
     }),
     path: `/nz/postcode/${postcode.code}`

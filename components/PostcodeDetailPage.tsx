@@ -50,6 +50,23 @@ export function buildPostcodeFaqs(postcode: PostcodeRecord) {
   ];
 }
 
+function DetailList({ items }: { items: Array<[string, string | number | undefined]> }) {
+  const visibleItems = items.filter(([, value]) => value !== undefined && value !== "");
+
+  if (visibleItems.length === 0) return null;
+
+  return (
+    <dl className="divide-y divide-border text-sm">
+      {visibleItems.map(([label, value]) => (
+        <div key={label} className="grid gap-2 px-5 py-3 sm:grid-cols-[38%_1fr]">
+          <dt className="font-medium text-muted">{label}</dt>
+          <dd className="break-words font-semibold text-text">{value}</dd>
+        </div>
+      ))}
+    </dl>
+  );
+}
+
 export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
   const isNz = postcode.country === "nz";
   const country = countryName(postcode.country);
@@ -68,6 +85,37 @@ export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
   const poiPreviewPlaces = getPreviewPlaces(nearbyPois, 6);
   const postcodeLocalities = getDirectoryLocalities(getLocalitiesForPostcode(postcode.country, postcode.code));
   const browseLabel = isNz ? "localities" : "suburbs";
+  const administrativeItems: Array<[string, string | number | undefined]> = isNz
+    ? [
+        ["Region", postcode.stateFull],
+        ["Territorial authority", postcode.territory],
+        ["Island", postcode.island]
+      ]
+    : [
+        ["State / Territory", postcode.stateFull],
+        ["Local government area", postcode.lga],
+        ["LGA code", postcode.lgaCode],
+        ["SA1 area", postcode.sa1],
+        ["SA2 area", postcode.sa2],
+        ["SA3 area", postcode.sa3],
+        ["SA4 area", postcode.sa4],
+        ["Federal electorate", postcode.federalElectorate ?? postcode.electorate],
+        ["State electorate", postcode.stateElectorate],
+        ["PHN region", postcode.phn]
+      ];
+  const classificationItems: Array<[string, string | number | undefined]> = [
+    ["Postcode type", postcode.type],
+    ["Delivery centre / mail centre", postcode.deliveryCentre],
+    ["Postal charge zone", postcode.chargeZone],
+    ["Data update note", postcode.status],
+    ["Remoteness classification", postcode.remoteness],
+    ["MMM classification", postcode.mmm ? `MMM ${postcode.mmm}` : undefined],
+    ["Locality records", postcode.localityCount ?? postcode.localities?.length],
+    ["Nearby postcode links", getNearbyPostcodes(postcode).length],
+    ["Latitude / Longitude", hasCoordinates ? `${postcode.lat}, ${postcode.lng}` : undefined],
+    ["Coordinate precision", postcode.coordinatePrecision],
+    ["Altitude", postcode.altitude !== undefined && postcode.altitude > 0 ? `${postcode.altitude} m` : undefined]
+  ];
   const schema = [
     breadcrumbSchema([
       { name: "Home", href: "/" },
@@ -148,24 +196,35 @@ export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
             <h2 className="border-b border-border bg-ash px-5 py-3.5 font-heading text-xs font-bold uppercase tracking-[0.08em] text-navy">
               Postcode details
             </h2>
-            <dl className="divide-y divide-border text-sm">
-              {[
+            <DetailList
+              items={[
                 ["Postcode", postcode.code],
                 [isNz ? "Localities" : "Suburbs / Localities", summary],
                 ["State / Region", postcode.stateFull],
                 ["Country", country],
                 ["Type", postcode.type],
-                ["LGA (Council)", postcode.lga],
-                ["Electorate", postcode.electorate],
-                ["Remoteness", postcode.remoteness],
-                ["Coordinates", postcode.lat && postcode.lng ? `${postcode.lat}, ${postcode.lng}` : undefined]
-              ].filter(([, value]) => value).map(([label, value]) => (
-                <div key={label} className="grid gap-2 px-5 py-3 sm:grid-cols-[38%_1fr]">
-                  <dt className="font-medium text-muted">{label}</dt>
-                  <dd className="font-semibold text-text">{value}</dd>
-                </div>
-              ))}
-            </dl>
+                ["Coordinates", hasCoordinates ? `${postcode.lat}, ${postcode.lng}` : undefined]
+              ]}
+            />
+          </div>
+          <div className="mb-4 overflow-hidden rounded-[14px] border border-border bg-white">
+            <h2 className="border-b border-border bg-ash px-5 py-3.5 font-heading text-xs font-bold uppercase tracking-[0.08em] text-navy">
+              Administrative areas
+            </h2>
+            <p className="border-b border-border px-5 py-3 text-sm leading-6 text-muted">
+              These fields describe the broader administrative area connected with postcode {postcode.code}.
+            </p>
+            <DetailList items={administrativeItems} />
+          </div>
+          <div className="mb-4 overflow-hidden rounded-[14px] border border-border bg-white">
+            <h2 className="border-b border-border bg-ash px-5 py-3.5 font-heading text-xs font-bold uppercase tracking-[0.08em] text-navy">
+              Postcode classification
+            </h2>
+            <p className="border-b border-border px-5 py-3 text-sm leading-6 text-muted">
+              Use these listed reference fields for general postcode research. Postal charge zones are source dataset codes where available, not price quotes or delivery guarantees.
+              For official delivery or address verification, check the relevant postal authority.
+            </p>
+            <DetailList items={classificationItems} />
           </div>
           {postcodeLocalities.length > 0 ? (
             <div className="mb-4 overflow-hidden rounded-[14px] border border-border bg-white">
@@ -187,7 +246,7 @@ export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
           ) : null}
           <div className="mb-4 overflow-hidden rounded-[14px] border border-border bg-white">
             <h2 className="border-b border-border bg-ash px-5 py-3.5 font-heading text-xs font-bold uppercase tracking-[0.08em] text-navy">
-              OpenStreetMap location
+              {postcode.code} postcode location in map
             </h2>
             <div className="p-4">
               <PostcodeMap lat={postcode.lat} lng={postcode.lng} label={`${postcode.code} ${locality}`} />
@@ -257,7 +316,7 @@ export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
             </div>
           </div>
         </section>
-        <aside className="hidden lg:block">
+        <aside className="hidden self-start lg:sticky lg:top-24 lg:block">
           <div className="mb-4 rounded-[14px] border border-border bg-white p-5">
             <h2 className="mb-3 font-heading text-xs font-bold uppercase tracking-[0.08em] text-navy">
               Search another postcode

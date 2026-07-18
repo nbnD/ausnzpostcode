@@ -68,7 +68,7 @@ export function nearbyPoiItemListSchema({
         name: displayPoiName(place),
         url: place.googleMapsUrl,
         category: poiCategoryTitle(place.category),
-        description: `${displayPoiName(place)} is ${place.distanceKm.toFixed(2)} km from this postcode centre in the retained nearby OpenStreetMap results.`
+        description: `${displayPoiName(place)} is ${place.distanceKm.toFixed(2)} km from this postcode centre in the nearby place results.`
       }
     }))
   };
