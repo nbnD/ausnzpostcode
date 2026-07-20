@@ -4,7 +4,7 @@ import { footerNav, siteConfig } from "@/lib/site";
 
 export function Footer() {
   return (
-    <footer className="bg-navy px-4 py-12 text-ice sm:px-6">
+    <footer className="bg-navy px-4 py-12 text-[#DDE8F5] sm:px-6">
       <div className="mx-auto max-w-6xl">
         <div className="grid gap-10 md:grid-cols-[2fr_1fr_1fr_1fr]">
           <div>
@@ -17,13 +17,13 @@ export function Footer() {
                 className="h-14 w-auto rounded-md bg-white px-2 py-1.5"
               />
             </Link>
-            <p className="mt-3 max-w-md text-sm leading-6 text-[#7B93B0]">
+            <p className="mt-3 max-w-md text-sm leading-6 text-[#DDE8F5]">
               AusNZPostcode.com is a free postcode directory covering all of
               Australia and New Zealand. Search any suburb, locality, or postcode
               to find suburb details, LGA, electorate, remoteness classification,
               and an interactive map with no signup required.
             </p>
-            <p className="mt-3 max-w-md text-xs leading-5 text-[#7B93B0]">
+            <p className="mt-3 max-w-md text-xs leading-5 text-[#DDE8F5]">
               Australian data is sourced from the matthewproctor open dataset.
               New Zealand data is sourced from GeoNames.
             </p>
@@ -32,7 +32,7 @@ export function Footer() {
           <FooterColumn title="Legal" links={footerNav.slice(2, 5)} />
           <FooterColumn title="Data" links={footerNav.slice(5)} />
         </div>
-        <div className="mt-10 flex flex-wrap items-center justify-between gap-3 border-t border-white/10 pt-5 text-xs text-[#4B6278]">
+        <div className="mt-10 flex flex-wrap items-center justify-between gap-3 border-t border-white/10 pt-5 text-xs text-[#DDE8F5]">
           <p>© {new Date().getFullYear()} {siteConfig.name}. Static postcode directory.</p>
           <p>
             Developed by{" "}
@@ -40,7 +40,7 @@ export function Footer() {
               href="https://flutterjunction.com/"
               target="_blank"
               rel="noopener noreferrer"
-              className="font-semibold text-[#7B93B0] transition hover:text-white"
+              className="font-semibold text-white transition hover:underline"
             >
               Flutter Junction
             </a>
@@ -60,7 +60,7 @@ function FooterColumn({ title, links }: { title: string; links: Array<{ href: st
       <ul className="space-y-2">
         {links.map((item) => (
           <li key={item.href}>
-            <Link href={item.href} className="text-sm text-[#7B93B0] transition hover:text-white">
+            <Link href={item.href} className="text-sm text-[#DDE8F5] transition hover:text-white hover:underline">
               {item.label}
             </Link>
           </li>

@@ -10,7 +10,7 @@ type StateGridProps = {
 
 export function StateGrid({ title, items, accent }: StateGridProps) {
   const hoverClass = accent === "nz" ? "hover:border-green hover:shadow-premium" : "hover:border-coral hover:shadow-coral";
-  const countClass = accent === "nz" ? "text-green" : "text-coral";
+  const countClass = accent === "nz" ? "text-green" : "text-coralText";
   const gridClass = accent === "nz" ? "grid-cols-1 sm:grid-cols-2 lg:grid-cols-4" : "grid-cols-2 sm:grid-cols-4 lg:grid-cols-8";
   const titleClass = accent === "nz" ? "text-base leading-snug" : "text-2xl";
 

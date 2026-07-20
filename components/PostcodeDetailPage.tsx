@@ -3,7 +3,7 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { DataDisclaimer } from "@/components/DataDisclaimer";
 import { FaqList } from "@/components/FaqList";
 import { JsonLd } from "@/components/JsonLd";
-import { NearbyPoiSection } from "@/components/NearbyPoiSection";
+import { EvChargingSection, NearbyPoiSection } from "@/components/NearbyPoiSection";
 import { PostcodeMap } from "@/components/PostcodeMap";
 import { ShareActions } from "@/components/ShareActions";
 import {
@@ -82,7 +82,12 @@ export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
   const poiManifest = getPoiManifest();
   const nearbyPois = getNearbyPoisForPostcode(postcode.country, postcode.code);
   const poiCounts = getPoiCountsForPostcode(postcode.country, postcode.code);
-  const poiPreviewPlaces = getPreviewPlaces(nearbyPois, 6);
+  const localPlacePois = nearbyPois.filter((place) => place.category !== "ev-charger");
+  const evChargingPois = nearbyPois.filter((place) => place.category === "ev-charger");
+  const localPlaceCounts = { ...poiCounts };
+  delete localPlaceCounts["ev-charger"];
+  const poiPreviewPlaces = getPreviewPlaces(localPlacePois, 6);
+  const evPreviewPlaces = getPreviewPlaces(evChargingPois, 6);
   const postcodeLocalities = getDirectoryLocalities(getLocalitiesForPostcode(postcode.country, postcode.code));
   const browseLabel = isNz ? "localities" : "suburbs";
   const administrativeItems: Array<[string, string | number | undefined]> = isNz
@@ -128,9 +133,18 @@ export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
     ...(poiPreviewPlaces.length > 0
       ? [
           nearbyPoiItemListSchema({
-            name: `Nearby OpenStreetMap places for postcode ${postcode.code}`,
+            name: `Nearby places for postcode ${postcode.code}`,
             path,
             places: poiPreviewPlaces
+          })
+        ]
+      : []),
+    ...(evPreviewPlaces.length > 0
+      ? [
+          nearbyPoiItemListSchema({
+            name: `EV chargers near postcode ${postcode.code}`,
+            path,
+            places: evPreviewPlaces
           })
         ]
       : [])
@@ -303,7 +317,8 @@ export function PostcodeDetailPage({ postcode }: { postcode: PostcodeRecord }) {
               ))}
             </div>
           </div>
-          <NearbyPoiSection postcode={postcode.code} locality={locality} places={nearbyPois} counts={poiCounts} manifest={poiManifest} />
+          <EvChargingSection postcode={postcode.code} locality={locality} places={evChargingPois} manifest={poiManifest} />
+          <NearbyPoiSection postcode={postcode.code} locality={locality} places={localPlacePois} counts={localPlaceCounts} manifest={poiManifest} />
           <div className="mb-4">
             <DataDisclaimer />
           </div>

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "datasetVersion": "poi-v1-6e608545b1ac",
-  "generatedAt": "2026-07-12T03:45:17.273Z",
+  "datasetVersion": "poi-v1-0cb8f69c79ca",
+  "generatedAt": "2026-07-19T10:18:51.397Z",
   "source": "OpenStreetMap contributors",
   "licence": "Open Database License (ODbL)",
   "attribution": "Place data © OpenStreetMap contributors, available under the Open Database License.",
@@ -11,6 +11,7 @@
   ],
   "approvedCategories": [
     "dog-park",
+    "ev-charger",
     "museum",
     "park",
     "picnic-site",
@@ -25,89 +26,94 @@
     "playground": 5,
     "picnic-site": 10,
     "viewpoint": 20,
-    "museum": 15
+    "museum": 15,
+    "ev-charger": 10
   },
   "configuredPerCategoryLimit": 10,
   "configuredTotalPostcodeLimit": 30,
   "includeUnreferencedPois": false,
-  "normalisedPoisProcessed": 112857,
-  "uniquePoisReferenced": 47267,
-  "uniquePoisEmitted": 47267,
-  "unreferencedPoisExcluded": 65590,
+  "normalisedPoisProcessed": 117040,
+  "uniquePoisReferenced": 49394,
+  "uniquePoisEmitted": 49394,
+  "unreferencedPoisExcluded": 67646,
   "unreferencedPoisExcludedByCountry": {
-    "au": 59340,
-    "nz": 6250
+    "au": 61316,
+    "nz": 6330
   },
   "unreferencedPoisExcludedByCountryAndCategory": {
     "au": {
-      "viewpoint": 3549,
-      "park": 37360,
-      "public-bbq": 3657,
-      "playground": 11968,
-      "picnic-site": 2164,
-      "museum": 426,
-      "dog-park": 216
+      "viewpoint": 3716,
+      "park": 37381,
+      "public-bbq": 3868,
+      "playground": 12103,
+      "picnic-site": 2246,
+      "museum": 456,
+      "dog-park": 246,
+      "ev-charger": 1300
     },
     "nz": {
-      "viewpoint": 401,
-      "picnic-site": 90,
-      "park": 4219,
-      "public-bbq": 71,
-      "playground": 1463,
-      "museum": 5,
-      "dog-park": 1
+      "viewpoint": 428,
+      "picnic-site": 96,
+      "park": 4220,
+      "public-bbq": 80,
+      "playground": 1480,
+      "museum": 6,
+      "ev-charger": 16,
+      "dog-park": 4
     }
   },
   "uniquePoisByCountry": {
-    "au": 34483,
-    "nz": 12784
+    "au": 36098,
+    "nz": 13296
   },
   "uniquePoisByCountryAndCategory": {
     "au": {
-      "dog-park": 731,
-      "museum": 1039,
-      "park": 12733,
-      "picnic-site": 2291,
-      "playground": 9764,
-      "public-bbq": 3409,
-      "viewpoint": 4516
+      "dog-park": 701,
+      "ev-charger": 2291,
+      "museum": 1009,
+      "park": 12712,
+      "picnic-site": 2209,
+      "playground": 9629,
+      "public-bbq": 3198,
+      "viewpoint": 4349
     },
     "nz": {
-      "dog-park": 90,
-      "museum": 316,
-      "park": 5666,
-      "picnic-site": 491,
-      "playground": 4128,
-      "public-bbq": 414,
-      "viewpoint": 1679
+      "dog-park": 87,
+      "ev-charger": 576,
+      "museum": 315,
+      "park": 5665,
+      "picnic-site": 485,
+      "playground": 4111,
+      "public-bbq": 405,
+      "viewpoint": 1652
     }
   },
-  "totalPostcodeReferences": 88693,
+  "totalPostcodeReferences": 90030,
   "postcodeReferencesByCountry": {
-    "au": 58249,
-    "nz": 30444
+    "au": 58986,
+    "nz": 31044
   },
   "postcodeCountWithReferences": {
-    "au": 2806,
-    "nz": 1654
+    "au": 2812,
+    "nz": 1657
   },
   "postcodeCountWithoutReferences": {
-    "au": 368,
-    "nz": 68
+    "au": 362,
+    "nz": 65
   },
   "partitionFileCount": 20,
-  "totalGeneratedBytes": 16273084,
+  "totalGeneratedBytes": 18402514,
   "bytesByCountry": {
-    "au": 11038120,
-    "nz": 5230588
+    "au": 12678648,
+    "nz": 5719196
   },
   "bytesByOutputType": {
-    "places": 4975041,
-    "postcodeRefs": 11293667,
-    "reports": 4376
+    "places": 6922536,
+    "postcodeRefs": 11475308,
+    "reports": 4670
   },
   "largestGeneratedFile": {
     "path": "au/postcode-refs/2.json",
-    "bytes": 1693990
+    "bytes": 1741913
   }
 }

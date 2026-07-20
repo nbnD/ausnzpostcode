@@ -18,7 +18,7 @@ export function CityGuideLinks({ cities, compact = false }: CityGuideLinksProps)
           <Link key={city.slug} href={cityPath(city)} className="card-surface p-5">
             <p className="font-heading text-lg font-extrabold text-navy">{city.name}</p>
             <p className="mt-1 text-sm text-muted">{city.stateFull}</p>
-            <p className={`mt-3 text-sm font-bold ${isNz ? "text-green" : "text-coral"}`}>{city.pageLabel}</p>
+            <p className={`mt-3 text-sm font-bold ${isNz ? "text-green" : "text-coralText"}`}>{city.pageLabel}</p>
           </Link>
         );
       })}

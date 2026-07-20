@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { CityGuideLinks } from "@/components/CityGuideLinks";
 import { PopularPostcodeGrid } from "@/components/PopularPostcodeGrid";
 import { SearchHero } from "@/components/SearchHero";
@@ -141,6 +142,20 @@ export default function Home() {
           />
           <CityGuideLinks cities={cityPages} />
         </section>
+        <section className="mb-12 rounded-[14px] border border-border bg-[linear-gradient(135deg,#0B2545_0%,#112d5e_65%,#2D6A4F_100%)] p-6 text-white sm:p-8">
+          <p className="font-heading text-xs font-bold uppercase tracking-[0.12em] text-[#B7F7D0]">EV charging map</p>
+          <div className="mt-3 flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
+            <div>
+              <h2 className="font-heading text-2xl font-extrabold">Find EV chargers across Australia and New Zealand</h2>
+              <p className="mt-2 max-w-2xl text-sm leading-6 text-ice">
+                Open an interactive map of indexed EV charging stations, switch between AU and NZ, and open locations in Google Maps.
+              </p>
+            </div>
+            <Link href="/ev-chargers" className="shrink-0 rounded-lg bg-coralButton px-5 py-3 text-center font-heading text-sm font-bold text-white hover:bg-[#a92d1b]">
+              View EV chargers map
+            </Link>
+          </div>
+        </section>
         <section className="mb-12">
           <SectionHeading title="Popular postcode lookups" href="/search" linkLabel="Search postcodes" />
           <PopularPostcodeGrid items={homepageData.popular} />
@@ -154,7 +169,7 @@ export default function Home() {
               ["Explore", "Move from search results into detail pages and regional grids."]
             ].map(([title, body]) => (
               <div key={title} className="text-center">
-                <div className="mx-auto mb-3 grid h-14 w-14 place-items-center rounded-[14px] bg-coral/10 font-heading font-bold text-coral">
+                <div className="mx-auto mb-3 grid h-14 w-14 place-items-center rounded-[14px] bg-coral/10 font-heading font-bold text-coralText">
                   {title.slice(0, 1)}
                 </div>
                 <h3 className="font-heading text-sm font-bold text-navy">{title}</h3>

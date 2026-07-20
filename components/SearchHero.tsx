@@ -79,7 +79,7 @@ export function SearchHero() {
               />
               <Link
                 href={`/search?q=${encodeURIComponent(query)}`}
-                className="grid place-items-center bg-coral px-5 font-heading text-sm font-bold text-white transition hover:bg-[#d03d23] sm:px-7"
+                className="grid place-items-center bg-coralButton px-5 font-heading text-sm font-bold text-white transition hover:bg-[#a92d1b] sm:px-7"
               >
                 Search
               </Link>

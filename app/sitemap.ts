@@ -15,6 +15,7 @@ const routes = [
   "/nz/localities",
   "/nz/a-z",
   "/search",
+  "/ev-chargers",
   "/about",
   "/contact",
   "/privacy-policy",

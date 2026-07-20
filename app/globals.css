@@ -7,11 +7,13 @@
   --navy: #0B2545;
   --navy2: #112d5e;
   --coral: #E8472A;
+  --coral-text: #B8321D;
+  --coral-button: #B8321D;
   --green: #2D6A4F;
   --ash: #F4F6F9;
   --border: #E2E6ED;
   --text: #1A1A2E;
-  --muted: #6B7280;
+  --muted: #5F6673;
 }
 
 html {
@@ -44,7 +46,7 @@ h4,
   }
 
   .btn-primary {
-    @apply inline-flex items-center justify-center rounded-lg bg-coral px-5 py-3 font-heading text-sm font-bold text-white shadow-coral transition hover:bg-[#d03d23] focus-ring;
+    @apply inline-flex items-center justify-center rounded-lg bg-coralButton px-5 py-3 font-heading text-sm font-bold text-white shadow-coral transition hover:bg-[#a92d1b] focus-ring;
   }
 
   .card-surface {

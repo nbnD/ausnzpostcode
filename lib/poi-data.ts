@@ -9,7 +9,8 @@ export type PoiCategory =
   | "playground"
   | "picnic-site"
   | "viewpoint"
-  | "museum";
+  | "museum"
+  | "ev-charger";
 
 export type PoiManifest = {
   schemaVersion: number;
@@ -30,18 +31,19 @@ export type PoiManifest = {
 
 export type SharedPoi = {
   id: string;
+  source?: string;
   category: PoiCategory;
   name?: string;
   lat: number;
   lng: number;
-  tags?: Record<string, string>;
+  tags?: Record<string, string | number>;
 };
 
 export type NearbyPoi = SharedPoi & {
   distanceKm: number;
-  osmType: "node" | "way" | "relation";
-  osmId: string;
-  osmUrl: string;
+  osmType?: "node" | "way" | "relation";
+  osmId?: string;
+  osmUrl?: string;
   googleMapsUrl: string;
 };
 
@@ -73,6 +75,7 @@ type PostcodePartition = {
 
 const supportedSchemaVersion = 1;
 const stableIdPattern = /^osm:(node|way|relation):(\d+)$/;
+const externalEvIdPattern = /^external:au-ev:[A-Za-z0-9_-]+$/;
 const defaultPoiDataDir = path.join(process.cwd(), "data", "generated", "poi");
 const manifestCache = new Map<string, PoiManifest | null>();
 const partitionCache = new Map<string, PostcodePartition | null>();
@@ -111,17 +114,17 @@ export function getNearbyPoisForPostcode(country: CountryCode, postcode: string)
 
   return refs.map((ref) => {
     const poi = getSharedPoi(country, ref.category, ref.id);
-    const osm = parseStableOsmId(ref.id);
     if (!poi) {
       throw new Error(`POI reference ${country} ${postcode} ${ref.id} points to a missing ${ref.category} record.`);
     }
+    const osm = parseStableOsmId(ref.id);
 
     return {
       ...poi,
       distanceKm: ref.distanceKm,
-      osmType: osm.osmType,
-      osmId: osm.osmId,
-      osmUrl: `https://www.openstreetmap.org/${osm.osmType}/${osm.osmId}`,
+      osmType: osm?.osmType,
+      osmId: osm?.osmId,
+      osmUrl: osm ? `https://www.openstreetmap.org/${osm.osmType}/${osm.osmId}` : undefined,
       googleMapsUrl: `https://www.google.com/maps/search/?api=1&query=${poi.lat},${poi.lng}`
     };
   });
@@ -191,7 +194,7 @@ function loadCategoryIndex(root: string, country: CountryCode, category: PoiCate
   for (const line of lines) {
     const poi = JSON.parse(line) as SharedPoi;
     if (poi.category !== category) throw new Error(`POI ${poi.id} is in the wrong category file: ${category}.`);
-    if (!stableIdPattern.test(poi.id)) throw new Error(`POI has invalid stable OSM ID: ${poi.id}`);
+    if (!isSupportedStablePoiId(poi.id)) throw new Error(`POI has invalid stable ID: ${poi.id}`);
     if (index.has(poi.id)) throw new Error(`Duplicate POI ID in ${country}/${category}: ${poi.id}`);
     index.set(poi.id, poi);
   }
@@ -201,8 +204,12 @@ function loadCategoryIndex(root: string, country: CountryCode, category: PoiCate
 
 function parseStableOsmId(id: string) {
   const match = stableIdPattern.exec(id);
-  if (!match) throw new Error(`Invalid stable OSM ID: ${id}`);
+  if (!match) return null;
   return { osmType: match[1] as "node" | "way" | "relation", osmId: match[2] };
+}
+
+function isSupportedStablePoiId(id: string) {
+  return stableIdPattern.test(id) || externalEvIdPattern.test(id);
 }
 
 function getPoiDataDir(required = false): string | null {

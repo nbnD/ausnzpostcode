@@ -1,0 +1,576 @@
+{"id":"osm:node:10003085706","source":"openstreetmap","category":"ev-charger","name":"Rotorua HPC (Victoria Street)","lat":-38.141969,"lng":176.251259,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10005250881","source":"openstreetmap","category":"ev-charger","name":"Te Poi Supermarket","lat":-37.872944,"lng":175.842566,"tags":{"access":"yes","operator":"kiwev"}}
+{"id":"osm:node:10007391859","source":"openstreetmap","category":"ev-charger","name":"Cheviot (4 Seddon St)","lat":-42.812809,"lng":173.273065,"tags":{"access":"yes","operator":"ChargeNet NZ","addr:suburb":"Cheviot"}}
+{"id":"osm:node:10014424574","source":"openstreetmap","category":"ev-charger","name":"Powershop Masterton","lat":-40.957479,"lng":175.649624,"tags":{"access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:10014602202","source":"openstreetmap","category":"ev-charger","name":"The Warehouse","lat":-40.954598,"lng":175.653092,"tags":{"access":"yes","operator":"Chargefox"}}
+{"id":"osm:node:10014602205","source":"openstreetmap","category":"ev-charger","name":"Toyota","lat":-40.956609,"lng":175.652485,"tags":{"access":"yes"}}
+{"id":"osm:node:10015270450","source":"openstreetmap","category":"ev-charger","name":"Ebbett Volkswagen","lat":-37.746079,"lng":175.224846,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10020136535","source":"openstreetmap","category":"ev-charger","name":"Zenders Cafe & Venue","lat":-37.770541,"lng":175.339566,"tags":{"access":"yes","operator":"Hikotron"}}
+{"id":"osm:node:10030880745","source":"openstreetmap","category":"ev-charger","name":"Wairoa (Queen St)","lat":-39.034232,"lng":177.421497,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10031206361","source":"openstreetmap","category":"ev-charger","name":"Huka Falls Jet (Taupo)","lat":-38.62891,"lng":176.101752,"tags":{"opening_hours":"Mo-Su 09:00-16:00","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10032688552","source":"openstreetmap","category":"ev-charger","name":"Murupara (Pine Drive Carpark)","lat":-38.457182,"lng":176.704484,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10038181781","source":"openstreetmap","category":"ev-charger","name":"Mt Cook (Bowen Drive)","lat":-43.73375,"lng":170.095726,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10044105498","source":"openstreetmap","category":"ev-charger","name":"Houhora (Houhora Game Fishing Club)","lat":-34.819845,"lng":173.124672,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10046850911","source":"openstreetmap","category":"ev-charger","name":"Kaitaia Pak'nSave","lat":-35.099094,"lng":173.259365,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10046850912","source":"openstreetmap","category":"ev-charger","name":"The Warehouse Kaitaia","lat":-35.097954,"lng":173.260057,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10046898422","source":"openstreetmap","category":"ev-charger","name":"Te Ahu (Kaitaia)","lat":-35.118113,"lng":173.268856,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10048472987","source":"openstreetmap","category":"ev-charger","name":"PAK'nSAVE Ormiston","lat":-36.965681,"lng":174.914123,"tags":{"operator":"Todd Property Ormiston Town Centre Limited"}}
+{"id":"osm:node:10048472988","source":"openstreetmap","category":"ev-charger","name":"Ormiston Town Centre","lat":-36.964286,"lng":174.912482,"tags":{"operator":"Todd Property Ormiston Town Centre Limited"}}
+{"id":"osm:node:10048565157","source":"openstreetmap","category":"ev-charger","lat":-39.176047,"lng":175.394432,"tags":{"access":"yes","operator":"National Park"}}
+{"id":"osm:node:10050605855","source":"openstreetmap","category":"ev-charger","name":"Westpac","lat":-37.698902,"lng":176.157701,"tags":{"access":"private"}}
+{"id":"osm:node:10050709255","source":"openstreetmap","category":"ev-charger","name":"Putorino","lat":-39.133354,"lng":177.003636,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10052888594","source":"openstreetmap","category":"ev-charger","name":"Z - Vivian St","lat":-41.294292,"lng":174.774205,"tags":{"opening_hours":"24/7","access":"yes","operator":"Z Energy"}}
+{"id":"osm:node:10060324929","source":"openstreetmap","category":"ev-charger","name":"Owls Nest Motel","lat":-38.467865,"lng":175.015091,"tags":{"access":"yes"}}
+{"id":"osm:node:10060324932","source":"openstreetmap","category":"ev-charger","name":"Piopio","lat":-38.465403,"lng":175.018916,"tags":{"access":"yes","operator":"OpenLoop"}}
+{"id":"osm:node:10078581147","source":"openstreetmap","category":"ev-charger","name":"Monkhouse St Parking/Charging","lat":-38.373839,"lng":178.296405,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10083256086","source":"openstreetmap","category":"ev-charger","lat":-43.539748,"lng":172.63333,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10127724392","source":"openstreetmap","category":"ev-charger","lat":-43.908998,"lng":171.742962,"tags":{"access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:10161199326","source":"openstreetmap","category":"ev-charger","lat":-34.991941,"lng":173.509313,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10174999643","source":"openstreetmap","category":"ev-charger","name":"Woolworths Hastings","lat":-39.638385,"lng":176.842966}
+{"id":"osm:node:10175205376","source":"openstreetmap","category":"ev-charger","name":"The Warehouse Waipapa","lat":-35.21034,"lng":173.919588,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10175205395","source":"openstreetmap","category":"ev-charger","name":"Waipapa Mitre 10","lat":-35.210347,"lng":173.918275,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10175460966","source":"openstreetmap","category":"ev-charger","name":"Summerset Retirement Village, Katikati","lat":-37.539132,"lng":175.933859,"tags":{"access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:10175472318","source":"openstreetmap","category":"ev-charger","name":"Pics Peanut Butter Factory","lat":-41.322957,"lng":173.214214,"tags":{"access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:10180095091","source":"openstreetmap","category":"ev-charger","name":"NZ Blood Service - National Office","lat":-36.881701,"lng":174.78406,"tags":{"operator":"Meridian Energy"}}
+{"id":"osm:node:10185074300","source":"openstreetmap","category":"ev-charger","lat":-36.846705,"lng":174.733566,"tags":{"access":"customers","operator":"Countdown"}}
+{"id":"osm:node:10201521562","source":"openstreetmap","category":"ev-charger","name":"BP Millwater Charge Point","lat":-36.606048,"lng":174.661799,"tags":{"access":"yes","operator":"BP Pulse"}}
+{"id":"osm:node:10202662966","source":"openstreetmap","category":"ev-charger","name":"Hello Stranger Charging Station","lat":-36.943459,"lng":174.900484,"tags":{"operator":"Batenburg Group Ltd"}}
+{"id":"osm:node:10202662967","source":"openstreetmap","category":"ev-charger","name":"Highbrook Charging Station","lat":-36.937826,"lng":174.874687,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:10202702728","source":"openstreetmap","category":"ev-charger","lat":-37.075049,"lng":174.926306,"tags":{"access":"customers"}}
+{"id":"osm:node:10202702729","source":"openstreetmap","category":"ev-charger","lat":-37.03788,"lng":174.907705,"tags":{"access":"customers"}}
+{"id":"osm:node:10202702730","source":"openstreetmap","category":"ev-charger","lat":-37.005641,"lng":174.791395,"tags":{"access":"customers"}}
+{"id":"osm:node:10202702731","source":"openstreetmap","category":"ev-charger","lat":-36.984453,"lng":174.783743,"tags":{"access":"customers"}}
+{"id":"osm:node:10202702732","source":"openstreetmap","category":"ev-charger","lat":-36.983444,"lng":174.783907,"tags":{"access":"customers"}}
+{"id":"osm:node:10202702733","source":"openstreetmap","category":"ev-charger","lat":-36.978944,"lng":174.787447,"tags":{"access":"customers"}}
+{"id":"osm:node:10202702734","source":"openstreetmap","category":"ev-charger","lat":-36.97175,"lng":174.785996,"tags":{"access":"customers","operator":"Naumi Hotel"}}
+{"id":"osm:node:10202702735","source":"openstreetmap","category":"ev-charger","name":"Royal Auckland & Grange Golf Course Charging Station","lat":-36.961758,"lng":174.844617,"tags":{"access":"yes","operator":"Hikotron"}}
+{"id":"osm:node:10243575946","source":"openstreetmap","category":"ev-charger","lat":-36.81988,"lng":174.608329,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:10243712919","source":"openstreetmap","category":"ev-charger","name":"Z Petone - Service Station","lat":-41.222623,"lng":174.869062,"tags":{"access":"yes","operator":"Z Energy"}}
+{"id":"osm:node:10243747850","source":"openstreetmap","category":"ev-charger","name":"Z Remutaka - Service Station","lat":-41.109096,"lng":175.097092,"tags":{"access":"yes","operator":"Z Energy"}}
+{"id":"osm:node:10246227481","source":"openstreetmap","category":"ev-charger","name":"Mitre 10 Manukau","lat":-36.994365,"lng":174.872674,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:10284058490","source":"openstreetmap","category":"ev-charger","lat":-37.731721,"lng":175.222553,"tags":{"access":"yes","operator":"WEL Networks"}}
+{"id":"osm:node:10287146003","source":"openstreetmap","category":"ev-charger","lat":-43.591136,"lng":172.380318,"tags":{"access":"yes","operator":"bp pulse"}}
+{"id":"osm:node:10292521943","source":"openstreetmap","category":"ev-charger","name":"Omakau (Harvey St)","lat":-45.093995,"lng":169.601104,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:10312374789","source":"openstreetmap","category":"ev-charger","lat":-43.661372,"lng":172.192688}
+{"id":"osm:node:10312377848","source":"openstreetmap","category":"ev-charger","lat":-42.774236,"lng":172.846835,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10314148957","source":"openstreetmap","category":"ev-charger","name":"Tesla Destination Charger","lat":-45.022603,"lng":168.739136}
+{"id":"osm:node:10572017646","source":"openstreetmap","category":"ev-charger","lat":-43.530882,"lng":172.575495,"tags":{"access":"yes"}}
+{"id":"osm:node:10572056313","source":"openstreetmap","category":"ev-charger","lat":-38.986416,"lng":177.790996,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10578325831","source":"openstreetmap","category":"ev-charger","name":"BP Cambridge","lat":-37.890665,"lng":175.467766,"tags":{"access":"yes","operator":"bpcharge"}}
+{"id":"osm:node:10596183184","source":"openstreetmap","category":"ev-charger","name":"Miramar North Road","lat":-41.302345,"lng":174.824116,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10596269600","source":"openstreetmap","category":"ev-charger","name":"Jackson Street","lat":-41.330912,"lng":174.780209,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10596299212","source":"openstreetmap","category":"ev-charger","name":"Ākau Tangi Sport Centre","lat":-41.31646,"lng":174.801551,"tags":{"access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:10596320613","source":"openstreetmap","category":"ev-charger","name":"Hornsey Road","lat":-41.330095,"lng":174.785895,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10597854262","source":"openstreetmap","category":"ev-charger","name":"Karori New World","lat":-41.283704,"lng":174.737998,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10597854264","source":"openstreetmap","category":"ev-charger","name":"Karori Recreation Centre","lat":-41.285261,"lng":174.73739,"tags":{"access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:10597871127","source":"openstreetmap","category":"ev-charger","name":"Melbourne Road","lat":-41.329729,"lng":174.776478,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10597871128","source":"openstreetmap","category":"ev-charger","name":"Stanley Street","lat":-41.323357,"lng":174.772459,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10597871129","source":"openstreetmap","category":"ev-charger","name":"Wellington Zoo","lat":-41.319346,"lng":174.784967,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10597871137","source":"openstreetmap","category":"ev-charger","name":"Hall Street","lat":-41.310604,"lng":174.777545,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10597871138","source":"openstreetmap","category":"ev-charger","name":"Coromandel Street","lat":-41.311682,"lng":174.786125,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10597871139","source":"openstreetmap","category":"ev-charger","name":"Coromandel Street","lat":-41.308951,"lng":174.785288,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10597871140","source":"openstreetmap","category":"ev-charger","name":"Wright Street","lat":-41.307142,"lng":174.773979,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10597871235","source":"openstreetmap","category":"ev-charger","name":"Zealandia Ecosanctuary","lat":-41.290698,"lng":174.752823}
+{"id":"osm:node:10597887135","source":"openstreetmap","category":"ev-charger","name":"Inglewood Place & Dixon Street","lat":-41.292693,"lng":174.778521,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10597888827","source":"openstreetmap","category":"ev-charger","name":"Austin Street","lat":-41.29883,"lng":174.786908,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:10597896724","source":"openstreetmap","category":"ev-charger","name":"Nissan Gazley Wellington Customer Charging Point","lat":-41.296618,"lng":174.783355,"tags":{"operator":"Nissan"}}
+{"id":"osm:node:10597906357","source":"openstreetmap","category":"ev-charger","name":"Tesla Destination Charger","lat":-41.295526,"lng":174.774896}
+{"id":"osm:node:10689618608","source":"openstreetmap","category":"ev-charger","lat":-41.315928,"lng":174.793865}
+{"id":"osm:node:10831201484","source":"openstreetmap","category":"ev-charger","lat":-37.030751,"lng":174.877339,"tags":{"operator":"BP"}}
+{"id":"osm:node:10845056505","source":"openstreetmap","category":"ev-charger","lat":-38.243905,"lng":175.182841}
+{"id":"osm:node:10845764605","source":"openstreetmap","category":"ev-charger","lat":-41.334521,"lng":173.201641,"tags":{"operator":"woolworths"}}
+{"id":"osm:node:10888869034","source":"openstreetmap","category":"ev-charger","lat":-37.69609,"lng":176.106845,"tags":{"operator":"Z Energy"}}
+{"id":"osm:node:10910648885","source":"openstreetmap","category":"ev-charger","lat":-41.323944,"lng":174.810921,"tags":{"access":"private"}}
+{"id":"osm:node:10927957531","source":"openstreetmap","category":"ev-charger","lat":-43.512823,"lng":172.638013,"tags":{"access":"yes","operator":"BP"}}
+{"id":"osm:node:10939536951","source":"openstreetmap","category":"ev-charger","lat":-43.495514,"lng":172.710704,"tags":{"access":"yes","operator":"BP"}}
+{"id":"osm:node:10939671209","source":"openstreetmap","category":"ev-charger","lat":-37.976943,"lng":175.75502,"tags":{"access":"yes"}}
+{"id":"osm:node:10948374071","source":"openstreetmap","category":"ev-charger","lat":-43.307893,"lng":172.672501,"tags":{"access":"yes","operator":"BP"}}
+{"id":"osm:node:10951132402","source":"openstreetmap","category":"ev-charger","lat":-40.907412,"lng":174.999725,"tags":{"operator":"BP"}}
+{"id":"osm:node:10958659239","source":"openstreetmap","category":"ev-charger","lat":-41.132824,"lng":175.066314,"tags":{"access":"private"}}
+{"id":"osm:node:10958659240","source":"openstreetmap","category":"ev-charger","lat":-41.132308,"lng":175.066547,"tags":{"access":"private"}}
+{"id":"osm:node:10958659323","source":"openstreetmap","category":"ev-charger","lat":-41.132047,"lng":175.065838,"tags":{"access":"private"}}
+{"id":"osm:node:10985310463","source":"openstreetmap","category":"ev-charger","lat":-35.684013,"lng":174.321728}
+{"id":"osm:node:11024057346","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-36.913175,"lng":174.841387,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/aucklandsylviaparksupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:11031977213","source":"openstreetmap","category":"ev-charger","name":"BP Connect Taihape","lat":-39.678957,"lng":175.800537,"tags":{"access":"yes","operator":"BP"}}
+{"id":"osm:node:11055916641","source":"openstreetmap","category":"ev-charger","lat":-37.779309,"lng":175.333077,"tags":{"access":"yes","operator":"WEL Networks"}}
+{"id":"osm:node:11060751022","source":"openstreetmap","category":"ev-charger","lat":-36.861274,"lng":174.777385,"tags":{"operator":"Vector"}}
+{"id":"osm:node:11072900878","source":"openstreetmap","category":"ev-charger","lat":-37.038909,"lng":174.913796,"tags":{"operator":"BP"}}
+{"id":"osm:node:11072921610","source":"openstreetmap","category":"ev-charger","lat":-37.001555,"lng":174.88833,"tags":{"operator":"BP"}}
+{"id":"osm:node:11073047765","source":"openstreetmap","category":"ev-charger","lat":-36.990961,"lng":174.851162,"tags":{"operator":"kiwEV"}}
+{"id":"osm:node:11080712916","source":"openstreetmap","category":"ev-charger","lat":-43.307963,"lng":172.671864,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:11082024319","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-39.055936,"lng":174.087055,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/newplymouthsupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:11112900893","source":"openstreetmap","category":"ev-charger","lat":-43.531837,"lng":172.629475,"tags":{"access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:11112900894","source":"openstreetmap","category":"ev-charger","lat":-43.519617,"lng":172.655523,"tags":{"access":"yes"}}
+{"id":"osm:node:11112948730","source":"openstreetmap","category":"ev-charger","lat":-43.638681,"lng":172.752278,"tags":{"access":"permissive"}}
+{"id":"osm:node:11155247746","source":"openstreetmap","category":"ev-charger","lat":-41.292305,"lng":174.006544,"tags":{"access":"yes","operator":"Z Energy"}}
+{"id":"osm:node:11159728780","source":"openstreetmap","category":"ev-charger","lat":-37.867114,"lng":175.456602,"tags":{"access":"yes","operator":"Z Energy"}}
+{"id":"osm:node:11162000286","source":"openstreetmap","category":"ev-charger","name":"Avalon Park","lat":-41.194161,"lng":174.932049,"tags":{"access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:11209919580","source":"openstreetmap","category":"ev-charger","lat":-36.722218,"lng":174.71309,"tags":{"access":"no","operator":"AT"}}
+{"id":"osm:node:11228698597","source":"openstreetmap","category":"ev-charger","name":"BP Wairakei","lat":-38.626111,"lng":176.088404,"tags":{"operator":"BP Pulse"}}
+{"id":"osm:node:11232545739","source":"openstreetmap","category":"ev-charger","lat":-43.488693,"lng":172.546957}
+{"id":"osm:node:11249036408","source":"openstreetmap","category":"ev-charger","name":"ChargeNet Rolleston New World","lat":-43.596924,"lng":172.38328,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:11254394292","source":"openstreetmap","category":"ev-charger","name":"Hikotron at K-Mart Distribution Center","lat":-37.78102,"lng":175.325364,"tags":{"operator":"Hikotron"}}
+{"id":"osm:node:11258789265","source":"openstreetmap","category":"ev-charger","name":"Rotorua Supercharger","lat":-38.14119,"lng":176.252848,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/rotoruasupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:11316584292","source":"openstreetmap","category":"ev-charger","name":"Flat Rock Cafe - Kohatu","lat":-41.45163,"lng":172.836892,"tags":{"opening_hours":"24/7","access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:11330254773","source":"openstreetmap","category":"ev-charger","name":"Paraparaumu (Kapiti PAK’nSAVE)","lat":-40.917061,"lng":175.002497,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:11330506468","source":"openstreetmap","category":"ev-charger","lat":-36.993886,"lng":174.878623,"tags":{"access":"no","operator":"AT"}}
+{"id":"osm:node:11332167124","source":"openstreetmap","category":"ev-charger","name":"bp Levin","lat":-40.629303,"lng":175.278562,"tags":{"opening_hours":"24/7","access":"yes","operator":"BP"}}
+{"id":"osm:node:11359915981","source":"openstreetmap","category":"ev-charger","name":"Raption 150 C CCS2","lat":-36.845885,"lng":174.775482,"tags":{"access":"no"}}
+{"id":"osm:node:11468433877","source":"openstreetmap","category":"ev-charger","name":"ChargeNet","lat":-36.779051,"lng":174.745845,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:11484375223","source":"openstreetmap","category":"ev-charger","lat":-41.288701,"lng":174.707236}
+{"id":"osm:node:11505091537","source":"openstreetmap","category":"ev-charger","lat":-43.481358,"lng":171.940463}
+{"id":"osm:node:11505091538","source":"openstreetmap","category":"ev-charger","lat":-43.481402,"lng":171.940484}
+{"id":"osm:node:11508132054","source":"openstreetmap","category":"ev-charger","name":"Ricoh Sports Centre","lat":-41.184665,"lng":174.949814,"tags":{"access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:11508172784","source":"openstreetmap","category":"ev-charger","lat":-41.125641,"lng":175.067348,"tags":{"access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:11508174611","source":"openstreetmap","category":"ev-charger","name":"Walter Nash Centre","lat":-41.17892,"lng":174.959799,"tags":{"access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:11518379394","source":"openstreetmap","category":"ev-charger","lat":-46.660771,"lng":169.100477,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:11544893284","source":"openstreetmap","category":"ev-charger","name":"Hikotron at Ōmokoroa Village","lat":-37.641176,"lng":176.037447,"tags":{"operator":"Hikotron"}}
+{"id":"osm:node:11601235402","source":"openstreetmap","category":"ev-charger","name":"Ruakura Supercharger","lat":-37.777408,"lng":175.345246,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/ruakurasupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla, Inc."}}
+{"id":"osm:node:11735797675","source":"openstreetmap","category":"ev-charger","name":"BP Russley Road","lat":-43.47963,"lng":172.55535,"tags":{"operator":"BP Pulse"}}
+{"id":"osm:node:11757111431","source":"openstreetmap","category":"ev-charger","name":"Kakaha Park - Prebbleton","lat":-43.598959,"lng":172.512534,"tags":{"website":"https://zero.meridianenergy.co.nz","access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:11795208864","source":"openstreetmap","category":"ev-charger","lat":-36.897597,"lng":174.849372,"tags":{"access":"no","operator":"AT"}}
+{"id":"osm:node:11882942730","source":"openstreetmap","category":"ev-charger","name":"ChargeNet Pack'n'Save Papanui","lat":-43.484803,"lng":172.616022,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:11882942731","source":"openstreetmap","category":"ev-charger","name":"22 Harewood Road","lat":-43.496246,"lng":172.606453,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:11882942732","source":"openstreetmap","category":"ev-charger","name":"482 Cranford Street","lat":-43.490818,"lng":172.621988,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:11882942733","source":"openstreetmap","category":"ev-charger","name":"MacKenzies Hotel","lat":-43.524368,"lng":172.685165,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:11882942734","source":"openstreetmap","category":"ev-charger","lat":-43.525297,"lng":172.673705,"tags":{"access":"yes","operator":"BP"}}
+{"id":"osm:node:11882942735","source":"openstreetmap","category":"ev-charger","lat":-43.526477,"lng":172.635414,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:11882942736","source":"openstreetmap","category":"ev-charger","name":"Central Park - Lichfield","lat":-43.534125,"lng":172.634694,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:11882942737","source":"openstreetmap","category":"ev-charger","name":"Central Park - Tuam","lat":-43.535416,"lng":172.640312,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:11882942738","source":"openstreetmap","category":"ev-charger","name":"Central Park - Little High","lat":-43.53628,"lng":172.641044,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:11882942739","source":"openstreetmap","category":"ev-charger","name":"462 Tuam Street","lat":-43.535568,"lng":172.655446,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:11882942740","source":"openstreetmap","category":"ev-charger","name":"Waltham Road","lat":-43.54702,"lng":172.646624,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:11882942741","source":"openstreetmap","category":"ev-charger","name":"Brougham Street","lat":-43.547292,"lng":172.646188,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:11882942742","source":"openstreetmap","category":"ev-charger","name":"290 Colombo Street","lat":-43.549742,"lng":172.636886,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:11882942743","source":"openstreetmap","category":"ev-charger","name":"Clocktower Hornby","lat":-43.54335,"lng":172.528282,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:11882942744","source":"openstreetmap","category":"ev-charger","name":"Clocktower Hornby 1","lat":-43.543335,"lng":172.528492,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:11882942745","source":"openstreetmap","category":"ev-charger","name":"75 Shands Road","lat":-43.54861,"lng":172.519665,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:11882942746","source":"openstreetmap","category":"ev-charger","name":"64 Carmen Road","lat":-43.537473,"lng":172.528705,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:11890612650","source":"openstreetmap","category":"ev-charger","lat":-36.844033,"lng":174.756383,"tags":{"access":"no","operator":"Kinetic"}}
+{"id":"osm:node:11890612651","source":"openstreetmap","category":"ev-charger","lat":-36.844053,"lng":174.756472,"tags":{"access":"no","operator":"Kinetic"}}
+{"id":"osm:node:11890612652","source":"openstreetmap","category":"ev-charger","lat":-36.844077,"lng":174.75656,"tags":{"access":"no","operator":"Kinetic"}}
+{"id":"osm:node:11890612653","source":"openstreetmap","category":"ev-charger","lat":-36.8441,"lng":174.756657,"tags":{"access":"no","operator":"Kinetic"}}
+{"id":"osm:node:11890612654","source":"openstreetmap","category":"ev-charger","lat":-36.844124,"lng":174.756742,"tags":{"access":"no","operator":"Kinetic"}}
+{"id":"osm:node:11890612655","source":"openstreetmap","category":"ev-charger","lat":-36.844149,"lng":174.756836,"tags":{"access":"no","operator":"Kinetic"}}
+{"id":"osm:node:11892111180","source":"openstreetmap","category":"ev-charger","lat":-43.559949,"lng":172.575505}
+{"id":"osm:node:11905523432","source":"openstreetmap","category":"ev-charger","lat":-43.56163,"lng":172.73751,"tags":{"access":"yes","operator":"BP"}}
+{"id":"osm:node:11905523433","source":"openstreetmap","category":"ev-charger","lat":-43.470821,"lng":172.570121,"tags":{"access":"yes","operator":"Z Energy"}}
+{"id":"osm:node:11905523434","source":"openstreetmap","category":"ev-charger","lat":-43.470983,"lng":172.570149,"tags":{"access":"yes","operator":"Z Energy"}}
+{"id":"osm:node:11954997544","source":"openstreetmap","category":"ev-charger","lat":-35.731143,"lng":174.33074,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:11954997545","source":"openstreetmap","category":"ev-charger","lat":-35.731137,"lng":174.330766,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:12040894413","source":"openstreetmap","category":"ev-charger","lat":-43.524118,"lng":172.366276,"tags":{"operator":"Meridian Energy"}}
+{"id":"osm:node:12040894414","source":"openstreetmap","category":"ev-charger","lat":-43.52412,"lng":172.366334,"tags":{"operator":"Meridian Energy"}}
+{"id":"osm:node:12050680102","source":"openstreetmap","category":"ev-charger","name":"Tesla Destination Charger","lat":-44.927946,"lng":168.73687}
+{"id":"osm:node:12050685883","source":"openstreetmap","category":"ev-charger","name":"Halswell","lat":-43.579814,"lng":172.564943,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:12050685884","source":"openstreetmap","category":"ev-charger","name":"Lincoln","lat":-43.64154,"lng":172.474223,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:12050685885","source":"openstreetmap","category":"ev-charger","name":"Lincoln","lat":-43.641535,"lng":172.474315,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:12050685886","source":"openstreetmap","category":"ev-charger","name":"Lincoln","lat":-43.641529,"lng":172.474377,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:12050685887","source":"openstreetmap","category":"ev-charger","name":"Silky Otter - Wigram Skies","lat":-43.553179,"lng":172.556408,"tags":{"website":"https://zero.meridianenergy.co.nz","operator":"Meridian Energy"}}
+{"id":"osm:node:12050685888","source":"openstreetmap","category":"ev-charger","name":"Caltex 427 Main South Road","lat":-43.543706,"lng":172.523187,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:12050685889","source":"openstreetmap","category":"ev-charger","name":"68 Fitzgerald Street","lat":-43.535939,"lng":172.65081,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:node:12141294186","source":"openstreetmap","category":"ev-charger","name":"Tauriko (Tauranga Crossing)","lat":-37.737968,"lng":176.104813,"tags":{"website":"https://charge.net.nz","opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:12207923002","source":"openstreetmap","category":"ev-charger","lat":-36.86345,"lng":174.615263,"tags":{"operator":"BP"}}
+{"id":"osm:node:12374471005","source":"openstreetmap","category":"ev-charger","lat":-36.105481,"lng":174.582501}
+{"id":"osm:node:12387537785","source":"openstreetmap","category":"ev-charger","name":"BP Charge Christchurch Airport Gigahub","lat":-43.47877,"lng":172.554654,"tags":{"access":"yes","operator":"BP","addr:postcode":"8051","addr:suburb":"Harewood","addr:city":"Christchurch"}}
+{"id":"osm:node:12528894214","source":"openstreetmap","category":"ev-charger","lat":-43.632087,"lng":171.647622,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:12537644430","source":"openstreetmap","category":"ev-charger","lat":-39.177512,"lng":175.402133,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:12572488303","source":"openstreetmap","category":"ev-charger","lat":-35.724822,"lng":174.3265}
+{"id":"osm:node:12588641303","source":"openstreetmap","category":"ev-charger","lat":-35.282915,"lng":174.090388,"tags":{"operator":"Crimson Cruiser"}}
+{"id":"osm:node:12704778487","source":"openstreetmap","category":"ev-charger","name":"Z","lat":-41.29693,"lng":174.776634,"tags":{"operator":"Z Energy"}}
+{"id":"osm:node:12710610889","source":"openstreetmap","category":"ev-charger","lat":-44.100183,"lng":170.829437,"tags":{"operator":"Alpine Energy"}}
+{"id":"osm:node:12751538922","source":"openstreetmap","category":"ev-charger","name":"Mount Roskill (New World)","lat":-36.908285,"lng":174.735406,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:12760778457","source":"openstreetmap","category":"ev-charger","lat":-36.917387,"lng":174.753078,"tags":{"access":"customers","operator":"Solsen on Olsen"}}
+{"id":"osm:node:12798126696","source":"openstreetmap","category":"ev-charger","lat":-36.751533,"lng":174.728302,"tags":{"access":"no","operator":"AT"}}
+{"id":"osm:node:12986293682","source":"openstreetmap","category":"ev-charger","lat":-36.124834,"lng":174.574902,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:13009991997","source":"openstreetmap","category":"ev-charger","lat":-36.885277,"lng":174.644342,"tags":{"access":"yes","operator":"BP"}}
+{"id":"osm:node:13022349866","source":"openstreetmap","category":"ev-charger","lat":-36.868417,"lng":174.630157}
+{"id":"osm:node:13022349867","source":"openstreetmap","category":"ev-charger","lat":-36.868412,"lng":174.6301}
+{"id":"osm:node:13022349868","source":"openstreetmap","category":"ev-charger","lat":-36.868421,"lng":174.630217}
+{"id":"osm:node:13022349869","source":"openstreetmap","category":"ev-charger","lat":-36.868249,"lng":174.630107}
+{"id":"osm:node:13022349870","source":"openstreetmap","category":"ev-charger","lat":-36.868254,"lng":174.630168}
+{"id":"osm:node:13022349871","source":"openstreetmap","category":"ev-charger","lat":-36.868263,"lng":174.630289}
+{"id":"osm:node:13022349872","source":"openstreetmap","category":"ev-charger","lat":-36.868259,"lng":174.630227}
+{"id":"osm:node:13022349873","source":"openstreetmap","category":"ev-charger","lat":-36.86827,"lng":174.63035}
+{"id":"osm:node:13022349874","source":"openstreetmap","category":"ev-charger","lat":-36.868275,"lng":174.630411}
+{"id":"osm:node:13022349875","source":"openstreetmap","category":"ev-charger","lat":-36.868107,"lng":174.630372}
+{"id":"osm:node:13022349876","source":"openstreetmap","category":"ev-charger","lat":-36.868102,"lng":174.630311}
+{"id":"osm:node:13022349877","source":"openstreetmap","category":"ev-charger","lat":-36.868093,"lng":174.630189}
+{"id":"osm:node:13022349878","source":"openstreetmap","category":"ev-charger","lat":-36.868098,"lng":174.630249}
+{"id":"osm:node:13022349879","source":"openstreetmap","category":"ev-charger","lat":-36.868088,"lng":174.630127}
+{"id":"osm:node:13022349880","source":"openstreetmap","category":"ev-charger","lat":-36.868083,"lng":174.630071}
+{"id":"osm:node:13030705472","source":"openstreetmap","category":"ev-charger","lat":-36.849697,"lng":174.823171,"tags":{"access":"private"}}
+{"id":"osm:node:13030705473","source":"openstreetmap","category":"ev-charger","lat":-36.849707,"lng":174.82316,"tags":{"access":"private"}}
+{"id":"osm:node:13055142511","source":"openstreetmap","category":"ev-charger","lat":-36.897491,"lng":174.849493,"tags":{"access":"no","operator":"AT"}}
+{"id":"osm:node:13135445917","source":"openstreetmap","category":"ev-charger","lat":-38.130413,"lng":178.314809}
+{"id":"osm:node:13278197031","source":"openstreetmap","category":"ev-charger","lat":-41.20382,"lng":174.914088,"tags":{"operator":"Z Energy"}}
+{"id":"osm:node:13305514633","source":"openstreetmap","category":"ev-charger","lat":-42.333248,"lng":172.182554,"tags":{"website":"https://zero.meridianenergy.co.nz/contact","opening_hours":"24/7","access":"yes"}}
+{"id":"osm:node:13332805457","source":"openstreetmap","category":"ev-charger","name":"New World","lat":-39.417344,"lng":175.400062}
+{"id":"osm:node:13334779149","source":"openstreetmap","category":"ev-charger","lat":-36.890658,"lng":174.832505,"tags":{"operator":"EVlink"}}
+{"id":"osm:node:13354328997","source":"openstreetmap","category":"ev-charger","lat":-36.862585,"lng":174.808702}
+{"id":"osm:node:13363235973","source":"openstreetmap","category":"ev-charger","lat":-43.904311,"lng":171.743691,"tags":{"website":"https://charge.net.nz","operator":"ChargeNet NZ"}}
+{"id":"osm:node:13380551788","source":"openstreetmap","category":"ev-charger","lat":-39.588174,"lng":174.277549,"tags":{"operator":"EVlink"}}
+{"id":"osm:node:13396010834","source":"openstreetmap","category":"ev-charger","lat":-36.843396,"lng":174.755821,"tags":{"access":"no","operator":"Kinetic"}}
+{"id":"osm:node:13396010835","source":"openstreetmap","category":"ev-charger","lat":-36.843416,"lng":174.75591,"tags":{"access":"no","operator":"Kinetic"}}
+{"id":"osm:node:13396010836","source":"openstreetmap","category":"ev-charger","lat":-36.84344,"lng":174.755999,"tags":{"access":"no","operator":"Kinetic"}}
+{"id":"osm:node:13396010837","source":"openstreetmap","category":"ev-charger","lat":-36.843463,"lng":174.756095,"tags":{"access":"no","operator":"Kinetic"}}
+{"id":"osm:node:13396010838","source":"openstreetmap","category":"ev-charger","lat":-36.843511,"lng":174.756275,"tags":{"access":"no","operator":"Kinetic"}}
+{"id":"osm:node:13416699212","source":"openstreetmap","category":"ev-charger","lat":-46.450655,"lng":169.659786}
+{"id":"osm:node:13417418826","source":"openstreetmap","category":"ev-charger","lat":-38.132974,"lng":176.292561,"tags":{"access":"unknown"}}
+{"id":"osm:node:13417418827","source":"openstreetmap","category":"ev-charger","lat":-38.132944,"lng":176.292518,"tags":{"access":"unknown"}}
+{"id":"osm:node:13417418828","source":"openstreetmap","category":"ev-charger","lat":-38.132911,"lng":176.292469,"tags":{"access":"unknown"}}
+{"id":"osm:node:13417418844","source":"openstreetmap","category":"ev-charger","lat":-38.133657,"lng":176.296011}
+{"id":"osm:node:13433538289","source":"openstreetmap","category":"ev-charger","lat":-41.170998,"lng":174.825435,"tags":{"operator":"Meridian Energy"}}
+{"id":"osm:node:13433571567","source":"openstreetmap","category":"ev-charger","lat":-41.170996,"lng":174.825396,"tags":{"operator":"Meridian Energy"}}
+{"id":"osm:node:13433627496","source":"openstreetmap","category":"ev-charger","lat":-41.175685,"lng":174.826033,"tags":{"operator":"BP"}}
+{"id":"osm:node:13433660827","source":"openstreetmap","category":"ev-charger","lat":-41.170997,"lng":174.825467,"tags":{"operator":"Meridian Energy"}}
+{"id":"osm:node:13437145754","source":"openstreetmap","category":"ev-charger","lat":-41.292111,"lng":174.78593,"tags":{"operator":"Meridian Energy"}}
+{"id":"osm:node:13437150741","source":"openstreetmap","category":"ev-charger","lat":-41.292142,"lng":174.785891,"tags":{"operator":"Meridian Energy"}}
+{"id":"osm:node:13457492952","source":"openstreetmap","category":"ev-charger","lat":-41.528382,"lng":173.970502}
+{"id":"osm:node:13533437893","source":"openstreetmap","category":"ev-charger","lat":-35.940293,"lng":173.872131,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:13577942429","source":"openstreetmap","category":"ev-charger","lat":-41.266305,"lng":174.782802}
+{"id":"osm:node:13577949985","source":"openstreetmap","category":"ev-charger","lat":-41.266195,"lng":174.782913}
+{"id":"osm:node:13585518170","source":"openstreetmap","category":"ev-charger","lat":-41.273481,"lng":173.286147,"tags":{"operator":"Network Tasman"}}
+{"id":"osm:node:13624199490","source":"openstreetmap","category":"ev-charger","lat":-38.143344,"lng":176.282881,"tags":{"access":"yes","operator":"BP"}}
+{"id":"osm:node:13624706927","source":"openstreetmap","category":"ev-charger","name":"Half Moon Bay Electric Ferry Charger","lat":-36.879931,"lng":174.895286,"tags":{"access":"private","operator":"AT","description":"2 plugs but capacity=1, because the boat needs both port and starboard batteries charged at the same time"}}
+{"id":"osm:node:13637736148","source":"openstreetmap","category":"ev-charger","lat":-43.540288,"lng":172.604633,"tags":{"access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:13660743928","source":"openstreetmap","category":"ev-charger","lat":-38.143924,"lng":176.282668,"tags":{"access":"yes","operator":"BP"}}
+{"id":"osm:node:13660743929","source":"openstreetmap","category":"ev-charger","lat":-38.143864,"lng":176.282595,"tags":{"access":"yes","operator":"BP"}}
+{"id":"osm:node:13660743930","source":"openstreetmap","category":"ev-charger","lat":-38.143831,"lng":176.282555,"tags":{"access":"yes","operator":"BP"}}
+{"id":"osm:node:13660743931","source":"openstreetmap","category":"ev-charger","lat":-38.143799,"lng":176.282515,"tags":{"access":"yes","operator":"BP"}}
+{"id":"osm:node:13660997815","source":"openstreetmap","category":"ev-charger","name":"Z Miramar","lat":-41.315142,"lng":174.814071}
+{"id":"osm:node:13688510302","source":"openstreetmap","category":"ev-charger","lat":-40.358468,"lng":175.614137,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/palmerstonnorthsupercharger","opening_hours":"24/7","access":"yes"}}
+{"id":"osm:node:13688510303","source":"openstreetmap","category":"ev-charger","lat":-42.390156,"lng":173.678172,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/kaikourasupercharger","opening_hours":"24/7","access":"yes"}}
+{"id":"osm:node:13688510304","source":"openstreetmap","category":"ev-charger","lat":-39.621621,"lng":176.889774,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/hastingssupercharger","opening_hours":"24/7","access":"yes"}}
+{"id":"osm:node:13688514601","source":"openstreetmap","category":"ev-charger","lat":-40.91768,"lng":175.004475,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/paraparaumusupercharger","opening_hours":"24/7","access":"yes"}}
+{"id":"osm:node:13688514602","source":"openstreetmap","category":"ev-charger","lat":-40.175584,"lng":175.384317,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/bullssupercharger","opening_hours":"24/7","access":"yes"}}
+{"id":"osm:node:13688514605","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-38.721864,"lng":176.081391,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/rainbowpointsupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:13688529501","source":"openstreetmap","category":"ev-charger","name":"Hornby Supercharger","lat":-43.543442,"lng":172.522739,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/33954","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:13688529502","source":"openstreetmap","category":"ev-charger","name":"Waitomo Supercharger","lat":-38.244152,"lng":175.182673,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/waitomosupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:13688529701","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-37.747607,"lng":175.232698,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/hamiltonsupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:13688532301","source":"openstreetmap","category":"ev-charger","name":"Epsom Supercharger","lat":-36.890388,"lng":174.775367,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/34180","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:13688532701","source":"openstreetmap","category":"ev-charger","name":"Westgate Supercharger","lat":-36.809269,"lng":174.605895,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/59363","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:13688533201","source":"openstreetmap","category":"ev-charger","name":"Glenfield Supercharger","lat":-36.78273,"lng":174.722051,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/26780","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:13688534701","source":"openstreetmap","category":"ev-charger","name":"Dunedin Supercharger","lat":-45.894745,"lng":170.508036,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/31687","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:13696693171","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-35.210088,"lng":173.918712,"tags":{"operator":"Tesla"}}
+{"id":"osm:node:13696698117","source":"openstreetmap","category":"ev-charger","lat":-35.205871,"lng":173.917565,"tags":{"operator":"BP"}}
+{"id":"osm:node:13727041752","source":"openstreetmap","category":"ev-charger","lat":-43.379788,"lng":172.535814}
+{"id":"osm:node:13727041753","source":"openstreetmap","category":"ev-charger","lat":-43.379774,"lng":172.535843}
+{"id":"osm:node:13747667353","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-38.721935,"lng":176.081469,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/rainbowpointsupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:13747667354","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-38.721916,"lng":176.081448,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/rainbowpointsupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:13747667355","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-38.721899,"lng":176.08143,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/rainbowpointsupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:13747667356","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-38.721845,"lng":176.081372,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/rainbowpointsupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:13747667357","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-38.721881,"lng":176.081411,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/rainbowpointsupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:13747667358","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-38.721828,"lng":176.081352,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/rainbowpointsupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:13747667360","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-38.721791,"lng":176.081312,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/rainbowpointsupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:13924458825","source":"openstreetmap","category":"ev-charger","lat":-36.887551,"lng":174.832588,"tags":{"operator":"EVlink"}}
+{"id":"osm:node:13924458826","source":"openstreetmap","category":"ev-charger","lat":-36.888391,"lng":174.831473,"tags":{"operator":"EVlink"}}
+{"id":"osm:node:13928955153","source":"openstreetmap","category":"ev-charger","lat":-45.868189,"lng":170.52595,"tags":{"access":"private"}}
+{"id":"osm:node:13979991536","source":"openstreetmap","category":"ev-charger","lat":-43.758713,"lng":172.022958}
+{"id":"osm:node:13982050712","source":"openstreetmap","category":"ev-charger","name":"Chargenet","lat":-36.734094,"lng":174.71122}
+{"id":"osm:node:13982050813","source":"openstreetmap","category":"ev-charger","name":"ChargeNet","lat":-36.730328,"lng":174.704607,"tags":{"website":"http://Charge.Net.nz","opening_hours":"24/7","operator":"ChargeNet"}}
+{"id":"osm:node:13986925301","source":"openstreetmap","category":"ev-charger","name":"Ponsonby Rd","lat":-36.859489,"lng":174.752749,"tags":{"opening_hours":"24/7"}}
+{"id":"osm:node:14001832079","source":"openstreetmap","category":"ev-charger","lat":-35.725879,"lng":174.32536,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:281919636","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-39.809745,"lng":175.788259,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/mangawekasupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:3272423873","source":"openstreetmap","category":"ev-charger","name":"JuicePoint","lat":-36.915432,"lng":174.840387,"tags":{"operator":"JuicePoint"}}
+{"id":"osm:node:4032412441","source":"openstreetmap","category":"ev-charger","name":"Solar Powered Phone Charging Station","lat":-43.53229,"lng":172.589569}
+{"id":"osm:node:4060829602","source":"openstreetmap","category":"ev-charger","name":"Re Charge here","lat":-36.869273,"lng":174.774825,"tags":{"website":"http://Charge.Net.NZ","operator":"Charge Net NZ"}}
+{"id":"osm:node:4379780492","source":"openstreetmap","category":"ev-charger","lat":-36.622246,"lng":174.670503,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:4496116681","source":"openstreetmap","category":"ev-charger","name":"Dickens St Carpark","lat":-39.492356,"lng":176.914709,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:4496145751","source":"openstreetmap","category":"ev-charger","lat":-39.641345,"lng":176.843398,"tags":{"operator":"Unison Networks"}}
+{"id":"osm:node:4815100492","source":"openstreetmap","category":"ev-charger","lat":-45.872624,"lng":170.502508,"tags":{"operator":"Delta"}}
+{"id":"osm:node:4831770321","source":"openstreetmap","category":"ev-charger","lat":-40.861936,"lng":172.806199}
+{"id":"osm:node:4867381822","source":"openstreetmap","category":"ev-charger","lat":-40.948642,"lng":175.666021,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:4894697429","source":"openstreetmap","category":"ev-charger","lat":-43.5408,"lng":172.622113,"tags":{"website":"https://charge.net.nz/","operator":"ChargeNet NZ"}}
+{"id":"osm:node:4894697971","source":"openstreetmap","category":"ev-charger","name":"Christchurch Botanic Gardens EV Charger","lat":-43.528435,"lng":172.620924,"tags":{"access":"yes","operator":"Orion"}}
+{"id":"osm:node:4894826257","source":"openstreetmap","category":"ev-charger","lat":-43.460335,"lng":172.622213,"tags":{"website":"https://charge.net.nz","operator":"ChargeNet NZ"}}
+{"id":"osm:node:4894903251","source":"openstreetmap","category":"ev-charger","lat":-43.507498,"lng":172.731279,"tags":{"website":"https://charge.net.nz/","operator":"ChargeNet NZ"}}
+{"id":"osm:node:4894930237","source":"openstreetmap","category":"ev-charger","lat":-43.56932,"lng":172.758647,"tags":{"website":"https://charge.net.nz/","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:4953884118","source":"openstreetmap","category":"ev-charger","lat":-41.123854,"lng":175.070975,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5005065633","source":"openstreetmap","category":"ev-charger","lat":-35.37981,"lng":174.065558,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5070640639","source":"openstreetmap","category":"ev-charger","name":"Whakatane i-SITE","lat":-37.949722,"lng":176.998889,"tags":{"access":"yes","operator":"ChargeNet NZ","addr:suburb":"Whakatāne","addr:city":"Whakatāne"}}
+{"id":"osm:node:5096295207","source":"openstreetmap","category":"ev-charger","name":"Rangitaiki (Rangitaiki Lodge)","lat":-38.87844,"lng":176.36935,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5114629632","source":"openstreetmap","category":"ev-charger","lat":-43.535121,"lng":172.636873}
+{"id":"osm:node:5262727422","source":"openstreetmap","category":"ev-charger","name":"ChargeNet Tekapo","lat":-44.003476,"lng":170.476805,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5264773429","source":"openstreetmap","category":"ev-charger","lat":-43.755268,"lng":172.025383,"tags":{"operator":"EA networks"}}
+{"id":"osm:node:5291156679","source":"openstreetmap","category":"ev-charger","name":"Takanini Village Charging Station","lat":-37.048888,"lng":174.932732,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5309909880","source":"openstreetmap","category":"ev-charger","lat":-41.117147,"lng":175.32593,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5369462836","source":"openstreetmap","category":"ev-charger","name":"Twizel (Twizel Events Centre)","lat":-44.256577,"lng":170.100663,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5369821236","source":"openstreetmap","category":"ev-charger","lat":-43.557555,"lng":172.653878,"tags":{"operator":"Orion"}}
+{"id":"osm:node:5428549585","source":"openstreetmap","category":"ev-charger","name":"Pak'nSave Petone EV Charger","lat":-41.224667,"lng":174.873071,"tags":{"access":"customers","operator":"Pak'nSave"}}
+{"id":"osm:node:5447445269","source":"openstreetmap","category":"ev-charger","name":"Kaikoura, iSite","lat":-42.402349,"lng":173.682564,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5452145974","source":"openstreetmap","category":"ev-charger","lat":-43.539726,"lng":172.639288,"tags":{"access":"yes","operator":"Orion"}}
+{"id":"osm:node:5452152011","source":"openstreetmap","category":"ev-charger","lat":-43.534046,"lng":172.635043,"tags":{"operator":"CCC"}}
+{"id":"osm:node:5452174295","source":"openstreetmap","category":"ev-charger","name":"Harewood HPC (Raeward Fresh)","lat":-43.477682,"lng":172.556285,"tags":{"website":"https://charge.net.nz/","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5589544368","source":"openstreetmap","category":"ev-charger","name":"Z Beach Road","lat":-36.84946,"lng":174.77518,"tags":{"operator":"Z Energy"}}
+{"id":"osm:node:5589642430","source":"openstreetmap","category":"ev-charger","lat":-36.845468,"lng":174.762507,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5589646353","source":"openstreetmap","category":"ev-charger","lat":-36.889887,"lng":174.794998,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5593457153","source":"openstreetmap","category":"ev-charger","lat":-41.211423,"lng":174.904388,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5593507649","source":"openstreetmap","category":"ev-charger","name":"EV Charging","lat":-40.763635,"lng":175.152788,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5593584731","source":"openstreetmap","category":"ev-charger","name":"EV Charging","lat":-40.355466,"lng":175.611807,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5593585542","source":"openstreetmap","category":"ev-charger","lat":-40.358209,"lng":175.614246}
+{"id":"osm:node:5593696787","source":"openstreetmap","category":"ev-charger","name":"Taupo Fire Station","lat":-38.69268,"lng":176.076013,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5601431032","source":"openstreetmap","category":"ev-charger","name":"Dannevirke (Gordon Street Carpark)","lat":-40.209632,"lng":176.099078,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5601674870","source":"openstreetmap","category":"ev-charger","lat":-40.336669,"lng":175.865567,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5616237708","source":"openstreetmap","category":"ev-charger","lat":-41.460668,"lng":173.961723,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5621163843","source":"openstreetmap","category":"ev-charger","lat":-41.173437,"lng":174.981488,"tags":{"operator":"Meridian Energy"}}
+{"id":"osm:node:5621229123","source":"openstreetmap","category":"ev-charger","lat":-40.878426,"lng":175.064334}
+{"id":"osm:node:5621236471","source":"openstreetmap","category":"ev-charger","lat":-40.623499,"lng":175.284161,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5621249236","source":"openstreetmap","category":"ev-charger","name":"Waipukurau (Civic Theatre carpark)","lat":-39.994109,"lng":176.555374,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5621460840","source":"openstreetmap","category":"ev-charger","lat":-39.591497,"lng":174.283094,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5621471908","source":"openstreetmap","category":"ev-charger","lat":-37.788365,"lng":175.281288}
+{"id":"osm:node:5621684636","source":"openstreetmap","category":"ev-charger","lat":-38.331858,"lng":175.162847,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5623682276","source":"openstreetmap","category":"ev-charger","name":"Te Awamutu (Scout Lane)","lat":-38.008455,"lng":175.328905,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5623791284","source":"openstreetmap","category":"ev-charger","name":"Cambridge (Victoria Square)","lat":-37.891777,"lng":175.466949,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5623891222","source":"openstreetmap","category":"ev-charger","lat":-38.136309,"lng":176.253008,"tags":{"operator":"Unison Networks"}}
+{"id":"osm:node:5626318886","source":"openstreetmap","category":"ev-charger","name":"Turangi (Z Energy)","lat":-38.990024,"lng":175.810181,"tags":{"access":"yes","operator":"Z Energy"}}
+{"id":"osm:node:5626327690","source":"openstreetmap","category":"ev-charger","name":"Waiouru (Army Museum)","lat":-39.481256,"lng":175.669587,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5628325586","source":"openstreetmap","category":"ev-charger","lat":-36.931181,"lng":174.9104,"tags":{"operator":"Z Energy"}}
+{"id":"osm:node:5628337413","source":"openstreetmap","category":"ev-charger","name":"BP Pakuranga Charging Station","lat":-36.902141,"lng":174.896173,"tags":{"operator":"Vector"}}
+{"id":"osm:node:5629712188","source":"openstreetmap","category":"ev-charger","lat":-36.857608,"lng":174.62969,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5629717797","source":"openstreetmap","category":"ev-charger","lat":-36.746299,"lng":174.734936,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5629724273","source":"openstreetmap","category":"ev-charger","lat":-36.586483,"lng":174.694775,"tags":{"website":"https://charge.net.nz/","opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5629742834","source":"openstreetmap","category":"ev-charger","lat":-36.160904,"lng":174.443857,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5677438714","source":"openstreetmap","category":"ev-charger","lat":-44.092851,"lng":171.243241,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5677451370","source":"openstreetmap","category":"ev-charger","lat":-44.40063,"lng":171.253377,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5677462823","source":"openstreetmap","category":"ev-charger","name":"Ashburton (West St)","lat":-43.905266,"lng":171.745334,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5677463851","source":"openstreetmap","category":"ev-charger","lat":-45.097119,"lng":170.973034,"tags":{"operator":"Network Waitaki"}}
+{"id":"osm:node:5677476038","source":"openstreetmap","category":"ev-charger","lat":-46.411745,"lng":168.353325,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5677482268","source":"openstreetmap","category":"ev-charger","lat":-45.010172,"lng":168.747562,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5677487905","source":"openstreetmap","category":"ev-charger","lat":-44.693982,"lng":169.138898,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5681391970","source":"openstreetmap","category":"ev-charger","lat":-45.25622,"lng":169.394541,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5681446506","source":"openstreetmap","category":"ev-charger","lat":-46.099812,"lng":168.942989,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5689282193","source":"openstreetmap","category":"ev-charger","lat":-41.514421,"lng":173.959664}
+{"id":"osm:node:5689363835","source":"openstreetmap","category":"ev-charger","lat":-43.156556,"lng":172.730341,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:5690206306","source":"openstreetmap","category":"ev-charger","lat":-44.734936,"lng":171.045501,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:5690327721","source":"openstreetmap","category":"ev-charger","lat":-44.488579,"lng":169.96647,"tags":{"operator":"Network Waitaki"}}
+{"id":"osm:node:5725569423","source":"openstreetmap","category":"ev-charger","name":"EV Charging","lat":-41.291247,"lng":174.786036,"tags":{"access":"permissive","operator":"Mevo"}}
+{"id":"osm:node:5842477206","source":"openstreetmap","category":"ev-charger","name":"Sustainability Trust","lat":-41.29416,"lng":174.781677,"tags":{"operator":"Thundergrid"}}
+{"id":"osm:node:5982757153","source":"openstreetmap","category":"ev-charger","lat":-43.770299,"lng":172.790459,"tags":{"operator":"Orion"}}
+{"id":"osm:node:6003584185","source":"openstreetmap","category":"ev-charger","lat":-35.281821,"lng":174.092836,"tags":{"operator":"Tesla, Inc."}}
+{"id":"osm:node:6016798855","source":"openstreetmap","category":"ev-charger","lat":-41.292744,"lng":174.778503}
+{"id":"osm:node:6078350912","source":"openstreetmap","category":"ev-charger","lat":-36.934249,"lng":174.878438}
+{"id":"osm:node:6078350913","source":"openstreetmap","category":"ev-charger","lat":-36.934256,"lng":174.878475}
+{"id":"osm:node:6078350914","source":"openstreetmap","category":"ev-charger","lat":-36.934261,"lng":174.878502}
+{"id":"osm:node:6078350915","source":"openstreetmap","category":"ev-charger","lat":-36.934266,"lng":174.878531}
+{"id":"osm:node:6078350916","source":"openstreetmap","category":"ev-charger","lat":-36.934271,"lng":174.878557}
+{"id":"osm:node:6078350917","source":"openstreetmap","category":"ev-charger","lat":-36.934276,"lng":174.878586}
+{"id":"osm:node:6078350918","source":"openstreetmap","category":"ev-charger","lat":-36.93428,"lng":174.87861}
+{"id":"osm:node:6078350919","source":"openstreetmap","category":"ev-charger","lat":-36.934285,"lng":174.878635}
+{"id":"osm:node:6078350920","source":"openstreetmap","category":"ev-charger","lat":-36.934295,"lng":174.87869}
+{"id":"osm:node:6078350921","source":"openstreetmap","category":"ev-charger","lat":-36.9343,"lng":174.878717}
+{"id":"osm:node:6078350922","source":"openstreetmap","category":"ev-charger","lat":-36.934305,"lng":174.878745}
+{"id":"osm:node:6078350923","source":"openstreetmap","category":"ev-charger","lat":-36.934309,"lng":174.878768}
+{"id":"osm:node:6078350924","source":"openstreetmap","category":"ev-charger","lat":-36.934314,"lng":174.878797}
+{"id":"osm:node:6078350925","source":"openstreetmap","category":"ev-charger","lat":-36.934319,"lng":174.878827}
+{"id":"osm:node:6102405680","source":"openstreetmap","category":"ev-charger","lat":-41.509472,"lng":173.923109,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:6117602585","source":"openstreetmap","category":"ev-charger","lat":-43.808443,"lng":172.964792,"tags":{"operator":"Orion"}}
+{"id":"osm:node:6117628219","source":"openstreetmap","category":"ev-charger","lat":-43.770271,"lng":172.79048,"tags":{"operator":"Orion"}}
+{"id":"osm:node:6117643476","source":"openstreetmap","category":"ev-charger","lat":-43.802767,"lng":172.968118,"tags":{"operator":"Orion"}}
+{"id":"osm:node:6169668779","source":"openstreetmap","category":"ev-charger","lat":-36.911864,"lng":174.769997}
+{"id":"osm:node:6169669627","source":"openstreetmap","category":"ev-charger","name":"Auckland Airport Shopping Centre","lat":-36.99726,"lng":174.787746,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:6403463430","source":"openstreetmap","category":"ev-charger","name":"Innovation Park Fast Charger","lat":-37.778064,"lng":175.309659,"tags":{"access":"yes","operator":"WEL Networks"}}
+{"id":"osm:node:6405122285","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-44.484581,"lng":169.9712,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/omaramanzsupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla, Inc."}}
+{"id":"osm:node:6414349371","source":"openstreetmap","category":"ev-charger","name":"Tesla Destination Charger","lat":-44.849909,"lng":168.383202}
+{"id":"osm:node:6417218185","source":"openstreetmap","category":"ev-charger","lat":-45.542148,"lng":169.316031,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:6422167387","source":"openstreetmap","category":"ev-charger","lat":-46.23726,"lng":169.738251,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:6441933885","source":"openstreetmap","category":"ev-charger","lat":-46.141679,"lng":168.325365,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:6451128085","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-45.026732,"lng":168.744092,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/queenstownnzsupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:6493220785","source":"openstreetmap","category":"ev-charger","lat":-36.774465,"lng":174.554302,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:6564435009","source":"openstreetmap","category":"ev-charger","name":"Tesla Charge Station","lat":-37.717634,"lng":176.341761,"tags":{"access":"yes"}}
+{"id":"osm:node:6580671348","source":"openstreetmap","category":"ev-charger","lat":-43.603574,"lng":172.713415,"tags":{"access":"yes"}}
+{"id":"osm:node:6815036332","source":"openstreetmap","category":"ev-charger","lat":-35.725481,"lng":174.318081}
+{"id":"osm:node:6815036333","source":"openstreetmap","category":"ev-charger","lat":-35.725463,"lng":174.318061}
+{"id":"osm:node:6836428749","source":"openstreetmap","category":"ev-charger","name":"Tokoroa New World","lat":-38.218032,"lng":175.867537,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:6856370257","source":"openstreetmap","category":"ev-charger","name":"Island Bay New World","lat":-41.334278,"lng":174.773202,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:6866000610","source":"openstreetmap","category":"ev-charger","lat":-43.521795,"lng":172.579928,"tags":{"opening_hours":"24/7","access":"yes","operator":"Orion + Meridian Energy"}}
+{"id":"osm:node:6884124421","source":"openstreetmap","category":"ev-charger","lat":-37.793693,"lng":175.28633,"tags":{"operator":"WEL Networks"}}
+{"id":"osm:node:6989026746","source":"openstreetmap","category":"ev-charger","lat":-41.338028,"lng":173.1843,"tags":{"access":"yes","operator":"Network Tasman"}}
+{"id":"osm:node:7062551704","source":"openstreetmap","category":"ev-charger","name":"Electric Circuit","lat":-45.912891,"lng":169.686504}
+{"id":"osm:node:7081550031","source":"openstreetmap","category":"ev-charger","name":"EV Charging","lat":-40.861371,"lng":175.024161,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:7140413679","source":"openstreetmap","category":"ev-charger","name":"Taihape (New World)","lat":-39.676491,"lng":175.799304,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:7176620025","source":"openstreetmap","category":"ev-charger","name":"PAK'nSAVE Kilbirnie","lat":-41.31844,"lng":174.797156,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:7232096256","source":"openstreetmap","category":"ev-charger","name":"Tesla Destination Charger","lat":-36.722232,"lng":174.706016,"tags":{"access":"customers","operator":"Mitre 10 | Tesla"}}
+{"id":"osm:node:7574836046","source":"openstreetmap","category":"ev-charger","lat":-39.925889,"lng":175.039927,"tags":{"access":"customers","operator":"ChargeNet NZ"}}
+{"id":"osm:node:7611966930","source":"openstreetmap","category":"ev-charger","lat":-43.525779,"lng":172.585883,"tags":{"opening_hours":"24/7","access":"yes","operator":"EVlink"}}
+{"id":"osm:node:7631479679","source":"openstreetmap","category":"ev-charger","name":"Silverstream (New World)","lat":-41.14851,"lng":175.012594,"tags":{"opening_hours":"24/7","operator":"ChargeNet NZ","addr:postcode":"5019","addr:suburb":"Silverstream","addr:city":"Upper Hutt"}}
+{"id":"osm:node:7639604464","source":"openstreetmap","category":"ev-charger","name":"Takanini (Pak'nSave) Charging Station","lat":-37.053546,"lng":174.931965,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:7743754037","source":"openstreetmap","category":"ev-charger","lat":-40.987389,"lng":174.951535,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:7759750014","source":"openstreetmap","category":"ev-charger","name":"EV Charging","lat":-41.09488,"lng":174.868971,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:7785812920","source":"openstreetmap","category":"ev-charger","name":"Grey Street","lat":-41.284584,"lng":174.776095,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:7795659340","source":"openstreetmap","category":"ev-charger","lat":-36.41931,"lng":174.723601}
+{"id":"osm:node:7839514761","source":"openstreetmap","category":"ev-charger","name":"charge.net.nz Pak'nSave Petone","lat":-41.2238,"lng":174.873,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:7839514762","source":"openstreetmap","category":"ev-charger","name":"The Warehouse Petone EV Charger","lat":-41.224253,"lng":174.870989,"tags":{"access":"customers","operator":"The Warehouse"}}
+{"id":"osm:node:7863178507","source":"openstreetmap","category":"ev-charger","name":"Nelson (New World)","lat":-41.275832,"lng":173.277348,"tags":{"website":"https://www.plugshare.com/location/159618","operator":"ChargeNet NZ"}}
+{"id":"osm:node:7867078702","source":"openstreetmap","category":"ev-charger","name":"EV Charging","lat":-40.228038,"lng":175.569544,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:7867078703","source":"openstreetmap","category":"ev-charger","name":"EV Charging","lat":-40.471648,"lng":175.281138,"tags":{"access":"yes","operator":"charge.net.nz"}}
+{"id":"osm:node:7867078708","source":"openstreetmap","category":"ev-charger","name":"EV Charging","lat":-40.5469,"lng":175.410707,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:7867078709","source":"openstreetmap","category":"ev-charger","lat":-40.62326,"lng":175.283641,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:7867078712","source":"openstreetmap","category":"ev-charger","name":"EV Charging","lat":-40.91881,"lng":174.981668,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:7867078713","source":"openstreetmap","category":"ev-charger","name":"EV Charging","lat":-41.202827,"lng":174.8085,"tags":{"access":"yes","operator":"charge.net.nz"}}
+{"id":"osm:node:7867078714","source":"openstreetmap","category":"ev-charger","lat":-41.211426,"lng":174.904414,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:7867078715","source":"openstreetmap","category":"ev-charger","name":"EV Charging","lat":-41.211597,"lng":174.905058,"tags":{"opening_hours":"Mo-Fr 00:00-07:00, 17:00-00:00;PH 00:00-00:00;Sa-Su 00:00-00:00","access":"permissive","operator":"Hutt CIty Council"}}
+{"id":"osm:node:7881995957","source":"openstreetmap","category":"ev-charger","name":"Moore Wilson's","lat":-41.295717,"lng":174.780581,"tags":{"operator":"Thundergrid"}}
+{"id":"osm:node:7882141914","source":"openstreetmap","category":"ev-charger","name":"Barnett Street","lat":-41.291426,"lng":174.782862,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:7882148392","source":"openstreetmap","category":"ev-charger","name":"Bond Street","lat":-41.289604,"lng":174.776204,"tags":{"access":"yes","operator":"ChargeNet NZ","description":"charge.net.nz account and key fob required - no charge / payment required. 2 x 22kW Type 2 sockets, BYO cable"}}
+{"id":"osm:node:7949573137","source":"openstreetmap","category":"ev-charger","lat":-41.283812,"lng":174.778528}
+{"id":"osm:node:7983535974","source":"openstreetmap","category":"ev-charger","name":"Manukau Charging Station","lat":-36.988058,"lng":174.879339,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:8079002683","source":"openstreetmap","category":"ev-charger","name":"Bulls Te Matapihi (Community Centre)","lat":-40.175325,"lng":175.385922,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:8163524634","source":"openstreetmap","category":"ev-charger","lat":-36.83204,"lng":174.795796,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:8219422819","source":"openstreetmap","category":"ev-charger","lat":-36.844569,"lng":174.756069,"tags":{"access":"no","operator":"Kinetic"}}
+{"id":"osm:node:8294825426","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-35.72528,"lng":174.318622,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/whangareisupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla, Inc."}}
+{"id":"osm:node:8313610080","source":"openstreetmap","category":"ev-charger","name":"Drive EV","lat":-38.689096,"lng":176.072415,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:8313645121","source":"openstreetmap","category":"ev-charger","name":"Taupo Supercharger","lat":-38.69262,"lng":176.076025,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/tauposupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:8359908028","source":"openstreetmap","category":"ev-charger","lat":-37.622877,"lng":175.203614}
+{"id":"osm:node:8474121319","source":"openstreetmap","category":"ev-charger","lat":-43.32439,"lng":172.598748,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:8474121320","source":"openstreetmap","category":"ev-charger","name":"Thames Library","lat":-37.139184,"lng":175.543118,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:8474121321","source":"openstreetmap","category":"ev-charger","name":"Morrinsville (New World)","lat":-37.660058,"lng":175.522016,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ","addr:suburb":"Morrinsville"}}
+{"id":"osm:node:8474125717","source":"openstreetmap","category":"ev-charger","lat":-37.393218,"lng":175.838902,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:8474125817","source":"openstreetmap","category":"ev-charger","lat":-36.897926,"lng":174.853955}
+{"id":"osm:node:8474149817","source":"openstreetmap","category":"ev-charger","name":"Victoria Park and Rangiora Library","lat":-43.304918,"lng":172.593299,"tags":{"access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:8526647109","source":"openstreetmap","category":"ev-charger","lat":-41.799555,"lng":172.325406,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:8526795689","source":"openstreetmap","category":"ev-charger","lat":-42.716815,"lng":170.963144,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:8826249917","source":"openstreetmap","category":"ev-charger","lat":-36.811521,"lng":174.712707}
+{"id":"osm:node:8863135595","source":"openstreetmap","category":"ev-charger","name":"Te Araroa Electric Vehicle Charging Station","lat":-37.633806,"lng":178.369265}
+{"id":"osm:node:8926640121","source":"openstreetmap","category":"ev-charger","name":"Locky Dock E-Bike Charger Ghuznee Street","lat":-41.292098,"lng":174.772876}
+{"id":"osm:node:8972707389","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-41.225012,"lng":174.808205,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/wellingtonsupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:node:9006315211","source":"openstreetmap","category":"ev-charger","lat":-41.222971,"lng":174.804219,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:9163422890","source":"openstreetmap","category":"ev-charger","lat":-36.844524,"lng":174.754248}
+{"id":"osm:node:9239022620","source":"openstreetmap","category":"ev-charger","lat":-36.793026,"lng":175.025431}
+{"id":"osm:node:9357906333","source":"openstreetmap","category":"ev-charger","lat":-45.878909,"lng":170.50329,"tags":{"opening_hours":"24/7","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9378043982","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-43.526395,"lng":172.629006,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/christchurchnzsupercharger","opening_hours":"24/7","access":"permissive","operator":"Tesla"}}
+{"id":"osm:node:9391453962","source":"openstreetmap","category":"ev-charger","lat":-43.489847,"lng":172.540992}
+{"id":"osm:node:9395942419","source":"openstreetmap","category":"ev-charger","lat":-42.522318,"lng":172.828352}
+{"id":"osm:node:9398203235","source":"openstreetmap","category":"ev-charger","lat":-43.526243,"lng":172.570729,"tags":{"operator":"Orion"}}
+{"id":"osm:node:9398203236","source":"openstreetmap","category":"ev-charger","lat":-43.526285,"lng":172.570703,"tags":{"opening_hours":"24/7","access":"yes","operator":"Orion"}}
+{"id":"osm:node:9408262681","source":"openstreetmap","category":"ev-charger","lat":-43.522539,"lng":172.584027}
+{"id":"osm:node:9408262682","source":"openstreetmap","category":"ev-charger","lat":-43.522564,"lng":172.584082}
+{"id":"osm:node:9419518720","source":"openstreetmap","category":"ev-charger","lat":-43.511853,"lng":172.692963,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9435887191","source":"openstreetmap","category":"ev-charger","lat":-43.525937,"lng":172.637749}
+{"id":"osm:node:9438369010","source":"openstreetmap","category":"ev-charger","lat":-43.48991,"lng":172.602199}
+{"id":"osm:node:9438369011","source":"openstreetmap","category":"ev-charger","lat":-43.490252,"lng":172.602869}
+{"id":"osm:node:9438369012","source":"openstreetmap","category":"ev-charger","lat":-43.490349,"lng":172.601893,"tags":{"access":"yes"}}
+{"id":"osm:node:9438369013","source":"openstreetmap","category":"ev-charger","lat":-43.490289,"lng":172.601678}
+{"id":"osm:node:9438369014","source":"openstreetmap","category":"ev-charger","lat":-43.489858,"lng":172.603253}
+{"id":"osm:node:9438615827","source":"openstreetmap","category":"ev-charger","lat":-43.543381,"lng":172.523556}
+{"id":"osm:node:9438615828","source":"openstreetmap","category":"ev-charger","lat":-43.543377,"lng":172.523617}
+{"id":"osm:node:9438615829","source":"openstreetmap","category":"ev-charger","lat":-43.543372,"lng":172.523675}
+{"id":"osm:node:9440685041","source":"openstreetmap","category":"ev-charger","name":"I-SITE VISITOR PARKING, Mangateitei Terrace,Ohakune","lat":-39.418353,"lng":175.398389,"tags":{"opening_hours":"24/7","access":"yes","operator":"OpenLoop"}}
+{"id":"osm:node:9441256042","source":"openstreetmap","category":"ev-charger","lat":-43.58116,"lng":172.513637}
+{"id":"osm:node:9443650730","source":"openstreetmap","category":"ev-charger","name":"Bombay HPC Charging Station","lat":-37.19275,"lng":174.983627,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:9443654584","source":"openstreetmap","category":"ev-charger","lat":-43.490174,"lng":172.601955}
+{"id":"osm:node:9443669922","source":"openstreetmap","category":"ev-charger","name":"Ronwood Avenue Carpark Charging Station","lat":-36.990904,"lng":174.87783,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:9443669923","source":"openstreetmap","category":"ev-charger","name":"Due Drop Events Centre Charging Station","lat":-36.998978,"lng":174.88691,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:9451928334","source":"openstreetmap","category":"ev-charger","name":"Waiata Shores (Woolworths) Charging Station","lat":-37.035628,"lng":174.907004}
+{"id":"osm:node:9487563713","source":"openstreetmap","category":"ev-charger","name":"Tesla Destination Charger","lat":-36.912137,"lng":174.688051,"tags":{"operator":"Tesla, Inc."}}
+{"id":"osm:node:9555470867","source":"openstreetmap","category":"ev-charger","lat":-43.53924,"lng":172.607548,"tags":{"operator":"Meridian Energy"}}
+{"id":"osm:node:9555470874","source":"openstreetmap","category":"ev-charger","lat":-43.540334,"lng":172.604637,"tags":{"access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:9593164568","source":"openstreetmap","category":"ev-charger","name":"Holloway Road","lat":-41.294972,"lng":174.758595,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9767165706","source":"openstreetmap","category":"ev-charger","lat":-35.226693,"lng":173.951057}
+{"id":"osm:node:9767165707","source":"openstreetmap","category":"ev-charger","lat":-35.226713,"lng":173.951045}
+{"id":"osm:node:9767165708","source":"openstreetmap","category":"ev-charger","lat":-35.226732,"lng":173.951028}
+{"id":"osm:node:9780850250","source":"openstreetmap","category":"ev-charger","lat":-44.733139,"lng":170.470646}
+{"id":"osm:node:9787663378","source":"openstreetmap","category":"ev-charger","lat":-37.737999,"lng":176.103827,"tags":{"access":"yes"}}
+{"id":"osm:node:9787663383","source":"openstreetmap","category":"ev-charger","lat":-37.673364,"lng":176.222819,"tags":{"access":"yes","operator":"Bayfair"}}
+{"id":"osm:node:9808919401","source":"openstreetmap","category":"ev-charger","name":"Wellington Harbour Ferry Electric Charger","lat":-41.28409,"lng":174.779175,"tags":{"access":"private","description":"2 plugs but capacity=1, because the boat needs both port and starboard batteries charged at the same time"}}
+{"id":"osm:node:9826466651","source":"openstreetmap","category":"ev-charger","name":"Amble + Birch Charging Station","lat":-36.995003,"lng":174.86627,"tags":{"opening_hours":"24/7","access":"yes","operator":"Goodman Property Services (NZ) Ltd"}}
+{"id":"osm:node:9826881384","source":"openstreetmap","category":"ev-charger","name":"Rotorua (Skyline Gondola)","lat":-38.110622,"lng":176.223333,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9833041473","source":"openstreetmap","category":"ev-charger","lat":-37.737164,"lng":176.106737,"tags":{"access":"yes"}}
+{"id":"osm:node:9847304464","source":"openstreetmap","category":"ev-charger","name":"3 Orari Station Rd","lat":-44.137317,"lng":171.297195,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9847531454","source":"openstreetmap","category":"ev-charger","name":"Te Puia Southern Carpark","lat":-38.16489,"lng":176.247608,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9847589301","source":"openstreetmap","category":"ev-charger","name":"Taupo HPC","lat":-38.69005,"lng":176.072361,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9847589302","source":"openstreetmap","category":"ev-charger","name":"Drive EV AC Chargers","lat":-38.689013,"lng":176.072431,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9849581589","source":"openstreetmap","category":"ev-charger","name":"Kaikoura New World","lat":-42.388007,"lng":173.679513,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9859794026","source":"openstreetmap","category":"ev-charger","name":"Bayfair","lat":-37.674938,"lng":176.224303,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9859794027","source":"openstreetmap","category":"ev-charger","name":"Bayfair","lat":-37.674931,"lng":176.224293,"tags":{"access":"yes","operator":"Bayfair"}}
+{"id":"osm:node:9859794028","source":"openstreetmap","category":"ev-charger","lat":-37.674924,"lng":176.224285,"tags":{"access":"yes","operator":"Bayfair"}}
+{"id":"osm:node:9859794082","source":"openstreetmap","category":"ev-charger","name":"Farmer Autovillage","lat":-37.665039,"lng":176.19702,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9859794083","source":"openstreetmap","category":"ev-charger","name":"New World","lat":-37.653773,"lng":176.198627,"tags":{"access":"customers","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9863261709","source":"openstreetmap","category":"ev-charger","name":"PAK'nSAVE","lat":-37.695642,"lng":176.161392,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9863261710","source":"openstreetmap","category":"ev-charger","lat":-37.696453,"lng":176.160279,"tags":{"access":"yes","operator":"Chargefox"}}
+{"id":"osm:node:9863329207","source":"openstreetmap","category":"ev-charger","name":"SKIN Dermatology Institute, Tauranga Specialist Centre","lat":-37.705118,"lng":176.153245,"tags":{"access":"customers"}}
+{"id":"osm:node:9863329216","source":"openstreetmap","category":"ev-charger","name":"Durham St Car Park Garage","lat":-37.685035,"lng":176.167645,"tags":{"access":"customers"}}
+{"id":"osm:node:9863335917","source":"openstreetmap","category":"ev-charger","name":"Elizabeth St Car Park Garage","lat":-37.687498,"lng":176.167668,"tags":{"access":"customers"}}
+{"id":"osm:node:9867203501","source":"openstreetmap","category":"ev-charger","name":"Kaiwaka HPC (Gull)","lat":-36.163806,"lng":174.443555,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9867614972","source":"openstreetmap","category":"ev-charger","name":"New Plymouth (New World)","lat":-39.057844,"lng":174.077737,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9869691250","source":"openstreetmap","category":"ev-charger","name":"Z Rolleston","lat":-43.591696,"lng":172.376749,"tags":{"access":"yes","operator":"Z Energy"}}
+{"id":"osm:node:9873843388","source":"openstreetmap","category":"ev-charger","name":"Springfield (SH 73)","lat":-43.337836,"lng":171.928905,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:9880011556","source":"openstreetmap","category":"ev-charger","name":"Seaview Marina","lat":-41.24777,"lng":174.90316,"tags":{"access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:node:9891053200","source":"openstreetmap","category":"ev-charger","name":"Halswell","lat":-43.579837,"lng":172.564882,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9892962751","source":"openstreetmap","category":"ev-charger","name":"Eastridge (New World)","lat":-36.860808,"lng":174.828367,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:9911059127","source":"openstreetmap","category":"ev-charger","name":"Hikotron at Waikato Innovation Park","lat":-37.778129,"lng":175.307985,"tags":{"access":"yes","operator":"Hikotron"}}
+{"id":"osm:node:9914233423","source":"openstreetmap","category":"ev-charger","name":"Tirau (Station St Carpark)","lat":-37.978147,"lng":175.758559,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9914233429","source":"openstreetmap","category":"ev-charger","name":"Matamata (New World)","lat":-37.803764,"lng":175.769967,"tags":{"operator":"ChargeNet NZ"}}
+{"id":"osm:node:9920138361","source":"openstreetmap","category":"ev-charger","name":"Mangaweka (The Dukes Roadhouse)","lat":-39.809714,"lng":175.788318,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9920395563","source":"openstreetmap","category":"ev-charger","name":"Te Puke (New World)","lat":-37.783501,"lng":176.327296,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9920476888","source":"openstreetmap","category":"ev-charger","name":"Hikotron at Matangi Factory","lat":-37.805251,"lng":175.396786,"tags":{"access":"yes","operator":"Hikotron"}}
+{"id":"osm:node:9922180703","source":"openstreetmap","category":"ev-charger","lat":-37.690421,"lng":176.239284}
+{"id":"osm:node:9922180704","source":"openstreetmap","category":"ev-charger","lat":-37.690444,"lng":176.239333}
+{"id":"osm:node:9922180705","source":"openstreetmap","category":"ev-charger","lat":-37.690468,"lng":176.239383}
+{"id":"osm:node:9931567730","source":"openstreetmap","category":"ev-charger","name":"Hikotron at Duke Street Car Park Cambridge","lat":-37.894002,"lng":175.471435,"tags":{"access":"yes","operator":"Hikotron"}}
+{"id":"osm:node:9938245456","source":"openstreetmap","category":"ev-charger","name":"Tesla Destination Charger","lat":-37.737131,"lng":176.106817,"tags":{"access":"customers"}}
+{"id":"osm:node:9941787739","source":"openstreetmap","category":"ev-charger","name":"Hikotron at Events Centre Car Park","lat":-38.008125,"lng":175.324988,"tags":{"access":"yes","operator":"Hikotron","addr:postcode":"3800"}}
+{"id":"osm:node:9952325355","source":"openstreetmap","category":"ev-charger","name":"Tesla Destination Charger","lat":-37.681115,"lng":176.168415}
+{"id":"osm:node:9954015822","source":"openstreetmap","category":"ev-charger","name":"Kawerau (New World)","lat":-38.085195,"lng":176.701719,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9954263962","source":"openstreetmap","category":"ev-charger","name":"Opotiki i-SITE","lat":-38.012532,"lng":177.283451,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9954318039","source":"openstreetmap","category":"ev-charger","name":"Matawai (Matawai Rd)","lat":-38.35723,"lng":177.535093,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9954349921","source":"openstreetmap","category":"ev-charger","lat":-39.425205,"lng":176.86955,"tags":{"operator":"BP"}}
+{"id":"osm:node:9956395667","source":"openstreetmap","category":"ev-charger","lat":-38.667624,"lng":178.027763,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9956479123","source":"openstreetmap","category":"ev-charger","name":"Gisborne (The Warehouse)","lat":-38.670839,"lng":178.025453,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9956497288","source":"openstreetmap","category":"ev-charger","name":"Countdown Gisborne","lat":-38.661209,"lng":178.018161,"tags":{"access":"yes"}}
+{"id":"osm:node:9956525256","source":"openstreetmap","category":"ev-charger","name":"McVicar Road (Napier-Taupo Highway)","lat":-39.174714,"lng":176.625762,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9960977573","source":"openstreetmap","category":"ev-charger","lat":-38.698216,"lng":174.619237,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9965499061","source":"openstreetmap","category":"ev-charger","name":"Waitomo Mystery Creek Fuel Stop","lat":-37.876706,"lng":175.324559,"tags":{"opening_hours":"24/7","access":"yes","operator":"OpenLoop","addr:postcode":"3282"}}
+{"id":"osm:node:9966813322","source":"openstreetmap","category":"ev-charger","name":"Countdown Pokeno","lat":-37.245528,"lng":175.023011,"tags":{"access":"yes"}}
+{"id":"osm:node:9966813365","source":"openstreetmap","category":"ev-charger","name":"Market St Parking Lot","lat":-37.245536,"lng":175.021035,"tags":{"opening_hours":"24/7","access":"yes","operator":"OpenLoop"}}
+{"id":"osm:node:9967036905","source":"openstreetmap","category":"ev-charger","name":"Hampton Downs Motorsport Park","lat":-37.354739,"lng":175.080527,"tags":{"opening_hours":"24/7","access":"yes","operator":"OpenLoop"}}
+{"id":"osm:node:9971886850","source":"openstreetmap","category":"ev-charger","name":"Te Kauwhata","lat":-37.412591,"lng":175.127427,"tags":{"opening_hours":"24/7","access":"yes","operator":"OpenLoop","addr:postcode":"3782"}}
+{"id":"osm:node:9976962546","source":"openstreetmap","category":"ev-charger","name":"Hetherington Road Car Park","lat":-37.203672,"lng":175.873843,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9977019619","source":"openstreetmap","category":"ev-charger","name":"Tokoroa Rd Parking/Charging","lat":-37.000834,"lng":175.850204,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9979405504","source":"openstreetmap","category":"ev-charger","name":"Coromandel (Woollams Ave Carpark)","lat":-36.759007,"lng":175.498734,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9979529556","source":"openstreetmap","category":"ev-charger","name":"Whitianga (Lee Street Carpark)","lat":-36.834517,"lng":175.703745,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ","addr:city":"Whitianga"}}
+{"id":"osm:node:9981314209","source":"openstreetmap","category":"ev-charger","name":"Raglan (Town Hall Public Car Park)","lat":-37.80033,"lng":174.870307,"tags":{"opening_hours":"24/7","access":"yes","operator":"OpenLoop","addr:suburb":"Raglan"}}
+{"id":"osm:node:9984621644","source":"openstreetmap","category":"ev-charger","name":"Pirongia (Four Square)","lat":-37.991637,"lng":175.200305,"tags":{"opening_hours":"24/7","access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:node:9984698326","source":"openstreetmap","category":"ev-charger","name":"Otorohanga (Bell Lane)","lat":-38.186327,"lng":175.212193,"tags":{"opening_hours":"24/7","access":"yes","operator":"OpenLoop"}}
+{"id":"osm:node:9996408294","source":"openstreetmap","category":"ev-charger","name":"Pukeiti","lat":-39.201253,"lng":173.980847,"tags":{"access":"yes"}}
+{"id":"osm:way:1016765579","source":"openstreetmap","category":"ev-charger","name":"Z","lat":-36.810039,"lng":174.738065,"tags":{"access":"yes","operator":"Z Energy"}}
+{"id":"osm:way:1052336221","source":"openstreetmap","category":"ev-charger","lat":-43.491514,"lng":172.706668,"tags":{"operator":"Orion"}}
+{"id":"osm:way:1063194322","source":"openstreetmap","category":"ev-charger","lat":-41.334857,"lng":174.772597,"tags":{"access":"yes"}}
+{"id":"osm:way:1077884632","source":"openstreetmap","category":"ev-charger","lat":-36.842899,"lng":174.77556,"tags":{"access":"no","operator":"Ports of Auckland","description":"charging station for Sparky (the electric tugboat)"}}
+{"id":"osm:way:1092727383","source":"openstreetmap","category":"ev-charger","name":"Ward (Flaxbourne Cafe)","lat":-41.829052,"lng":174.13088,"tags":{"opening_hours":"24/7","operator":"ChargeNet NZ","addr:suburb":"Ward"}}
+{"id":"osm:way:1124925919","source":"openstreetmap","category":"ev-charger","lat":-41.278218,"lng":174.779492,"tags":{"access":"private","operator":"Metlink"}}
+{"id":"osm:way:1124925921","source":"openstreetmap","category":"ev-charger","lat":-41.278156,"lng":174.77962,"tags":{"access":"no"}}
+{"id":"osm:way:1125321243","source":"openstreetmap","category":"ev-charger","lat":-41.343161,"lng":174.77078,"tags":{"access":"private","operator":"Metlink"}}
+{"id":"osm:way:1241226937","source":"openstreetmap","category":"ev-charger","name":"Zero Timaru Richard Pearse Airport","lat":-44.303664,"lng":171.225128,"tags":{"access":"yes","operator":"Meridian Energy"}}
+{"id":"osm:way:1266702084","source":"openstreetmap","category":"ev-charger","lat":-39.641366,"lng":176.843415}
+{"id":"osm:way:1273012203","source":"openstreetmap","category":"ev-charger","lat":-43.524607,"lng":172.667975}
+{"id":"osm:way:1309971181","source":"openstreetmap","category":"ev-charger","lat":-36.905754,"lng":174.686487,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:way:1309971775","source":"openstreetmap","category":"ev-charger","name":"JOLT Charging Station","lat":-36.911263,"lng":174.68865,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:way:1315212863","source":"openstreetmap","category":"ev-charger","name":"JOLT Charging Station","lat":-36.915043,"lng":174.756111,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:way:1315823588","source":"openstreetmap","category":"ev-charger","name":"JOLT Charging Station","lat":-36.843106,"lng":174.65246,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:way:1315824519","source":"openstreetmap","category":"ev-charger","name":"Z","lat":-36.852384,"lng":174.650356,"tags":{"access":"yes","operator":"Z Energy"}}
+{"id":"osm:way:1317989199","source":"openstreetmap","category":"ev-charger","name":"Z","lat":-36.900307,"lng":174.653138,"tags":{"access":"yes","operator":"Z Energy"}}
+{"id":"osm:way:1319610580","source":"openstreetmap","category":"ev-charger","name":"BP Charge","lat":-36.408921,"lng":174.659803,"tags":{"access":"yes","operator":"BP"}}
+{"id":"osm:way:1347702855","source":"openstreetmap","category":"ev-charger","name":"Blenheim Supercharger","lat":-41.513032,"lng":173.960045,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/blenheimsupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:way:1349462503","source":"openstreetmap","category":"ev-charger","lat":-36.768828,"lng":174.739644,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:way:1349463899","source":"openstreetmap","category":"ev-charger","lat":-36.770017,"lng":174.736599,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:way:1353895866","source":"openstreetmap","category":"ev-charger","lat":-43.623336,"lng":171.648252,"tags":{"operator":"Meridian Energy"}}
+{"id":"osm:way:1358977474","source":"openstreetmap","category":"ev-charger","lat":-36.810272,"lng":174.737266,"tags":{"access":"yes","operator":"Jolt"}}
+{"id":"osm:way:1456854482","source":"openstreetmap","category":"ev-charger","lat":-40.949979,"lng":175.658183,"tags":{"operator":"Z Energy"}}
+{"id":"osm:way:1466394153","source":"openstreetmap","category":"ev-charger","lat":-43.537407,"lng":172.676805}
+{"id":"osm:way:1475156852","source":"openstreetmap","category":"ev-charger","name":"ChargeNet","lat":-36.934346,"lng":174.914671,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:way:1475156853","source":"openstreetmap","category":"ev-charger","name":"Botany Supercharger","lat":-36.934817,"lng":174.914537,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/31691","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:way:1493887082","source":"openstreetmap","category":"ev-charger","name":"Tesla Supercharger","lat":-44.354576,"lng":171.239014,"tags":{"website":"https://www.tesla.com/findus/location/supercharger/geraldinenzsupercharger","opening_hours":"24/7","access":"yes","operator":"Tesla"}}
+{"id":"osm:way:1504867054","source":"openstreetmap","category":"ev-charger","lat":-36.730518,"lng":174.706902}
+{"id":"osm:way:1504867055","source":"openstreetmap","category":"ev-charger","lat":-36.730485,"lng":174.706927}
+{"id":"osm:way:1504867056","source":"openstreetmap","category":"ev-charger","lat":-36.730453,"lng":174.706949}
+{"id":"osm:way:1504867057","source":"openstreetmap","category":"ev-charger","lat":-36.730421,"lng":174.706971}
+{"id":"osm:way:1504867058","source":"openstreetmap","category":"ev-charger","lat":-36.730391,"lng":174.706994}
+{"id":"osm:way:1518758688","source":"openstreetmap","category":"ev-charger","lat":-43.507805,"lng":172.662663,"tags":{"operator":"Z Energy"}}
+{"id":"osm:way:1525690834","source":"openstreetmap","category":"ev-charger","lat":-38.140375,"lng":176.247332}
+{"id":"osm:way:1530787940","source":"openstreetmap","category":"ev-charger","lat":-43.335448,"lng":172.597022,"tags":{"access":"private"}}
+{"id":"osm:way:1530787941","source":"openstreetmap","category":"ev-charger","lat":-43.335436,"lng":172.596907,"tags":{"access":"private"}}
+{"id":"osm:way:1534074762","source":"openstreetmap","category":"ev-charger","name":"ChargeNet Waverley","lat":-39.763137,"lng":174.635566,"tags":{"access":"yes","operator":"ChargeNet NZ"}}
+{"id":"osm:way:1534074935","source":"openstreetmap","category":"ev-charger","name":"Z Energy (Hawera)","lat":-39.593588,"lng":174.281538,"tags":{"operator":"Z Energy"}}
+{"id":"osm:way:624966058","source":"openstreetmap","category":"ev-charger","lat":-41.222917,"lng":174.869252,"tags":{"access":"yes","operator":"Z Energy"}}
+{"id":"osm:way:746583025","source":"openstreetmap","category":"ev-charger","name":"Customer and employee destination charging","lat":-41.271588,"lng":173.293594,"tags":{"access":"customers","operator":"Cawthron Institute","description":"AC Destination charger, 22kW over two sockets."}}
+{"id":"osm:way:972217585","source":"openstreetmap","category":"ev-charger","lat":-41.512838,"lng":173.960021,"tags":{"access":"yes","operator":"ChargeNet NZ"}}

@@ -1,90 +1,87 @@
-{"id":"osm:node:11458667970","category":"dog-park","name":"Parkavon Kennels","lat":-43.441815,"lng":172.65654,"tags":{"website":"https://www.parkavonkennels.co.nz/"}}
-{"id":"osm:node:11890637314","category":"dog-park","lat":-38.00932,"lng":174.816327,"tags":{"opening_hours":"24/7"}}
-{"id":"osm:node:13115488901","category":"dog-park","name":"McHughs Forest Dog Park","lat":-43.476349,"lng":172.098827}
-{"id":"osm:node:1907720457","category":"dog-park","lat":-40.613402,"lng":175.265304}
-{"id":"osm:node:3285561034","category":"dog-park","lat":-36.885338,"lng":174.827165}
-{"id":"osm:node:4840649222","category":"dog-park","name":"Grasslees Dog Park","lat":-41.164254,"lng":174.8279}
-{"id":"osm:node:9354466661","category":"dog-park","lat":-43.552564,"lng":172.682054,"tags":{"access":"yes","description":"Dog agility area"}}
-{"id":"osm:relation:18858938","category":"dog-park","lat":-38.152108,"lng":176.270436,"tags":{"access":"yes"}}
-{"id":"osm:relation:4483214","category":"dog-park","name":"Waiatarua Reserve","lat":-36.88309,"lng":174.826216,"tags":{"wheelchair":"limited"}}
-{"id":"osm:way:100414262","category":"dog-park","lat":-43.586069,"lng":172.641214}
-{"id":"osm:way:1006861636","category":"dog-park","lat":-36.893204,"lng":174.623281,"tags":{"opening_hours":"24/7"}}
-{"id":"osm:way:1009499980","category":"dog-park","name":"Auranga Dog Park","lat":-37.098753,"lng":174.940881}
-{"id":"osm:way:1119092250","category":"dog-park","lat":-43.599792,"lng":172.5176,"tags":{"access":"yes","operator":"Selwyn District Council"}}
-{"id":"osm:way:1148729401","category":"dog-park","name":"Kainui Reserve Dog Exercise Area","lat":-41.304293,"lng":174.801234,"tags":{"wheelchair":"yes"}}
-{"id":"osm:way:1165038378","category":"dog-park","lat":-43.441578,"lng":172.615522,"tags":{"access":"yes"}}
-{"id":"osm:way:1165277380","category":"dog-park","lat":-43.440311,"lng":172.617268,"tags":{"access":"yes"}}
-{"id":"osm:way:1165277381","category":"dog-park","lat":-43.439462,"lng":172.617615,"tags":{"access":"yes"}}
-{"id":"osm:way:1165277382","category":"dog-park","lat":-43.438711,"lng":172.619187,"tags":{"access":"yes"}}
-{"id":"osm:way:1165277383","category":"dog-park","lat":-43.436752,"lng":172.622473,"tags":{"access":"yes"}}
-{"id":"osm:way:1181223308","category":"dog-park","name":"Small Dog Park","lat":-43.60068,"lng":172.5176,"tags":{"access":"yes","operator":"Selwyn District Council"}}
-{"id":"osm:way:1205088199","category":"dog-park","lat":-39.547078,"lng":176.845355}
-{"id":"osm:way:1265893532","category":"dog-park","lat":-36.885824,"lng":174.69751}
-{"id":"osm:way:1322369919","category":"dog-park","name":"Leeston Dog Park","lat":-43.756798,"lng":172.308809}
-{"id":"osm:way:1340231618","category":"dog-park","name":"Milton Memorial Dog Park","lat":-43.287896,"lng":172.589895}
-{"id":"osm:way:1389905664","category":"dog-park","lat":-37.770556,"lng":175.248193}
-{"id":"osm:way:1413625776","category":"dog-park","lat":-41.31677,"lng":173.248682}
-{"id":"osm:way:1441584220","category":"dog-park","name":"Boom Rock Dogs - Nature Park","lat":-41.147092,"lng":174.84194,"tags":{"website":"https://www.boomrockdogs.co.nz/nature-park","access":"private"}}
-{"id":"osm:way:1457654516","category":"dog-park","lat":-43.493349,"lng":172.639029}
-{"id":"osm:way:1473586454","category":"dog-park","lat":-43.812314,"lng":172.958881}
-{"id":"osm:way:148283490","category":"dog-park","lat":-37.39441,"lng":175.836117}
-{"id":"osm:way:1489003792","category":"dog-park","name":"Hikoikoi Reserve Dog Park","lat":-41.23594,"lng":174.897042,"tags":{"website":"https://www.dogpackapp.com/parks/new-zealand/wellington/lower-hutt/hikoikoi-reserve","access":"yes","addr:postcode":"5012","addr:suburb":"Petone","addr:city":"Lower Hutt"}}
-{"id":"osm:way:1492984126","category":"dog-park","lat":-43.476131,"lng":172.099127}
-{"id":"osm:way:183080828","category":"dog-park","name":"Rotary Park","lat":-40.455881,"lng":175.846677}
-{"id":"osm:way:236979761","category":"dog-park","name":"Kew Park Dog Exercise Area","lat":-45.899258,"lng":170.484302,"tags":{"wheelchair":"yes"}}
-{"id":"osm:way:261306998","category":"dog-park","name":"Woof Woof Ruff","lat":-41.287406,"lng":174.771821}
-{"id":"osm:way:26639205","category":"dog-park","lat":-41.341908,"lng":174.77879}
-{"id":"osm:way:26639209","category":"dog-park","lat":-41.343084,"lng":174.772535,"tags":{"wheelchair":"yes","access":"yes","operator":"Wellington City Council"}}
-{"id":"osm:way:26742583","category":"dog-park","name":"Parade Ground","lat":-41.29915,"lng":174.736765}
-{"id":"osm:way:270764922","category":"dog-park","name":"Chelmsford Street Dog park","lat":-41.24975,"lng":174.771141}
-{"id":"osm:way:294937512","category":"dog-park","name":"Silverstream Road Dog Park, Huntleigh Park","lat":-41.252855,"lng":174.761416}
-{"id":"osm:way:295035668","category":"dog-park","name":"Izard Park Dog Area","lat":-41.264746,"lng":174.763319}
-{"id":"osm:way:302887272","category":"dog-park","lat":-39.573013,"lng":174.274202}
-{"id":"osm:way:30327611","category":"dog-park","name":"Taylor Terrace Dog Park","lat":-41.179747,"lng":174.826513}
-{"id":"osm:way:303740630","category":"dog-park","name":"Greytown Dog Park","lat":-41.088048,"lng":175.446346,"tags":{"access":"yes","operator":"South Wairarapa District Council"}}
-{"id":"osm:way:305658624","category":"dog-park","lat":-41.248505,"lng":174.773742,"tags":{"wheelchair":"yes"}}
-{"id":"osm:way:307378201","category":"dog-park","name":"Manuka Reserve Dog Park","lat":-36.777875,"lng":174.69961,"tags":{"description":"Large grassy area with a dog park on the western side. This is part of the larger Manuka Reserv, some of which is covered in trees, accessible via walkways from Manuka Road, Houston Place, and also via the Glenfield Coastal Walkway, which goes through it."}}
-{"id":"osm:way:38094775","category":"dog-park","name":"Styx Mill Conservation Reserve Dog Park","lat":-43.464273,"lng":172.600785,"tags":{"access":"yes"}}
-{"id":"osm:way:381878524","category":"dog-park","lat":-45.904093,"lng":170.421117}
-{"id":"osm:way:390004230","category":"dog-park","lat":-35.733986,"lng":174.342819}
-{"id":"osm:way:44068890","category":"dog-park","name":"Foster Dog Park","lat":-43.602159,"lng":172.387185,"tags":{"description":"Dog Exercise Area"}}
-{"id":"osm:way:463187794","category":"dog-park","name":"Ian Galloway Park dog exercise area","lat":-41.27883,"lng":174.755024}
-{"id":"osm:way:468912274","category":"dog-park","lat":-45.884642,"lng":170.546631}
-{"id":"osm:way:471331002","category":"dog-park","lat":-45.836849,"lng":170.557992}
-{"id":"osm:way:517832813","category":"dog-park","name":"Dog Park","lat":-44.007246,"lng":170.498363,"tags":{"opening_hours":"24/7"}}
-{"id":"osm:way:543058406","category":"dog-park","name":"Dog Exercise Park","lat":-38.21763,"lng":175.853359}
-{"id":"osm:way:577462520","category":"dog-park","name":"Willowbank Reserve Off Leash Dog Park","lat":-41.18381,"lng":174.82673}
-{"id":"osm:way:605190580","category":"dog-park","lat":-37.404693,"lng":175.148412}
-{"id":"osm:way:630779303","category":"dog-park","lat":-35.731782,"lng":174.336208}
-{"id":"osm:way:682625734","category":"dog-park","name":"Small Dog Agility Area","lat":-43.4462,"lng":172.612435,"tags":{"access":"yes"}}
-{"id":"osm:way:682626835","category":"dog-park","name":"Dog Exercise Area","lat":-43.445813,"lng":172.612616,"tags":{"access":"yes"}}
-{"id":"osm:way:682626999","category":"dog-park","name":"Large Dog Agility Area","lat":-43.444867,"lng":172.61326,"tags":{"access":"yes"}}
-{"id":"osm:way:682627549","category":"dog-park","name":"Dog Water Zone","lat":-43.446784,"lng":172.612673,"tags":{"access":"yes"}}
-{"id":"osm:way:682627639","category":"dog-park","lat":-43.445806,"lng":172.612217}
-{"id":"osm:way:682629520","category":"dog-park","lat":-43.443477,"lng":172.613825,"tags":{"access":"yes"}}
-{"id":"osm:way:708182342","category":"dog-park","name":"Dog exercise area","lat":-37.918323,"lng":175.472832}
-{"id":"osm:way:722863835","category":"dog-park","lat":-36.872562,"lng":174.763142}
-{"id":"osm:way:726610013","category":"dog-park","name":"Telephone Road Reserve","lat":-36.817722,"lng":174.727337}
-{"id":"osm:way:737776256","category":"dog-park","name":"Auckland Provincial German Shepherd Dog League","lat":-36.955145,"lng":174.794769}
-{"id":"osm:way:741592953","category":"dog-park","lat":-41.217047,"lng":173.34129}
-{"id":"osm:way:749138049","category":"dog-park","name":"Petone Beach Dog Exercise Zone","lat":-41.225197,"lng":174.862639}
-{"id":"osm:way:762146659","category":"dog-park","name":"Rawhiti Dog Park","lat":-43.502929,"lng":172.723452}
-{"id":"osm:way:827813985","category":"dog-park","name":"Meola Reef Dog Park","lat":-36.858729,"lng":174.710513,"tags":{"wheelchair":"limited"}}
-{"id":"osm:way:85355608","category":"dog-park","name":"Horseshoe Lake Dog Park","lat":-43.500474,"lng":172.670837}
-{"id":"osm:way:885047234","category":"dog-park","lat":-40.171874,"lng":175.523974,"tags":{"access":"private"}}
-{"id":"osm:way:898311927","category":"dog-park","name":"Kaiapoi Dog Park","lat":-43.385525,"lng":172.665108}
-{"id":"osm:way:901376111","category":"dog-park","lat":-36.817326,"lng":174.723047}
-{"id":"osm:way:901377104","category":"dog-park","lat":-36.816418,"lng":174.695806}
-{"id":"osm:way:911477174","category":"dog-park","lat":-36.773707,"lng":174.999966}
-{"id":"osm:way:914521473","category":"dog-park","lat":-40.384203,"lng":175.591998}
-{"id":"osm:way:923591421","category":"dog-park","name":"Otaki Dog Park","lat":-40.758017,"lng":175.135343}
-{"id":"osm:way:927959165","category":"dog-park","lat":-36.850758,"lng":174.741203,"tags":{"description":"Grassed area north of the walkway through Tole Park"}}
-{"id":"osm:way:945953396","category":"dog-park","name":"Plimmerton Dog Park","lat":-41.08008,"lng":174.868233,"tags":{"wheelchair":"limited"}}
-{"id":"osm:way:951850845","category":"dog-park","lat":-37.201044,"lng":174.914413}
-{"id":"osm:way:959614018","category":"dog-park","name":"Sanders Reserve Dog Park","lat":-36.768069,"lng":174.640297}
-{"id":"osm:way:965510401","category":"dog-park","lat":-36.794368,"lng":174.673569}
-{"id":"osm:way:984841899","category":"dog-park","lat":-40.893006,"lng":175.02718,"tags":{"access":"private"}}
-{"id":"osm:way:992335792","category":"dog-park","lat":-39.504396,"lng":176.855032}
-{"id":"osm:way:995993030","category":"dog-park","lat":-41.32861,"lng":174.78146,"tags":{"operator":"Wellington City Council"}}
-{"id":"osm:way:996209719","category":"dog-park","name":"Craigavon Agility Course","lat":-36.927424,"lng":174.691772,"tags":{"access":"yes"}}
-{"id":"osm:way:997319446","category":"dog-park","name":"Ascot Park Dog Exercise Area","lat":-41.118591,"lng":174.878721,"tags":{"operator":"Porirua City Council"}}
+{"id":"osm:node:11458667970","source":"openstreetmap","category":"dog-park","name":"Parkavon Kennels","lat":-43.441815,"lng":172.65654,"tags":{"website":"https://www.parkavonkennels.co.nz/"}}
+{"id":"osm:node:11890637314","source":"openstreetmap","category":"dog-park","lat":-38.00932,"lng":174.816327,"tags":{"opening_hours":"24/7"}}
+{"id":"osm:node:13115488901","source":"openstreetmap","category":"dog-park","name":"McHughs Forest Dog Park","lat":-43.476349,"lng":172.098827}
+{"id":"osm:node:1907720457","source":"openstreetmap","category":"dog-park","lat":-40.613402,"lng":175.265304}
+{"id":"osm:node:3285561034","source":"openstreetmap","category":"dog-park","lat":-36.885338,"lng":174.827165}
+{"id":"osm:node:4840649222","source":"openstreetmap","category":"dog-park","name":"Grasslees Dog Park","lat":-41.164254,"lng":174.8279}
+{"id":"osm:node:9354466661","source":"openstreetmap","category":"dog-park","lat":-43.552564,"lng":172.682054,"tags":{"access":"yes","description":"Dog agility area"}}
+{"id":"osm:relation:18858938","source":"openstreetmap","category":"dog-park","lat":-38.152108,"lng":176.270436,"tags":{"access":"yes"}}
+{"id":"osm:relation:4483214","source":"openstreetmap","category":"dog-park","name":"Waiatarua Reserve","lat":-36.88309,"lng":174.826216,"tags":{"wheelchair":"limited"}}
+{"id":"osm:way:100414262","source":"openstreetmap","category":"dog-park","lat":-43.586069,"lng":172.641214}
+{"id":"osm:way:1006861636","source":"openstreetmap","category":"dog-park","lat":-36.893204,"lng":174.623281,"tags":{"opening_hours":"24/7"}}
+{"id":"osm:way:1009499980","source":"openstreetmap","category":"dog-park","name":"Auranga Dog Park","lat":-37.098753,"lng":174.940881}
+{"id":"osm:way:1119092250","source":"openstreetmap","category":"dog-park","lat":-43.599792,"lng":172.5176,"tags":{"access":"yes","operator":"Selwyn District Council"}}
+{"id":"osm:way:1148729401","source":"openstreetmap","category":"dog-park","name":"Kainui Reserve Dog Exercise Area","lat":-41.304293,"lng":174.801234,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:1165038378","source":"openstreetmap","category":"dog-park","lat":-43.441578,"lng":172.615522,"tags":{"access":"yes"}}
+{"id":"osm:way:1165277380","source":"openstreetmap","category":"dog-park","lat":-43.440311,"lng":172.617268,"tags":{"access":"yes"}}
+{"id":"osm:way:1165277381","source":"openstreetmap","category":"dog-park","lat":-43.439462,"lng":172.617615,"tags":{"access":"yes"}}
+{"id":"osm:way:1165277382","source":"openstreetmap","category":"dog-park","lat":-43.438711,"lng":172.619187,"tags":{"access":"yes"}}
+{"id":"osm:way:1165277383","source":"openstreetmap","category":"dog-park","lat":-43.436752,"lng":172.622473,"tags":{"access":"yes"}}
+{"id":"osm:way:1181223308","source":"openstreetmap","category":"dog-park","name":"Small Dog Park","lat":-43.60068,"lng":172.5176,"tags":{"access":"yes","operator":"Selwyn District Council"}}
+{"id":"osm:way:1205088199","source":"openstreetmap","category":"dog-park","lat":-39.547078,"lng":176.845355}
+{"id":"osm:way:1265893532","source":"openstreetmap","category":"dog-park","lat":-36.885824,"lng":174.69751}
+{"id":"osm:way:1322369919","source":"openstreetmap","category":"dog-park","name":"Leeston Dog Park","lat":-43.756798,"lng":172.308809}
+{"id":"osm:way:1340231618","source":"openstreetmap","category":"dog-park","name":"Milton Memorial Dog Park","lat":-43.287896,"lng":172.589895}
+{"id":"osm:way:1389905664","source":"openstreetmap","category":"dog-park","lat":-37.770556,"lng":175.248193}
+{"id":"osm:way:1413625776","source":"openstreetmap","category":"dog-park","lat":-41.31677,"lng":173.248682}
+{"id":"osm:way:1441584220","source":"openstreetmap","category":"dog-park","name":"Boom Rock Dogs - Nature Park","lat":-41.147092,"lng":174.84194,"tags":{"website":"https://www.boomrockdogs.co.nz/nature-park","access":"private"}}
+{"id":"osm:way:1457654516","source":"openstreetmap","category":"dog-park","lat":-43.493349,"lng":172.639029}
+{"id":"osm:way:1473586454","source":"openstreetmap","category":"dog-park","lat":-43.812314,"lng":172.958881}
+{"id":"osm:way:148283490","source":"openstreetmap","category":"dog-park","lat":-37.39441,"lng":175.836117}
+{"id":"osm:way:1489003792","source":"openstreetmap","category":"dog-park","name":"Hikoikoi Reserve Dog Park","lat":-41.23594,"lng":174.897042,"tags":{"website":"https://www.dogpackapp.com/parks/new-zealand/wellington/lower-hutt/hikoikoi-reserve","access":"yes","addr:postcode":"5012","addr:suburb":"Petone","addr:city":"Lower Hutt"}}
+{"id":"osm:way:1492984126","source":"openstreetmap","category":"dog-park","lat":-43.476131,"lng":172.099127}
+{"id":"osm:way:183080828","source":"openstreetmap","category":"dog-park","name":"Rotary Park","lat":-40.455881,"lng":175.846677}
+{"id":"osm:way:236979761","source":"openstreetmap","category":"dog-park","name":"Kew Park Dog Exercise Area","lat":-45.899258,"lng":170.484302,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:261306998","source":"openstreetmap","category":"dog-park","name":"Woof Woof Ruff","lat":-41.287406,"lng":174.771821}
+{"id":"osm:way:26639205","source":"openstreetmap","category":"dog-park","lat":-41.341908,"lng":174.77879}
+{"id":"osm:way:26639209","source":"openstreetmap","category":"dog-park","lat":-41.343084,"lng":174.772535,"tags":{"wheelchair":"yes","access":"yes","operator":"Wellington City Council"}}
+{"id":"osm:way:26742583","source":"openstreetmap","category":"dog-park","name":"Parade Ground","lat":-41.29915,"lng":174.736765}
+{"id":"osm:way:270764922","source":"openstreetmap","category":"dog-park","name":"Chelmsford Street Dog park","lat":-41.24975,"lng":174.771141}
+{"id":"osm:way:294937512","source":"openstreetmap","category":"dog-park","name":"Silverstream Road Dog Park, Huntleigh Park","lat":-41.252855,"lng":174.761416}
+{"id":"osm:way:295035668","source":"openstreetmap","category":"dog-park","name":"Izard Park Dog Area","lat":-41.264746,"lng":174.763319}
+{"id":"osm:way:302887272","source":"openstreetmap","category":"dog-park","lat":-39.573013,"lng":174.274202}
+{"id":"osm:way:30327611","source":"openstreetmap","category":"dog-park","name":"Taylor Terrace Dog Park","lat":-41.179747,"lng":174.826513}
+{"id":"osm:way:303740630","source":"openstreetmap","category":"dog-park","name":"Greytown Dog Park","lat":-41.088048,"lng":175.446346,"tags":{"access":"yes","operator":"South Wairarapa District Council"}}
+{"id":"osm:way:305658624","source":"openstreetmap","category":"dog-park","lat":-41.248505,"lng":174.773742,"tags":{"wheelchair":"yes"}}
+{"id":"osm:way:307378201","source":"openstreetmap","category":"dog-park","name":"Manuka Reserve Dog Park","lat":-36.777875,"lng":174.69961,"tags":{"description":"Large grassy area with a dog park on the western side. This is part of the larger Manuka Reserv, some of which is covered in trees, accessible via walkways from Manuka Road, Houston Place, and also via the Glenfield Coastal Walkway, which goes through it."}}
+{"id":"osm:way:381878524","source":"openstreetmap","category":"dog-park","lat":-45.904093,"lng":170.421117}
+{"id":"osm:way:390004230","source":"openstreetmap","category":"dog-park","lat":-35.733986,"lng":174.342819}
+{"id":"osm:way:44068890","source":"openstreetmap","category":"dog-park","name":"Foster Dog Park","lat":-43.602159,"lng":172.387185,"tags":{"description":"Dog Exercise Area"}}
+{"id":"osm:way:468912274","source":"openstreetmap","category":"dog-park","lat":-45.884642,"lng":170.546631}
+{"id":"osm:way:471331002","source":"openstreetmap","category":"dog-park","lat":-45.836849,"lng":170.557992}
+{"id":"osm:way:517832813","source":"openstreetmap","category":"dog-park","name":"Dog Park","lat":-44.007246,"lng":170.498363,"tags":{"opening_hours":"24/7"}}
+{"id":"osm:way:543058406","source":"openstreetmap","category":"dog-park","name":"Dog Exercise Park","lat":-38.21763,"lng":175.853359}
+{"id":"osm:way:577462520","source":"openstreetmap","category":"dog-park","name":"Willowbank Reserve Off Leash Dog Park","lat":-41.18381,"lng":174.82673}
+{"id":"osm:way:605190580","source":"openstreetmap","category":"dog-park","lat":-37.404693,"lng":175.148412}
+{"id":"osm:way:630779303","source":"openstreetmap","category":"dog-park","lat":-35.731782,"lng":174.336208}
+{"id":"osm:way:682625734","source":"openstreetmap","category":"dog-park","name":"Small Dog Agility Area","lat":-43.4462,"lng":172.612435,"tags":{"access":"yes"}}
+{"id":"osm:way:682626835","source":"openstreetmap","category":"dog-park","name":"Dog Exercise Area","lat":-43.445813,"lng":172.612616,"tags":{"access":"yes"}}
+{"id":"osm:way:682626999","source":"openstreetmap","category":"dog-park","name":"Large Dog Agility Area","lat":-43.444867,"lng":172.61326,"tags":{"access":"yes"}}
+{"id":"osm:way:682627549","source":"openstreetmap","category":"dog-park","name":"Dog Water Zone","lat":-43.446784,"lng":172.612673,"tags":{"access":"yes"}}
+{"id":"osm:way:682627639","source":"openstreetmap","category":"dog-park","lat":-43.445806,"lng":172.612217}
+{"id":"osm:way:682629520","source":"openstreetmap","category":"dog-park","lat":-43.443477,"lng":172.613825,"tags":{"access":"yes"}}
+{"id":"osm:way:708182342","source":"openstreetmap","category":"dog-park","name":"Dog exercise area","lat":-37.918323,"lng":175.472832}
+{"id":"osm:way:722863835","source":"openstreetmap","category":"dog-park","lat":-36.872562,"lng":174.763142}
+{"id":"osm:way:726610013","source":"openstreetmap","category":"dog-park","name":"Telephone Road Reserve","lat":-36.817722,"lng":174.727337}
+{"id":"osm:way:737776256","source":"openstreetmap","category":"dog-park","name":"Auckland Provincial German Shepherd Dog League","lat":-36.955145,"lng":174.794769}
+{"id":"osm:way:741592953","source":"openstreetmap","category":"dog-park","lat":-41.217047,"lng":173.34129}
+{"id":"osm:way:749138049","source":"openstreetmap","category":"dog-park","name":"Petone Beach Dog Exercise Zone","lat":-41.225197,"lng":174.862639}
+{"id":"osm:way:762146659","source":"openstreetmap","category":"dog-park","name":"Rawhiti Dog Park","lat":-43.502929,"lng":172.723452}
+{"id":"osm:way:827813985","source":"openstreetmap","category":"dog-park","name":"Meola Reef Dog Park","lat":-36.858729,"lng":174.710513,"tags":{"wheelchair":"limited"}}
+{"id":"osm:way:85355608","source":"openstreetmap","category":"dog-park","name":"Horseshoe Lake Dog Park","lat":-43.500474,"lng":172.670837}
+{"id":"osm:way:885047234","source":"openstreetmap","category":"dog-park","lat":-40.171874,"lng":175.523974,"tags":{"access":"private"}}
+{"id":"osm:way:898311927","source":"openstreetmap","category":"dog-park","name":"Kaiapoi Dog Park","lat":-43.385525,"lng":172.665108}
+{"id":"osm:way:901376111","source":"openstreetmap","category":"dog-park","lat":-36.817326,"lng":174.723047}
+{"id":"osm:way:901377104","source":"openstreetmap","category":"dog-park","lat":-36.816418,"lng":174.695806}
+{"id":"osm:way:911477174","source":"openstreetmap","category":"dog-park","lat":-36.773707,"lng":174.999966}
+{"id":"osm:way:914521473","source":"openstreetmap","category":"dog-park","lat":-40.384203,"lng":175.591998}
+{"id":"osm:way:923591421","source":"openstreetmap","category":"dog-park","name":"Otaki Dog Park","lat":-40.758017,"lng":175.135343}
+{"id":"osm:way:927959165","source":"openstreetmap","category":"dog-park","lat":-36.850758,"lng":174.741203,"tags":{"description":"Grassed area north of the walkway through Tole Park"}}
+{"id":"osm:way:945953396","source":"openstreetmap","category":"dog-park","name":"Plimmerton Dog Park","lat":-41.08008,"lng":174.868233,"tags":{"wheelchair":"limited"}}
+{"id":"osm:way:951850845","source":"openstreetmap","category":"dog-park","lat":-37.201044,"lng":174.914413}
+{"id":"osm:way:959614018","source":"openstreetmap","category":"dog-park","name":"Sanders Reserve Dog Park","lat":-36.768069,"lng":174.640297}
+{"id":"osm:way:965510401","source":"openstreetmap","category":"dog-park","lat":-36.794368,"lng":174.673569}
+{"id":"osm:way:984841899","source":"openstreetmap","category":"dog-park","lat":-40.893006,"lng":175.02718,"tags":{"access":"private"}}
+{"id":"osm:way:992335792","source":"openstreetmap","category":"dog-park","lat":-39.504396,"lng":176.855032}
+{"id":"osm:way:996209719","source":"openstreetmap","category":"dog-park","name":"Craigavon Agility Course","lat":-36.927424,"lng":174.691772,"tags":{"access":"yes"}}
+{"id":"osm:way:997319446","source":"openstreetmap","category":"dog-park","name":"Ascot Park Dog Exercise Area","lat":-41.118591,"lng":174.878721,"tags":{"operator":"Porirua City Council"}}

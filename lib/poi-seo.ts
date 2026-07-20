@@ -11,12 +11,14 @@ export const poiCategoryLabels: Record<PoiCategory, { singular: string; plural: 
   playground: { singular: "playground", plural: "playgrounds", fallback: "Playground" },
   "picnic-site": { singular: "picnic site", plural: "picnic sites", fallback: "Picnic site" },
   viewpoint: { singular: "viewpoint", plural: "viewpoints", fallback: "Viewpoint" },
-  museum: { singular: "museum", plural: "museums", fallback: "Museum" }
+  museum: { singular: "museum", plural: "museums", fallback: "Museum" },
+  "ev-charger": { singular: "EV charger", plural: "EV chargers", fallback: "EV charger" }
 };
 
 export const poiPreviewCategoryOrder: PoiCategory[] = [
   "park",
   "public-bbq",
+  "ev-charger",
   "playground",
   "dog-park",
   "picnic-site",

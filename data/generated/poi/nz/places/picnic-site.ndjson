@@ -1,491 +1,485 @@
-{"id":"osm:node:1000008891","category":"picnic-site","lat":-43.964557,"lng":171.771484}
-{"id":"osm:node:1000008922","category":"picnic-site","lat":-43.959761,"lng":171.781925}
-{"id":"osm:node:1000009212","category":"picnic-site","lat":-43.971218,"lng":171.762617}
-{"id":"osm:node:1000009296","category":"picnic-site","lat":-43.969475,"lng":171.762442}
-{"id":"osm:node:1010567010","category":"picnic-site","lat":-36.701931,"lng":174.751883}
-{"id":"osm:node:10107597642","category":"picnic-site","lat":-36.070014,"lng":173.972371}
-{"id":"osm:node:10113551690","category":"picnic-site","lat":-36.864608,"lng":175.436278}
-{"id":"osm:node:10113635064","category":"picnic-site","lat":-36.722175,"lng":175.727212}
-{"id":"osm:node:10113638460","category":"picnic-site","lat":-36.970033,"lng":175.495048}
-{"id":"osm:node:10235013734","category":"picnic-site","lat":-43.600829,"lng":172.514994,"tags":{"access":"yes"}}
-{"id":"osm:node:10299654410","category":"picnic-site","lat":-41.37757,"lng":173.133683}
-{"id":"osm:node:10675784195","category":"picnic-site","lat":-36.761045,"lng":174.718813}
-{"id":"osm:node:10675868441","category":"picnic-site","lat":-37.775196,"lng":175.273678}
-{"id":"osm:node:1084415651","category":"picnic-site","lat":-37.405719,"lng":175.142968}
-{"id":"osm:node:1085383074","category":"picnic-site","lat":-38.233813,"lng":175.852089}
-{"id":"osm:node:1104413992","category":"picnic-site","lat":-36.777603,"lng":174.658555}
-{"id":"osm:node:11195308005","category":"picnic-site","name":"Scow Landing","lat":-36.754783,"lng":174.596992}
-{"id":"osm:node:11268927284","category":"picnic-site","lat":-38.654012,"lng":175.908987}
-{"id":"osm:node:11389399422","category":"picnic-site","lat":-42.115708,"lng":171.873557,"tags":{"access":"yes"}}
-{"id":"osm:node:11391405954","category":"picnic-site","lat":-42.133259,"lng":171.894866}
-{"id":"osm:node:11459147176","category":"picnic-site","lat":-36.237826,"lng":175.427177}
-{"id":"osm:node:11489117212","category":"picnic-site","lat":-43.265884,"lng":172.706976}
-{"id":"osm:node:1156527977","category":"picnic-site","lat":-40.852189,"lng":172.72401}
-{"id":"osm:node:1156528278","category":"picnic-site","lat":-40.854153,"lng":172.73307}
-{"id":"osm:node:1156528927","category":"picnic-site","lat":-40.851836,"lng":172.721024}
-{"id":"osm:node:1156529370","category":"picnic-site","lat":-40.851838,"lng":172.721732}
-{"id":"osm:node:1156529738","category":"picnic-site","lat":-40.852399,"lng":172.725088}
-{"id":"osm:node:11658654446","category":"picnic-site","lat":-38.160316,"lng":176.270847}
-{"id":"osm:node:11678950613","category":"picnic-site","lat":-40.999302,"lng":175.557422}
-{"id":"osm:node:11679044276","category":"picnic-site","lat":-40.826509,"lng":175.625842}
-{"id":"osm:node:11680844760","category":"picnic-site","lat":-40.164497,"lng":176.140468}
-{"id":"osm:node:11680894366","category":"picnic-site","lat":-39.983231,"lng":176.47752}
-{"id":"osm:node:11705144169","category":"picnic-site","lat":-42.628539,"lng":171.184723}
-{"id":"osm:node:11826801280","category":"picnic-site","lat":-38.063411,"lng":174.98152}
-{"id":"osm:node:11917138770","category":"picnic-site","lat":-41.071834,"lng":173.006976}
-{"id":"osm:node:1201336856","category":"picnic-site","lat":-43.606546,"lng":172.700334}
-{"id":"osm:node:12288474279","category":"picnic-site","lat":-40.826039,"lng":175.625786}
-{"id":"osm:node:1233280115","category":"picnic-site","lat":-43.63039,"lng":172.694577}
-{"id":"osm:node:12383549421","category":"picnic-site","lat":-35.218211,"lng":173.920931}
-{"id":"osm:node:1245256269","category":"picnic-site","name":"Taitua Arboretum","lat":-37.806904,"lng":175.2149}
-{"id":"osm:node:12458302052","category":"picnic-site","lat":-40.848005,"lng":174.915455}
-{"id":"osm:node:12458302053","category":"picnic-site","lat":-40.848025,"lng":174.915428}
-{"id":"osm:node:12511931920","category":"picnic-site","lat":-39.93779,"lng":174.977741}
-{"id":"osm:node:12537393825","category":"picnic-site","lat":-37.816188,"lng":174.839436}
-{"id":"osm:node:1263355856","category":"picnic-site","lat":-38.965151,"lng":174.760539}
-{"id":"osm:node:1263355908","category":"picnic-site","lat":-38.924568,"lng":174.783526}
-{"id":"osm:node:12657864198","category":"picnic-site","lat":-45.027832,"lng":168.974758,"tags":{"access":"customers"}}
-{"id":"osm:node:12657864199","category":"picnic-site","lat":-45.17297,"lng":169.30214}
-{"id":"osm:node:12736320311","category":"picnic-site","name":"Field of Dreams","lat":-41.18599,"lng":174.926792}
-{"id":"osm:node:12761517240","category":"picnic-site","lat":-37.859529,"lng":175.681469}
-{"id":"osm:node:12761517250","category":"picnic-site","lat":-37.859598,"lng":175.681033}
-{"id":"osm:node:13196088179","category":"picnic-site","lat":-36.727283,"lng":175.707196}
-{"id":"osm:node:13647084376","category":"picnic-site","lat":-44.693997,"lng":169.135012}
-{"id":"osm:node:1430809029","category":"picnic-site","lat":-37.798334,"lng":175.269937}
-{"id":"osm:node:1611089912","category":"picnic-site","lat":-41.234311,"lng":174.779947}
-{"id":"osm:node:1627868754","category":"picnic-site","name":"Oparara Basin","lat":-41.151411,"lng":172.190639}
-{"id":"osm:node:1666803687","category":"picnic-site","lat":-36.888534,"lng":175.823472}
-{"id":"osm:node:1670024938","category":"picnic-site","lat":-36.708451,"lng":175.747605}
-{"id":"osm:node:1699404345","category":"picnic-site","lat":-36.858703,"lng":174.900285}
-{"id":"osm:node:1702273994","category":"picnic-site","lat":-36.394729,"lng":174.658361}
-{"id":"osm:node:1746314394","category":"picnic-site","name":"Swimming Hole and Picnic Table","lat":-40.472707,"lng":175.614828}
-{"id":"osm:node:1759347963","category":"picnic-site","lat":-41.255868,"lng":175.145807}
-{"id":"osm:node:1771227500","category":"picnic-site","lat":-37.798268,"lng":175.289061}
-{"id":"osm:node:1804814459","category":"picnic-site","lat":-35.24631,"lng":174.118643}
-{"id":"osm:node:1804821947","category":"picnic-site","name":"Rocky Beach","lat":-35.245904,"lng":174.120651}
-{"id":"osm:node:1804846104","category":"picnic-site","lat":-35.262821,"lng":174.122006}
-{"id":"osm:node:1881986060","category":"picnic-site","lat":-40.614649,"lng":175.294978}
-{"id":"osm:node:1985244552","category":"picnic-site","lat":-39.040692,"lng":174.112628}
-{"id":"osm:node:2041604951","category":"picnic-site","lat":-43.684372,"lng":171.444769}
-{"id":"osm:node:2075565325","category":"picnic-site","lat":-41.228196,"lng":174.87633}
-{"id":"osm:node:2075565338","category":"picnic-site","lat":-41.228222,"lng":174.876459}
-{"id":"osm:node:2075565380","category":"picnic-site","lat":-41.228265,"lng":174.876585}
-{"id":"osm:node:2075565392","category":"picnic-site","lat":-41.22815,"lng":174.876173}
-{"id":"osm:node:2085251125","category":"picnic-site","lat":-36.736602,"lng":175.647255}
-{"id":"osm:node:2085251127","category":"picnic-site","lat":-36.736654,"lng":175.647387}
-{"id":"osm:node:2095569036","category":"picnic-site","lat":-40.239645,"lng":175.487833}
-{"id":"osm:node:2102181758","category":"picnic-site","name":"Bellamy Street","lat":-43.520288,"lng":172.73573}
-{"id":"osm:node:2151673379","category":"picnic-site","lat":-41.28884,"lng":173.327216}
-{"id":"osm:node:2159898799","category":"picnic-site","lat":-38.135232,"lng":176.245852}
-{"id":"osm:node:2161952529","category":"picnic-site","lat":-39.914787,"lng":175.02998}
-{"id":"osm:node:2161952530","category":"picnic-site","lat":-39.914927,"lng":175.031513}
-{"id":"osm:node:2166336867","category":"picnic-site","lat":-41.256926,"lng":173.101323}
-{"id":"osm:node:2178125854","category":"picnic-site","lat":-44.694139,"lng":169.134863}
-{"id":"osm:node:2189092063","category":"picnic-site","lat":-44.099887,"lng":170.829529}
-{"id":"osm:node:2189344054","category":"picnic-site","lat":-44.097624,"lng":170.832121}
-{"id":"osm:node:2193606536","category":"picnic-site","lat":-39.700724,"lng":176.897572}
-{"id":"osm:node:2193606537","category":"picnic-site","lat":-39.700611,"lng":176.898307}
-{"id":"osm:node:2242303173","category":"picnic-site","lat":-37.102039,"lng":175.799986}
-{"id":"osm:node:2242303642","category":"picnic-site","lat":-37.314696,"lng":175.882682}
-{"id":"osm:node:2246189053","category":"picnic-site","lat":-41.743948,"lng":172.397629}
-{"id":"osm:node:2246189443","category":"picnic-site","lat":-41.786765,"lng":172.36877}
-{"id":"osm:node:2246939568","category":"picnic-site","lat":-44.253648,"lng":170.11529}
-{"id":"osm:node:2249079484","category":"picnic-site","lat":-46.131072,"lng":169.918707}
-{"id":"osm:node:2261562329","category":"picnic-site","name":"Collins Valley Picnic Area","lat":-41.179213,"lng":173.55967}
-{"id":"osm:node:2261636787","category":"picnic-site","lat":-41.25614,"lng":173.101956}
-{"id":"osm:node:2267244717","category":"picnic-site","lat":-40.567097,"lng":175.737728}
-{"id":"osm:node:2342888368","category":"picnic-site","lat":-37.088611,"lng":174.652139}
-{"id":"osm:node:2502367304","category":"picnic-site","lat":-37.702744,"lng":175.214915}
-{"id":"osm:node:2607238311","category":"picnic-site","lat":-43.557108,"lng":172.750486}
-{"id":"osm:node:2615895623","category":"picnic-site","lat":-37.753074,"lng":175.266524}
-{"id":"osm:node:2631877604","category":"picnic-site","name":"Roys Hill","lat":-39.601783,"lng":176.750067}
-{"id":"osm:node:2631877605","category":"picnic-site","name":"Lenox Park","lat":-39.553183,"lng":176.811315}
-{"id":"osm:node:2631885801","category":"picnic-site","name":"Pakowhai Country Park","lat":-39.603115,"lng":176.870482}
-{"id":"osm:node:2640001418","category":"picnic-site","lat":-37.907688,"lng":174.900584}
-{"id":"osm:node:2641410965","category":"picnic-site","lat":-36.757492,"lng":175.498674}
-{"id":"osm:node:2642295499","category":"picnic-site","lat":-37.148592,"lng":175.680902}
-{"id":"osm:node:2647800238","category":"picnic-site","lat":-42.412634,"lng":173.683427}
-{"id":"osm:node:2647800248","category":"picnic-site","lat":-42.4142,"lng":173.681745}
-{"id":"osm:node:2647800386","category":"picnic-site","lat":-42.418868,"lng":173.705402}
-{"id":"osm:node:2649889956","category":"picnic-site","lat":-42.863688,"lng":173.307673}
-{"id":"osm:node:2649974625","category":"picnic-site","lat":-45.293585,"lng":168.760773}
-{"id":"osm:node:267797991","category":"picnic-site","lat":-36.79049,"lng":175.095908}
-{"id":"osm:node:267833917","category":"picnic-site","lat":-42.003241,"lng":174.010327}
-{"id":"osm:node:2699353811","category":"picnic-site","lat":-45.546657,"lng":169.313645}
-{"id":"osm:node:2753377037","category":"picnic-site","lat":-41.325731,"lng":173.220796}
-{"id":"osm:node:2766177810","category":"picnic-site","lat":-43.588308,"lng":172.50405}
-{"id":"osm:node:2766177815","category":"picnic-site","lat":-43.588619,"lng":172.502768}
-{"id":"osm:node:2766177819","category":"picnic-site","lat":-43.588875,"lng":172.503057}
-{"id":"osm:node:2766177822","category":"picnic-site","lat":-43.589114,"lng":172.503444}
-{"id":"osm:node:2780633873","category":"picnic-site","lat":-38.114605,"lng":176.307616}
-{"id":"osm:node:2845625630","category":"picnic-site","lat":-40.747612,"lng":172.709981}
-{"id":"osm:node:285733579","category":"picnic-site","lat":-43.790372,"lng":172.758485}
-{"id":"osm:node:287578461","category":"picnic-site","lat":-44.123555,"lng":171.081758}
-{"id":"osm:node:287598412","category":"picnic-site","lat":-43.519562,"lng":171.654296}
-{"id":"osm:node:287599895","category":"picnic-site","lat":-43.517091,"lng":171.803029}
-{"id":"osm:node:291981646","category":"picnic-site","lat":-43.343589,"lng":171.942084}
-{"id":"osm:node:291987657","category":"picnic-site","lat":-43.361208,"lng":172.05088}
-{"id":"osm:node:291987659","category":"picnic-site","lat":-43.386708,"lng":172.013491}
-{"id":"osm:node:291991534","category":"picnic-site","name":"Mistletoe Flat","lat":-43.150948,"lng":171.731081}
-{"id":"osm:node:297630633","category":"picnic-site","lat":-43.599469,"lng":172.58086}
-{"id":"osm:node:297630664","category":"picnic-site","lat":-43.598675,"lng":172.579}
-{"id":"osm:node:297630920","category":"picnic-site","lat":-43.59914,"lng":172.576116}
-{"id":"osm:node:298583368","category":"picnic-site","name":"Spencer Park","lat":-43.430772,"lng":172.707061}
-{"id":"osm:node:3049982993","category":"picnic-site","lat":-43.585363,"lng":172.70717}
-{"id":"osm:node:3153626424","category":"picnic-site","lat":-35.172142,"lng":173.142143}
-{"id":"osm:node:3157655330","category":"picnic-site","lat":-41.51964,"lng":173.377775}
-{"id":"osm:node:3168000792","category":"picnic-site","name":"Lake Okaro Reserve","lat":-38.297169,"lng":176.391133}
-{"id":"osm:node:323060362","category":"picnic-site","lat":-41.303872,"lng":174.005992}
-{"id":"osm:node:323060922","category":"picnic-site","lat":-41.307926,"lng":174.003275}
-{"id":"osm:node:324207379","category":"picnic-site","lat":-41.285664,"lng":174.010552}
-{"id":"osm:node:3355689995","category":"picnic-site","name":"Hawaiki Bay","lat":-38.215937,"lng":176.398322}
-{"id":"osm:node:3355689996","category":"picnic-site","name":"Te Wairuha","lat":-38.241473,"lng":176.419235}
-{"id":"osm:node:3359006262","category":"picnic-site","lat":-40.730202,"lng":175.638683}
-{"id":"osm:node:3410995592","category":"picnic-site","lat":-35.278757,"lng":174.087187}
-{"id":"osm:node:3506493425","category":"picnic-site","lat":-35.27843,"lng":174.051031}
-{"id":"osm:node:3506493452","category":"picnic-site","lat":-35.302516,"lng":174.12376}
-{"id":"osm:node:3526805601","category":"picnic-site","lat":-39.322973,"lng":174.10296}
-{"id":"osm:node:3530742947","category":"picnic-site","lat":-40.67998,"lng":172.686482}
-{"id":"osm:node:3530742948","category":"picnic-site","lat":-40.679872,"lng":172.686528}
-{"id":"osm:node:3587555767","category":"picnic-site","lat":-38.644459,"lng":176.071026}
-{"id":"osm:node:3595199137","category":"picnic-site","lat":-44.923988,"lng":171.100447}
-{"id":"osm:node:370539603","category":"picnic-site","lat":-43.553351,"lng":172.579601}
-{"id":"osm:node:3758486021","category":"picnic-site","lat":-39.040392,"lng":177.386573}
-{"id":"osm:node:3771419784","category":"picnic-site","lat":-37.893512,"lng":176.206386}
-{"id":"osm:node:3779227419","category":"picnic-site","lat":-45.855502,"lng":170.38578}
-{"id":"osm:node:390662196","category":"picnic-site","lat":-43.592591,"lng":172.644606}
-{"id":"osm:node:390662243","category":"picnic-site","lat":-43.588956,"lng":172.643726}
-{"id":"osm:node:4034010613","category":"picnic-site","lat":-36.792354,"lng":175.093618}
-{"id":"osm:node:4044603568","category":"picnic-site","lat":-38.315452,"lng":176.376029}
-{"id":"osm:node:4044603569","category":"picnic-site","lat":-38.315404,"lng":176.376046}
-{"id":"osm:node:4081665666","category":"picnic-site","name":"Scott's Beach","lat":-44.609409,"lng":169.261757}
-{"id":"osm:node:4101659740","category":"picnic-site","lat":-37.467346,"lng":175.986789}
-{"id":"osm:node:4108780270","category":"picnic-site","lat":-38.26546,"lng":175.079803}
-{"id":"osm:node:4108788545","category":"picnic-site","lat":-38.265361,"lng":175.079471}
-{"id":"osm:node:4111112529","category":"picnic-site","lat":-39.420113,"lng":175.403118}
-{"id":"osm:node:4131928647","category":"picnic-site","name":"Manuka Picnic Area","lat":-41.266094,"lng":173.150424}
-{"id":"osm:node:4134760843","category":"picnic-site","lat":-38.131029,"lng":176.189372}
-{"id":"osm:node:4137066981","category":"picnic-site","lat":-40.43804,"lng":176.255833}
-{"id":"osm:node:414268846","category":"picnic-site","lat":-43.588581,"lng":172.643501}
-{"id":"osm:node:414268847","category":"picnic-site","lat":-43.58917,"lng":172.643558}
-{"id":"osm:node:4145302389","category":"picnic-site","lat":-36.532013,"lng":174.711858}
-{"id":"osm:node:4170592095","category":"picnic-site","lat":-45.572854,"lng":168.50282}
-{"id":"osm:node:4170791196","category":"picnic-site","lat":-36.31413,"lng":174.76933}
-{"id":"osm:node:4172480489","category":"picnic-site","lat":-36.3391,"lng":174.78013}
-{"id":"osm:node:4182163563","category":"picnic-site","lat":-43.608846,"lng":172.700354}
-{"id":"osm:node:4182163572","category":"picnic-site","lat":-43.609029,"lng":172.700337}
-{"id":"osm:node:4211952000","category":"picnic-site","name":"Macdonald Recreation Reserve","lat":-36.580358,"lng":175.405682,"tags":{"operator":"Department of Conservation"}}
-{"id":"osm:node:4427405315","category":"picnic-site","lat":-43.688968,"lng":170.103594}
-{"id":"osm:node:4487866990","category":"picnic-site","lat":-41.506264,"lng":173.950362}
-{"id":"osm:node:4489764290","category":"picnic-site","lat":-42.5214,"lng":172.829786}
-{"id":"osm:node:4535183812","category":"picnic-site","lat":-37.315365,"lng":175.067127}
-{"id":"osm:node:4548771592","category":"picnic-site","lat":-38.650039,"lng":176.086382}
-{"id":"osm:node:4551567189","category":"picnic-site","lat":-36.030159,"lng":174.508426}
-{"id":"osm:node:4571212793","category":"picnic-site","lat":-45.610888,"lng":170.688726}
-{"id":"osm:node:4576099205","category":"picnic-site","lat":-41.22785,"lng":174.790356}
-{"id":"osm:node:4584334690","category":"picnic-site","lat":-43.704414,"lng":170.098898}
-{"id":"osm:node:4589978091","category":"picnic-site","lat":-46.37503,"lng":169.783978}
-{"id":"osm:node:4599039289","category":"picnic-site","lat":-38.353855,"lng":176.367132}
-{"id":"osm:node:4607233891","category":"picnic-site","lat":-41.094603,"lng":175.091991}
-{"id":"osm:node:4610852890","category":"picnic-site","lat":-44.731823,"lng":168.381945}
-{"id":"osm:node:4611439192","category":"picnic-site","lat":-41.291927,"lng":173.819917}
-{"id":"osm:node:4613914861","category":"picnic-site","lat":-41.105151,"lng":175.086791}
-{"id":"osm:node:4679533089","category":"picnic-site","lat":-38.423645,"lng":175.894751}
-{"id":"osm:node:4689965489","category":"picnic-site","lat":-37.800394,"lng":174.865374}
-{"id":"osm:node:4694149638","category":"picnic-site","lat":-43.48855,"lng":172.106726}
-{"id":"osm:node:4698319589","category":"picnic-site","lat":-38.704823,"lng":176.140314}
-{"id":"osm:node:4729065472","category":"picnic-site","name":"Ryans Creek","lat":-46.902231,"lng":168.090773}
-{"id":"osm:node:4744754035","category":"picnic-site","lat":-45.85137,"lng":170.70148}
-{"id":"osm:node:4744754036","category":"picnic-site","lat":-45.850186,"lng":170.705111}
-{"id":"osm:node:4748083925","category":"picnic-site","lat":-39.881768,"lng":174.9503}
-{"id":"osm:node:4748083926","category":"picnic-site","lat":-39.881101,"lng":174.951069}
-{"id":"osm:node:4748084024","category":"picnic-site","lat":-39.883809,"lng":174.949292}
-{"id":"osm:node:4748084027","category":"picnic-site","lat":-39.881071,"lng":174.951666}
-{"id":"osm:node:4748084123","category":"picnic-site","lat":-39.884374,"lng":174.949623}
-{"id":"osm:node:4748084124","category":"picnic-site","lat":-39.881824,"lng":174.952022}
-{"id":"osm:node:4748297021","category":"picnic-site","lat":-39.885345,"lng":174.902204}
-{"id":"osm:node:4753929523","category":"picnic-site","lat":-41.508567,"lng":173.951506}
-{"id":"osm:node:4753989524","category":"picnic-site","lat":-41.806369,"lng":172.843182}
-{"id":"osm:node:477077543","category":"picnic-site","lat":-41.294385,"lng":174.750073}
-{"id":"osm:node:477077573","category":"picnic-site","lat":-41.301192,"lng":174.741464}
-{"id":"osm:node:477077574","category":"picnic-site","lat":-41.29797,"lng":174.744441}
-{"id":"osm:node:477077575","category":"picnic-site","lat":-41.291277,"lng":174.753076}
-{"id":"osm:node:477077576","category":"picnic-site","lat":-41.293871,"lng":174.751814}
-{"id":"osm:node:4774073688","category":"picnic-site","lat":-44.699168,"lng":169.12459}
-{"id":"osm:node:4774073692","category":"picnic-site","lat":-44.699686,"lng":169.119588}
-{"id":"osm:node:4774078452","category":"picnic-site","lat":-44.699993,"lng":169.121124}
-{"id":"osm:node:4778064625","category":"picnic-site","lat":-45.049929,"lng":169.201891}
-{"id":"osm:node:4778081935","category":"picnic-site","lat":-45.050874,"lng":169.199731}
-{"id":"osm:node:4782010321","category":"picnic-site","lat":-45.033003,"lng":168.6634}
-{"id":"osm:node:4783916221","category":"picnic-site","lat":-44.043973,"lng":171.27178}
-{"id":"osm:node:4785591621","category":"picnic-site","lat":-43.741665,"lng":173.095232}
-{"id":"osm:node:4832028024","category":"picnic-site","lat":-41.273342,"lng":173.290341}
-{"id":"osm:node:4832063621","category":"picnic-site","lat":-41.273406,"lng":173.290741}
-{"id":"osm:node:4834295834","category":"picnic-site","lat":-43.441746,"lng":169.966914}
-{"id":"osm:node:485569617","category":"picnic-site","lat":-36.988567,"lng":174.478108}
-{"id":"osm:node:4893607184","category":"picnic-site","name":"Otepatotu","lat":-43.752282,"lng":173.015828}
-{"id":"osm:node:4946507221","category":"picnic-site","lat":-45.848304,"lng":170.620895}
-{"id":"osm:node:4978487023","category":"picnic-site","lat":-34.944065,"lng":173.383734}
-{"id":"osm:node:518390868","category":"picnic-site","name":"Butterfly Creek Picnic Area","lat":-41.31238,"lng":174.900522}
-{"id":"osm:node:5197396426","category":"picnic-site","lat":-44.698315,"lng":169.12765}
-{"id":"osm:node:5197396427","category":"picnic-site","lat":-44.697993,"lng":169.128301}
-{"id":"osm:node:5197422521","category":"picnic-site","lat":-44.699255,"lng":169.12423}
-{"id":"osm:node:5197422522","category":"picnic-site","lat":-44.698971,"lng":169.125638}
-{"id":"osm:node:5201103721","category":"picnic-site","lat":-38.50424,"lng":175.204852}
-{"id":"osm:node:5219362237","category":"picnic-site","lat":-38.187683,"lng":176.330578}
-{"id":"osm:node:5219362238","category":"picnic-site","lat":-38.134819,"lng":176.259098}
-{"id":"osm:node:5221095532","category":"picnic-site","lat":-36.837038,"lng":175.741997}
-{"id":"osm:node:5224113532","category":"picnic-site","lat":-36.852469,"lng":174.762743}
-{"id":"osm:node:5225932924","category":"picnic-site","lat":-36.952964,"lng":174.484975}
-{"id":"osm:node:5225956221","category":"picnic-site","lat":-36.953063,"lng":174.484387}
-{"id":"osm:node:5235447223","category":"picnic-site","lat":-40.336344,"lng":175.81686}
-{"id":"osm:node:5251591904","category":"picnic-site","lat":-35.359002,"lng":173.546197}
-{"id":"osm:node:5251702119","category":"picnic-site","lat":-35.537722,"lng":173.372046}
-{"id":"osm:node:5254791023","category":"picnic-site","lat":-39.433252,"lng":175.283362}
-{"id":"osm:node:5255431168","category":"picnic-site","lat":-36.556997,"lng":174.475313}
-{"id":"osm:node:5261085121","category":"picnic-site","lat":-41.034539,"lng":173.022451}
-{"id":"osm:node:5263181932","category":"picnic-site","name":"Picnic Area","lat":-43.603142,"lng":172.360804}
-{"id":"osm:node:5263181997","category":"picnic-site","lat":-43.60114,"lng":172.359974}
-{"id":"osm:node:5301526921","category":"picnic-site","lat":-35.564749,"lng":174.507042}
-{"id":"osm:node:5337941321","category":"picnic-site","lat":-41.630829,"lng":171.862064}
-{"id":"osm:node:5344039986","category":"picnic-site","name":"Waipapa Landing Picnic Area","lat":-35.203391,"lng":173.968742}
-{"id":"osm:node:5355280124","category":"picnic-site","lat":-42.744674,"lng":171.000157}
-{"id":"osm:node:5370657457","category":"picnic-site","lat":-46.038299,"lng":170.10364}
-{"id":"osm:node:5430227906","category":"picnic-site","lat":-41.054856,"lng":173.76923}
-{"id":"osm:node:544985905","category":"picnic-site","lat":-42.501547,"lng":173.514006}
-{"id":"osm:node:5476557442","category":"picnic-site","lat":-43.05977,"lng":170.63398}
-{"id":"osm:node:5477056322","category":"picnic-site","lat":-45.188488,"lng":169.316801}
-{"id":"osm:node:5483735323","category":"picnic-site","lat":-45.063433,"lng":169.746017}
-{"id":"osm:node:5483735422","category":"picnic-site","lat":-45.055792,"lng":169.737313}
-{"id":"osm:node:5492257521","category":"picnic-site","lat":-45.184188,"lng":170.160701}
-{"id":"osm:node:5499779074","category":"picnic-site","lat":-37.277174,"lng":175.290751}
-{"id":"osm:node:5534913288","category":"picnic-site","lat":-44.17152,"lng":169.143015}
-{"id":"osm:node:5553624921","category":"picnic-site","lat":-40.787422,"lng":172.762058}
-{"id":"osm:node:5565416621","category":"picnic-site","lat":-44.937741,"lng":168.829825}
-{"id":"osm:node:5585816970","category":"picnic-site","name":"Sawmillers Commenorative Picnic Ground","lat":-38.883362,"lng":175.30829}
-{"id":"osm:node:5597807721","category":"picnic-site","lat":-41.419343,"lng":174.03442}
-{"id":"osm:node:5612901137","category":"picnic-site","lat":-36.809392,"lng":175.473177}
-{"id":"osm:node:5636533717","category":"picnic-site","lat":-41.744515,"lng":171.595877}
-{"id":"osm:node:5636537525","category":"picnic-site","lat":-36.159788,"lng":174.441894}
-{"id":"osm:node:5636537648","category":"picnic-site","lat":-36.029725,"lng":174.507524}
-{"id":"osm:node:5644993359","category":"picnic-site","lat":-37.690592,"lng":176.134355}
-{"id":"osm:node:5644993360","category":"picnic-site","lat":-37.690411,"lng":176.134517}
-{"id":"osm:node:5644993361","category":"picnic-site","lat":-37.690592,"lng":176.134584}
-{"id":"osm:node:566123591","category":"picnic-site","name":"Mt Grey Picnic Area","lat":-43.148701,"lng":172.527512}
-{"id":"osm:node:566149903","category":"picnic-site","name":"Lake Janet Picnic Area","lat":-43.136626,"lng":172.554423}
-{"id":"osm:node:573879710","category":"picnic-site","lat":-36.98653,"lng":174.482059}
-{"id":"osm:node:588150367","category":"picnic-site","lat":-36.91017,"lng":174.543323}
-{"id":"osm:node:5923402985","category":"picnic-site","lat":-35.304387,"lng":174.101975}
-{"id":"osm:node:6077219568","category":"picnic-site","lat":-41.300733,"lng":173.576692}
-{"id":"osm:node:6143888586","category":"picnic-site","lat":-41.016705,"lng":174.917579}
-{"id":"osm:node:6204275253","category":"picnic-site","lat":-46.366024,"lng":168.019955}
-{"id":"osm:node:6221992153","category":"picnic-site","lat":-36.952926,"lng":174.485271}
-{"id":"osm:node:6240644195","category":"picnic-site","lat":-38.804193,"lng":175.689981}
-{"id":"osm:node:6260954085","category":"picnic-site","lat":-43.75089,"lng":172.927983}
-{"id":"osm:node:6265143585","category":"picnic-site","lat":-43.698024,"lng":170.162988}
-{"id":"osm:node:6270552686","category":"picnic-site","lat":-46.133172,"lng":168.319538}
-{"id":"osm:node:6294726885","category":"picnic-site","lat":-40.848069,"lng":172.770458}
-{"id":"osm:node:6304682785","category":"picnic-site","lat":-38.671948,"lng":176.070574}
-{"id":"osm:node:6307224485","category":"picnic-site","lat":-38.129833,"lng":176.264809}
-{"id":"osm:node:6309488485","category":"picnic-site","lat":-37.665425,"lng":176.15002}
-{"id":"osm:node:6311943879","category":"picnic-site","lat":-41.401626,"lng":173.051708}
-{"id":"osm:node:6311949485","category":"picnic-site","lat":-36.925176,"lng":175.69327}
-{"id":"osm:node:6315036888","category":"picnic-site","lat":-35.812789,"lng":173.643589}
-{"id":"osm:node:6336709145","category":"picnic-site","lat":-42.052612,"lng":173.957945}
-{"id":"osm:node:6361608950","category":"picnic-site","lat":-36.777042,"lng":174.659041}
-{"id":"osm:node:6361608951","category":"picnic-site","lat":-36.777166,"lng":174.658872}
-{"id":"osm:node:6369366277","category":"picnic-site","lat":-36.030265,"lng":174.508577}
-{"id":"osm:node:6369366278","category":"picnic-site","lat":-36.030039,"lng":174.508274}
-{"id":"osm:node:6369366279","category":"picnic-site","lat":-36.029925,"lng":174.50812}
-{"id":"osm:node:6369366280","category":"picnic-site","lat":-36.02934,"lng":174.507437}
-{"id":"osm:node:6369366281","category":"picnic-site","lat":-36.029475,"lng":174.507582}
-{"id":"osm:node:6369366282","category":"picnic-site","lat":-36.029557,"lng":174.507268}
-{"id":"osm:node:6435145985","category":"picnic-site","lat":-46.6615,"lng":169.104958}
-{"id":"osm:node:6441694162","category":"picnic-site","name":"Riverglade Lane Esplanade Reserve","lat":-36.354335,"lng":174.718851}
-{"id":"osm:node:6447083765","category":"picnic-site","lat":-36.851711,"lng":174.705497}
-{"id":"osm:node:6489728785","category":"picnic-site","lat":-42.15659,"lng":171.79265}
-{"id":"osm:node:6489728786","category":"picnic-site","lat":-42.156383,"lng":171.792405}
-{"id":"osm:node:6489728985","category":"picnic-site","lat":-42.156103,"lng":171.792349}
-{"id":"osm:node:6498991488","category":"picnic-site","lat":-39.066302,"lng":177.398337}
-{"id":"osm:node:6515955385","category":"picnic-site","lat":-41.156487,"lng":172.921759}
-{"id":"osm:node:6578990086","category":"picnic-site","lat":-42.506933,"lng":172.843479}
-{"id":"osm:node:667236375","category":"picnic-site","lat":-36.940005,"lng":174.467776}
-{"id":"osm:node:6806853587","category":"picnic-site","name":"Scow landing","lat":-35.643933,"lng":174.429155}
-{"id":"osm:node:6822752691","category":"picnic-site","lat":-46.42839,"lng":169.450381}
-{"id":"osm:node:6959360088","category":"picnic-site","lat":-39.414332,"lng":175.397324}
-{"id":"osm:node:6959360090","category":"picnic-site","lat":-39.403906,"lng":175.410504}
-{"id":"osm:node:6959360091","category":"picnic-site","lat":-39.415912,"lng":175.401863}
-{"id":"osm:node:6959360197","category":"picnic-site","lat":-39.402057,"lng":175.411866}
-{"id":"osm:node:6959360198","category":"picnic-site","lat":-39.402192,"lng":175.411763}
-{"id":"osm:node:6959360200","category":"picnic-site","lat":-39.415804,"lng":175.401689}
-{"id":"osm:node:6964757285","category":"picnic-site","lat":-39.399722,"lng":175.414508}
-{"id":"osm:node:6964757489","category":"picnic-site","lat":-39.401129,"lng":175.412497}
-{"id":"osm:node:6964757585","category":"picnic-site","lat":-39.408271,"lng":175.408144}
-{"id":"osm:node:696607031","category":"picnic-site","lat":-38.157547,"lng":175.69491}
-{"id":"osm:node:696607032","category":"picnic-site","lat":-38.033946,"lng":175.826619}
-{"id":"osm:node:6968254350","category":"picnic-site","lat":-45.794656,"lng":170.460072}
-{"id":"osm:node:6978530885","category":"picnic-site","lat":-41.72973,"lng":171.590782}
-{"id":"osm:node:6978648216","category":"picnic-site","lat":-36.531009,"lng":174.712081}
-{"id":"osm:node:6978648217","category":"picnic-site","lat":-36.531355,"lng":174.711908}
-{"id":"osm:node:6978648221","category":"picnic-site","lat":-36.53193,"lng":174.712263}
-{"id":"osm:node:6978648222","category":"picnic-site","lat":-36.531671,"lng":174.71187}
-{"id":"osm:node:6981757587","category":"picnic-site","lat":-41.753074,"lng":171.598327}
-{"id":"osm:node:6981757588","category":"picnic-site","lat":-41.7533,"lng":171.600978}
-{"id":"osm:node:6981982986","category":"picnic-site","lat":-41.761168,"lng":171.600178}
-{"id":"osm:node:6981982987","category":"picnic-site","lat":-41.76115,"lng":171.600343}
-{"id":"osm:node:6983481588","category":"picnic-site","lat":-41.754608,"lng":171.601769}
-{"id":"osm:node:6984073066","category":"picnic-site","lat":-43.389657,"lng":170.181751}
-{"id":"osm:node:6997698986","category":"picnic-site","lat":-45.035076,"lng":168.653772}
-{"id":"osm:node:6997708385","category":"picnic-site","lat":-45.032209,"lng":168.662191}
-{"id":"osm:node:7005006585","category":"picnic-site","lat":-45.030028,"lng":168.687184}
-{"id":"osm:node:7012774952","category":"picnic-site","lat":-36.787823,"lng":175.080213}
-{"id":"osm:node:7022874493","category":"picnic-site","lat":-38.233664,"lng":175.851984}
-{"id":"osm:node:7022874494","category":"picnic-site","lat":-38.233748,"lng":175.852005}
-{"id":"osm:node:7022874495","category":"picnic-site","lat":-38.233786,"lng":175.852038}
-{"id":"osm:node:7022874509","category":"picnic-site","lat":-38.234393,"lng":175.853621}
-{"id":"osm:node:7022874510","category":"picnic-site","lat":-38.234187,"lng":175.853596}
-{"id":"osm:node:7022874511","category":"picnic-site","lat":-38.234002,"lng":175.853591}
-{"id":"osm:node:7022874512","category":"picnic-site","lat":-38.233783,"lng":175.853568}
-{"id":"osm:node:7022874513","category":"picnic-site","lat":-38.23335,"lng":175.853236}
-{"id":"osm:node:7022874514","category":"picnic-site","lat":-38.233136,"lng":175.853169}
-{"id":"osm:node:7022874515","category":"picnic-site","lat":-38.233145,"lng":175.852683}
-{"id":"osm:node:7037910385","category":"picnic-site","lat":-44.966873,"lng":168.808283}
-{"id":"osm:node:7142075085","category":"picnic-site","lat":-38.189158,"lng":175.212955}
-{"id":"osm:node:7143845685","category":"picnic-site","lat":-41.265914,"lng":173.153756}
-{"id":"osm:node:7194093980","category":"picnic-site","name":"Fourvière Picnic Area","lat":-43.193023,"lng":172.734,"tags":{"website":"https://www.fourviere.nz/","access":"yes","operator":"Fourvière NZ","addr:postcode":"7481","addr:city":"Leithfield, Amberley, North Canterbury, New Zealand"}}
-{"id":"osm:node:7252187116","category":"picnic-site","name":"Kumutoto Bay Picnic Area","lat":-41.209968,"lng":174.074209}
-{"id":"osm:node:7265893691","category":"picnic-site","lat":-38.052129,"lng":175.660924}
-{"id":"osm:node:7265893692","category":"picnic-site","lat":-38.057698,"lng":175.660275}
-{"id":"osm:node:7265893693","category":"picnic-site","lat":-38.060858,"lng":175.657715}
-{"id":"osm:node:726922111","category":"picnic-site","lat":-37.007056,"lng":174.585118}
-{"id":"osm:node:7270683286","category":"picnic-site","lat":-38.39301,"lng":175.762836}
-{"id":"osm:node:7270683287","category":"picnic-site","lat":-38.395667,"lng":175.768498}
-{"id":"osm:node:7270683385","category":"picnic-site","lat":-38.379854,"lng":175.777001}
-{"id":"osm:node:727336103","category":"picnic-site","lat":-42.59109,"lng":171.111034}
-{"id":"osm:node:7307405240","category":"picnic-site","name":"Observation Beach Picnic Area","lat":-40.966593,"lng":173.051507}
-{"id":"osm:node:7799569285","category":"picnic-site","lat":-41.186937,"lng":173.361341}
-{"id":"osm:node:7799569286","category":"picnic-site","lat":-41.186697,"lng":173.36149}
-{"id":"osm:node:7946475770","category":"picnic-site","lat":-43.64858,"lng":172.490939}
-{"id":"osm:node:8119622618","category":"picnic-site","lat":-44.987679,"lng":170.731782}
-{"id":"osm:node:8339899006","category":"picnic-site","lat":-43.200707,"lng":172.251478}
-{"id":"osm:node:8359146125","category":"picnic-site","lat":-35.345889,"lng":173.708246}
-{"id":"osm:node:860813775","category":"picnic-site","lat":-37.707567,"lng":175.300375}
-{"id":"osm:node:8686720715","category":"picnic-site","lat":-45.918474,"lng":169.689911,"tags":{"access":"yes","description":"Picnic area with one covered picnic table and three uncovered tables.  BBQ no longer functions.  There is also a tandem swing."}}
-{"id":"osm:node:8925892076","category":"picnic-site","lat":-38.034921,"lng":176.251392}
-{"id":"osm:node:8925892135","category":"picnic-site","lat":-38.036319,"lng":176.242578}
-{"id":"osm:node:9025709620","category":"picnic-site","lat":-35.116451,"lng":173.262092}
-{"id":"osm:node:9073734096","category":"picnic-site","lat":-41.116077,"lng":175.177667}
-{"id":"osm:node:9268010731","category":"picnic-site","name":"Park","lat":-40.184751,"lng":175.386566}
-{"id":"osm:node:9405890771","category":"picnic-site","lat":-36.607069,"lng":174.811057}
-{"id":"osm:node:9405890772","category":"picnic-site","lat":-36.606944,"lng":174.811813}
-{"id":"osm:node:9424396763","category":"picnic-site","lat":-46.018525,"lng":169.506742}
-{"id":"osm:node:945699309","category":"picnic-site","lat":-43.594887,"lng":172.64505}
-{"id":"osm:node:9572200018","category":"picnic-site","lat":-43.698601,"lng":170.096595}
-{"id":"osm:node:9667187513","category":"picnic-site","lat":-36.947762,"lng":175.106215}
-{"id":"osm:node:967787522","category":"picnic-site","lat":-43.200737,"lng":172.252035}
-{"id":"osm:node:972033247","category":"picnic-site","lat":-36.607119,"lng":174.810034}
-{"id":"osm:node:972094562","category":"picnic-site","lat":-36.724492,"lng":175.714563}
-{"id":"osm:node:972123058","category":"picnic-site","lat":-38.68777,"lng":176.068166}
-{"id":"osm:node:9743377602","category":"picnic-site","lat":-43.641199,"lng":172.486492}
-{"id":"osm:node:975688973","category":"picnic-site","lat":-36.607029,"lng":174.811053}
-{"id":"osm:node:983114098","category":"picnic-site","lat":-43.360977,"lng":172.049832}
-{"id":"osm:node:9863015520","category":"picnic-site","lat":-36.589155,"lng":174.698001}
-{"id":"osm:node:987488375","category":"picnic-site","lat":-36.59445,"lng":174.69993}
-{"id":"osm:node:987488414","category":"picnic-site","lat":-36.589247,"lng":174.697878}
-{"id":"osm:node:9952057585","category":"picnic-site","lat":-36.779826,"lng":175.035045}
-{"id":"osm:relation:12350387","category":"picnic-site","lat":-43.464165,"lng":172.593685,"tags":{"access":"customers","operator":"Willowbank"}}
-{"id":"osm:relation:17991048","category":"picnic-site","name":"Kanuka Picnic Area","lat":-41.298837,"lng":173.572629}
-{"id":"osm:relation:6951051","category":"picnic-site","lat":-43.532677,"lng":172.741977}
-{"id":"osm:way:1007417537","category":"picnic-site","lat":-35.114742,"lng":173.266475}
-{"id":"osm:way:1012946437","category":"picnic-site","lat":-37.039881,"lng":174.506652}
-{"id":"osm:way:1053787871","category":"picnic-site","lat":-43.800137,"lng":172.969411}
-{"id":"osm:way:1053787873","category":"picnic-site","lat":-43.799955,"lng":172.96847}
-{"id":"osm:way:1067843699","category":"picnic-site","lat":-39.129337,"lng":177.884947}
-{"id":"osm:way:1068891073","category":"picnic-site","lat":-37.952926,"lng":175.803157,"tags":{"access":"private"}}
-{"id":"osm:way:1076745037","category":"picnic-site","lat":-36.740054,"lng":174.422961}
-{"id":"osm:way:1140613838","category":"picnic-site","name":"St Anne's Lagoon Reserve","lat":-42.779224,"lng":173.268563}
-{"id":"osm:way:1152546323","category":"picnic-site","lat":-43.850902,"lng":172.772017}
-{"id":"osm:way:1158896182","category":"picnic-site","lat":-43.512792,"lng":172.508343}
-{"id":"osm:way:1159568854","category":"picnic-site","lat":-43.564425,"lng":172.739674}
-{"id":"osm:way:1205121222","category":"picnic-site","name":"Tui Terrace","lat":-41.296126,"lng":174.747737}
-{"id":"osm:way:1227689842","category":"picnic-site","lat":-40.455983,"lng":175.84343}
-{"id":"osm:way:1235069420","category":"picnic-site","name":"Conservation Corner","lat":-41.320694,"lng":174.784974}
-{"id":"osm:way:1235069421","category":"picnic-site","lat":-41.320692,"lng":174.784483}
-{"id":"osm:way:1235069422","category":"picnic-site","lat":-41.320741,"lng":174.784537}
-{"id":"osm:way:1235074473","category":"picnic-site","lat":-41.323219,"lng":174.783426}
-{"id":"osm:way:1235074474","category":"picnic-site","lat":-41.322224,"lng":174.784327}
-{"id":"osm:way:1279437154","category":"picnic-site","lat":-41.058642,"lng":174.936674}
-{"id":"osm:way:1293790525","category":"picnic-site","name":"Graham Stream Picnic Area","lat":-41.185342,"lng":173.486798}
-{"id":"osm:way:1330920581","category":"picnic-site","lat":-40.502413,"lng":175.283438}
-{"id":"osm:way:1362541087","category":"picnic-site","lat":-38.670495,"lng":178.014483}
-{"id":"osm:way:1368345811","category":"picnic-site","lat":-39.680496,"lng":176.883099}
-{"id":"osm:way:1368345812","category":"picnic-site","lat":-39.680512,"lng":176.882968}
-{"id":"osm:way:1381575568","category":"picnic-site","lat":-38.093514,"lng":176.224268}
-{"id":"osm:way:1382485987","category":"picnic-site","lat":-42.445539,"lng":171.214955}
-{"id":"osm:way:1425556569","category":"picnic-site","lat":-42.534462,"lng":171.182672}
-{"id":"osm:way:1426560461","category":"picnic-site","lat":-45.092287,"lng":170.953085}
-{"id":"osm:way:1426560462","category":"picnic-site","lat":-45.092022,"lng":170.953605}
-{"id":"osm:way:1464978170","category":"picnic-site","name":"The Pipes picnic area","lat":-41.328586,"lng":174.868506}
-{"id":"osm:way:1472578303","category":"picnic-site","lat":-36.68874,"lng":174.749536,"tags":{"website":"https://www.aucklandcouncil.govt.nz/content/ac/en/parks-recreation/bookable-sites/long-bay-site-7.html"}}
-{"id":"osm:way:1472578304","category":"picnic-site","lat":-36.68898,"lng":174.749826,"tags":{"website":"https://www.aucklandcouncil.govt.nz/content/ac/en/parks-recreation/bookable-sites/long-bay-site-6.html"}}
-{"id":"osm:way:1472578305","category":"picnic-site","lat":-36.688467,"lng":174.750916,"tags":{"website":"https://www.aucklandcouncil.govt.nz/content/ac/en/parks-recreation/bookable-sites/long-bay-site-1.html"}}
-{"id":"osm:way:1472578306","category":"picnic-site","lat":-36.687784,"lng":174.750942,"tags":{"website":"https://www.aucklandcouncil.govt.nz/content/ac/en/parks-recreation/bookable-sites/long-bay-site-2.html"}}
-{"id":"osm:way:1472578307","category":"picnic-site","lat":-36.686716,"lng":174.75033,"tags":{"website":"https://www.aucklandcouncil.govt.nz/content/ac/en/parks-recreation/bookable-sites/long-bay-site-3.html"}}
-{"id":"osm:way:1472578308","category":"picnic-site","lat":-36.685792,"lng":174.750074,"tags":{"website":"https://www.aucklandcouncil.govt.nz/content/ac/en/parks-recreation/bookable-sites/long-bay-site-4.html"}}
-{"id":"osm:way:1500953023","category":"picnic-site","lat":-45.080772,"lng":169.234022}
-{"id":"osm:way:1536141058","category":"picnic-site","lat":-43.69646,"lng":173.062953}
-{"id":"osm:way:173742716","category":"picnic-site","name":"Troup Picnic Area","lat":-41.266472,"lng":174.755705}
-{"id":"osm:way:24724048","category":"picnic-site","lat":-46.561619,"lng":169.474002}
-{"id":"osm:way:257564578","category":"picnic-site","name":"Kamala's","lat":-41.320941,"lng":174.784282}
-{"id":"osm:way:269821223","category":"picnic-site","lat":-42.7915,"lng":170.906168}
-{"id":"osm:way:304159885","category":"picnic-site","lat":-41.263705,"lng":174.762208}
-{"id":"osm:way:310006061","category":"picnic-site","lat":-35.177443,"lng":173.134935}
-{"id":"osm:way:310006062","category":"picnic-site","lat":-35.176556,"lng":173.136535}
-{"id":"osm:way:310343299","category":"picnic-site","lat":-41.533332,"lng":173.394596}
-{"id":"osm:way:425874471","category":"picnic-site","lat":-41.33959,"lng":173.96325}
-{"id":"osm:way:466004704","category":"picnic-site","lat":-34.945306,"lng":173.186838}
-{"id":"osm:way:475694952","category":"picnic-site","lat":-43.559357,"lng":172.559882}
-{"id":"osm:way:485426736","category":"picnic-site","lat":-43.589611,"lng":172.798568}
-{"id":"osm:way:542509609","category":"picnic-site","name":"Kowharewa Bay","lat":-35.621868,"lng":174.530625}
-{"id":"osm:way:544410076","category":"picnic-site","name":"Market St Reserve","lat":-45.903097,"lng":170.506847}
-{"id":"osm:way:546459809","category":"picnic-site","lat":-45.907012,"lng":170.510312}
-{"id":"osm:way:547517248","category":"picnic-site","lat":-45.906216,"lng":170.509435}
-{"id":"osm:way:548036342","category":"picnic-site","lat":-45.898764,"lng":170.502613}
-{"id":"osm:way:555339654","category":"picnic-site","lat":-41.196937,"lng":174.863443}
-{"id":"osm:way:556177703","category":"picnic-site","lat":-35.218099,"lng":173.948603}
-{"id":"osm:way:572939402","category":"picnic-site","lat":-43.532027,"lng":172.604431}
-{"id":"osm:way:575715975","category":"picnic-site","name":"Rivendell","lat":-41.057219,"lng":175.193505}
-{"id":"osm:way:610984537","category":"picnic-site","name":"Picnic Area","lat":-43.473146,"lng":172.708434}
-{"id":"osm:way:643027698","category":"picnic-site","name":"Picnic Lawn","lat":-37.704013,"lng":176.045927}
-{"id":"osm:way:643027699","category":"picnic-site","name":"Picnic Lawn","lat":-37.703731,"lng":176.045598}
-{"id":"osm:way:643027701","category":"picnic-site","name":"Picnic Lawn","lat":-37.703789,"lng":176.047225}
-{"id":"osm:way:643027702","category":"picnic-site","name":"Picnic Lawn","lat":-37.704008,"lng":176.047596}
-{"id":"osm:way:643027703","category":"picnic-site","name":"Picnic Lawn","lat":-37.705231,"lng":176.045714}
-{"id":"osm:way:649454458","category":"picnic-site","name":"Public Picnic Area","lat":-37.673539,"lng":176.178775}
-{"id":"osm:way:658989132","category":"picnic-site","lat":-36.898452,"lng":174.783878}
-{"id":"osm:way:662557779","category":"picnic-site","lat":-39.628107,"lng":176.871555}
-{"id":"osm:way:667039082","category":"picnic-site","name":"Totara Flat Picnic Area","lat":-41.300734,"lng":173.575907}
-{"id":"osm:way:687247988","category":"picnic-site","lat":-36.354254,"lng":174.719015}
-{"id":"osm:way:690976706","category":"picnic-site","lat":-43.465927,"lng":172.328845}
-{"id":"osm:way:690982366","category":"picnic-site","name":"Hanmer Bridge Reserve","lat":-42.577469,"lng":172.786841}
-{"id":"osm:way:704870057","category":"picnic-site","lat":-37.110261,"lng":175.298297}
-{"id":"osm:way:704870059","category":"picnic-site","lat":-37.10562,"lng":175.299439}
-{"id":"osm:way:704882367","category":"picnic-site","lat":-37.507572,"lng":175.697252}
-{"id":"osm:way:704882371","category":"picnic-site","lat":-37.591164,"lng":175.64695}
-{"id":"osm:way:705102976","category":"picnic-site","lat":-39.77192,"lng":174.488613}
-{"id":"osm:way:705171892","category":"picnic-site","lat":-42.527058,"lng":172.832508}
-{"id":"osm:way:705171893","category":"picnic-site","lat":-42.654136,"lng":173.025126}
-{"id":"osm:way:725213472","category":"picnic-site","name":"Bendrose Creek","lat":-44.253783,"lng":170.115365}
-{"id":"osm:way:728214090","category":"picnic-site","lat":-36.824557,"lng":175.07233}
-{"id":"osm:way:731407774","category":"picnic-site","lat":-35.259889,"lng":173.391553,"tags":{"access":"yes"}}
-{"id":"osm:way:759546220","category":"picnic-site","lat":-37.773921,"lng":175.213188}
-{"id":"osm:way:759546247","category":"picnic-site","lat":-37.774497,"lng":175.216925}
-{"id":"osm:way:759546248","category":"picnic-site","lat":-37.774457,"lng":175.217321}
-{"id":"osm:way:759546252","category":"picnic-site","lat":-37.774699,"lng":175.217428}
-{"id":"osm:way:800564661","category":"picnic-site","lat":-35.116696,"lng":173.266649}
-{"id":"osm:way:838333000","category":"picnic-site","lat":-41.144596,"lng":175.19713,"tags":{"operator":"Greater Wellington Regional Council"}}
-{"id":"osm:way:887784532","category":"picnic-site","lat":-36.999352,"lng":174.796428}
-{"id":"osm:way:893780904","category":"picnic-site","lat":-37.068129,"lng":175.089652}
-{"id":"osm:way:893780905","category":"picnic-site","lat":-37.068424,"lng":175.090104}
-{"id":"osm:way:979754188","category":"picnic-site","lat":-35.12435,"lng":173.264382}
-{"id":"osm:way:981930996","category":"picnic-site","lat":-35.11651,"lng":173.267746}
+{"id":"osm:node:1000008891","source":"openstreetmap","category":"picnic-site","lat":-43.964557,"lng":171.771484}
+{"id":"osm:node:1000008922","source":"openstreetmap","category":"picnic-site","lat":-43.959761,"lng":171.781925}
+{"id":"osm:node:1000009212","source":"openstreetmap","category":"picnic-site","lat":-43.971218,"lng":171.762617}
+{"id":"osm:node:1000009296","source":"openstreetmap","category":"picnic-site","lat":-43.969475,"lng":171.762442}
+{"id":"osm:node:1010567010","source":"openstreetmap","category":"picnic-site","lat":-36.701931,"lng":174.751883}
+{"id":"osm:node:10107597642","source":"openstreetmap","category":"picnic-site","lat":-36.070014,"lng":173.972371}
+{"id":"osm:node:10113551690","source":"openstreetmap","category":"picnic-site","lat":-36.864608,"lng":175.436278}
+{"id":"osm:node:10113635064","source":"openstreetmap","category":"picnic-site","lat":-36.722175,"lng":175.727212}
+{"id":"osm:node:10113638460","source":"openstreetmap","category":"picnic-site","lat":-36.970033,"lng":175.495048}
+{"id":"osm:node:10235013734","source":"openstreetmap","category":"picnic-site","lat":-43.600829,"lng":172.514994,"tags":{"access":"yes"}}
+{"id":"osm:node:10299654410","source":"openstreetmap","category":"picnic-site","lat":-41.37757,"lng":173.133683}
+{"id":"osm:node:10675784195","source":"openstreetmap","category":"picnic-site","lat":-36.761045,"lng":174.718813}
+{"id":"osm:node:10675868441","source":"openstreetmap","category":"picnic-site","lat":-37.775196,"lng":175.273678}
+{"id":"osm:node:1084415651","source":"openstreetmap","category":"picnic-site","lat":-37.405719,"lng":175.142968}
+{"id":"osm:node:1085383074","source":"openstreetmap","category":"picnic-site","lat":-38.233813,"lng":175.852089}
+{"id":"osm:node:1104413992","source":"openstreetmap","category":"picnic-site","lat":-36.777603,"lng":174.658555}
+{"id":"osm:node:11195308005","source":"openstreetmap","category":"picnic-site","name":"Scow Landing","lat":-36.754783,"lng":174.596992}
+{"id":"osm:node:11268927284","source":"openstreetmap","category":"picnic-site","lat":-38.654012,"lng":175.908987}
+{"id":"osm:node:11389399422","source":"openstreetmap","category":"picnic-site","lat":-42.115708,"lng":171.873557,"tags":{"access":"yes"}}
+{"id":"osm:node:11391405954","source":"openstreetmap","category":"picnic-site","lat":-42.133259,"lng":171.894866}
+{"id":"osm:node:11459147176","source":"openstreetmap","category":"picnic-site","lat":-36.237826,"lng":175.427177}
+{"id":"osm:node:11489117212","source":"openstreetmap","category":"picnic-site","lat":-43.265884,"lng":172.706976}
+{"id":"osm:node:1156527977","source":"openstreetmap","category":"picnic-site","lat":-40.852189,"lng":172.72401}
+{"id":"osm:node:1156528278","source":"openstreetmap","category":"picnic-site","lat":-40.854153,"lng":172.73307}
+{"id":"osm:node:1156528927","source":"openstreetmap","category":"picnic-site","lat":-40.851836,"lng":172.721024}
+{"id":"osm:node:1156529370","source":"openstreetmap","category":"picnic-site","lat":-40.851838,"lng":172.721732}
+{"id":"osm:node:1156529738","source":"openstreetmap","category":"picnic-site","lat":-40.852399,"lng":172.725088}
+{"id":"osm:node:11658654446","source":"openstreetmap","category":"picnic-site","lat":-38.160316,"lng":176.270847}
+{"id":"osm:node:11678950613","source":"openstreetmap","category":"picnic-site","lat":-40.999302,"lng":175.557422}
+{"id":"osm:node:11679044276","source":"openstreetmap","category":"picnic-site","lat":-40.826509,"lng":175.625842}
+{"id":"osm:node:11680844760","source":"openstreetmap","category":"picnic-site","lat":-40.164497,"lng":176.140468}
+{"id":"osm:node:11680894366","source":"openstreetmap","category":"picnic-site","lat":-39.983231,"lng":176.47752}
+{"id":"osm:node:11705144169","source":"openstreetmap","category":"picnic-site","lat":-42.628539,"lng":171.184723}
+{"id":"osm:node:11826801280","source":"openstreetmap","category":"picnic-site","lat":-38.063411,"lng":174.98152}
+{"id":"osm:node:11917138770","source":"openstreetmap","category":"picnic-site","lat":-41.071834,"lng":173.006976}
+{"id":"osm:node:12288474279","source":"openstreetmap","category":"picnic-site","lat":-40.826039,"lng":175.625786}
+{"id":"osm:node:1233280115","source":"openstreetmap","category":"picnic-site","lat":-43.63039,"lng":172.694577}
+{"id":"osm:node:12383549421","source":"openstreetmap","category":"picnic-site","lat":-35.218211,"lng":173.920931}
+{"id":"osm:node:1245256269","source":"openstreetmap","category":"picnic-site","name":"Taitua Arboretum","lat":-37.806904,"lng":175.2149}
+{"id":"osm:node:12511931920","source":"openstreetmap","category":"picnic-site","lat":-39.93779,"lng":174.977741}
+{"id":"osm:node:12537393825","source":"openstreetmap","category":"picnic-site","lat":-37.816188,"lng":174.839436}
+{"id":"osm:node:1263355856","source":"openstreetmap","category":"picnic-site","lat":-38.965151,"lng":174.760539}
+{"id":"osm:node:1263355908","source":"openstreetmap","category":"picnic-site","lat":-38.924568,"lng":174.783526}
+{"id":"osm:node:12657864198","source":"openstreetmap","category":"picnic-site","lat":-45.027832,"lng":168.974758,"tags":{"access":"customers"}}
+{"id":"osm:node:12657864199","source":"openstreetmap","category":"picnic-site","lat":-45.17297,"lng":169.30214}
+{"id":"osm:node:12736320311","source":"openstreetmap","category":"picnic-site","name":"Field of Dreams","lat":-41.18599,"lng":174.926792}
+{"id":"osm:node:12761517240","source":"openstreetmap","category":"picnic-site","lat":-37.859529,"lng":175.681469}
+{"id":"osm:node:12761517250","source":"openstreetmap","category":"picnic-site","lat":-37.859598,"lng":175.681033}
+{"id":"osm:node:13196088179","source":"openstreetmap","category":"picnic-site","lat":-36.727283,"lng":175.707196}
+{"id":"osm:node:13647084376","source":"openstreetmap","category":"picnic-site","lat":-44.693997,"lng":169.135012}
+{"id":"osm:node:1430809029","source":"openstreetmap","category":"picnic-site","lat":-37.798334,"lng":175.269937}
+{"id":"osm:node:1611089912","source":"openstreetmap","category":"picnic-site","lat":-41.234311,"lng":174.779947}
+{"id":"osm:node:1627868754","source":"openstreetmap","category":"picnic-site","name":"Oparara Basin","lat":-41.151411,"lng":172.190639}
+{"id":"osm:node:1666803687","source":"openstreetmap","category":"picnic-site","lat":-36.888534,"lng":175.823472}
+{"id":"osm:node:1670024938","source":"openstreetmap","category":"picnic-site","lat":-36.708451,"lng":175.747605}
+{"id":"osm:node:1699404345","source":"openstreetmap","category":"picnic-site","lat":-36.858703,"lng":174.900285}
+{"id":"osm:node:1702273994","source":"openstreetmap","category":"picnic-site","lat":-36.394729,"lng":174.658361}
+{"id":"osm:node:1746314394","source":"openstreetmap","category":"picnic-site","name":"Swimming Hole and Picnic Table","lat":-40.472707,"lng":175.614828}
+{"id":"osm:node:1759347963","source":"openstreetmap","category":"picnic-site","lat":-41.255868,"lng":175.145807}
+{"id":"osm:node:1771227500","source":"openstreetmap","category":"picnic-site","lat":-37.798268,"lng":175.289061}
+{"id":"osm:node:1804814459","source":"openstreetmap","category":"picnic-site","lat":-35.24631,"lng":174.118643}
+{"id":"osm:node:1804821947","source":"openstreetmap","category":"picnic-site","name":"Rocky Beach","lat":-35.245904,"lng":174.120651}
+{"id":"osm:node:1804846104","source":"openstreetmap","category":"picnic-site","lat":-35.262821,"lng":174.122006}
+{"id":"osm:node:1881986060","source":"openstreetmap","category":"picnic-site","lat":-40.614649,"lng":175.294978}
+{"id":"osm:node:1985244552","source":"openstreetmap","category":"picnic-site","lat":-39.040692,"lng":174.112628}
+{"id":"osm:node:2041604951","source":"openstreetmap","category":"picnic-site","lat":-43.684372,"lng":171.444769}
+{"id":"osm:node:2075565325","source":"openstreetmap","category":"picnic-site","lat":-41.228196,"lng":174.87633}
+{"id":"osm:node:2075565338","source":"openstreetmap","category":"picnic-site","lat":-41.228222,"lng":174.876459}
+{"id":"osm:node:2075565380","source":"openstreetmap","category":"picnic-site","lat":-41.228265,"lng":174.876585}
+{"id":"osm:node:2075565392","source":"openstreetmap","category":"picnic-site","lat":-41.22815,"lng":174.876173}
+{"id":"osm:node:2085251125","source":"openstreetmap","category":"picnic-site","lat":-36.736602,"lng":175.647255}
+{"id":"osm:node:2085251127","source":"openstreetmap","category":"picnic-site","lat":-36.736654,"lng":175.647387}
+{"id":"osm:node:2095569036","source":"openstreetmap","category":"picnic-site","lat":-40.239645,"lng":175.487833}
+{"id":"osm:node:2102181758","source":"openstreetmap","category":"picnic-site","name":"Bellamy Street","lat":-43.520288,"lng":172.73573}
+{"id":"osm:node:2151673379","source":"openstreetmap","category":"picnic-site","lat":-41.28884,"lng":173.327216}
+{"id":"osm:node:2159898799","source":"openstreetmap","category":"picnic-site","lat":-38.135232,"lng":176.245852}
+{"id":"osm:node:2161952529","source":"openstreetmap","category":"picnic-site","lat":-39.914787,"lng":175.02998}
+{"id":"osm:node:2161952530","source":"openstreetmap","category":"picnic-site","lat":-39.914927,"lng":175.031513}
+{"id":"osm:node:2166336867","source":"openstreetmap","category":"picnic-site","lat":-41.256926,"lng":173.101323}
+{"id":"osm:node:2178125854","source":"openstreetmap","category":"picnic-site","lat":-44.694139,"lng":169.134863}
+{"id":"osm:node:2189092063","source":"openstreetmap","category":"picnic-site","lat":-44.099887,"lng":170.829529}
+{"id":"osm:node:2189344054","source":"openstreetmap","category":"picnic-site","lat":-44.097624,"lng":170.832121}
+{"id":"osm:node:2193606536","source":"openstreetmap","category":"picnic-site","lat":-39.700724,"lng":176.897572}
+{"id":"osm:node:2193606537","source":"openstreetmap","category":"picnic-site","lat":-39.700611,"lng":176.898307}
+{"id":"osm:node:2242303173","source":"openstreetmap","category":"picnic-site","lat":-37.102039,"lng":175.799986}
+{"id":"osm:node:2242303642","source":"openstreetmap","category":"picnic-site","lat":-37.314696,"lng":175.882682}
+{"id":"osm:node:2246189053","source":"openstreetmap","category":"picnic-site","lat":-41.743948,"lng":172.397629}
+{"id":"osm:node:2246189443","source":"openstreetmap","category":"picnic-site","lat":-41.786765,"lng":172.36877}
+{"id":"osm:node:2246939568","source":"openstreetmap","category":"picnic-site","lat":-44.253648,"lng":170.11529}
+{"id":"osm:node:2249079484","source":"openstreetmap","category":"picnic-site","lat":-46.131072,"lng":169.918707}
+{"id":"osm:node:2261562329","source":"openstreetmap","category":"picnic-site","name":"Collins Valley Picnic Area","lat":-41.179213,"lng":173.55967}
+{"id":"osm:node:2261636787","source":"openstreetmap","category":"picnic-site","lat":-41.25614,"lng":173.101956}
+{"id":"osm:node:2267244717","source":"openstreetmap","category":"picnic-site","lat":-40.567097,"lng":175.737728}
+{"id":"osm:node:2342888368","source":"openstreetmap","category":"picnic-site","lat":-37.088611,"lng":174.652139}
+{"id":"osm:node:2502367304","source":"openstreetmap","category":"picnic-site","lat":-37.702744,"lng":175.214915}
+{"id":"osm:node:2607238311","source":"openstreetmap","category":"picnic-site","lat":-43.557108,"lng":172.750486}
+{"id":"osm:node:2615895623","source":"openstreetmap","category":"picnic-site","lat":-37.753074,"lng":175.266524}
+{"id":"osm:node:2631877604","source":"openstreetmap","category":"picnic-site","name":"Roys Hill","lat":-39.601783,"lng":176.750067}
+{"id":"osm:node:2631877605","source":"openstreetmap","category":"picnic-site","name":"Lenox Park","lat":-39.553183,"lng":176.811315}
+{"id":"osm:node:2631885801","source":"openstreetmap","category":"picnic-site","name":"Pakowhai Country Park","lat":-39.603115,"lng":176.870482}
+{"id":"osm:node:2640001418","source":"openstreetmap","category":"picnic-site","lat":-37.907688,"lng":174.900584}
+{"id":"osm:node:2641410965","source":"openstreetmap","category":"picnic-site","lat":-36.757492,"lng":175.498674}
+{"id":"osm:node:2642295499","source":"openstreetmap","category":"picnic-site","lat":-37.148592,"lng":175.680902}
+{"id":"osm:node:2647800238","source":"openstreetmap","category":"picnic-site","lat":-42.412634,"lng":173.683427}
+{"id":"osm:node:2647800248","source":"openstreetmap","category":"picnic-site","lat":-42.4142,"lng":173.681745}
+{"id":"osm:node:2647800386","source":"openstreetmap","category":"picnic-site","lat":-42.418868,"lng":173.705402}
+{"id":"osm:node:2649889956","source":"openstreetmap","category":"picnic-site","lat":-42.863688,"lng":173.307673}
+{"id":"osm:node:2649974625","source":"openstreetmap","category":"picnic-site","lat":-45.293585,"lng":168.760773}
+{"id":"osm:node:267797991","source":"openstreetmap","category":"picnic-site","lat":-36.79049,"lng":175.095908}
+{"id":"osm:node:267833917","source":"openstreetmap","category":"picnic-site","lat":-42.003241,"lng":174.010327}
+{"id":"osm:node:2699353811","source":"openstreetmap","category":"picnic-site","lat":-45.546657,"lng":169.313645}
+{"id":"osm:node:2753377037","source":"openstreetmap","category":"picnic-site","lat":-41.325731,"lng":173.220796}
+{"id":"osm:node:2766177810","source":"openstreetmap","category":"picnic-site","lat":-43.588308,"lng":172.50405}
+{"id":"osm:node:2766177815","source":"openstreetmap","category":"picnic-site","lat":-43.588619,"lng":172.502768}
+{"id":"osm:node:2766177819","source":"openstreetmap","category":"picnic-site","lat":-43.588875,"lng":172.503057}
+{"id":"osm:node:2766177822","source":"openstreetmap","category":"picnic-site","lat":-43.589114,"lng":172.503444}
+{"id":"osm:node:2780633873","source":"openstreetmap","category":"picnic-site","lat":-38.114605,"lng":176.307616}
+{"id":"osm:node:2845625630","source":"openstreetmap","category":"picnic-site","lat":-40.747612,"lng":172.709981}
+{"id":"osm:node:285733579","source":"openstreetmap","category":"picnic-site","lat":-43.790372,"lng":172.758485}
+{"id":"osm:node:287578461","source":"openstreetmap","category":"picnic-site","lat":-44.123555,"lng":171.081758}
+{"id":"osm:node:287598412","source":"openstreetmap","category":"picnic-site","lat":-43.519562,"lng":171.654296}
+{"id":"osm:node:287599895","source":"openstreetmap","category":"picnic-site","lat":-43.517091,"lng":171.803029}
+{"id":"osm:node:291981646","source":"openstreetmap","category":"picnic-site","lat":-43.343589,"lng":171.942084}
+{"id":"osm:node:291987657","source":"openstreetmap","category":"picnic-site","lat":-43.361208,"lng":172.05088}
+{"id":"osm:node:291987659","source":"openstreetmap","category":"picnic-site","lat":-43.386708,"lng":172.013491}
+{"id":"osm:node:291991534","source":"openstreetmap","category":"picnic-site","name":"Mistletoe Flat","lat":-43.150948,"lng":171.731081}
+{"id":"osm:node:297630633","source":"openstreetmap","category":"picnic-site","lat":-43.599469,"lng":172.58086}
+{"id":"osm:node:297630664","source":"openstreetmap","category":"picnic-site","lat":-43.598675,"lng":172.579}
+{"id":"osm:node:297630920","source":"openstreetmap","category":"picnic-site","lat":-43.59914,"lng":172.576116}
+{"id":"osm:node:298583368","source":"openstreetmap","category":"picnic-site","name":"Spencer Park","lat":-43.430772,"lng":172.707061}
+{"id":"osm:node:3049982993","source":"openstreetmap","category":"picnic-site","lat":-43.585363,"lng":172.70717}
+{"id":"osm:node:3153626424","source":"openstreetmap","category":"picnic-site","lat":-35.172142,"lng":173.142143}
+{"id":"osm:node:3157655330","source":"openstreetmap","category":"picnic-site","lat":-41.51964,"lng":173.377775}
+{"id":"osm:node:3168000792","source":"openstreetmap","category":"picnic-site","name":"Lake Okaro Reserve","lat":-38.297169,"lng":176.391133}
+{"id":"osm:node:323060362","source":"openstreetmap","category":"picnic-site","lat":-41.303872,"lng":174.005992}
+{"id":"osm:node:323060922","source":"openstreetmap","category":"picnic-site","lat":-41.307926,"lng":174.003275}
+{"id":"osm:node:324207379","source":"openstreetmap","category":"picnic-site","lat":-41.285664,"lng":174.010552}
+{"id":"osm:node:3355689995","source":"openstreetmap","category":"picnic-site","name":"Hawaiki Bay","lat":-38.215937,"lng":176.398322}
+{"id":"osm:node:3355689996","source":"openstreetmap","category":"picnic-site","name":"Te Wairuha","lat":-38.241473,"lng":176.419235}
+{"id":"osm:node:3359006262","source":"openstreetmap","category":"picnic-site","lat":-40.730202,"lng":175.638683}
+{"id":"osm:node:3410995592","source":"openstreetmap","category":"picnic-site","lat":-35.278757,"lng":174.087187}
+{"id":"osm:node:3506493425","source":"openstreetmap","category":"picnic-site","lat":-35.27843,"lng":174.051031}
+{"id":"osm:node:3506493452","source":"openstreetmap","category":"picnic-site","lat":-35.302516,"lng":174.12376}
+{"id":"osm:node:3526805601","source":"openstreetmap","category":"picnic-site","lat":-39.322973,"lng":174.10296}
+{"id":"osm:node:3530742947","source":"openstreetmap","category":"picnic-site","lat":-40.67998,"lng":172.686482}
+{"id":"osm:node:3530742948","source":"openstreetmap","category":"picnic-site","lat":-40.679872,"lng":172.686528}
+{"id":"osm:node:3587555767","source":"openstreetmap","category":"picnic-site","lat":-38.644459,"lng":176.071026}
+{"id":"osm:node:3595199137","source":"openstreetmap","category":"picnic-site","lat":-44.923988,"lng":171.100447}
+{"id":"osm:node:370539603","source":"openstreetmap","category":"picnic-site","lat":-43.553351,"lng":172.579601}
+{"id":"osm:node:3758486021","source":"openstreetmap","category":"picnic-site","lat":-39.040392,"lng":177.386573}
+{"id":"osm:node:3771419784","source":"openstreetmap","category":"picnic-site","lat":-37.893512,"lng":176.206386}
+{"id":"osm:node:3779227419","source":"openstreetmap","category":"picnic-site","lat":-45.855502,"lng":170.38578}
+{"id":"osm:node:390662196","source":"openstreetmap","category":"picnic-site","lat":-43.592591,"lng":172.644606}
+{"id":"osm:node:390662243","source":"openstreetmap","category":"picnic-site","lat":-43.588956,"lng":172.643726}
+{"id":"osm:node:4034010613","source":"openstreetmap","category":"picnic-site","lat":-36.792354,"lng":175.093618}
+{"id":"osm:node:4044603568","source":"openstreetmap","category":"picnic-site","lat":-38.315452,"lng":176.376029}
+{"id":"osm:node:4044603569","source":"openstreetmap","category":"picnic-site","lat":-38.315404,"lng":176.376046}
+{"id":"osm:node:4081665666","source":"openstreetmap","category":"picnic-site","name":"Scott's Beach","lat":-44.609409,"lng":169.261757}
+{"id":"osm:node:4101659740","source":"openstreetmap","category":"picnic-site","lat":-37.467346,"lng":175.986789}
+{"id":"osm:node:4108780270","source":"openstreetmap","category":"picnic-site","lat":-38.26546,"lng":175.079803}
+{"id":"osm:node:4108788545","source":"openstreetmap","category":"picnic-site","lat":-38.265361,"lng":175.079471}
+{"id":"osm:node:4111112529","source":"openstreetmap","category":"picnic-site","lat":-39.420113,"lng":175.403118}
+{"id":"osm:node:4131928647","source":"openstreetmap","category":"picnic-site","name":"Manuka Picnic Area","lat":-41.266094,"lng":173.150424}
+{"id":"osm:node:4134760843","source":"openstreetmap","category":"picnic-site","lat":-38.131029,"lng":176.189372}
+{"id":"osm:node:4137066981","source":"openstreetmap","category":"picnic-site","lat":-40.43804,"lng":176.255833}
+{"id":"osm:node:414268846","source":"openstreetmap","category":"picnic-site","lat":-43.588581,"lng":172.643501}
+{"id":"osm:node:414268847","source":"openstreetmap","category":"picnic-site","lat":-43.58917,"lng":172.643558}
+{"id":"osm:node:4145302389","source":"openstreetmap","category":"picnic-site","lat":-36.532013,"lng":174.711858}
+{"id":"osm:node:4170592095","source":"openstreetmap","category":"picnic-site","lat":-45.572854,"lng":168.50282}
+{"id":"osm:node:4170791196","source":"openstreetmap","category":"picnic-site","lat":-36.31413,"lng":174.76933}
+{"id":"osm:node:4172480489","source":"openstreetmap","category":"picnic-site","lat":-36.3391,"lng":174.78013}
+{"id":"osm:node:4182163563","source":"openstreetmap","category":"picnic-site","lat":-43.608846,"lng":172.700354}
+{"id":"osm:node:4182163572","source":"openstreetmap","category":"picnic-site","lat":-43.609029,"lng":172.700337}
+{"id":"osm:node:4211952000","source":"openstreetmap","category":"picnic-site","name":"Macdonald Recreation Reserve","lat":-36.580358,"lng":175.405682,"tags":{"operator":"Department of Conservation"}}
+{"id":"osm:node:4427405315","source":"openstreetmap","category":"picnic-site","lat":-43.688968,"lng":170.103594}
+{"id":"osm:node:4487866990","source":"openstreetmap","category":"picnic-site","lat":-41.506264,"lng":173.950362}
+{"id":"osm:node:4489764290","source":"openstreetmap","category":"picnic-site","lat":-42.5214,"lng":172.829786}
+{"id":"osm:node:4535183812","source":"openstreetmap","category":"picnic-site","lat":-37.315365,"lng":175.067127}
+{"id":"osm:node:4548771592","source":"openstreetmap","category":"picnic-site","lat":-38.650039,"lng":176.086382}
+{"id":"osm:node:4551567189","source":"openstreetmap","category":"picnic-site","lat":-36.030159,"lng":174.508426}
+{"id":"osm:node:4571212793","source":"openstreetmap","category":"picnic-site","lat":-45.610888,"lng":170.688726}
+{"id":"osm:node:4576099205","source":"openstreetmap","category":"picnic-site","lat":-41.22785,"lng":174.790356}
+{"id":"osm:node:4584334690","source":"openstreetmap","category":"picnic-site","lat":-43.704414,"lng":170.098898}
+{"id":"osm:node:4589978091","source":"openstreetmap","category":"picnic-site","lat":-46.37503,"lng":169.783978}
+{"id":"osm:node:4599039289","source":"openstreetmap","category":"picnic-site","lat":-38.353855,"lng":176.367132}
+{"id":"osm:node:4607233891","source":"openstreetmap","category":"picnic-site","lat":-41.094603,"lng":175.091991}
+{"id":"osm:node:4610852890","source":"openstreetmap","category":"picnic-site","lat":-44.731823,"lng":168.381945}
+{"id":"osm:node:4611439192","source":"openstreetmap","category":"picnic-site","lat":-41.291927,"lng":173.819917}
+{"id":"osm:node:4613914861","source":"openstreetmap","category":"picnic-site","lat":-41.105151,"lng":175.086791}
+{"id":"osm:node:4679533089","source":"openstreetmap","category":"picnic-site","lat":-38.423645,"lng":175.894751}
+{"id":"osm:node:4689965489","source":"openstreetmap","category":"picnic-site","lat":-37.800394,"lng":174.865374}
+{"id":"osm:node:4694149638","source":"openstreetmap","category":"picnic-site","lat":-43.48855,"lng":172.106726}
+{"id":"osm:node:4698319589","source":"openstreetmap","category":"picnic-site","lat":-38.704823,"lng":176.140314}
+{"id":"osm:node:4729065472","source":"openstreetmap","category":"picnic-site","name":"Ryans Creek","lat":-46.902231,"lng":168.090773}
+{"id":"osm:node:4744754035","source":"openstreetmap","category":"picnic-site","lat":-45.85137,"lng":170.70148}
+{"id":"osm:node:4744754036","source":"openstreetmap","category":"picnic-site","lat":-45.850186,"lng":170.705111}
+{"id":"osm:node:4748083925","source":"openstreetmap","category":"picnic-site","lat":-39.881768,"lng":174.9503}
+{"id":"osm:node:4748083926","source":"openstreetmap","category":"picnic-site","lat":-39.881101,"lng":174.951069}
+{"id":"osm:node:4748084024","source":"openstreetmap","category":"picnic-site","lat":-39.883809,"lng":174.949292}
+{"id":"osm:node:4748084027","source":"openstreetmap","category":"picnic-site","lat":-39.881071,"lng":174.951666}
+{"id":"osm:node:4748084123","source":"openstreetmap","category":"picnic-site","lat":-39.884374,"lng":174.949623}
+{"id":"osm:node:4748084124","source":"openstreetmap","category":"picnic-site","lat":-39.881824,"lng":174.952022}
+{"id":"osm:node:4748297021","source":"openstreetmap","category":"picnic-site","lat":-39.885345,"lng":174.902204}
+{"id":"osm:node:4753929523","source":"openstreetmap","category":"picnic-site","lat":-41.508567,"lng":173.951506}
+{"id":"osm:node:4753989524","source":"openstreetmap","category":"picnic-site","lat":-41.806369,"lng":172.843182}
+{"id":"osm:node:477077543","source":"openstreetmap","category":"picnic-site","lat":-41.294385,"lng":174.750073}
+{"id":"osm:node:477077573","source":"openstreetmap","category":"picnic-site","lat":-41.301192,"lng":174.741464}
+{"id":"osm:node:477077574","source":"openstreetmap","category":"picnic-site","lat":-41.29797,"lng":174.744441}
+{"id":"osm:node:477077575","source":"openstreetmap","category":"picnic-site","lat":-41.291277,"lng":174.753076}
+{"id":"osm:node:477077576","source":"openstreetmap","category":"picnic-site","lat":-41.293871,"lng":174.751814}
+{"id":"osm:node:4774073688","source":"openstreetmap","category":"picnic-site","lat":-44.699168,"lng":169.12459}
+{"id":"osm:node:4774073692","source":"openstreetmap","category":"picnic-site","lat":-44.699686,"lng":169.119588}
+{"id":"osm:node:4774078452","source":"openstreetmap","category":"picnic-site","lat":-44.699993,"lng":169.121124}
+{"id":"osm:node:4778064625","source":"openstreetmap","category":"picnic-site","lat":-45.049929,"lng":169.201891}
+{"id":"osm:node:4778081935","source":"openstreetmap","category":"picnic-site","lat":-45.050874,"lng":169.199731}
+{"id":"osm:node:4782010321","source":"openstreetmap","category":"picnic-site","lat":-45.033003,"lng":168.6634}
+{"id":"osm:node:4783916221","source":"openstreetmap","category":"picnic-site","lat":-44.043973,"lng":171.27178}
+{"id":"osm:node:4785591621","source":"openstreetmap","category":"picnic-site","lat":-43.741665,"lng":173.095232}
+{"id":"osm:node:4832028024","source":"openstreetmap","category":"picnic-site","lat":-41.273342,"lng":173.290341}
+{"id":"osm:node:4832063621","source":"openstreetmap","category":"picnic-site","lat":-41.273406,"lng":173.290741}
+{"id":"osm:node:4834295834","source":"openstreetmap","category":"picnic-site","lat":-43.441746,"lng":169.966914}
+{"id":"osm:node:485569617","source":"openstreetmap","category":"picnic-site","lat":-36.988567,"lng":174.478108}
+{"id":"osm:node:4893607184","source":"openstreetmap","category":"picnic-site","name":"Otepatotu","lat":-43.752282,"lng":173.015828}
+{"id":"osm:node:4946507221","source":"openstreetmap","category":"picnic-site","lat":-45.848304,"lng":170.620895}
+{"id":"osm:node:4978487023","source":"openstreetmap","category":"picnic-site","lat":-34.944065,"lng":173.383734}
+{"id":"osm:node:518390868","source":"openstreetmap","category":"picnic-site","name":"Butterfly Creek Picnic Area","lat":-41.31238,"lng":174.900522}
+{"id":"osm:node:5197396426","source":"openstreetmap","category":"picnic-site","lat":-44.698315,"lng":169.12765}
+{"id":"osm:node:5197396427","source":"openstreetmap","category":"picnic-site","lat":-44.697993,"lng":169.128301}
+{"id":"osm:node:5197422521","source":"openstreetmap","category":"picnic-site","lat":-44.699255,"lng":169.12423}
+{"id":"osm:node:5197422522","source":"openstreetmap","category":"picnic-site","lat":-44.698971,"lng":169.125638}
+{"id":"osm:node:5201103721","source":"openstreetmap","category":"picnic-site","lat":-38.50424,"lng":175.204852}
+{"id":"osm:node:5219362237","source":"openstreetmap","category":"picnic-site","lat":-38.187683,"lng":176.330578}
+{"id":"osm:node:5219362238","source":"openstreetmap","category":"picnic-site","lat":-38.134819,"lng":176.259098}
+{"id":"osm:node:5221095532","source":"openstreetmap","category":"picnic-site","lat":-36.837038,"lng":175.741997}
+{"id":"osm:node:5224113532","source":"openstreetmap","category":"picnic-site","lat":-36.852469,"lng":174.762743}
+{"id":"osm:node:5225932924","source":"openstreetmap","category":"picnic-site","lat":-36.952964,"lng":174.484975}
+{"id":"osm:node:5225956221","source":"openstreetmap","category":"picnic-site","lat":-36.953063,"lng":174.484387}
+{"id":"osm:node:5235447223","source":"openstreetmap","category":"picnic-site","lat":-40.336344,"lng":175.81686}
+{"id":"osm:node:5251591904","source":"openstreetmap","category":"picnic-site","lat":-35.359002,"lng":173.546197}
+{"id":"osm:node:5251702119","source":"openstreetmap","category":"picnic-site","lat":-35.537722,"lng":173.372046}
+{"id":"osm:node:5254791023","source":"openstreetmap","category":"picnic-site","lat":-39.433252,"lng":175.283362}
+{"id":"osm:node:5255431168","source":"openstreetmap","category":"picnic-site","lat":-36.556997,"lng":174.475313}
+{"id":"osm:node:5261085121","source":"openstreetmap","category":"picnic-site","lat":-41.034539,"lng":173.022451}
+{"id":"osm:node:5263181932","source":"openstreetmap","category":"picnic-site","name":"Picnic Area","lat":-43.603142,"lng":172.360804}
+{"id":"osm:node:5263181997","source":"openstreetmap","category":"picnic-site","lat":-43.60114,"lng":172.359974}
+{"id":"osm:node:5301526921","source":"openstreetmap","category":"picnic-site","lat":-35.564749,"lng":174.507042}
+{"id":"osm:node:5337941321","source":"openstreetmap","category":"picnic-site","lat":-41.630829,"lng":171.862064}
+{"id":"osm:node:5344039986","source":"openstreetmap","category":"picnic-site","name":"Waipapa Landing Picnic Area","lat":-35.203391,"lng":173.968742}
+{"id":"osm:node:5355280124","source":"openstreetmap","category":"picnic-site","lat":-42.744674,"lng":171.000157}
+{"id":"osm:node:5370657457","source":"openstreetmap","category":"picnic-site","lat":-46.038299,"lng":170.10364}
+{"id":"osm:node:5430227906","source":"openstreetmap","category":"picnic-site","lat":-41.054856,"lng":173.76923}
+{"id":"osm:node:544985905","source":"openstreetmap","category":"picnic-site","lat":-42.501547,"lng":173.514006}
+{"id":"osm:node:5476557442","source":"openstreetmap","category":"picnic-site","lat":-43.05977,"lng":170.63398}
+{"id":"osm:node:5477056322","source":"openstreetmap","category":"picnic-site","lat":-45.188488,"lng":169.316801}
+{"id":"osm:node:5483735323","source":"openstreetmap","category":"picnic-site","lat":-45.063433,"lng":169.746017}
+{"id":"osm:node:5483735422","source":"openstreetmap","category":"picnic-site","lat":-45.055792,"lng":169.737313}
+{"id":"osm:node:5492257521","source":"openstreetmap","category":"picnic-site","lat":-45.184188,"lng":170.160701}
+{"id":"osm:node:5499779074","source":"openstreetmap","category":"picnic-site","lat":-37.277174,"lng":175.290751}
+{"id":"osm:node:5534913288","source":"openstreetmap","category":"picnic-site","lat":-44.17152,"lng":169.143015}
+{"id":"osm:node:5553624921","source":"openstreetmap","category":"picnic-site","lat":-40.787422,"lng":172.762058}
+{"id":"osm:node:5565416621","source":"openstreetmap","category":"picnic-site","lat":-44.937741,"lng":168.829825}
+{"id":"osm:node:5585816970","source":"openstreetmap","category":"picnic-site","name":"Sawmillers Commenorative Picnic Ground","lat":-38.883362,"lng":175.30829}
+{"id":"osm:node:5597807721","source":"openstreetmap","category":"picnic-site","lat":-41.419343,"lng":174.03442}
+{"id":"osm:node:5612901137","source":"openstreetmap","category":"picnic-site","lat":-36.809392,"lng":175.473177}
+{"id":"osm:node:5636533717","source":"openstreetmap","category":"picnic-site","lat":-41.744515,"lng":171.595877}
+{"id":"osm:node:5636537525","source":"openstreetmap","category":"picnic-site","lat":-36.159788,"lng":174.441894}
+{"id":"osm:node:5636537648","source":"openstreetmap","category":"picnic-site","lat":-36.029725,"lng":174.507524}
+{"id":"osm:node:5644993359","source":"openstreetmap","category":"picnic-site","lat":-37.690592,"lng":176.134355}
+{"id":"osm:node:5644993360","source":"openstreetmap","category":"picnic-site","lat":-37.690411,"lng":176.134517}
+{"id":"osm:node:5644993361","source":"openstreetmap","category":"picnic-site","lat":-37.690592,"lng":176.134584}
+{"id":"osm:node:566123591","source":"openstreetmap","category":"picnic-site","name":"Mt Grey Picnic Area","lat":-43.148701,"lng":172.527512}
+{"id":"osm:node:566149903","source":"openstreetmap","category":"picnic-site","name":"Lake Janet Picnic Area","lat":-43.136626,"lng":172.554423}
+{"id":"osm:node:573879710","source":"openstreetmap","category":"picnic-site","lat":-36.98653,"lng":174.482059}
+{"id":"osm:node:588150367","source":"openstreetmap","category":"picnic-site","lat":-36.91017,"lng":174.543323}
+{"id":"osm:node:5923402985","source":"openstreetmap","category":"picnic-site","lat":-35.304387,"lng":174.101975}
+{"id":"osm:node:6077219568","source":"openstreetmap","category":"picnic-site","lat":-41.300733,"lng":173.576692}
+{"id":"osm:node:6143888586","source":"openstreetmap","category":"picnic-site","lat":-41.016705,"lng":174.917579}
+{"id":"osm:node:6204275253","source":"openstreetmap","category":"picnic-site","lat":-46.366024,"lng":168.019955}
+{"id":"osm:node:6221992153","source":"openstreetmap","category":"picnic-site","lat":-36.952926,"lng":174.485271}
+{"id":"osm:node:6240644195","source":"openstreetmap","category":"picnic-site","lat":-38.804193,"lng":175.689981}
+{"id":"osm:node:6260954085","source":"openstreetmap","category":"picnic-site","lat":-43.75089,"lng":172.927983}
+{"id":"osm:node:6265143585","source":"openstreetmap","category":"picnic-site","lat":-43.698024,"lng":170.162988}
+{"id":"osm:node:6270552686","source":"openstreetmap","category":"picnic-site","lat":-46.133172,"lng":168.319538}
+{"id":"osm:node:6294726885","source":"openstreetmap","category":"picnic-site","lat":-40.848069,"lng":172.770458}
+{"id":"osm:node:6304682785","source":"openstreetmap","category":"picnic-site","lat":-38.671948,"lng":176.070574}
+{"id":"osm:node:6307224485","source":"openstreetmap","category":"picnic-site","lat":-38.129833,"lng":176.264809}
+{"id":"osm:node:6309488485","source":"openstreetmap","category":"picnic-site","lat":-37.665425,"lng":176.15002}
+{"id":"osm:node:6311943879","source":"openstreetmap","category":"picnic-site","lat":-41.401626,"lng":173.051708}
+{"id":"osm:node:6311949485","source":"openstreetmap","category":"picnic-site","lat":-36.925176,"lng":175.69327}
+{"id":"osm:node:6315036888","source":"openstreetmap","category":"picnic-site","lat":-35.812789,"lng":173.643589}
+{"id":"osm:node:6336709145","source":"openstreetmap","category":"picnic-site","lat":-42.052612,"lng":173.957945}
+{"id":"osm:node:6361608950","source":"openstreetmap","category":"picnic-site","lat":-36.777042,"lng":174.659041}
+{"id":"osm:node:6361608951","source":"openstreetmap","category":"picnic-site","lat":-36.777166,"lng":174.658872}
+{"id":"osm:node:6369366277","source":"openstreetmap","category":"picnic-site","lat":-36.030265,"lng":174.508577}
+{"id":"osm:node:6369366278","source":"openstreetmap","category":"picnic-site","lat":-36.030039,"lng":174.508274}
+{"id":"osm:node:6369366279","source":"openstreetmap","category":"picnic-site","lat":-36.029925,"lng":174.50812}
+{"id":"osm:node:6369366280","source":"openstreetmap","category":"picnic-site","lat":-36.02934,"lng":174.507437}
+{"id":"osm:node:6369366281","source":"openstreetmap","category":"picnic-site","lat":-36.029475,"lng":174.507582}
+{"id":"osm:node:6369366282","source":"openstreetmap","category":"picnic-site","lat":-36.029557,"lng":174.507268}
+{"id":"osm:node:6435145985","source":"openstreetmap","category":"picnic-site","lat":-46.6615,"lng":169.104958}
+{"id":"osm:node:6441694162","source":"openstreetmap","category":"picnic-site","name":"Riverglade Lane Esplanade Reserve","lat":-36.354335,"lng":174.718851}
+{"id":"osm:node:6447083765","source":"openstreetmap","category":"picnic-site","lat":-36.851711,"lng":174.705497}
+{"id":"osm:node:6489728785","source":"openstreetmap","category":"picnic-site","lat":-42.15659,"lng":171.79265}
+{"id":"osm:node:6489728786","source":"openstreetmap","category":"picnic-site","lat":-42.156383,"lng":171.792405}
+{"id":"osm:node:6489728985","source":"openstreetmap","category":"picnic-site","lat":-42.156103,"lng":171.792349}
+{"id":"osm:node:6498991488","source":"openstreetmap","category":"picnic-site","lat":-39.066302,"lng":177.398337}
+{"id":"osm:node:6515955385","source":"openstreetmap","category":"picnic-site","lat":-41.156487,"lng":172.921759}
+{"id":"osm:node:6578990086","source":"openstreetmap","category":"picnic-site","lat":-42.506933,"lng":172.843479}
+{"id":"osm:node:667236375","source":"openstreetmap","category":"picnic-site","lat":-36.940005,"lng":174.467776}
+{"id":"osm:node:6806853587","source":"openstreetmap","category":"picnic-site","name":"Scow landing","lat":-35.643933,"lng":174.429155}
+{"id":"osm:node:6822752691","source":"openstreetmap","category":"picnic-site","lat":-46.42839,"lng":169.450381}
+{"id":"osm:node:6959360088","source":"openstreetmap","category":"picnic-site","lat":-39.414332,"lng":175.397324}
+{"id":"osm:node:6959360090","source":"openstreetmap","category":"picnic-site","lat":-39.403906,"lng":175.410504}
+{"id":"osm:node:6959360091","source":"openstreetmap","category":"picnic-site","lat":-39.415912,"lng":175.401863}
+{"id":"osm:node:6959360197","source":"openstreetmap","category":"picnic-site","lat":-39.402057,"lng":175.411866}
+{"id":"osm:node:6959360198","source":"openstreetmap","category":"picnic-site","lat":-39.402192,"lng":175.411763}
+{"id":"osm:node:6959360200","source":"openstreetmap","category":"picnic-site","lat":-39.415804,"lng":175.401689}
+{"id":"osm:node:6964757285","source":"openstreetmap","category":"picnic-site","lat":-39.399722,"lng":175.414508}
+{"id":"osm:node:6964757489","source":"openstreetmap","category":"picnic-site","lat":-39.401129,"lng":175.412497}
+{"id":"osm:node:6964757585","source":"openstreetmap","category":"picnic-site","lat":-39.408271,"lng":175.408144}
+{"id":"osm:node:696607031","source":"openstreetmap","category":"picnic-site","lat":-38.157547,"lng":175.69491}
+{"id":"osm:node:696607032","source":"openstreetmap","category":"picnic-site","lat":-38.033946,"lng":175.826619}
+{"id":"osm:node:6968254350","source":"openstreetmap","category":"picnic-site","lat":-45.794656,"lng":170.460072}
+{"id":"osm:node:6978530885","source":"openstreetmap","category":"picnic-site","lat":-41.72973,"lng":171.590782}
+{"id":"osm:node:6978648216","source":"openstreetmap","category":"picnic-site","lat":-36.531009,"lng":174.712081}
+{"id":"osm:node:6978648217","source":"openstreetmap","category":"picnic-site","lat":-36.531355,"lng":174.711908}
+{"id":"osm:node:6978648221","source":"openstreetmap","category":"picnic-site","lat":-36.53193,"lng":174.712263}
+{"id":"osm:node:6978648222","source":"openstreetmap","category":"picnic-site","lat":-36.531671,"lng":174.71187}
+{"id":"osm:node:6981757587","source":"openstreetmap","category":"picnic-site","lat":-41.753074,"lng":171.598327}
+{"id":"osm:node:6981757588","source":"openstreetmap","category":"picnic-site","lat":-41.7533,"lng":171.600978}
+{"id":"osm:node:6981982986","source":"openstreetmap","category":"picnic-site","lat":-41.761168,"lng":171.600178}
+{"id":"osm:node:6981982987","source":"openstreetmap","category":"picnic-site","lat":-41.76115,"lng":171.600343}
+{"id":"osm:node:6983481588","source":"openstreetmap","category":"picnic-site","lat":-41.754608,"lng":171.601769}
+{"id":"osm:node:6984073066","source":"openstreetmap","category":"picnic-site","lat":-43.389657,"lng":170.181751}
+{"id":"osm:node:6997698986","source":"openstreetmap","category":"picnic-site","lat":-45.035076,"lng":168.653772}
+{"id":"osm:node:6997708385","source":"openstreetmap","category":"picnic-site","lat":-45.032209,"lng":168.662191}
+{"id":"osm:node:7005006585","source":"openstreetmap","category":"picnic-site","lat":-45.030028,"lng":168.687184}
+{"id":"osm:node:7012774952","source":"openstreetmap","category":"picnic-site","lat":-36.787823,"lng":175.080213}
+{"id":"osm:node:7022874493","source":"openstreetmap","category":"picnic-site","lat":-38.233664,"lng":175.851984}
+{"id":"osm:node:7022874494","source":"openstreetmap","category":"picnic-site","lat":-38.233748,"lng":175.852005}
+{"id":"osm:node:7022874495","source":"openstreetmap","category":"picnic-site","lat":-38.233786,"lng":175.852038}
+{"id":"osm:node:7022874509","source":"openstreetmap","category":"picnic-site","lat":-38.234393,"lng":175.853621}
+{"id":"osm:node:7022874510","source":"openstreetmap","category":"picnic-site","lat":-38.234187,"lng":175.853596}
+{"id":"osm:node:7022874511","source":"openstreetmap","category":"picnic-site","lat":-38.234002,"lng":175.853591}
+{"id":"osm:node:7022874512","source":"openstreetmap","category":"picnic-site","lat":-38.233783,"lng":175.853568}
+{"id":"osm:node:7022874513","source":"openstreetmap","category":"picnic-site","lat":-38.23335,"lng":175.853236}
+{"id":"osm:node:7022874514","source":"openstreetmap","category":"picnic-site","lat":-38.233136,"lng":175.853169}
+{"id":"osm:node:7022874515","source":"openstreetmap","category":"picnic-site","lat":-38.233145,"lng":175.852683}
+{"id":"osm:node:7037910385","source":"openstreetmap","category":"picnic-site","lat":-44.966873,"lng":168.808283}
+{"id":"osm:node:7142075085","source":"openstreetmap","category":"picnic-site","lat":-38.189158,"lng":175.212955}
+{"id":"osm:node:7143845685","source":"openstreetmap","category":"picnic-site","lat":-41.265914,"lng":173.153756}
+{"id":"osm:node:7194093980","source":"openstreetmap","category":"picnic-site","name":"Fourvière Picnic Area","lat":-43.193023,"lng":172.734,"tags":{"website":"https://www.fourviere.nz/","access":"yes","operator":"Fourvière NZ","addr:postcode":"7481","addr:city":"Leithfield, Amberley, North Canterbury, New Zealand"}}
+{"id":"osm:node:7252187116","source":"openstreetmap","category":"picnic-site","name":"Kumutoto Bay Picnic Area","lat":-41.209968,"lng":174.074209}
+{"id":"osm:node:7265893691","source":"openstreetmap","category":"picnic-site","lat":-38.052129,"lng":175.660924}
+{"id":"osm:node:7265893692","source":"openstreetmap","category":"picnic-site","lat":-38.057698,"lng":175.660275}
+{"id":"osm:node:7265893693","source":"openstreetmap","category":"picnic-site","lat":-38.060858,"lng":175.657715}
+{"id":"osm:node:726922111","source":"openstreetmap","category":"picnic-site","lat":-37.007056,"lng":174.585118}
+{"id":"osm:node:7270683286","source":"openstreetmap","category":"picnic-site","lat":-38.39301,"lng":175.762836}
+{"id":"osm:node:7270683287","source":"openstreetmap","category":"picnic-site","lat":-38.395667,"lng":175.768498}
+{"id":"osm:node:7270683385","source":"openstreetmap","category":"picnic-site","lat":-38.379854,"lng":175.777001}
+{"id":"osm:node:727336103","source":"openstreetmap","category":"picnic-site","lat":-42.59109,"lng":171.111034}
+{"id":"osm:node:7307405240","source":"openstreetmap","category":"picnic-site","name":"Observation Beach Picnic Area","lat":-40.966593,"lng":173.051507}
+{"id":"osm:node:7799569285","source":"openstreetmap","category":"picnic-site","lat":-41.186937,"lng":173.361341}
+{"id":"osm:node:7799569286","source":"openstreetmap","category":"picnic-site","lat":-41.186697,"lng":173.36149}
+{"id":"osm:node:7946475770","source":"openstreetmap","category":"picnic-site","lat":-43.64858,"lng":172.490939}
+{"id":"osm:node:8119622618","source":"openstreetmap","category":"picnic-site","lat":-44.987679,"lng":170.731782}
+{"id":"osm:node:8339899006","source":"openstreetmap","category":"picnic-site","lat":-43.200707,"lng":172.251478}
+{"id":"osm:node:8359146125","source":"openstreetmap","category":"picnic-site","lat":-35.345889,"lng":173.708246}
+{"id":"osm:node:860813775","source":"openstreetmap","category":"picnic-site","lat":-37.707567,"lng":175.300375}
+{"id":"osm:node:8686720715","source":"openstreetmap","category":"picnic-site","lat":-45.918474,"lng":169.689911,"tags":{"access":"yes","description":"Picnic area with one covered picnic table and three uncovered tables.  BBQ no longer functions.  There is also a tandem swing."}}
+{"id":"osm:node:8925892135","source":"openstreetmap","category":"picnic-site","lat":-38.036319,"lng":176.242578}
+{"id":"osm:node:9025709620","source":"openstreetmap","category":"picnic-site","lat":-35.116451,"lng":173.262092}
+{"id":"osm:node:9073734096","source":"openstreetmap","category":"picnic-site","lat":-41.116077,"lng":175.177667}
+{"id":"osm:node:9268010731","source":"openstreetmap","category":"picnic-site","name":"Park","lat":-40.184751,"lng":175.386566}
+{"id":"osm:node:9405890771","source":"openstreetmap","category":"picnic-site","lat":-36.607069,"lng":174.811057}
+{"id":"osm:node:9405890772","source":"openstreetmap","category":"picnic-site","lat":-36.606944,"lng":174.811813}
+{"id":"osm:node:9424396763","source":"openstreetmap","category":"picnic-site","lat":-46.018525,"lng":169.506742}
+{"id":"osm:node:945699309","source":"openstreetmap","category":"picnic-site","lat":-43.594887,"lng":172.64505}
+{"id":"osm:node:9572200018","source":"openstreetmap","category":"picnic-site","lat":-43.698601,"lng":170.096595}
+{"id":"osm:node:9667187513","source":"openstreetmap","category":"picnic-site","lat":-36.947762,"lng":175.106215}
+{"id":"osm:node:967787522","source":"openstreetmap","category":"picnic-site","lat":-43.200737,"lng":172.252035}
+{"id":"osm:node:972033247","source":"openstreetmap","category":"picnic-site","lat":-36.607119,"lng":174.810034}
+{"id":"osm:node:972094562","source":"openstreetmap","category":"picnic-site","lat":-36.724492,"lng":175.714563}
+{"id":"osm:node:972123058","source":"openstreetmap","category":"picnic-site","lat":-38.68777,"lng":176.068166}
+{"id":"osm:node:9743377602","source":"openstreetmap","category":"picnic-site","lat":-43.641199,"lng":172.486492}
+{"id":"osm:node:975688973","source":"openstreetmap","category":"picnic-site","lat":-36.607029,"lng":174.811053}
+{"id":"osm:node:983114098","source":"openstreetmap","category":"picnic-site","lat":-43.360977,"lng":172.049832}
+{"id":"osm:node:9863015520","source":"openstreetmap","category":"picnic-site","lat":-36.589155,"lng":174.698001}
+{"id":"osm:node:987488375","source":"openstreetmap","category":"picnic-site","lat":-36.59445,"lng":174.69993}
+{"id":"osm:node:987488414","source":"openstreetmap","category":"picnic-site","lat":-36.589247,"lng":174.697878}
+{"id":"osm:node:9952057585","source":"openstreetmap","category":"picnic-site","lat":-36.779826,"lng":175.035045}
+{"id":"osm:relation:12350387","source":"openstreetmap","category":"picnic-site","lat":-43.464165,"lng":172.593685,"tags":{"access":"customers","operator":"Willowbank"}}
+{"id":"osm:relation:17991048","source":"openstreetmap","category":"picnic-site","name":"Kanuka Picnic Area","lat":-41.298837,"lng":173.572629}
+{"id":"osm:relation:6951051","source":"openstreetmap","category":"picnic-site","lat":-43.532677,"lng":172.741977}
+{"id":"osm:way:1007417537","source":"openstreetmap","category":"picnic-site","lat":-35.114742,"lng":173.266475}
+{"id":"osm:way:1012946437","source":"openstreetmap","category":"picnic-site","lat":-37.039881,"lng":174.506652}
+{"id":"osm:way:1053787871","source":"openstreetmap","category":"picnic-site","lat":-43.800137,"lng":172.969411}
+{"id":"osm:way:1053787873","source":"openstreetmap","category":"picnic-site","lat":-43.799955,"lng":172.96847}
+{"id":"osm:way:1067843699","source":"openstreetmap","category":"picnic-site","lat":-39.129337,"lng":177.884947}
+{"id":"osm:way:1068891073","source":"openstreetmap","category":"picnic-site","lat":-37.952926,"lng":175.803157,"tags":{"access":"private"}}
+{"id":"osm:way:1076745037","source":"openstreetmap","category":"picnic-site","lat":-36.740054,"lng":174.422961}
+{"id":"osm:way:1140613838","source":"openstreetmap","category":"picnic-site","name":"St Anne's Lagoon Reserve","lat":-42.779224,"lng":173.268563}
+{"id":"osm:way:1152546323","source":"openstreetmap","category":"picnic-site","lat":-43.850902,"lng":172.772017}
+{"id":"osm:way:1158896182","source":"openstreetmap","category":"picnic-site","lat":-43.512792,"lng":172.508343}
+{"id":"osm:way:1159568854","source":"openstreetmap","category":"picnic-site","lat":-43.564425,"lng":172.739674}
+{"id":"osm:way:1205121222","source":"openstreetmap","category":"picnic-site","name":"Tui Terrace","lat":-41.296126,"lng":174.747737}
+{"id":"osm:way:1227689842","source":"openstreetmap","category":"picnic-site","lat":-40.455983,"lng":175.84343}
+{"id":"osm:way:1235069420","source":"openstreetmap","category":"picnic-site","name":"Conservation Corner","lat":-41.320694,"lng":174.784974}
+{"id":"osm:way:1235069421","source":"openstreetmap","category":"picnic-site","lat":-41.320692,"lng":174.784483}
+{"id":"osm:way:1235069422","source":"openstreetmap","category":"picnic-site","lat":-41.320741,"lng":174.784537}
+{"id":"osm:way:1235074474","source":"openstreetmap","category":"picnic-site","lat":-41.322224,"lng":174.784327}
+{"id":"osm:way:1279437154","source":"openstreetmap","category":"picnic-site","lat":-41.058642,"lng":174.936674}
+{"id":"osm:way:1293790525","source":"openstreetmap","category":"picnic-site","name":"Graham Stream Picnic Area","lat":-41.185342,"lng":173.486798}
+{"id":"osm:way:1330920581","source":"openstreetmap","category":"picnic-site","lat":-40.502413,"lng":175.283438}
+{"id":"osm:way:1362541087","source":"openstreetmap","category":"picnic-site","lat":-38.670495,"lng":178.014483}
+{"id":"osm:way:1368345811","source":"openstreetmap","category":"picnic-site","lat":-39.680496,"lng":176.883099}
+{"id":"osm:way:1368345812","source":"openstreetmap","category":"picnic-site","lat":-39.680512,"lng":176.882968}
+{"id":"osm:way:1381575568","source":"openstreetmap","category":"picnic-site","lat":-38.093514,"lng":176.224268}
+{"id":"osm:way:1382485987","source":"openstreetmap","category":"picnic-site","lat":-42.445539,"lng":171.214955}
+{"id":"osm:way:1425556569","source":"openstreetmap","category":"picnic-site","lat":-42.534462,"lng":171.182672}
+{"id":"osm:way:1426560461","source":"openstreetmap","category":"picnic-site","lat":-45.092287,"lng":170.953085}
+{"id":"osm:way:1426560462","source":"openstreetmap","category":"picnic-site","lat":-45.092022,"lng":170.953605}
+{"id":"osm:way:1464978170","source":"openstreetmap","category":"picnic-site","name":"The Pipes picnic area","lat":-41.328586,"lng":174.868506}
+{"id":"osm:way:1472578303","source":"openstreetmap","category":"picnic-site","lat":-36.68874,"lng":174.749536,"tags":{"website":"https://www.aucklandcouncil.govt.nz/content/ac/en/parks-recreation/bookable-sites/long-bay-site-7.html"}}
+{"id":"osm:way:1472578304","source":"openstreetmap","category":"picnic-site","lat":-36.68898,"lng":174.749826,"tags":{"website":"https://www.aucklandcouncil.govt.nz/content/ac/en/parks-recreation/bookable-sites/long-bay-site-6.html"}}
+{"id":"osm:way:1472578305","source":"openstreetmap","category":"picnic-site","lat":-36.688467,"lng":174.750916,"tags":{"website":"https://www.aucklandcouncil.govt.nz/content/ac/en/parks-recreation/bookable-sites/long-bay-site-1.html"}}
+{"id":"osm:way:1472578306","source":"openstreetmap","category":"picnic-site","lat":-36.687784,"lng":174.750942,"tags":{"website":"https://www.aucklandcouncil.govt.nz/content/ac/en/parks-recreation/bookable-sites/long-bay-site-2.html"}}
+{"id":"osm:way:1472578307","source":"openstreetmap","category":"picnic-site","lat":-36.686716,"lng":174.75033,"tags":{"website":"https://www.aucklandcouncil.govt.nz/content/ac/en/parks-recreation/bookable-sites/long-bay-site-3.html"}}
+{"id":"osm:way:1472578308","source":"openstreetmap","category":"picnic-site","lat":-36.685792,"lng":174.750074,"tags":{"website":"https://www.aucklandcouncil.govt.nz/content/ac/en/parks-recreation/bookable-sites/long-bay-site-4.html"}}
+{"id":"osm:way:1500953023","source":"openstreetmap","category":"picnic-site","lat":-45.080772,"lng":169.234022}
+{"id":"osm:way:1536141058","source":"openstreetmap","category":"picnic-site","lat":-43.69646,"lng":173.062953}
+{"id":"osm:way:24724048","source":"openstreetmap","category":"picnic-site","lat":-46.561619,"lng":169.474002}
+{"id":"osm:way:257564578","source":"openstreetmap","category":"picnic-site","name":"Kamala's","lat":-41.320941,"lng":174.784282}
+{"id":"osm:way:269821223","source":"openstreetmap","category":"picnic-site","lat":-42.7915,"lng":170.906168}
+{"id":"osm:way:304159885","source":"openstreetmap","category":"picnic-site","lat":-41.263705,"lng":174.762208}
+{"id":"osm:way:310006061","source":"openstreetmap","category":"picnic-site","lat":-35.177443,"lng":173.134935}
+{"id":"osm:way:310006062","source":"openstreetmap","category":"picnic-site","lat":-35.176556,"lng":173.136535}
+{"id":"osm:way:310343299","source":"openstreetmap","category":"picnic-site","lat":-41.533332,"lng":173.394596}
+{"id":"osm:way:425874471","source":"openstreetmap","category":"picnic-site","lat":-41.33959,"lng":173.96325}
+{"id":"osm:way:466004704","source":"openstreetmap","category":"picnic-site","lat":-34.945306,"lng":173.186838}
+{"id":"osm:way:475694952","source":"openstreetmap","category":"picnic-site","lat":-43.559357,"lng":172.559882}
+{"id":"osm:way:485426736","source":"openstreetmap","category":"picnic-site","lat":-43.589611,"lng":172.798568}
+{"id":"osm:way:542509609","source":"openstreetmap","category":"picnic-site","name":"Kowharewa Bay","lat":-35.621868,"lng":174.530625}
+{"id":"osm:way:544410076","source":"openstreetmap","category":"picnic-site","name":"Market St Reserve","lat":-45.903097,"lng":170.506847}
+{"id":"osm:way:546459809","source":"openstreetmap","category":"picnic-site","lat":-45.907012,"lng":170.510312}
+{"id":"osm:way:547517248","source":"openstreetmap","category":"picnic-site","lat":-45.906216,"lng":170.509435}
+{"id":"osm:way:548036342","source":"openstreetmap","category":"picnic-site","lat":-45.898764,"lng":170.502613}
+{"id":"osm:way:555339654","source":"openstreetmap","category":"picnic-site","lat":-41.196937,"lng":174.863443}
+{"id":"osm:way:556177703","source":"openstreetmap","category":"picnic-site","lat":-35.218099,"lng":173.948603}
+{"id":"osm:way:572939402","source":"openstreetmap","category":"picnic-site","lat":-43.532027,"lng":172.604431}
+{"id":"osm:way:575715975","source":"openstreetmap","category":"picnic-site","name":"Rivendell","lat":-41.057219,"lng":175.193505}
+{"id":"osm:way:610984537","source":"openstreetmap","category":"picnic-site","name":"Picnic Area","lat":-43.473146,"lng":172.708434}
+{"id":"osm:way:643027698","source":"openstreetmap","category":"picnic-site","name":"Picnic Lawn","lat":-37.704013,"lng":176.045927}
+{"id":"osm:way:643027699","source":"openstreetmap","category":"picnic-site","name":"Picnic Lawn","lat":-37.703731,"lng":176.045598}
+{"id":"osm:way:643027701","source":"openstreetmap","category":"picnic-site","name":"Picnic Lawn","lat":-37.703789,"lng":176.047225}
+{"id":"osm:way:643027702","source":"openstreetmap","category":"picnic-site","name":"Picnic Lawn","lat":-37.704008,"lng":176.047596}
+{"id":"osm:way:643027703","source":"openstreetmap","category":"picnic-site","name":"Picnic Lawn","lat":-37.705231,"lng":176.045714}
+{"id":"osm:way:649454458","source":"openstreetmap","category":"picnic-site","name":"Public Picnic Area","lat":-37.673539,"lng":176.178775}
+{"id":"osm:way:658989132","source":"openstreetmap","category":"picnic-site","lat":-36.898452,"lng":174.783878}
+{"id":"osm:way:662557779","source":"openstreetmap","category":"picnic-site","lat":-39.628107,"lng":176.871555}
+{"id":"osm:way:667039082","source":"openstreetmap","category":"picnic-site","name":"Totara Flat Picnic Area","lat":-41.300734,"lng":173.575907}
+{"id":"osm:way:687247988","source":"openstreetmap","category":"picnic-site","lat":-36.354254,"lng":174.719015}
+{"id":"osm:way:690976706","source":"openstreetmap","category":"picnic-site","lat":-43.465927,"lng":172.328845}
+{"id":"osm:way:690982366","source":"openstreetmap","category":"picnic-site","name":"Hanmer Bridge Reserve","lat":-42.577469,"lng":172.786841}
+{"id":"osm:way:704870057","source":"openstreetmap","category":"picnic-site","lat":-37.110261,"lng":175.298297}
+{"id":"osm:way:704870059","source":"openstreetmap","category":"picnic-site","lat":-37.10562,"lng":175.299439}
+{"id":"osm:way:704882367","source":"openstreetmap","category":"picnic-site","lat":-37.507572,"lng":175.697252}
+{"id":"osm:way:704882371","source":"openstreetmap","category":"picnic-site","lat":-37.591164,"lng":175.64695}
+{"id":"osm:way:705102976","source":"openstreetmap","category":"picnic-site","lat":-39.77192,"lng":174.488613}
+{"id":"osm:way:705171892","source":"openstreetmap","category":"picnic-site","lat":-42.527058,"lng":172.832508}
+{"id":"osm:way:705171893","source":"openstreetmap","category":"picnic-site","lat":-42.654136,"lng":173.025126}
+{"id":"osm:way:725213472","source":"openstreetmap","category":"picnic-site","name":"Bendrose Creek","lat":-44.253783,"lng":170.115365}
+{"id":"osm:way:728214090","source":"openstreetmap","category":"picnic-site","lat":-36.824557,"lng":175.07233}
+{"id":"osm:way:731407774","source":"openstreetmap","category":"picnic-site","lat":-35.259889,"lng":173.391553,"tags":{"access":"yes"}}
+{"id":"osm:way:759546220","source":"openstreetmap","category":"picnic-site","lat":-37.773921,"lng":175.213188}
+{"id":"osm:way:759546247","source":"openstreetmap","category":"picnic-site","lat":-37.774497,"lng":175.216925}
+{"id":"osm:way:759546248","source":"openstreetmap","category":"picnic-site","lat":-37.774457,"lng":175.217321}
+{"id":"osm:way:759546252","source":"openstreetmap","category":"picnic-site","lat":-37.774699,"lng":175.217428}
+{"id":"osm:way:800564661","source":"openstreetmap","category":"picnic-site","lat":-35.116696,"lng":173.266649}
+{"id":"osm:way:838333000","source":"openstreetmap","category":"picnic-site","lat":-41.144596,"lng":175.19713,"tags":{"operator":"Greater Wellington Regional Council"}}
+{"id":"osm:way:887784532","source":"openstreetmap","category":"picnic-site","lat":-36.999352,"lng":174.796428}
+{"id":"osm:way:893780904","source":"openstreetmap","category":"picnic-site","lat":-37.068129,"lng":175.089652}
+{"id":"osm:way:893780905","source":"openstreetmap","category":"picnic-site","lat":-37.068424,"lng":175.090104}
+{"id":"osm:way:979754188","source":"openstreetmap","category":"picnic-site","lat":-35.12435,"lng":173.264382}
+{"id":"osm:way:981930996","source":"openstreetmap","category":"picnic-site","lat":-35.11651,"lng":173.267746}

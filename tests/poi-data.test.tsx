@@ -4,7 +4,8 @@ import os from "node:os";
 import path from "node:path";
 import test from "node:test";
 import { renderToStaticMarkup } from "react-dom/server";
-import { NearbyPoiSection } from "../components/NearbyPoiSection";
+import { EvChargingSection, NearbyPoiSection } from "../components/NearbyPoiSection";
+import { evStationDetailItems, evStationDetailLine, type EvMapStation } from "../lib/ev-station-display";
 import {
   __resetPoiDataCacheForTests,
   getNearbyPoisForPostcode,
@@ -53,13 +54,18 @@ test("POI utilities resolve AU and NZ postcode refs, counts and OSM links", () =
   const au = getNearbyPoisForPostcode("au", "2000");
   const nz = getNearbyPoisForPostcode("nz", "1010");
 
-  assert.equal(au.length, 3);
+  assert.equal(au.length, 4);
   assert.equal(nz.length, 1);
-  assert.deepEqual(au.map((place) => place.id), ["osm:node:1001", "osm:way:1002", "osm:node:1003"]);
-  assert.deepEqual(au.map((place) => place.distanceKm), [0.5, 0.2, 0.7]);
+  assert.deepEqual(au.map((place) => place.id), ["osm:node:1001", "osm:way:1002", "osm:node:1003", "external:au-ev:EV1"]);
+  assert.deepEqual(au.map((place) => place.distanceKm), [0.5, 0.2, 0.7, 0.9]);
   assert.equal(au[1].osmUrl, "https://www.openstreetmap.org/way/1002");
   assert.equal(au[1].googleMapsUrl, "https://www.google.com/maps/search/?api=1&query=-33.861,151.201");
-  assert.deepEqual(getPoiCountsForPostcode("au", "2000"), { park: 1, "public-bbq": 1, playground: 1 });
+  assert.equal(au[3].id, "external:au-ev:EV1");
+  assert.equal(au[3].osmUrl, undefined);
+  assert.equal(au[3].googleMapsUrl, "https://www.google.com/maps/search/?api=1&query=-33.863,151.203");
+  assert.equal(au[3].tags?.operator, "Chargefox");
+  assert.equal(au[3].tags?.numberOfPlugs, 4);
+  assert.deepEqual(getPoiCountsForPostcode("au", "2000"), { park: 1, "public-bbq": 1, playground: 1, "ev-charger": 1 });
   assert.deepEqual(getPoiCountsForPostcode("nz", "1010"), { museum: 1 });
   assert.equal(hasPoiData("au", "9999"), false);
 });
@@ -85,18 +91,33 @@ test("POI labels, counts and rendered section are safe and static-friendly", () 
   const html = renderToStaticMarkup(
     <NearbyPoiSection postcode="2000" locality="Sydney" places={places} counts={counts} manifest={manifest} />
   );
+  const evHtml = renderToStaticMarkup(
+    <EvChargingSection postcode="2000" locality="Sydney" places={places} manifest={manifest} />
+  );
 
   assert.equal(displayPoiName(places[1]), "Public BBQ location");
   assert.match(buildPoiSummary({ postcode: "2000", locality: "Sydney", counts }), /Around Sydney postcode 2000/);
-  assert.match(buildPoiSummary({ postcode: "2000", locality: "Sydney", counts }), /1 park, 1 mapped public BBQ location and 1 playground/);
+  assert.match(buildPoiSummary({ postcode: "2000", locality: "Sydney", counts }), /1 park, 1 mapped public BBQ location, 1 EV charger and 1 playground/);
+  assert.match(buildPoiSummary({ postcode: "2000", locality: "Sydney", counts: { park: 1, "public-bbq": 1, playground: 1 } }), /1 park, 1 mapped public BBQ location and 1 playground/);
   assert.match(html, /Nearby parks, BBQs and places to visit/);
   assert.match(html, /Nearby local places/);
   assert.match(html, /<button[^>]*aria-pressed="true"[^>]*>All<\/button>/);
   assert.match(html, /<button[^>]*aria-pressed="false"[^>]*>1 park<\/button>/);
   assert.match(html, /<button[^>]*aria-pressed="false"[^>]*>1 mapped public BBQ location<\/button>/);
   assert.match(html, /<button[^>]*aria-pressed="false"[^>]*>1 playground<\/button>/);
+  assert.doesNotMatch(html, /<button[^>]*aria-pressed="false"[^>]*>1 EV charger<\/button>/);
   assert.match(html, /Royal Park/);
   assert.match(html, /Public BBQ location/);
+  assert.doesNotMatch(html, /EV charger/);
+  assert.match(evHtml, /EV chargers near postcode 2000/);
+  assert.match(evHtml, /EV charging/);
+  assert.match(evHtml, /EV charger/);
+  assert.match(evHtml, /Chargefox · Fast charger · 50 kW · 4 ports · 2 Type 2 · 1 J1772/);
+  assert.doesNotMatch(evHtml, /4 plugs| · kW/);
+  assert.match(evHtml, /0.90 km from this postcode centre/);
+  assert.match(evHtml, /Open in Google Maps/);
+  assert.match(evHtml, /Place data © OpenStreetMap contributors, available under the ODbL/);
+  assert.match(evHtml, /EV charger details may include Australian public EV charging station data/);
   assert.match(html, /0.20 km from this postcode centre/);
   assert.match(html, /Open in Google Maps/);
   assert.match(html, /https:\/\/www\.google\.com\/maps\/search\/\?api=1&amp;query=-33\.861,151\.201/);
@@ -119,7 +140,10 @@ test("POI metadata and ItemList schema use only visible preview facts", () => {
   process.env.AUSNZ_POI_DATA_DIR = root;
   const places = getNearbyPoisForPostcode("au", "2000");
   const counts = getPoiCountsForPostcode("au", "2000");
-  const previews = getPreviewPlaces(places, 3);
+  const previews = getPreviewPlaces(
+    places.filter((place) => place.category !== "ev-charger"),
+    3
+  );
   const description = buildPoiMetaDescription({
     postcode: "2000",
     locality: "Sydney",
@@ -144,6 +168,65 @@ test("POI metadata and ItemList schema use only visible preview facts", () => {
   assert.doesNotMatch(JSON.stringify(schema), /retained nearby OpenStreetMap results|opening_hours|wheelchair|inside this postcode|top-rated|official place/i);
 });
 
+test("EV map data is compact and browser-safe", () => {
+  const filePath = path.join(process.cwd(), "public/ev-chargers.json");
+  const data = readJson(filePath);
+
+  assert.equal(data.schemaVersion, 1);
+  assert.equal(data.countries.au.count > 0, true);
+  assert.equal(data.countries.nz.count > 0, true);
+  assert.equal(data.countries.au.stations.length, data.countries.au.count);
+  assert.equal(data.countries.nz.stations.length, data.countries.nz.count);
+
+  const auStation = data.countries.au.stations.find((station: { source?: string }) => station.source === "australian-public-ev-chargers");
+  const nzStation = data.countries.nz.stations[0];
+  assert.ok(auStation);
+  assert.equal(Number.isFinite(auStation.lat), true);
+  assert.equal(Number.isFinite(auStation.lng), true);
+  assert.match(auStation.googleMapsUrl, /^https:\/\/www\.google\.com\/maps\/search\/\?api=1&query=-?\d/);
+  assert.equal(auStation.category, undefined);
+  assert.equal(nzStation.country, "nz");
+  assert.doesNotMatch(JSON.stringify(data), /data\/generated\/poi|places-normalised|\\.osm\\.pbf|\\.geojsonseq/);
+});
+
+test("EV map display helpers show useful charger details", () => {
+  const station: EvMapStation = {
+    id: "external:au-ev:test",
+    country: "au",
+    name: "Town Hall fast charger",
+    lat: -33.863,
+    lng: 151.203,
+    googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=-33.863,151.203",
+    operator: "Chargefox",
+    chargerType: "Fast charger",
+    capacity: "150 kW",
+    ports: 4,
+    connectors: {
+      tesla: 0,
+      type2: 2,
+      j1772: 1
+    },
+    suburb: "Sydney",
+    postcode: "2000"
+  };
+
+  assert.deepEqual(evStationDetailItems(station), [
+    { label: "Operator", value: "Chargefox" },
+    { label: "Charging type", value: "Fast charger" },
+    { label: "Power", value: "150 kW" },
+    { label: "Ports", value: "4 ports" },
+    { label: "Type 2", value: "2" },
+    { label: "J1772", value: "1" },
+    { label: "Suburb / locality", value: "Sydney" },
+    { label: "Postcode", value: "2000" }
+  ]);
+  assert.equal(
+    evStationDetailLine(station),
+    "Chargefox · Fast charger · 150 kW · 4 ports · 2 Type 2 · 1 J1772 · Sydney · postcode 2000"
+  );
+  assert.doesNotMatch(evStationDetailLine(station), /0 Tesla|plugs/);
+});
+
 function fixtureDataset() {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), "ausnz-poi-web-"));
   writeJson(path.join(root, "manifest.json"), manifestFixture());
@@ -157,6 +240,25 @@ function fixtureDataset() {
   ]);
   writeNdjson(path.join(root, "au/places/playground.ndjson"), [
     { id: "osm:node:1003", category: "playground", name: "Harbour Playground", lat: -33.862, lng: 151.202 }
+  ]);
+  writeNdjson(path.join(root, "au/places/ev-charger.ndjson"), [
+    {
+      id: "external:au-ev:EV1",
+      source: "australian-public-ev-chargers",
+      category: "ev-charger",
+      name: "Town Hall fast charger",
+      lat: -33.863,
+      lng: 151.203,
+      tags: {
+        operator: "Chargefox",
+        chargerType: "Fast charger",
+        numberOfPlugs: 4,
+        chargerCapacities: "50 kW",
+        teslaConnectors: 0,
+        type2Connectors: 2,
+        j1772Connectors: 1
+      }
+    }
   ]);
   writeNdjson(path.join(root, "nz/places/museum.ndjson"), [
     { id: "osm:relation:2001", category: "museum", name: "Auckland Museum", lat: -36.85, lng: 174.76 }
@@ -172,7 +274,8 @@ function fixtureDataset() {
         places: [
           { id: "osm:node:1001", category: "park", distanceKm: 0.5 },
           { id: "osm:way:1002", category: "public-bbq", distanceKm: 0.2 },
-          { id: "osm:node:1003", category: "playground", distanceKm: 0.7 }
+          { id: "osm:node:1003", category: "playground", distanceKm: 0.7 },
+          { id: "external:au-ev:EV1", category: "ev-charger", distanceKm: 0.9 }
         ]
       },
       "2999": { locality: "No places", stateOrRegion: "NSW", places: [] }
@@ -202,7 +305,7 @@ function manifestFixture(): PoiManifest {
     licence: "Open Database License (ODbL)",
     attribution: "Place data © OpenStreetMap contributors, available under the Open Database License.",
     countries: ["au", "nz"],
-    approvedCategories: ["dog-park", "museum", "park", "picnic-site", "playground", "public-bbq", "viewpoint"],
+    approvedCategories: ["dog-park", "ev-charger", "museum", "park", "picnic-site", "playground", "public-bbq", "viewpoint"],
     configuredCategoryRadiiKm: {
       "public-bbq": 5,
       park: 5,
@@ -210,13 +313,14 @@ function manifestFixture(): PoiManifest {
       playground: 5,
       "picnic-site": 10,
       viewpoint: 20,
-      museum: 15
+      museum: 15,
+      "ev-charger": 10
     },
     configuredPerCategoryLimit: 10,
     configuredTotalPostcodeLimit: 30,
     includeUnreferencedPois: false,
-    uniquePoisEmitted: 4,
-    totalPostcodeReferences: 4
+    uniquePoisEmitted: 5,
+    totalPostcodeReferences: 5
   };
 }
 

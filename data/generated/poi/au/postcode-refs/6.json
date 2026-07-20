@@ -108,6 +108,11 @@
           "distanceKm": 0.87
         },
         {
+          "id": "osm:node:13699193279",
+          "category": "ev-charger",
+          "distanceKm": 0.9
+        },
+        {
           "id": "osm:node:1627950144",
           "category": "playground",
           "distanceKm": 0.9
@@ -128,6 +133,16 @@
           "distanceKm": 1.01
         },
         {
+          "id": "osm:node:12162894162",
+          "category": "ev-charger",
+          "distanceKm": 1.04
+        },
+        {
+          "id": "osm:node:8443926799",
+          "category": "ev-charger",
+          "distanceKm": 1.04
+        },
+        {
           "id": "osm:way:1337935288",
           "category": "playground",
           "distanceKm": 1.09
@@ -141,21 +156,6 @@
           "id": "osm:node:1615318081",
           "category": "public-bbq",
           "distanceKm": 1.11
-        },
-        {
-          "id": "osm:node:13626154290",
-          "category": "public-bbq",
-          "distanceKm": 1.19
-        },
-        {
-          "id": "osm:node:1607458154",
-          "category": "playground",
-          "distanceKm": 1.2
-        },
-        {
-          "id": "osm:node:13463495547",
-          "category": "public-bbq",
-          "distanceKm": 1.21
         }
       ]
     },
@@ -330,6 +330,11 @@
           "distanceKm": 0.4
         },
         {
+          "id": "osm:node:1638722815",
+          "category": "ev-charger",
+          "distanceKm": 0.4
+        },
+        {
           "id": "osm:node:11067163818",
           "category": "playground",
           "distanceKm": 0.41
@@ -463,11 +468,6 @@
           "id": "osm:node:13463495547",
           "category": "public-bbq",
           "distanceKm": 0.95
-        },
-        {
-          "id": "osm:node:13450175447",
-          "category": "public-bbq",
-          "distanceKm": 0.96
         }
       ]
     },
@@ -621,9 +621,9 @@
           "distanceKm": 0.99
         },
         {
-          "id": "osm:node:1607458154",
-          "category": "playground",
-          "distanceKm": 1.11
+          "id": "osm:node:13699193279",
+          "category": "ev-charger",
+          "distanceKm": 1.07
         }
       ]
     },
@@ -665,6 +665,11 @@
           "id": "osm:node:4030822895",
           "category": "public-bbq",
           "distanceKm": 0.43
+        },
+        {
+          "id": "osm:node:13688544702",
+          "category": "ev-charger",
+          "distanceKm": 0.46
         },
         {
           "id": "osm:relation:12949347",
@@ -775,11 +780,6 @@
           "id": "osm:node:4450242190",
           "category": "viewpoint",
           "distanceKm": 1.14
-        },
-        {
-          "id": "osm:node:9553902917",
-          "category": "public-bbq",
-          "distanceKm": 1.21
         }
       ]
     },
@@ -851,6 +851,11 @@
           "id": "osm:node:9810245017",
           "category": "playground",
           "distanceKm": 0.79
+        },
+        {
+          "id": "osm:node:12124075972",
+          "category": "ev-charger",
+          "distanceKm": 0.82
         },
         {
           "id": "osm:way:392105791",
@@ -931,11 +936,6 @@
           "id": "osm:node:5759865477",
           "category": "public-bbq",
           "distanceKm": 1.52
-        },
-        {
-          "id": "osm:node:13155709840",
-          "category": "museum",
-          "distanceKm": 1.71
         }
       ]
     },
@@ -997,6 +997,11 @@
           "id": "osm:way:1169526267",
           "category": "park",
           "distanceKm": 0.59
+        },
+        {
+          "id": "osm:node:12836488814",
+          "category": "ev-charger",
+          "distanceKm": 0.61
         },
         {
           "id": "osm:node:9129011220",
@@ -1087,11 +1092,6 @@
           "id": "osm:node:4013738642",
           "category": "playground",
           "distanceKm": 1
-        },
-        {
-          "id": "osm:way:974506555",
-          "category": "playground",
-          "distanceKm": 1.02
         }
       ]
     },
@@ -1361,8 +1361,18 @@
           "distanceKm": 1.43
         },
         {
+          "id": "osm:node:9247816817",
+          "category": "ev-charger",
+          "distanceKm": 1.44
+        },
+        {
           "id": "osm:node:13355335601",
           "category": "playground",
+          "distanceKm": 1.58
+        },
+        {
+          "id": "osm:node:13157601721",
+          "category": "ev-charger",
           "distanceKm": 1.58
         },
         {
@@ -1394,16 +1404,6 @@
           "id": "osm:way:45845348",
           "category": "playground",
           "distanceKm": 1.75
-        },
-        {
-          "id": "osm:node:8463404109",
-          "category": "viewpoint",
-          "distanceKm": 2.01
-        },
-        {
-          "id": "osm:way:876020705",
-          "category": "viewpoint",
-          "distanceKm": 2.01
         }
       ]
     },
@@ -2609,6 +2609,16 @@
           "distanceKm": 1.76
         },
         {
+          "id": "osm:node:9273513112",
+          "category": "ev-charger",
+          "distanceKm": 1.91
+        },
+        {
+          "id": "osm:node:10147383653",
+          "category": "ev-charger",
+          "distanceKm": 2.01
+        },
+        {
           "id": "osm:way:468315804",
           "category": "picnic-site",
           "distanceKm": 2.13
@@ -2642,16 +2652,6 @@
           "id": "osm:node:8448017566",
           "category": "public-bbq",
           "distanceKm": 2.95
-        },
-        {
-          "id": "osm:node:8448017567",
-          "category": "public-bbq",
-          "distanceKm": 2.95
-        },
-        {
-          "id": "osm:node:4112848969",
-          "category": "viewpoint",
-          "distanceKm": 3.3
         }
       ]
     },
@@ -3067,6 +3067,11 @@
           "distanceKm": 1.4
         },
         {
+          "id": "osm:node:10147383653",
+          "category": "ev-charger",
+          "distanceKm": 1.44
+        },
+        {
           "id": "osm:way:622951433",
           "category": "playground",
           "distanceKm": 1.47
@@ -3102,6 +3107,11 @@
           "distanceKm": 2.32
         },
         {
+          "id": "osm:node:9273513112",
+          "category": "ev-charger",
+          "distanceKm": 3.39
+        },
+        {
           "id": "osm:node:860204616",
           "category": "picnic-site",
           "distanceKm": 3.58
@@ -3110,16 +3120,6 @@
           "id": "osm:way:1326249846",
           "category": "dog-park",
           "distanceKm": 3.59
-        },
-        {
-          "id": "osm:node:860203814",
-          "category": "public-bbq",
-          "distanceKm": 3.6
-        },
-        {
-          "id": "osm:node:860204196",
-          "category": "picnic-site",
-          "distanceKm": 3.6
         }
       ]
     },
@@ -3268,13 +3268,13 @@
           "distanceKm": 2.41
         },
         {
-          "id": "osm:node:458769886",
-          "category": "public-bbq",
-          "distanceKm": 2.96
+          "id": "osm:node:10147383653",
+          "category": "ev-charger",
+          "distanceKm": 2.92
         },
         {
-          "id": "osm:node:458769887",
-          "category": "picnic-site",
+          "id": "osm:node:458769886",
+          "category": "public-bbq",
           "distanceKm": 2.96
         }
       ]
@@ -4018,6 +4018,11 @@
           "distanceKm": 1.97
         },
         {
+          "id": "osm:node:9277136376",
+          "category": "ev-charger",
+          "distanceKm": 2.18
+        },
+        {
           "id": "osm:way:1153614874",
           "category": "viewpoint",
           "distanceKm": 2.45
@@ -4043,19 +4048,14 @@
           "distanceKm": 2.5
         },
         {
+          "id": "osm:node:9277136375",
+          "category": "ev-charger",
+          "distanceKm": 2.52
+        },
+        {
           "id": "osm:node:625095447",
           "category": "picnic-site",
           "distanceKm": 2.88
-        },
-        {
-          "id": "osm:node:625095453",
-          "category": "picnic-site",
-          "distanceKm": 2.89
-        },
-        {
-          "id": "osm:node:625095457",
-          "category": "picnic-site",
-          "distanceKm": 2.93
         }
       ]
     },
@@ -4184,6 +4184,11 @@
           "distanceKm": 1.49
         },
         {
+          "id": "osm:way:1453281818",
+          "category": "ev-charger",
+          "distanceKm": 1.54
+        },
+        {
           "id": "osm:node:625095453",
           "category": "picnic-site",
           "distanceKm": 1.73
@@ -4204,14 +4209,9 @@
           "distanceKm": 2.04
         },
         {
-          "id": "osm:node:765040466",
-          "category": "public-bbq",
-          "distanceKm": 2.16
-        },
-        {
-          "id": "osm:node:694282448",
-          "category": "picnic-site",
-          "distanceKm": 2.27
+          "id": "osm:node:9277136375",
+          "category": "ev-charger",
+          "distanceKm": 2.09
         }
       ]
     },
@@ -4345,6 +4345,11 @@
           "distanceKm": 1.85
         },
         {
+          "id": "osm:node:9273513112",
+          "category": "ev-charger",
+          "distanceKm": 1.98
+        },
+        {
           "id": "osm:way:1506494809",
           "category": "playground",
           "distanceKm": 1.99
@@ -4363,11 +4368,6 @@
           "id": "osm:node:277751613",
           "category": "museum",
           "distanceKm": 2.67
-        },
-        {
-          "id": "osm:node:9409259666",
-          "category": "public-bbq",
-          "distanceKm": 3.05
         }
       ]
     },
@@ -4677,9 +4677,9 @@
           "distanceKm": 4.97
         },
         {
-          "id": "osm:node:833994653",
-          "category": "viewpoint",
-          "distanceKm": 5.12
+          "id": "osm:way:1453281818",
+          "category": "ev-charger",
+          "distanceKm": 5.1
         }
       ]
     },
@@ -5779,6 +5779,11 @@
           "distanceKm": 0.46
         },
         {
+          "id": "osm:node:1638722815",
+          "category": "ev-charger",
+          "distanceKm": 0.63
+        },
+        {
           "id": "osm:way:1036525721",
           "category": "playground",
           "distanceKm": 0.74
@@ -5907,11 +5912,6 @@
           "id": "osm:node:1615318057",
           "category": "public-bbq",
           "distanceKm": 1.35
-        },
-        {
-          "id": "osm:node:13461845465",
-          "category": "public-bbq",
-          "distanceKm": 1.4
         }
       ]
     },
@@ -6267,6 +6267,11 @@
           "distanceKm": 0.57
         },
         {
+          "id": "osm:way:1420655078",
+          "category": "ev-charger",
+          "distanceKm": 0.59
+        },
+        {
           "id": "osm:way:141407154",
           "category": "park",
           "distanceKm": 0.62
@@ -6375,11 +6380,6 @@
           "id": "osm:node:10294379409",
           "category": "public-bbq",
           "distanceKm": 2.21
-        },
-        {
-          "id": "osm:node:11848697892",
-          "category": "public-bbq",
-          "distanceKm": 2.23
         }
       ]
     },
@@ -7620,14 +7620,14 @@
           "distanceKm": 4.5
         },
         {
+          "id": "osm:node:10147383653",
+          "category": "ev-charger",
+          "distanceKm": 4.53
+        },
+        {
           "id": "osm:node:10147383656",
           "category": "public-bbq",
           "distanceKm": 4.63
-        },
-        {
-          "id": "osm:node:859655899",
-          "category": "viewpoint",
-          "distanceKm": 5.28
         }
       ]
     },
@@ -10759,6 +10759,16 @@
           "distanceKm": 0.5
         },
         {
+          "id": "osm:node:13288466097",
+          "category": "ev-charger",
+          "distanceKm": 0.54
+        },
+        {
+          "id": "osm:node:13288466098",
+          "category": "ev-charger",
+          "distanceKm": 0.54
+        },
+        {
           "id": "osm:way:553159323",
           "category": "park",
           "distanceKm": 0.54
@@ -10802,6 +10812,11 @@
           "id": "osm:node:9778514217",
           "category": "playground",
           "distanceKm": 0.81
+        },
+        {
+          "id": "osm:node:13979774401",
+          "category": "ev-charger",
+          "distanceKm": 0.83
         },
         {
           "id": "osm:way:473823777",
@@ -10852,21 +10867,6 @@
           "id": "osm:way:471423016",
           "category": "dog-park",
           "distanceKm": 1.2
-        },
-        {
-          "id": "osm:node:12960353858",
-          "category": "playground",
-          "distanceKm": 1.29
-        },
-        {
-          "id": "osm:node:4813500339",
-          "category": "public-bbq",
-          "distanceKm": 1.66
-        },
-        {
-          "id": "osm:node:13475468450",
-          "category": "public-bbq",
-          "distanceKm": 1.67
         }
       ]
     },
@@ -10990,6 +10990,11 @@
           "distanceKm": 1.08
         },
         {
+          "id": "osm:node:11800735919",
+          "category": "ev-charger",
+          "distanceKm": 1.09
+        },
+        {
           "id": "osm:node:13437605380",
           "category": "playground",
           "distanceKm": 1.09
@@ -11018,11 +11023,6 @@
           "id": "osm:node:2663319787",
           "category": "public-bbq",
           "distanceKm": 2.21
-        },
-        {
-          "id": "osm:node:8740905057",
-          "category": "public-bbq",
-          "distanceKm": 2.24
         }
       ]
     },
@@ -11634,6 +11634,11 @@
           "distanceKm": 2.48
         },
         {
+          "id": "osm:node:13979774401",
+          "category": "ev-charger",
+          "distanceKm": 2.75
+        },
+        {
           "id": "osm:node:13305520162",
           "category": "public-bbq",
           "distanceKm": 2.88
@@ -11642,11 +11647,6 @@
           "id": "osm:node:13305520163",
           "category": "public-bbq",
           "distanceKm": 2.89
-        },
-        {
-          "id": "osm:node:13305541239",
-          "category": "dog-park",
-          "distanceKm": 2.99
         }
       ]
     },
@@ -11678,6 +11678,16 @@
           "id": "osm:way:1216460476",
           "category": "playground",
           "distanceKm": 0.59
+        },
+        {
+          "id": "osm:way:1214014320",
+          "category": "ev-charger",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:way:1214014293",
+          "category": "ev-charger",
+          "distanceKm": 0.67
         },
         {
           "id": "osm:way:1214028634",
@@ -11793,16 +11803,6 @@
           "id": "osm:node:2708129591",
           "category": "museum",
           "distanceKm": 2.61
-        },
-        {
-          "id": "osm:node:13018298629",
-          "category": "public-bbq",
-          "distanceKm": 2.64
-        },
-        {
-          "id": "osm:node:2708129643",
-          "category": "public-bbq",
-          "distanceKm": 2.86
         }
       ]
     },
@@ -11931,6 +11931,11 @@
           "distanceKm": 0.89
         },
         {
+          "id": "osm:way:1328808555",
+          "category": "ev-charger",
+          "distanceKm": 1.14
+        },
+        {
           "id": "osm:way:935704954",
           "category": "museum",
           "distanceKm": 2.69
@@ -11941,6 +11946,11 @@
           "distanceKm": 3.42
         },
         {
+          "id": "osm:way:1308846528",
+          "category": "ev-charger",
+          "distanceKm": 3.84
+        },
+        {
           "id": "osm:node:2708129591",
           "category": "museum",
           "distanceKm": 3.89
@@ -11949,16 +11959,6 @@
           "id": "osm:node:13483930252",
           "category": "public-bbq",
           "distanceKm": 3.89
-        },
-        {
-          "id": "osm:node:13611540186",
-          "category": "public-bbq",
-          "distanceKm": 3.96
-        },
-        {
-          "id": "osm:node:13611540187",
-          "category": "public-bbq",
-          "distanceKm": 3.96
         }
       ]
     },
@@ -12228,6 +12228,11 @@
           "distanceKm": 1.35
         },
         {
+          "id": "osm:way:1308846528",
+          "category": "ev-charger",
+          "distanceKm": 1.96
+        },
+        {
           "id": "osm:node:11047510405",
           "category": "viewpoint",
           "distanceKm": 2.8
@@ -12266,11 +12271,6 @@
           "id": "osm:node:11256780334",
           "category": "public-bbq",
           "distanceKm": 2.97
-        },
-        {
-          "id": "osm:node:11256817822",
-          "category": "public-bbq",
-          "distanceKm": 2.98
         }
       ]
     },
@@ -12495,9 +12495,9 @@
           "distanceKm": 7.81
         },
         {
-          "id": "osm:node:6720404897",
-          "category": "viewpoint",
-          "distanceKm": 9.91
+          "id": "osm:way:1308846528",
+          "category": "ev-charger",
+          "distanceKm": 8.83
         }
       ]
     },
@@ -13046,6 +13046,11 @@
           "distanceKm": 8.65
         },
         {
+          "id": "osm:node:9607930796",
+          "category": "ev-charger",
+          "distanceKm": 9.18
+        },
+        {
           "id": "osm:node:5071652223",
           "category": "picnic-site",
           "distanceKm": 9.51
@@ -13197,6 +13202,11 @@
           "distanceKm": 2.14
         },
         {
+          "id": "osm:way:1328808555",
+          "category": "ev-charger",
+          "distanceKm": 2.44
+        },
+        {
           "id": "osm:node:13239153325",
           "category": "public-bbq",
           "distanceKm": 2.61
@@ -13215,11 +13225,6 @@
           "id": "osm:way:741729959",
           "category": "dog-park",
           "distanceKm": 2.82
-        },
-        {
-          "id": "osm:node:2694487444",
-          "category": "public-bbq",
-          "distanceKm": 2.98
         }
       ]
     },
@@ -13368,14 +13373,14 @@
           "distanceKm": 1.65
         },
         {
-          "id": "osm:node:11840372525",
-          "category": "public-bbq",
-          "distanceKm": 2.16
+          "id": "osm:node:12718341939",
+          "category": "ev-charger",
+          "distanceKm": 1.85
         },
         {
-          "id": "osm:node:13475468406",
-          "category": "public-bbq",
-          "distanceKm": 2.3
+          "id": "osm:node:12718341938",
+          "category": "ev-charger",
+          "distanceKm": 1.86
         }
       ]
     },
@@ -13680,14 +13685,14 @@
           "distanceKm": 2.92
         },
         {
-          "id": "osm:node:12689367176",
-          "category": "public-bbq",
+          "id": "osm:node:3203111051",
+          "category": "ev-charger",
           "distanceKm": 3.01
         },
         {
-          "id": "osm:node:9217807054",
+          "id": "osm:node:12689367176",
           "category": "public-bbq",
-          "distanceKm": 3.17
+          "distanceKm": 3.01
         }
       ]
     },
@@ -13977,6 +13982,11 @@
           "distanceKm": 2.04
         },
         {
+          "id": "osm:node:11800735919",
+          "category": "ev-charger",
+          "distanceKm": 2.18
+        },
+        {
           "id": "osm:way:868531167",
           "category": "public-bbq",
           "distanceKm": 2.23
@@ -13995,11 +14005,6 @@
           "id": "osm:node:6540347613",
           "category": "public-bbq",
           "distanceKm": 2.38
-        },
-        {
-          "id": "osm:node:5419535321",
-          "category": "picnic-site",
-          "distanceKm": 2.39
         }
       ]
     },
@@ -14051,6 +14056,11 @@
           "id": "osm:way:1215226662",
           "category": "park",
           "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:12848118528",
+          "category": "ev-charger",
+          "distanceKm": 0.99
         },
         {
           "id": "osm:node:3359325005",
@@ -14113,6 +14123,11 @@
           "distanceKm": 1.14
         },
         {
+          "id": "osm:node:3203111051",
+          "category": "ev-charger",
+          "distanceKm": 1.17
+        },
+        {
           "id": "osm:node:298075720",
           "category": "playground",
           "distanceKm": 1.18
@@ -14146,16 +14161,6 @@
           "id": "osm:node:12308519036",
           "category": "viewpoint",
           "distanceKm": 2.25
-        },
-        {
-          "id": "osm:node:12308519022",
-          "category": "public-bbq",
-          "distanceKm": 2.26
-        },
-        {
-          "id": "osm:node:12308519023",
-          "category": "public-bbq",
-          "distanceKm": 2.27
         }
       ]
     },
@@ -14222,6 +14227,16 @@
           "id": "osm:way:242172069",
           "category": "park",
           "distanceKm": 1.02
+        },
+        {
+          "id": "osm:node:3203111051",
+          "category": "ev-charger",
+          "distanceKm": 1.03
+        },
+        {
+          "id": "osm:node:12848118528",
+          "category": "ev-charger",
+          "distanceKm": 1.07
         },
         {
           "id": "osm:node:1923115731",
@@ -14302,16 +14317,6 @@
           "id": "osm:node:2441491824",
           "category": "public-bbq",
           "distanceKm": 2.07
-        },
-        {
-          "id": "osm:node:5419535321",
-          "category": "picnic-site",
-          "distanceKm": 3.11
-        },
-        {
-          "id": "osm:node:6540347613",
-          "category": "public-bbq",
-          "distanceKm": 3.11
         }
       ]
     },
@@ -14430,6 +14435,31 @@
           "distanceKm": 1.69
         },
         {
+          "id": "osm:node:12896071181",
+          "category": "ev-charger",
+          "distanceKm": 1.75
+        },
+        {
+          "id": "osm:node:12896071180",
+          "category": "ev-charger",
+          "distanceKm": 1.76
+        },
+        {
+          "id": "osm:node:12896018175",
+          "category": "ev-charger",
+          "distanceKm": 1.77
+        },
+        {
+          "id": "osm:node:12896030107",
+          "category": "ev-charger",
+          "distanceKm": 1.77
+        },
+        {
+          "id": "osm:node:12896033963",
+          "category": "ev-charger",
+          "distanceKm": 1.77
+        },
+        {
           "id": "osm:node:2481095238",
           "category": "picnic-site",
           "distanceKm": 2.11
@@ -14443,31 +14473,6 @@
           "id": "osm:node:2472222919",
           "category": "public-bbq",
           "distanceKm": 2.54
-        },
-        {
-          "id": "osm:node:2517200931",
-          "category": "public-bbq",
-          "distanceKm": 3.01
-        },
-        {
-          "id": "osm:way:1285020779",
-          "category": "museum",
-          "distanceKm": 3.3
-        },
-        {
-          "id": "osm:node:13358669333",
-          "category": "public-bbq",
-          "distanceKm": 3.72
-        },
-        {
-          "id": "osm:node:12734049798",
-          "category": "public-bbq",
-          "distanceKm": 3.78
-        },
-        {
-          "id": "osm:node:12734049791",
-          "category": "public-bbq",
-          "distanceKm": 3.79
         }
       ]
     },
@@ -14813,6 +14818,11 @@
           "distanceKm": 0.44
         },
         {
+          "id": "osm:node:11806155972",
+          "category": "ev-charger",
+          "distanceKm": 0.45
+        },
+        {
           "id": "osm:way:544949386",
           "category": "park",
           "distanceKm": 0.49
@@ -14931,11 +14941,6 @@
           "id": "osm:node:6215499444",
           "category": "viewpoint",
           "distanceKm": 1.18
-        },
-        {
-          "id": "osm:node:3433123398",
-          "category": "public-bbq",
-          "distanceKm": 1.2
         }
       ]
     },
@@ -15155,6 +15160,11 @@
           "distanceKm": 0.67
         },
         {
+          "id": "osm:node:9682737337",
+          "category": "ev-charger",
+          "distanceKm": 0.78
+        },
+        {
           "id": "osm:node:9669731628",
           "category": "playground",
           "distanceKm": 0.79
@@ -15163,6 +15173,16 @@
           "id": "osm:way:30293433",
           "category": "park",
           "distanceKm": 0.82
+        },
+        {
+          "id": "osm:node:9682737335",
+          "category": "ev-charger",
+          "distanceKm": 0.87
+        },
+        {
+          "id": "osm:node:9682737336",
+          "category": "ev-charger",
+          "distanceKm": 0.88
         },
         {
           "id": "osm:way:1180613838",
@@ -15233,21 +15253,6 @@
           "id": "osm:node:11813450671",
           "category": "public-bbq",
           "distanceKm": 1.19
-        },
-        {
-          "id": "osm:node:11813450674",
-          "category": "public-bbq",
-          "distanceKm": 1.19
-        },
-        {
-          "id": "osm:node:11747023742",
-          "category": "public-bbq",
-          "distanceKm": 1.25
-        },
-        {
-          "id": "osm:node:3564839511",
-          "category": "viewpoint",
-          "distanceKm": 1.3
         }
       ]
     },
@@ -18110,6 +18115,11 @@
           "distanceKm": 0.97
         },
         {
+          "id": "osm:node:9607930796",
+          "category": "ev-charger",
+          "distanceKm": 1.35
+        },
+        {
           "id": "osm:node:5071652223",
           "category": "picnic-site",
           "distanceKm": 5.19
@@ -18864,6 +18874,11 @@
           "distanceKm": 7.63
         },
         {
+          "id": "osm:node:9682654068",
+          "category": "ev-charger",
+          "distanceKm": 9.42
+        },
+        {
           "id": "osm:node:316593228",
           "category": "picnic-site",
           "distanceKm": 9.82
@@ -18934,6 +18949,11 @@
           "id": "osm:way:243737262",
           "category": "park",
           "distanceKm": 4.5
+        },
+        {
+          "id": "osm:node:9682654068",
+          "category": "ev-charger",
+          "distanceKm": 4.57
         },
         {
           "id": "osm:node:316593228",
@@ -19094,6 +19114,11 @@
           "distanceKm": 4.76
         },
         {
+          "id": "osm:node:9097290660",
+          "category": "ev-charger",
+          "distanceKm": 4.88
+        },
+        {
           "id": "osm:node:291627518",
           "category": "picnic-site",
           "distanceKm": 4.97
@@ -19203,6 +19228,11 @@
           "id": "osm:node:403546625",
           "category": "viewpoint",
           "distanceKm": 8.35
+        },
+        {
+          "id": "osm:node:8095263593",
+          "category": "ev-charger",
+          "distanceKm": 9.85
         },
         {
           "id": "osm:node:408160050",
@@ -19320,6 +19350,16 @@
           "id": "osm:way:251462387",
           "category": "park",
           "distanceKm": 4.98
+        },
+        {
+          "id": "osm:node:9273513113",
+          "category": "ev-charger",
+          "distanceKm": 5.84
+        },
+        {
+          "id": "osm:node:8095263593",
+          "category": "ev-charger",
+          "distanceKm": 6.9
         },
         {
           "id": "osm:node:2135921584",
@@ -19473,6 +19513,11 @@
           "distanceKm": 3.44
         },
         {
+          "id": "osm:node:9273513113",
+          "category": "ev-charger",
+          "distanceKm": 3.74
+        },
+        {
           "id": "osm:way:251464495",
           "category": "park",
           "distanceKm": 3.75
@@ -19561,11 +19606,6 @@
           "id": "osm:node:5524662914",
           "category": "dog-park",
           "distanceKm": 6.68
-        },
-        {
-          "id": "osm:way:575857318",
-          "category": "picnic-site",
-          "distanceKm": 6.77
         }
       ]
     },
@@ -19946,6 +19986,11 @@
           "distanceKm": 1.24
         },
         {
+          "id": "osm:node:9273513113",
+          "category": "ev-charger",
+          "distanceKm": 1.29
+        },
+        {
           "id": "osm:way:12985646",
           "category": "park",
           "distanceKm": 1.32
@@ -20011,6 +20056,11 @@
           "distanceKm": 5.04
         },
         {
+          "id": "osm:node:8095263593",
+          "category": "ev-charger",
+          "distanceKm": 5.1
+        },
+        {
           "id": "osm:node:597723844",
           "category": "viewpoint",
           "distanceKm": 5.13
@@ -20024,16 +20074,6 @@
           "id": "osm:node:390226274",
           "category": "picnic-site",
           "distanceKm": 5.19
-        },
-        {
-          "id": "osm:node:2135921584",
-          "category": "picnic-site",
-          "distanceKm": 5.33
-        },
-        {
-          "id": "osm:node:390226271",
-          "category": "picnic-site",
-          "distanceKm": 5.52
         }
       ]
     },
@@ -20142,6 +20182,11 @@
           "distanceKm": 2.53
         },
         {
+          "id": "osm:node:8095263593",
+          "category": "ev-charger",
+          "distanceKm": 2.58
+        },
+        {
           "id": "osm:way:223780655",
           "category": "playground",
           "distanceKm": 2.78
@@ -20177,19 +20222,14 @@
           "distanceKm": 3.9
         },
         {
+          "id": "osm:node:9273513113",
+          "category": "ev-charger",
+          "distanceKm": 4.52
+        },
+        {
           "id": "osm:node:389534970",
           "category": "picnic-site",
           "distanceKm": 5.27
-        },
-        {
-          "id": "osm:node:390226274",
-          "category": "picnic-site",
-          "distanceKm": 7.65
-        },
-        {
-          "id": "osm:node:6260641686",
-          "category": "viewpoint",
-          "distanceKm": 7.7
         }
       ]
     },
@@ -20304,6 +20344,11 @@
       "locality": "ARGYLE",
       "stateOrRegion": "WA",
       "places": [
+        {
+          "id": "osm:node:6485877929",
+          "category": "ev-charger",
+          "distanceKm": 9.28
+        },
         {
           "id": "osm:node:627184908",
           "category": "viewpoint",
@@ -20583,6 +20628,11 @@
       "stateOrRegion": "WA",
       "places": [
         {
+          "id": "osm:node:13722880267",
+          "category": "ev-charger",
+          "distanceKm": 2.2
+        },
+        {
           "id": "osm:node:429821869",
           "category": "viewpoint",
           "distanceKm": 2.38
@@ -20717,9 +20767,24 @@
           "distanceKm": 6.26
         },
         {
+          "id": "osm:node:13688425502",
+          "category": "ev-charger",
+          "distanceKm": 9.49
+        },
+        {
+          "id": "osm:node:13688544703",
+          "category": "ev-charger",
+          "distanceKm": 9.49
+        },
+        {
           "id": "osm:way:370721426",
           "category": "museum",
           "distanceKm": 9.55
+        },
+        {
+          "id": "osm:node:6984191992",
+          "category": "ev-charger",
+          "distanceKm": 9.92
         }
       ]
     },
@@ -21132,6 +21197,11 @@
           "id": "osm:node:1822578248",
           "category": "museum",
           "distanceKm": 2.72
+        },
+        {
+          "id": "osm:node:13968243859",
+          "category": "ev-charger",
+          "distanceKm": 2.81
         },
         {
           "id": "osm:way:1155763828",
@@ -21661,6 +21731,16 @@
           "distanceKm": 0.32
         },
         {
+          "id": "osm:node:11792059229",
+          "category": "ev-charger",
+          "distanceKm": 0.33
+        },
+        {
+          "id": "osm:node:11792059230",
+          "category": "ev-charger",
+          "distanceKm": 0.33
+        },
+        {
           "id": "osm:node:4323196002",
           "category": "museum",
           "distanceKm": 0.36
@@ -21779,16 +21859,6 @@
           "id": "osm:way:250487624",
           "category": "playground",
           "distanceKm": 2.62
-        },
-        {
-          "id": "osm:node:903981694",
-          "category": "museum",
-          "distanceKm": 2.65
-        },
-        {
-          "id": "osm:node:3559822601",
-          "category": "museum",
-          "distanceKm": 2.67
         }
       ]
     },
@@ -21897,6 +21967,11 @@
           "distanceKm": 1.33
         },
         {
+          "id": "osm:way:1328808555",
+          "category": "ev-charger",
+          "distanceKm": 1.4
+        },
+        {
           "id": "osm:way:935704954",
           "category": "museum",
           "distanceKm": 2.05
@@ -21922,6 +21997,16 @@
           "distanceKm": 2.58
         },
         {
+          "id": "osm:way:1214014293",
+          "category": "ev-charger",
+          "distanceKm": 2.65
+        },
+        {
+          "id": "osm:way:1214014320",
+          "category": "ev-charger",
+          "distanceKm": 2.65
+        },
+        {
           "id": "osm:node:13239153325",
           "category": "public-bbq",
           "distanceKm": 3.16
@@ -21930,21 +22015,6 @@
           "id": "osm:node:6943616897",
           "category": "dog-park",
           "distanceKm": 3.35
-        },
-        {
-          "id": "osm:way:741729959",
-          "category": "dog-park",
-          "distanceKm": 3.36
-        },
-        {
-          "id": "osm:node:6943616888",
-          "category": "dog-park",
-          "distanceKm": 3.49
-        },
-        {
-          "id": "osm:way:741729957",
-          "category": "dog-park",
-          "distanceKm": 3.49
         }
       ]
     },
@@ -22088,6 +22158,11 @@
       "locality": "BEENONG",
       "stateOrRegion": "WA",
       "places": [
+        {
+          "id": "osm:node:7935846174",
+          "category": "ev-charger",
+          "distanceKm": 5.62
+        },
         {
           "id": "osm:way:370878579",
           "category": "museum",
@@ -22328,6 +22403,11 @@
           "id": "osm:way:666471771",
           "category": "park",
           "distanceKm": 4.99
+        },
+        {
+          "id": "osm:node:9000002017",
+          "category": "ev-charger",
+          "distanceKm": 5.82
         }
       ]
     },
@@ -22640,6 +22720,11 @@
           "distanceKm": 1.1
         },
         {
+          "id": "osm:node:11343836754",
+          "category": "ev-charger",
+          "distanceKm": 1.12
+        },
+        {
           "id": "osm:way:1095343651",
           "category": "dog-park",
           "distanceKm": 1.14
@@ -22700,6 +22785,11 @@
           "distanceKm": 1.56
         },
         {
+          "id": "osm:node:12484399857",
+          "category": "ev-charger",
+          "distanceKm": 1.59
+        },
+        {
           "id": "osm:way:250926149",
           "category": "park",
           "distanceKm": 1.67
@@ -22729,6 +22819,11 @@
           "id": "osm:way:1126613073",
           "category": "park",
           "distanceKm": 2.26
+        },
+        {
+          "id": "osm:node:10301768369",
+          "category": "ev-charger",
+          "distanceKm": 2.34
         },
         {
           "id": "osm:node:10301768358",
@@ -22937,6 +23032,11 @@
           "distanceKm": 3.03
         },
         {
+          "id": "osm:node:13142387458",
+          "category": "ev-charger",
+          "distanceKm": 4.59
+        },
+        {
           "id": "osm:way:600500310",
           "category": "playground",
           "distanceKm": 4.82
@@ -23000,11 +23100,6 @@
           "id": "osm:node:11455260185",
           "category": "picnic-site",
           "distanceKm": 9.38
-        },
-        {
-          "id": "osm:node:11455260167",
-          "category": "picnic-site",
-          "distanceKm": 9.4
         }
       ]
     },
@@ -24220,6 +24315,11 @@
       "stateOrRegion": "WA",
       "places": [
         {
+          "id": "osm:node:13784117494",
+          "category": "ev-charger",
+          "distanceKm": 8.58
+        },
+        {
           "id": "osm:node:10291270322",
           "category": "picnic-site",
           "distanceKm": 9.01
@@ -24473,6 +24573,11 @@
           "distanceKm": 7.2
         },
         {
+          "id": "osm:node:13142408661",
+          "category": "ev-charger",
+          "distanceKm": 8.31
+        },
+        {
           "id": "osm:node:6534726586",
           "category": "viewpoint",
           "distanceKm": 11.11
@@ -24716,6 +24821,11 @@
           "distanceKm": 4.7
         },
         {
+          "id": "osm:node:13142395923",
+          "category": "ev-charger",
+          "distanceKm": 4.7
+        },
+        {
           "id": "osm:node:9139123419",
           "category": "playground",
           "distanceKm": 4.73
@@ -24726,9 +24836,19 @@
           "distanceKm": 4.74
         },
         {
+          "id": "osm:node:11119093383",
+          "category": "ev-charger",
+          "distanceKm": 4.76
+        },
+        {
           "id": "osm:node:9139094708",
           "category": "playground",
           "distanceKm": 4.76
+        },
+        {
+          "id": "osm:way:1422433413",
+          "category": "ev-charger",
+          "distanceKm": 5
         },
         {
           "id": "osm:node:9139020398",
@@ -24986,6 +25106,11 @@
           "distanceKm": 0.4
         },
         {
+          "id": "osm:node:1638722815",
+          "category": "ev-charger",
+          "distanceKm": 0.4
+        },
+        {
           "id": "osm:node:11067163818",
           "category": "playground",
           "distanceKm": 0.41
@@ -25119,11 +25244,6 @@
           "id": "osm:node:13463495547",
           "category": "public-bbq",
           "distanceKm": 0.95
-        },
-        {
-          "id": "osm:node:13450175447",
-          "category": "public-bbq",
-          "distanceKm": 0.96
         }
       ]
     },
@@ -26032,9 +26152,19 @@
           "distanceKm": 1.11
         },
         {
+          "id": "osm:node:8443926799",
+          "category": "ev-charger",
+          "distanceKm": 1.12
+        },
+        {
           "id": "osm:node:13450175447",
           "category": "public-bbq",
           "distanceKm": 1.13
+        },
+        {
+          "id": "osm:node:12162894162",
+          "category": "ev-charger",
+          "distanceKm": 1.16
         },
         {
           "id": "osm:node:4448975586",
@@ -26050,16 +26180,6 @@
           "id": "osm:node:13626154290",
           "category": "public-bbq",
           "distanceKm": 1.22
-        },
-        {
-          "id": "osm:node:13525228167",
-          "category": "viewpoint",
-          "distanceKm": 1.23
-        },
-        {
-          "id": "osm:node:1626822512",
-          "category": "playground",
-          "distanceKm": 1.34
         }
       ]
     },
@@ -28126,6 +28246,11 @@
           "distanceKm": 0.45
         },
         {
+          "id": "osm:node:13699193279",
+          "category": "ev-charger",
+          "distanceKm": 0.52
+        },
+        {
           "id": "osm:node:12894241585",
           "category": "playground",
           "distanceKm": 0.55
@@ -28239,11 +28364,6 @@
           "id": "osm:node:13625944782",
           "category": "playground",
           "distanceKm": 1.03
-        },
-        {
-          "id": "osm:way:1486422852",
-          "category": "playground",
-          "distanceKm": 1.03
         }
       ]
     },
@@ -28270,6 +28390,16 @@
           "id": "osm:way:217605393",
           "category": "park",
           "distanceKm": 1.64
+        },
+        {
+          "id": "osm:node:13688425502",
+          "category": "ev-charger",
+          "distanceKm": 1.7
+        },
+        {
+          "id": "osm:node:13688544703",
+          "category": "ev-charger",
+          "distanceKm": 1.71
         },
         {
           "id": "osm:way:625181128",
@@ -28300,6 +28430,11 @@
           "id": "osm:way:243752472",
           "category": "park",
           "distanceKm": 2.04
+        },
+        {
+          "id": "osm:node:6984191992",
+          "category": "ev-charger",
+          "distanceKm": 2.12
         },
         {
           "id": "osm:way:1059169452",
@@ -28385,6 +28520,11 @@
         {
           "id": "osm:way:147112662",
           "category": "park",
+          "distanceKm": 0.4
+        },
+        {
+          "id": "osm:node:1638722815",
+          "category": "ev-charger",
           "distanceKm": 0.4
         },
         {
@@ -28521,11 +28661,6 @@
           "id": "osm:node:13463495547",
           "category": "public-bbq",
           "distanceKm": 0.95
-        },
-        {
-          "id": "osm:node:13450175447",
-          "category": "public-bbq",
-          "distanceKm": 0.96
         }
       ]
     },
@@ -28644,9 +28779,19 @@
           "distanceKm": 0.86
         },
         {
+          "id": "osm:node:13699193279",
+          "category": "ev-charger",
+          "distanceKm": 0.87
+        },
+        {
           "id": "osm:way:151048764",
           "category": "park",
           "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:1638722815",
+          "category": "ev-charger",
+          "distanceKm": 0.9
         },
         {
           "id": "osm:node:11074593524",
@@ -28672,16 +28817,6 @@
           "id": "osm:node:13626196936",
           "category": "public-bbq",
           "distanceKm": 1
-        },
-        {
-          "id": "osm:node:6533688307",
-          "category": "public-bbq",
-          "distanceKm": 1.09
-        },
-        {
-          "id": "osm:node:9951918519",
-          "category": "public-bbq",
-          "distanceKm": 1.14
         }
       ]
     },
@@ -28901,6 +29036,11 @@
           "distanceKm": 0.59
         },
         {
+          "id": "osm:node:12836488814",
+          "category": "ev-charger",
+          "distanceKm": 0.61
+        },
+        {
           "id": "osm:node:9129011220",
           "category": "public-bbq",
           "distanceKm": 0.73
@@ -28989,11 +29129,6 @@
           "id": "osm:node:4013738642",
           "category": "playground",
           "distanceKm": 1
-        },
-        {
-          "id": "osm:way:974506555",
-          "category": "playground",
-          "distanceKm": 1.02
         }
       ]
     },
@@ -29107,6 +29242,11 @@
           "distanceKm": 0.71
         },
         {
+          "id": "osm:node:13699193279",
+          "category": "ev-charger",
+          "distanceKm": 0.74
+        },
+        {
           "id": "osm:way:151048764",
           "category": "park",
           "distanceKm": 0.8
@@ -29142,14 +29282,9 @@
           "distanceKm": 0.93
         },
         {
-          "id": "osm:node:9951918519",
-          "category": "public-bbq",
-          "distanceKm": 1.02
-        },
-        {
-          "id": "osm:node:13625944782",
-          "category": "playground",
-          "distanceKm": 1.03
+          "id": "osm:node:1638722815",
+          "category": "ev-charger",
+          "distanceKm": 1.01
         }
       ]
     },
@@ -29213,6 +29348,11 @@
           "distanceKm": 0.59
         },
         {
+          "id": "osm:node:12836488814",
+          "category": "ev-charger",
+          "distanceKm": 0.61
+        },
+        {
           "id": "osm:node:9129011220",
           "category": "public-bbq",
           "distanceKm": 0.73
@@ -29301,11 +29441,6 @@
           "id": "osm:node:4013738642",
           "category": "playground",
           "distanceKm": 1
-        },
-        {
-          "id": "osm:way:974506555",
-          "category": "playground",
-          "distanceKm": 1.02
         }
       ]
     },
@@ -29369,6 +29504,11 @@
           "distanceKm": 0.59
         },
         {
+          "id": "osm:node:12836488814",
+          "category": "ev-charger",
+          "distanceKm": 0.61
+        },
+        {
           "id": "osm:node:9129011220",
           "category": "public-bbq",
           "distanceKm": 0.73
@@ -29457,11 +29597,6 @@
           "id": "osm:node:4013738642",
           "category": "playground",
           "distanceKm": 1
-        },
-        {
-          "id": "osm:way:974506555",
-          "category": "playground",
-          "distanceKm": 1.02
         }
       ]
     },
@@ -29523,6 +29658,11 @@
           "id": "osm:way:156961954",
           "category": "park",
           "distanceKm": 0.42
+        },
+        {
+          "id": "osm:node:12836488814",
+          "category": "ev-charger",
+          "distanceKm": 0.45
         },
         {
           "id": "osm:way:184604301",
@@ -29613,11 +29753,6 @@
           "id": "osm:node:9129011220",
           "category": "public-bbq",
           "distanceKm": 0.87
-        },
-        {
-          "id": "osm:node:9553902917",
-          "category": "public-bbq",
-          "distanceKm": 0.89
         }
       ]
     },
@@ -29887,8 +30022,18 @@
           "distanceKm": 1.43
         },
         {
+          "id": "osm:node:9247816817",
+          "category": "ev-charger",
+          "distanceKm": 1.44
+        },
+        {
           "id": "osm:node:13355335601",
           "category": "playground",
+          "distanceKm": 1.58
+        },
+        {
+          "id": "osm:node:13157601721",
+          "category": "ev-charger",
           "distanceKm": 1.58
         },
         {
@@ -29920,16 +30065,6 @@
           "id": "osm:way:45845348",
           "category": "playground",
           "distanceKm": 1.75
-        },
-        {
-          "id": "osm:node:8463404109",
-          "category": "viewpoint",
-          "distanceKm": 2.01
-        },
-        {
-          "id": "osm:way:876020705",
-          "category": "viewpoint",
-          "distanceKm": 2.01
         }
       ]
     },
@@ -30043,8 +30178,18 @@
           "distanceKm": 1.43
         },
         {
+          "id": "osm:node:9247816817",
+          "category": "ev-charger",
+          "distanceKm": 1.44
+        },
+        {
           "id": "osm:node:13355335601",
           "category": "playground",
+          "distanceKm": 1.58
+        },
+        {
+          "id": "osm:node:13157601721",
+          "category": "ev-charger",
           "distanceKm": 1.58
         },
         {
@@ -30076,16 +30221,6 @@
           "id": "osm:way:45845348",
           "category": "playground",
           "distanceKm": 1.75
-        },
-        {
-          "id": "osm:node:8463404109",
-          "category": "viewpoint",
-          "distanceKm": 2.01
-        },
-        {
-          "id": "osm:way:876020705",
-          "category": "viewpoint",
-          "distanceKm": 2.01
         }
       ]
     },
@@ -30828,6 +30963,11 @@
           "distanceKm": 1.95
         },
         {
+          "id": "osm:node:10147383653",
+          "category": "ev-charger",
+          "distanceKm": 2.33
+        },
+        {
           "id": "osm:node:859655899",
           "category": "viewpoint",
           "distanceKm": 3.1
@@ -30861,11 +31001,6 @@
           "id": "osm:way:1326249846",
           "category": "dog-park",
           "distanceKm": 3.24
-        },
-        {
-          "id": "osm:way:468315804",
-          "category": "picnic-site",
-          "distanceKm": 3.46
         }
       ]
     },
@@ -30944,6 +31079,16 @@
           "distanceKm": 0.62
         },
         {
+          "id": "osm:node:8443926799",
+          "category": "ev-charger",
+          "distanceKm": 0.68
+        },
+        {
+          "id": "osm:node:12162894162",
+          "category": "ev-charger",
+          "distanceKm": 0.73
+        },
+        {
           "id": "osm:way:147737311",
           "category": "park",
           "distanceKm": 0.76
@@ -30967,6 +31112,11 @@
           "id": "osm:node:4450242190",
           "category": "viewpoint",
           "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:13688544702",
+          "category": "ev-charger",
+          "distanceKm": 0.86
         },
         {
           "id": "osm:way:1069713778",
@@ -31007,21 +31157,6 @@
           "id": "osm:way:1122262521",
           "category": "playground",
           "distanceKm": 0.97
-        },
-        {
-          "id": "osm:way:1343457492",
-          "category": "playground",
-          "distanceKm": 1.03
-        },
-        {
-          "id": "osm:node:561041434",
-          "category": "playground",
-          "distanceKm": 1.04
-        },
-        {
-          "id": "osm:node:12894241585",
-          "category": "playground",
-          "distanceKm": 1.05
         }
       ]
     },
@@ -31135,6 +31270,11 @@
           "distanceKm": 1.19
         },
         {
+          "id": "osm:node:10147383653",
+          "category": "ev-charger",
+          "distanceKm": 1.25
+        },
+        {
           "id": "osm:way:622951433",
           "category": "playground",
           "distanceKm": 1.28
@@ -31148,6 +31288,11 @@
           "id": "osm:node:859655899",
           "category": "viewpoint",
           "distanceKm": 1.46
+        },
+        {
+          "id": "osm:node:9273513112",
+          "category": "ev-charger",
+          "distanceKm": 2.83
         },
         {
           "id": "osm:node:10269258269",
@@ -31168,16 +31313,6 @@
           "id": "osm:node:4112848969",
           "category": "viewpoint",
           "distanceKm": 3.16
-        },
-        {
-          "id": "osm:node:4112848966",
-          "category": "viewpoint",
-          "distanceKm": 3.5
-        },
-        {
-          "id": "osm:node:1112670520",
-          "category": "public-bbq",
-          "distanceKm": 3.78
         }
       ]
     },
@@ -31291,6 +31426,11 @@
           "distanceKm": 1.19
         },
         {
+          "id": "osm:node:10147383653",
+          "category": "ev-charger",
+          "distanceKm": 1.25
+        },
+        {
           "id": "osm:way:622951433",
           "category": "playground",
           "distanceKm": 1.28
@@ -31304,6 +31444,11 @@
           "id": "osm:node:859655899",
           "category": "viewpoint",
           "distanceKm": 1.46
+        },
+        {
+          "id": "osm:node:9273513112",
+          "category": "ev-charger",
+          "distanceKm": 2.83
         },
         {
           "id": "osm:node:10269258269",
@@ -31324,16 +31469,6 @@
           "id": "osm:node:4112848969",
           "category": "viewpoint",
           "distanceKm": 3.16
-        },
-        {
-          "id": "osm:node:4112848966",
-          "category": "viewpoint",
-          "distanceKm": 3.5
-        },
-        {
-          "id": "osm:node:1112670520",
-          "category": "public-bbq",
-          "distanceKm": 3.78
         }
       ]
     },
@@ -31447,6 +31582,16 @@
           "distanceKm": 1.76
         },
         {
+          "id": "osm:node:9273513112",
+          "category": "ev-charger",
+          "distanceKm": 1.91
+        },
+        {
+          "id": "osm:node:10147383653",
+          "category": "ev-charger",
+          "distanceKm": 2.01
+        },
+        {
           "id": "osm:way:468315804",
           "category": "picnic-site",
           "distanceKm": 2.13
@@ -31480,16 +31625,6 @@
           "id": "osm:node:8448017566",
           "category": "public-bbq",
           "distanceKm": 2.95
-        },
-        {
-          "id": "osm:node:8448017567",
-          "category": "public-bbq",
-          "distanceKm": 2.95
-        },
-        {
-          "id": "osm:node:4112848969",
-          "category": "viewpoint",
-          "distanceKm": 3.3
         }
       ]
     },
@@ -31608,6 +31743,11 @@
           "distanceKm": 1.97
         },
         {
+          "id": "osm:node:9277136376",
+          "category": "ev-charger",
+          "distanceKm": 2.18
+        },
+        {
           "id": "osm:way:1153614874",
           "category": "viewpoint",
           "distanceKm": 2.45
@@ -31633,19 +31773,14 @@
           "distanceKm": 2.5
         },
         {
+          "id": "osm:node:9277136375",
+          "category": "ev-charger",
+          "distanceKm": 2.52
+        },
+        {
           "id": "osm:node:625095447",
           "category": "picnic-site",
           "distanceKm": 2.88
-        },
-        {
-          "id": "osm:node:625095453",
-          "category": "picnic-site",
-          "distanceKm": 2.89
-        },
-        {
-          "id": "osm:node:625095457",
-          "category": "picnic-site",
-          "distanceKm": 2.93
         }
       ]
     },
@@ -31794,14 +31929,14 @@
           "distanceKm": 1.82
         },
         {
+          "id": "osm:node:9273513112",
+          "category": "ev-charger",
+          "distanceKm": 1.98
+        },
+        {
           "id": "osm:node:277751545",
           "category": "viewpoint",
           "distanceKm": 2
-        },
-        {
-          "id": "osm:node:277751613",
-          "category": "museum",
-          "distanceKm": 2.02
         }
       ]
     },
@@ -31875,6 +32010,11 @@
           "distanceKm": 0.75
         },
         {
+          "id": "osm:node:10147383653",
+          "category": "ev-charger",
+          "distanceKm": 0.86
+        },
+        {
           "id": "osm:way:807007069",
           "category": "playground",
           "distanceKm": 0.96
@@ -31903,6 +32043,11 @@
           "id": "osm:way:1506480411",
           "category": "playground",
           "distanceKm": 1.46
+        },
+        {
+          "id": "osm:node:9273513112",
+          "category": "ev-charger",
+          "distanceKm": 1.55
         },
         {
           "id": "osm:way:462893132",
@@ -31948,16 +32093,6 @@
           "id": "osm:node:8448017566",
           "category": "public-bbq",
           "distanceKm": 3.56
-        },
-        {
-          "id": "osm:node:8448017567",
-          "category": "public-bbq",
-          "distanceKm": 3.57
-        },
-        {
-          "id": "osm:way:1326249846",
-          "category": "dog-park",
-          "distanceKm": 3.68
         }
       ]
     },
@@ -32106,14 +32241,14 @@
           "distanceKm": 2.39
         },
         {
+          "id": "osm:node:10147383653",
+          "category": "ev-charger",
+          "distanceKm": 2.79
+        },
+        {
           "id": "osm:node:13105215017",
           "category": "viewpoint",
           "distanceKm": 2.94
-        },
-        {
-          "id": "osm:node:1937923621",
-          "category": "viewpoint",
-          "distanceKm": 3.16
         }
       ]
     },
@@ -32726,6 +32861,16 @@
           "distanceKm": 0.62
         },
         {
+          "id": "osm:node:8443926799",
+          "category": "ev-charger",
+          "distanceKm": 0.68
+        },
+        {
+          "id": "osm:node:12162894162",
+          "category": "ev-charger",
+          "distanceKm": 0.73
+        },
+        {
           "id": "osm:way:147737311",
           "category": "park",
           "distanceKm": 0.76
@@ -32749,6 +32894,11 @@
           "id": "osm:node:4450242190",
           "category": "viewpoint",
           "distanceKm": 0.85
+        },
+        {
+          "id": "osm:node:13688544702",
+          "category": "ev-charger",
+          "distanceKm": 0.86
         },
         {
           "id": "osm:way:1069713778",
@@ -32789,21 +32939,6 @@
           "id": "osm:way:1122262521",
           "category": "playground",
           "distanceKm": 0.97
-        },
-        {
-          "id": "osm:way:1343457492",
-          "category": "playground",
-          "distanceKm": 1.03
-        },
-        {
-          "id": "osm:node:561041434",
-          "category": "playground",
-          "distanceKm": 1.04
-        },
-        {
-          "id": "osm:node:12894241585",
-          "category": "playground",
-          "distanceKm": 1.05
         }
       ]
     },
@@ -33108,14 +33243,14 @@
           "distanceKm": 1.58
         },
         {
+          "id": "osm:node:1638722815",
+          "category": "ev-charger",
+          "distanceKm": 1.79
+        },
+        {
           "id": "osm:node:11074571846",
           "category": "public-bbq",
           "distanceKm": 2.05
-        },
-        {
-          "id": "osm:node:11074571830",
-          "category": "public-bbq",
-          "distanceKm": 2.08
         }
       ]
     },
@@ -33305,6 +33440,11 @@
           "distanceKm": 0.87
         },
         {
+          "id": "osm:way:1420655078",
+          "category": "ev-charger",
+          "distanceKm": 0.95
+        },
+        {
           "id": "osm:way:141235907",
           "category": "park",
           "distanceKm": 0.96
@@ -33423,11 +33563,6 @@
           "id": "osm:node:12759436336",
           "category": "public-bbq",
           "distanceKm": 1.98
-        },
-        {
-          "id": "osm:node:10294379409",
-          "category": "public-bbq",
-          "distanceKm": 1.99
         }
       ]
     },
@@ -33439,6 +33574,11 @@
           "id": "osm:way:140017579",
           "category": "park",
           "distanceKm": 0.05
+        },
+        {
+          "id": "osm:way:1420655078",
+          "category": "ev-charger",
+          "distanceKm": 0.08
         },
         {
           "id": "osm:way:403439041",
@@ -33579,11 +33719,6 @@
           "id": "osm:node:11816199645",
           "category": "public-bbq",
           "distanceKm": 1.62
-        },
-        {
-          "id": "osm:node:11815858680",
-          "category": "public-bbq",
-          "distanceKm": 1.64
         }
       ]
     },
@@ -34517,9 +34652,9 @@
           "distanceKm": 5.62
         },
         {
-          "id": "osm:node:860204616",
-          "category": "picnic-site",
-          "distanceKm": 6.68
+          "id": "osm:node:10147383653",
+          "category": "ev-charger",
+          "distanceKm": 6.64
         }
       ]
     },
@@ -35735,6 +35870,11 @@
           "distanceKm": 2.08
         },
         {
+          "id": "osm:node:10147383653",
+          "category": "ev-charger",
+          "distanceKm": 2.55
+        },
+        {
           "id": "osm:node:4112848969",
           "category": "viewpoint",
           "distanceKm": 2.56
@@ -35763,11 +35903,6 @@
           "id": "osm:node:12805335756",
           "category": "public-bbq",
           "distanceKm": 3.53
-        },
-        {
-          "id": "osm:node:599895972",
-          "category": "viewpoint",
-          "distanceKm": 3.72
         }
       ]
     },
@@ -35819,6 +35954,11 @@
           "id": "osm:way:1215226662",
           "category": "park",
           "distanceKm": 0.89
+        },
+        {
+          "id": "osm:node:12848118528",
+          "category": "ev-charger",
+          "distanceKm": 0.99
         },
         {
           "id": "osm:node:3359325005",
@@ -35881,6 +36021,11 @@
           "distanceKm": 1.14
         },
         {
+          "id": "osm:node:3203111051",
+          "category": "ev-charger",
+          "distanceKm": 1.17
+        },
+        {
           "id": "osm:node:298075720",
           "category": "playground",
           "distanceKm": 1.18
@@ -35914,16 +36059,6 @@
           "id": "osm:node:12308519036",
           "category": "viewpoint",
           "distanceKm": 2.25
-        },
-        {
-          "id": "osm:node:12308519022",
-          "category": "public-bbq",
-          "distanceKm": 2.26
-        },
-        {
-          "id": "osm:node:12308519023",
-          "category": "public-bbq",
-          "distanceKm": 2.27
         }
       ]
     },
@@ -35990,6 +36125,16 @@
           "id": "osm:way:242172069",
           "category": "park",
           "distanceKm": 1.02
+        },
+        {
+          "id": "osm:node:3203111051",
+          "category": "ev-charger",
+          "distanceKm": 1.03
+        },
+        {
+          "id": "osm:node:12848118528",
+          "category": "ev-charger",
+          "distanceKm": 1.07
         },
         {
           "id": "osm:node:1923115731",
@@ -36070,16 +36215,6 @@
           "id": "osm:node:2441491824",
           "category": "public-bbq",
           "distanceKm": 2.07
-        },
-        {
-          "id": "osm:node:5419535321",
-          "category": "picnic-site",
-          "distanceKm": 3.11
-        },
-        {
-          "id": "osm:node:6540347613",
-          "category": "public-bbq",
-          "distanceKm": 3.11
         }
       ]
     },
@@ -36198,6 +36333,31 @@
           "distanceKm": 1.69
         },
         {
+          "id": "osm:node:12896071181",
+          "category": "ev-charger",
+          "distanceKm": 1.75
+        },
+        {
+          "id": "osm:node:12896071180",
+          "category": "ev-charger",
+          "distanceKm": 1.76
+        },
+        {
+          "id": "osm:node:12896018175",
+          "category": "ev-charger",
+          "distanceKm": 1.77
+        },
+        {
+          "id": "osm:node:12896030107",
+          "category": "ev-charger",
+          "distanceKm": 1.77
+        },
+        {
+          "id": "osm:node:12896033963",
+          "category": "ev-charger",
+          "distanceKm": 1.77
+        },
+        {
           "id": "osm:node:2481095238",
           "category": "picnic-site",
           "distanceKm": 2.11
@@ -36211,31 +36371,6 @@
           "id": "osm:node:2472222919",
           "category": "public-bbq",
           "distanceKm": 2.54
-        },
-        {
-          "id": "osm:node:2517200931",
-          "category": "public-bbq",
-          "distanceKm": 3.01
-        },
-        {
-          "id": "osm:way:1285020779",
-          "category": "museum",
-          "distanceKm": 3.3
-        },
-        {
-          "id": "osm:node:13358669333",
-          "category": "public-bbq",
-          "distanceKm": 3.72
-        },
-        {
-          "id": "osm:node:12734049798",
-          "category": "public-bbq",
-          "distanceKm": 3.78
-        },
-        {
-          "id": "osm:node:12734049791",
-          "category": "public-bbq",
-          "distanceKm": 3.79
         }
       ]
     },
@@ -36661,9 +36796,19 @@
           "distanceKm": 0.77
         },
         {
+          "id": "osm:way:1308846528",
+          "category": "ev-charger",
+          "distanceKm": 1.41
+        },
+        {
           "id": "osm:node:6720404897",
           "category": "viewpoint",
           "distanceKm": 1.74
+        },
+        {
+          "id": "osm:way:1328808555",
+          "category": "ev-charger",
+          "distanceKm": 2.54
         },
         {
           "id": "osm:node:6943616888",
@@ -36694,16 +36839,6 @@
           "id": "osm:node:1999670204",
           "category": "public-bbq",
           "distanceKm": 3.11
-        },
-        {
-          "id": "osm:node:6943616897",
-          "category": "dog-park",
-          "distanceKm": 3.47
-        },
-        {
-          "id": "osm:way:741729959",
-          "category": "dog-park",
-          "distanceKm": 3.47
         }
       ]
     },
@@ -36832,6 +36967,16 @@
           "distanceKm": 1.61
         },
         {
+          "id": "osm:node:12848118528",
+          "category": "ev-charger",
+          "distanceKm": 1.78
+        },
+        {
+          "id": "osm:node:3203111051",
+          "category": "ev-charger",
+          "distanceKm": 1.87
+        },
+        {
           "id": "osm:node:13673706777",
           "category": "public-bbq",
           "distanceKm": 2.03
@@ -36850,16 +36995,6 @@
           "id": "osm:node:2441491637",
           "category": "viewpoint",
           "distanceKm": 2.73
-        },
-        {
-          "id": "osm:node:2441491824",
-          "category": "public-bbq",
-          "distanceKm": 2.81
-        },
-        {
-          "id": "osm:node:9719773118",
-          "category": "public-bbq",
-          "distanceKm": 2.87
         }
       ]
     },
@@ -37939,6 +38074,11 @@
           "distanceKm": 1.89
         },
         {
+          "id": "osm:node:13688552801",
+          "category": "ev-charger",
+          "distanceKm": 1.96
+        },
+        {
           "id": "osm:node:9494776912",
           "category": "viewpoint",
           "distanceKm": 1.96
@@ -37947,11 +38087,6 @@
           "id": "osm:node:9465563333",
           "category": "viewpoint",
           "distanceKm": 2.05
-        },
-        {
-          "id": "osm:node:793932619",
-          "category": "viewpoint",
-          "distanceKm": 2.17
         }
       ]
     },
@@ -38226,6 +38361,31 @@
           "distanceKm": 1.69
         },
         {
+          "id": "osm:node:12896071181",
+          "category": "ev-charger",
+          "distanceKm": 1.75
+        },
+        {
+          "id": "osm:node:12896071180",
+          "category": "ev-charger",
+          "distanceKm": 1.76
+        },
+        {
+          "id": "osm:node:12896018175",
+          "category": "ev-charger",
+          "distanceKm": 1.77
+        },
+        {
+          "id": "osm:node:12896030107",
+          "category": "ev-charger",
+          "distanceKm": 1.77
+        },
+        {
+          "id": "osm:node:12896033963",
+          "category": "ev-charger",
+          "distanceKm": 1.77
+        },
+        {
           "id": "osm:node:2481095238",
           "category": "picnic-site",
           "distanceKm": 2.11
@@ -38239,31 +38399,6 @@
           "id": "osm:node:2472222919",
           "category": "public-bbq",
           "distanceKm": 2.54
-        },
-        {
-          "id": "osm:node:2517200931",
-          "category": "public-bbq",
-          "distanceKm": 3.01
-        },
-        {
-          "id": "osm:way:1285020779",
-          "category": "museum",
-          "distanceKm": 3.3
-        },
-        {
-          "id": "osm:node:13358669333",
-          "category": "public-bbq",
-          "distanceKm": 3.72
-        },
-        {
-          "id": "osm:node:12734049798",
-          "category": "public-bbq",
-          "distanceKm": 3.78
-        },
-        {
-          "id": "osm:node:12734049791",
-          "category": "public-bbq",
-          "distanceKm": 3.79
         }
       ]
     },
@@ -38453,6 +38588,16 @@
           "distanceKm": 0.59
         },
         {
+          "id": "osm:way:1214014320",
+          "category": "ev-charger",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:way:1214014293",
+          "category": "ev-charger",
+          "distanceKm": 0.67
+        },
+        {
           "id": "osm:way:1214028634",
           "category": "playground",
           "distanceKm": 0.67
@@ -38566,16 +38711,6 @@
           "id": "osm:node:2708129591",
           "category": "museum",
           "distanceKm": 2.61
-        },
-        {
-          "id": "osm:node:13018298629",
-          "category": "public-bbq",
-          "distanceKm": 2.64
-        },
-        {
-          "id": "osm:node:2708129643",
-          "category": "public-bbq",
-          "distanceKm": 2.86
         }
       ]
     },
@@ -38729,9 +38864,9 @@
           "distanceKm": 0.73
         },
         {
-          "id": "osm:node:12360991616",
-          "category": "playground",
-          "distanceKm": 0.83
+          "id": "osm:node:13699193279",
+          "category": "ev-charger",
+          "distanceKm": 0.81
         }
       ]
     },
@@ -39011,6 +39146,11 @@
           "distanceKm": 1.08
         },
         {
+          "id": "osm:node:11800735919",
+          "category": "ev-charger",
+          "distanceKm": 1.09
+        },
+        {
           "id": "osm:node:13437605380",
           "category": "playground",
           "distanceKm": 1.09
@@ -39039,11 +39179,6 @@
           "id": "osm:node:2663319787",
           "category": "public-bbq",
           "distanceKm": 2.21
-        },
-        {
-          "id": "osm:node:8740905057",
-          "category": "public-bbq",
-          "distanceKm": 2.24
         }
       ]
     },
@@ -39343,6 +39478,11 @@
           "distanceKm": 2.48
         },
         {
+          "id": "osm:node:13979774401",
+          "category": "ev-charger",
+          "distanceKm": 2.75
+        },
+        {
           "id": "osm:node:13305520162",
           "category": "public-bbq",
           "distanceKm": 2.88
@@ -39351,11 +39491,6 @@
           "id": "osm:node:13305520163",
           "category": "public-bbq",
           "distanceKm": 2.89
-        },
-        {
-          "id": "osm:node:13305541239",
-          "category": "dog-park",
-          "distanceKm": 2.99
         }
       ]
     },
@@ -39387,6 +39522,16 @@
           "id": "osm:way:1216460476",
           "category": "playground",
           "distanceKm": 0.59
+        },
+        {
+          "id": "osm:way:1214014320",
+          "category": "ev-charger",
+          "distanceKm": 0.66
+        },
+        {
+          "id": "osm:way:1214014293",
+          "category": "ev-charger",
+          "distanceKm": 0.67
         },
         {
           "id": "osm:way:1214028634",
@@ -39502,16 +39647,6 @@
           "id": "osm:node:2708129591",
           "category": "museum",
           "distanceKm": 2.61
-        },
-        {
-          "id": "osm:node:13018298629",
-          "category": "public-bbq",
-          "distanceKm": 2.64
-        },
-        {
-          "id": "osm:node:2708129643",
-          "category": "public-bbq",
-          "distanceKm": 2.86
         }
       ]
     },
@@ -39578,6 +39713,11 @@
           "id": "osm:way:511381781",
           "category": "park",
           "distanceKm": 0.51
+        },
+        {
+          "id": "osm:way:1328808555",
+          "category": "ev-charger",
+          "distanceKm": 0.58
         },
         {
           "id": "osm:way:511381788",
@@ -39655,19 +39795,14 @@
           "distanceKm": 2.8
         },
         {
-          "id": "osm:node:13239153325",
-          "category": "public-bbq",
-          "distanceKm": 3.1
+          "id": "osm:way:1214014293",
+          "category": "ev-charger",
+          "distanceKm": 2.94
         },
         {
-          "id": "osm:node:2708129591",
-          "category": "museum",
-          "distanceKm": 3.31
-        },
-        {
-          "id": "osm:node:2708129643",
-          "category": "public-bbq",
-          "distanceKm": 3.68
+          "id": "osm:way:1214014320",
+          "category": "ev-charger",
+          "distanceKm": 2.94
         }
       ]
     },
@@ -40284,9 +40419,9 @@
           "distanceKm": 1.99
         },
         {
-          "id": "osm:node:11593120429",
-          "category": "public-bbq",
-          "distanceKm": 2.07
+          "id": "osm:node:13288466097",
+          "category": "ev-charger",
+          "distanceKm": 2.02
         }
       ]
     },

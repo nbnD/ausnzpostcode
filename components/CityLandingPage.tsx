@@ -70,8 +70,10 @@ export function CityLandingPage({ city }: { city: CityPageDefinition }) {
             Browse {formatCount(postcodes.length)} postcodes and {formatCount(cityLocalities.length)} related {localityLabel} for {city.name}, {city.stateFull}.
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
-            <Link href="/search" className="btn-primary">Search postcodes</Link>
-            <Link href={stateHref} className="rounded-lg border border-white/20 bg-white/10 px-5 py-3 font-heading text-sm font-bold text-white transition hover:bg-white/15">
+            <Link href="/search" className="rounded-lg bg-white px-5 py-3 font-heading text-sm font-bold text-navy shadow-sm transition hover:bg-[#DDE8F5]">
+              Search postcodes
+            </Link>
+            <Link href={stateHref} className="rounded-lg border border-white/30 bg-transparent px-5 py-3 font-heading text-sm font-bold text-white transition hover:bg-white/10">
               Browse {city.stateFull}
             </Link>
           </div>

@@ -10,6 +10,7 @@
   "include": [
     "lib/poi-data.ts",
     "lib/poi-seo.ts",
+    "lib/ev-station-display.ts",
     "lib/schema.ts",
     "components/NearbyPoiSection.tsx",
     "tests/**/*.test.tsx"

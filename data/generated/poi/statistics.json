@@ -1,95 +1,101 @@
 {
   "emittedPoiCountsByCountry": {
-    "au": 34483,
-    "nz": 12784
+    "au": 36098,
+    "nz": 13296
   },
   "emittedPoiCountsByCountryAndCategory": {
     "au": {
-      "dog-park": 731,
-      "museum": 1039,
-      "park": 12733,
-      "picnic-site": 2291,
-      "playground": 9764,
-      "public-bbq": 3409,
-      "viewpoint": 4516
+      "dog-park": 701,
+      "ev-charger": 2291,
+      "museum": 1009,
+      "park": 12712,
+      "picnic-site": 2209,
+      "playground": 9629,
+      "public-bbq": 3198,
+      "viewpoint": 4349
     },
     "nz": {
-      "dog-park": 90,
-      "museum": 316,
-      "park": 5666,
-      "picnic-site": 491,
-      "playground": 4128,
-      "public-bbq": 414,
-      "viewpoint": 1679
+      "dog-park": 87,
+      "ev-charger": 576,
+      "museum": 315,
+      "park": 5665,
+      "picnic-site": 485,
+      "playground": 4111,
+      "public-bbq": 405,
+      "viewpoint": 1652
     }
   },
   "retainedPostcodeReferenceCountsByCountry": {
-    "au": 58249,
-    "nz": 30444
+    "au": 58986,
+    "nz": 31044
   },
   "retainedPostcodeReferenceCountsByCountryAndCategory": {
     "au": {
-      "public-bbq": 7594,
-      "park": 17303,
-      "picnic-site": 3930,
-      "museum": 2562,
-      "playground": 15100,
-      "viewpoint": 9946,
-      "dog-park": 1814
+      "public-bbq": 6193,
+      "park": 17242,
+      "picnic-site": 3552,
+      "ev-charger": 5202,
+      "museum": 2245,
+      "playground": 14372,
+      "viewpoint": 8814,
+      "dog-park": 1366
     },
     "nz": {
-      "park": 8770,
-      "playground": 7537,
-      "dog-park": 426,
-      "public-bbq": 1582,
-      "museum": 2316,
-      "viewpoint": 8080,
-      "picnic-site": 1733
+      "park": 8756,
+      "playground": 7423,
+      "ev-charger": 2680,
+      "dog-park": 329,
+      "public-bbq": 1232,
+      "museum": 2007,
+      "viewpoint": 7146,
+      "picnic-site": 1471
     }
   },
   "averageReferencesPerPostcode": {
-    "au": 20.759,
-    "nz": 18.406
+    "au": 20.977,
+    "nz": 18.735
   },
   "maximumReferencesInPostcode": {
     "au": 30,
     "nz": 30
   },
   "postcodesWithReferencesByCountry": {
-    "au": 2806,
-    "nz": 1654
+    "au": 2812,
+    "nz": 1657
   },
   "postcodesWithoutReferencesByCountry": {
-    "au": 368,
-    "nz": 68
+    "au": 362,
+    "nz": 65
   },
   "unnamedEmittedPoisByCategory": {
     "au": {
-      "dog-park": 448,
-      "museum": 53,
-      "park": 4953,
-      "picnic-site": 1780,
-      "playground": 8612,
-      "public-bbq": 3352,
-      "viewpoint": 2431
+      "dog-park": 435,
+      "ev-charger": 848,
+      "museum": 50,
+      "park": 4941,
+      "picnic-site": 1716,
+      "playground": 8498,
+      "public-bbq": 3147,
+      "viewpoint": 2322
     },
     "nz": {
-      "dog-park": 46,
+      "dog-park": 45,
+      "ev-charger": 306,
       "museum": 16,
-      "park": 2170,
-      "picnic-site": 437,
-      "playground": 3910,
-      "public-bbq": 406,
-      "viewpoint": 1060
+      "park": 2169,
+      "picnic-site": 432,
+      "playground": 3895,
+      "public-bbq": 397,
+      "viewpoint": 1048
     }
   },
   "generatedSizeByCountry": {
-    "au": 11038120,
-    "nz": 5230588
+    "au": 12678648,
+    "nz": 5719196
   },
   "generatedSizeByOutputType": {
-    "places": 4975041,
-    "postcodeRefs": 11293667
+    "places": 6922536,
+    "postcodeRefs": 11475308
   },
   "partitionFileCount": 20
 }

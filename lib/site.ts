@@ -8,6 +8,7 @@ export const siteConfig = {
 
 export const mainNav = [
   { href: "/search", label: "Search" },
+  { href: "/ev-chargers", label: "EV Chargers" },
   { href: "/au", label: "Australia" },
   { href: "/nz", label: "New Zealand" },
   { href: "/about", label: "About" }
@@ -19,5 +20,6 @@ export const footerNav = [
   { href: "/privacy-policy", label: "Privacy" },
   { href: "/terms", label: "Terms" },
   { href: "/disclaimer", label: "Disclaimer" },
-  { href: "/data-sources", label: "Data Sources" }
+  { href: "/data-sources", label: "Data Sources" },
+  { href: "/ev-chargers", label: "EV Chargers" }
 ];

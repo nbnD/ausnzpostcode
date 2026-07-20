@@ -19,7 +19,7 @@ export function SectionHeading({
     <div className="mb-5 flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
       <div>
         {eyebrow ? (
-          <p className="mb-2 text-xs font-bold uppercase tracking-[0.12em] text-coral">
+          <p className="mb-2 text-xs font-bold uppercase tracking-[0.12em] text-coralText">
             {eyebrow}
           </p>
         ) : null}
@@ -27,7 +27,7 @@ export function SectionHeading({
         {description ? <p className="mt-2 max-w-2xl text-sm leading-6 text-muted">{description}</p> : null}
       </div>
       {href && linkLabel ? (
-        <Link href={href} className="text-sm font-bold text-coral hover:underline">
+        <Link href={href} className="text-sm font-bold text-coralText hover:underline">
           {linkLabel}
         </Link>
       ) : null}
